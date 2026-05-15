@@ -5,26 +5,26 @@ divisionTitlePinyin: Běncǎo lèi
 divisionTitleEnglish: Masters — Medical Works — Materia Medica
 parentDivision: KR3e
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-08
 ---
 
 ### Scope and scholarly tradition
 
-The 本草類 *Běncǎo lèi* gathers the Chinese (and, in this corpus, also early modern Japanese) **materia medica** — pharmacopoeias and the closely allied drug-preparation (炮炙 *pàozhì*) manuals. Within `KR3e` 醫家類 (medical works) of the Sìkù 子部 (Masters), the *běncǎo* sub-genre is the technical literature that catalogs medicinal substances — plant, mineral, animal, and human-derived — together with their names, habitats, processing, properties (氣味 *qìwèi*), main effects (主治 *zhǔzhì*), and prescriptions (附方 *fùfāng*). The corpus collected here spans roughly two millennia, from the Hàn-era core of the lost *Shénnóng běncǎo jīng* 神農本草經 recovered in Qīng critical editions (see [[KR3ec001]]) through the Sòng state pharmacopoeias and the Míng synthesis of [[李時珍]]'s *Běncǎo gāngmù* 本草綱目 ([[KR3ec025]]) to the Republican-era *zhōng-xī huì-tōng* 中西匯通 syntheses of [[張壽頤]] ([[KR3ec063]]) and the early-Shōwa Japanese chemical-analytical studies ([[KR3ec079]]–[[KR3ec085]]). Wilkinson §41.3.2 frames the tradition as a continuous philological lineage: each major pharmacopoeia is built by adding substances and corrections to the inherited core, with the Sòng *Zhènglèi běncǎo* 證類本草 ([[KR3ec009]]) and the Míng *Gāngmù* as the two structural pivot-points.
+The 本草類 *Běncǎo lèi* gathers the Chinese (and, in this corpus, also early modern Japanese) **materia medica** — pharmacopoeias and the closely allied drug-preparation (炮炙 *pàozhì*) manuals. Within `KR3e` 醫家類 (medical works) of the Sìkù 子部 (Masters), the *běncǎo* sub-genre is the technical literature that catalogs medicinal substances — plant, mineral, animal, and human-derived — together with their names, habitats, processing, properties (氣味 *qìwèi*), main effects (主治 *zhǔzhì*), and prescriptions (附方 *fùfāng*). The corpus collected here spans roughly two millennia, from the Hàn-era core of the lost *Shénnóng běncǎo jīng* 神農本草經 recovered in Qīng critical editions (see [[KR3ec001]]) through the Sòng state pharmacopoeias and the Míng synthesis of [[李時珍]]'s *Běncǎo gāngmù* 本草綱目 ([[KR3ec025]]) to the Republican-era *zhōngxī huìtōng* 中西匯通 syntheses of [[張壽頤]] ([[KR3ec063]]) and the early-Shōwa Japanese chemical-analytical studies ([[KR3ec079]]–[[KR3ec085]]). Wilkinson §41.3.2 frames the tradition as a continuous philological lineage: each major pharmacopoeia is built by adding substances and corrections to the inherited core, with the Sòng *Zhènglèi běncǎo* 證類本草 ([[KR3ec009]]) and the Míng *Gāngmù* as the two structural pivot-points.
 
 Three transmissional facts must be kept in view. First, the Han core of the *Shénnóng běncǎo jīng* was lost by the Suí and survives only as red-and-black (朱墨) interleavings inside [[陶弘景]]'s *Jízhù* 集注 ([[KR3ec003]]) and its Sòng descendants — so every Qīng "*Shénnóng běncǎo jīng*" in this division ([[KR3ec001]], [[KR3ec046]]–[[KR3ec047]], [[KR3ec048]], [[KR3ec069]]) is a reconstruction. Second, after [[李時珍]]'s 1578 *Gāngmù* the *běncǎo* tradition splits into two streams: a Gāngmù-derived popular-pharmacology stream (e.g. [[汪昂]]'s *Běncǎo bèiyào* [[KR3ec038]], [[吳儀洛]]'s *Cóngxīn* [[KR3ec045]]) optimised for clinical practice, and a *kǎozhèng* 考證 stream that returns to the lost Han classic ([[孫星衍]] [[KR3ec001]]; [[徐大椿]] [[KR3ec048]]; [[陳念祖]] [[KR3ec046]]; [[鄒澍]] [[KR3ec066]]). Third, the division is unusually transnational: nine works ([[KR3ec072]]–[[KR3ec085]] except [[KR3ec080]], plus [[KR3ec089]]) are Japanese, witnessing both the medieval Japanese reception of Táng/Sòng pharmacopoeia ([[深江輔仁]], [[兼意]]) and the *kohō-ha* 古方派 ([[吉益爲則]] [[KR3ec077]]) appropriation of the Hàn classics — a tradition without which the modern history of East-Asian materia medica cannot be told.
 
 ### Important texts and text clusters
 
-- **Foundational Hàn core in reconstruction.** *Shénnóng běncǎo jīng* 神農本草經 [[KR3ec001]] is the late–Western-Hàn / Eastern-Hàn 365-substance pharmacopoeia, lost in antiquity and recovered here in the [[孫星衍]] / [[孫馮翼]] 1799 *kǎozhèng* edition — the most widely circulated modern form. *Míngyī biélù* 名醫別錄 [[KR3ec007]] is the supplementary roster of 365 substances added by the "famous physicians" 名醫 of the Hàn-Wèi transition, transmitted, like the *Běnjīng*, only as an interleaving inside [[陶弘景]]'s *Jízhù*. *Wú Pǔ běncǎo* 吳普本草 [[KR3ec002]] preserves the alternative early-3rd-century reading of the same core.
+- **Foundational Hàn core in reconstruction.** *Shénnóng běncǎo jīng* 神農本草經 [[KR3ec001]] is the late–Western-Hàn / Eastern-Hàn 365-substance pharmacopoeia, lost in antiquity and recovered here in the [[孫星衍]] / [[孫馮翼]] 1799 *kǎozhèng* edition — the most widely circulated modern form. *Míngyī biélù* 名醫別錄 [[KR3ec007]] is the supplementary roster of 365 substances added by the "famous physicians" 名醫 of the HànWèi transition, transmitted, like the *Běnjīng*, only as an interleaving inside [[陶弘景]]'s *Jízhù*. *Wú Pǔ běncǎo* 吳普本草 [[KR3ec002]] preserves the alternative early-3rd-century reading of the same core.
 
-- **The Liù-cháo / Táng synthesis.** *Běncǎo jīng jízhù* 本草經集註 [[KR3ec003]] — [[陶弘景]]'s c. 500 collation that interleaves the *Běnjīng* (red) with the *Míngyī biélù* (black) and adds his own commentary; the structural backbone of every subsequent pharmacopoeia. *Xīnxiū běncǎo* 新修本草 [[KR3ec004]] (659) is the world's first **state-commissioned** illustrated pharmacopoeia, compiled by [[蘇敬]] under [[李勣]]'s superintendence and presented under [[長孫無忌]]'s sponsorship. *Léigōng pàozhì lùn* 雷公炮炙論 [[KR3ec086]] (5th c.) — the founding text of the *pàozhì* (drug-preparation) sub-genre.
+- **The Liùcháo / Táng synthesis.** *Běncǎo jīng jízhù* 本草經集註 [[KR3ec003]] — [[陶弘景]]'s c. 500 collation that interleaves the *Běnjīng* (red) with the *Míngyī biélù* (black) and adds his own commentary; the structural backbone of every subsequent pharmacopoeia. *Xīnxiū běncǎo* 新修本草 [[KR3ec004]] (659) is the world's first **state-commissioned** illustrated pharmacopoeia, compiled by [[蘇敬]] under [[李勣]]'s superintendence and presented under [[長孫無忌]]'s sponsorship. *Léigōng pàozhì lùn* 雷公炮炙論 [[KR3ec086]] (5th c.) — the founding text of the *pàozhì* (drug-preparation) sub-genre.
 
 - **Specialised Táng pharmacopoeias.** *Shíliáo běncǎo* 食療本草 [[KR3ec008]] of [[孟詵]] / [[張鼎]] — the first systematic dietetic *běncǎo*. *Hǎiyào běncǎo* 海藥本草 [[KR3ec005]] of [[李珣]] — drugs of overseas provenance arriving through the Maritime-Silk-Road port of Guǎngzhōu, the source for our knowledge of South-East-Asian and Persian imports.
 
-- **The Sòng state pharmacopoeia cluster.** *Běncǎo tújīng* 本草圖經 [[KR3ec006]] (1062) — [[蘇頌]]'s illustrated, regionally-surveyed counterpart to the *Jiāyòu běncǎo* 嘉祐本草, foundational for early Chinese botanical illustration. *Zhènglèi běncǎo* 證類本草 [[KR3ec009]] — [[唐慎微]]'s privately compiled but later state-promoted compendium that became the standard Sòng pharmacopoeia and the **principal conduit** through which the lost Hàn-Liùcháo *běncǎo* texts reach later centuries. *Běncǎo yǎnyì* 本草衍義 [[KR3ec010]] and *Běncǎo yǎn jù* [[KR3ec018]] of [[寇宗奭]] (1116) — substance-by-substance corrections to received pharmacology; the *Yǎnyì* was so authoritative that it was interleaved bodily into the Sòng-edition *Zhènglèi*. *Shàoxīng běncǎo* 紹興本草 [[KR3ec014]] (1159) — the last and shortest-lived Sòng court pharmacopoeia, surviving today only in Japanese manuscript copies.
+- **The Sòng state pharmacopoeia cluster.** *Běncǎo tújīng* 本草圖經 [[KR3ec006]] (1062) — [[蘇頌]]'s illustrated, regionally-surveyed counterpart to the *Jiāyòu běncǎo* 嘉祐本草, foundational for early Chinese botanical illustration. *Zhènglèi běncǎo* 證類本草 [[KR3ec009]] — [[唐慎微]]'s privately compiled but later state-promoted compendium that became the standard Sòng pharmacopoeia and the **principal conduit** through which the lost HànLiùcháo *běncǎo* texts reach later centuries. *Běncǎo yǎnyì* 本草衍義 [[KR3ec010]] and *Běncǎo yǎn jù* [[KR3ec018]] of [[寇宗奭]] (1116) — substance-by-substance corrections to received pharmacology; the *Yǎnyì* was so authoritative that it was interleaved bodily into the Sòng-edition *Zhènglèi*. *Shàoxīng běncǎo* 紹興本草 [[KR3ec014]] (1159) — the last and shortest-lived Sòng court pharmacopoeia, surviving today only in Japanese manuscript copies.
 
-- **Jīn-Yuán pharmacological theory.** *Zhēnzhū náng yàoxìng fù* 珍珠囊藥性賦 [[KR3ec015]] (attrib. [[張元素]]), *Tāngyè běncǎo* 湯液本草 [[KR3ec011]] of [[王好古]], and *Běncǎo fāhuī* 本草發揮 [[KR3ec012]] of [[徐彥純]] embed pharmacology in the new Jīn-Yuán physiological frameworks (引經 channel-entry doctrine, 升降浮沈 ascending-descending/floating-sinking) developed by [[張元素]], [[李杲]], and [[朱震亨]]. The pseudepigraphic *Zhēnzhū náng bǔyí yàoxìng fù* [[KR3ec016]] is the Míng-Qīng popular mnemonic adaptation of the same school.
+- **JīnYuán pharmacological theory.** *Zhēnzhū náng yàoxìng fù* 珍珠囊藥性賦 [[KR3ec015]] (attrib. [[張元素]]), *Tāngyè běncǎo* 湯液本草 [[KR3ec011]] of [[王好古]], and *Běncǎo fāhuī* 本草發揮 [[KR3ec012]] of [[徐彥純]] embed pharmacology in the new JīnYuán physiological frameworks (引經 channel-entry doctrine, 升降浮沈 ascending-descending/floating-sinking) developed by [[張元素]], [[李杲]], and [[朱震亨]]. The pseudepigraphic *Zhēnzhū náng bǔyí yàoxìng fù* [[KR3ec016]] is the MíngQīng popular mnemonic adaptation of the same school.
 
 - **The Míng synthesis: *Běncǎo gāngmù*.** *Běncǎo gāngmù* 本草綱目 [[KR3ec025]] — [[李時珍]]'s 1578 (printed 1593) work in 52 *juàn* catalogues 1,892 substances under a wholly new 16-*bù* / 60-*lèi* taxonomy ordered "from base to noble, from small to large", reorganises the inherited *běncǎo* tradition, abolishes the red-and-black chromatic convention, and quotes from 932 prior works. It is the most influential single work in the history of Chinese pharmacology and Chinese natural history alike; UNESCO Memory of the World since 2011. *Bīnhú pàozhì fǎ* 瀕湖炮炙法 [[KR3ec087]] is its companion drug-preparation manual. *Běncǎo gāngmù shíyí* 本草綱目拾遺 [[KR3ec049]] — [[趙學敏]]'s ~1765–1803 supplement adding 716 substances Lǐ omitted, including newly-imported American crops (potato, sweet potato, tobacco). *Běncǎo gāngmù biémíng lù* [[KR3ec054]] is a synonym-index spinoff.
 
@@ -34,9 +34,9 @@ Three transmissional facts must be kept in view. First, the Han core of the *Sh�
 
 - **Qīng *kǎozhèng* and Hàn-classic recensions.** *Shénnóng běncǎo jīng* [[KR3ec001]] (Sūn-brothers, 1799), *Shénnóng běncǎo jīng bǎi zhǒng lù* 神農本草經百種錄 [[KR3ec048]] (1736) of [[徐大椿]], *Běncǎo chóngyuán* 本草崇原 [[KR3ec050]] of [[張志聰]] / [[高世栻]], *Běnjīng féngyuán* 本經逢原 [[KR3ec043]] of [[張璐]] (1695), *Shénnóng běncǎo jīng dú* [[KR3ec046]]–[[KR3ec047]] of [[陳念祖]] (1803), *Běnjīng shū zhèng* 本經疏證 [[KR3ec066]] of [[鄒澍]], and *Shénnóng běncǎo jīng zàn* [[KR3ec069]] of [[葉志洗]] form the principal Hàn-classic-restoration cluster.
 
-- **Liú Cháng-shā 漢方 stream.** *Chángshā yàojiě* 長沙藥解 [[KR3ec064]] and *Yùqiū yàojiě* 玉楸藥解 [[KR3ec065]] — [[黃元御]] interprets every pharmacology entry against the *Shānghán lùn* / *Jīnguì yàolüè* prescription canon, a foundational text for the contemporary "classical-prescription school" (經方派).
+- **Liú Chángshā 漢方 stream.** *Chángshā yàojiě* 長沙藥解 [[KR3ec064]] and *Yùqiū yàojiě* 玉楸藥解 [[KR3ec065]] — [[黃元御]] interprets every pharmacology entry against the *Shānghán lùn* / *Jīnguì yàolüè* prescription canon, a foundational text for the contemporary "classical-prescription school" (經方派).
 
-- **Pàozhì sub-genre.** *Léigōng pàozhì lùn* 雷公炮炙論 [[KR3ec086]] (5th c., founding work); *Bīnhú pàozhì fǎ* 瀕湖炮炙法 [[KR3ec087]] (1578); *Pàozhì dàfǎ* 炮炙大法 [[KR3ec088]] (1622, [[繆希雍]]) — the standard Míng-Qīng pàozhì manual; *Léi gōng pàozhì yàoxìng jiě* 雷公炮製藥性解 [[KR3ec029]] of [[李中梓]]; *Pàozhì quánshū* 炮炙全書 [[KR3ec089]] of [[稻生宣義]] — the Japanese Edo synthesis.
+- **Pàozhì sub-genre.** *Léigōng pàozhì lùn* 雷公炮炙論 [[KR3ec086]] (5th c., founding work); *Bīnhú pàozhì fǎ* 瀕湖炮炙法 [[KR3ec087]] (1578); *Pàozhì dàfǎ* 炮炙大法 [[KR3ec088]] (1622, [[繆希雍]]) — the standard MíngQīng pàozhì manual; *Léi gōng pàozhì yàoxìng jiě* 雷公炮製藥性解 [[KR3ec029]] of [[李中梓]]; *Pàozhì quánshū* 炮炙全書 [[KR3ec089]] of [[稻生宣義]] — the Japanese Edo synthesis.
 
 - **Republican synthesis.** *Běncǎo zhèngyì* 本草正義 [[KR3ec063]] of [[張壽頤]] (1920s–30s) — the most ambitious Republican-era classical pharmacology, integrating Qīng *kǎozhèng* results into a single commentary. *Zēngdìng wěiyào tiáobiàn* 增訂偽藥條辨 [[KR3ec071]] of [[鄭肖岩]] / [[曹炳章]] — Republican-era drug-fraud detection manual, a genre unique to this division.
 
@@ -45,14 +45,14 @@ Three transmissional facts must be kept in view. First, the Han core of the *Sh�
 ### Important persons
 
 - [[神農]] — the legendary Divine Husbandman; nominal author of the lost Hàn-era *Běnjīng* core, hence "Shénnóng pharmacopoeia" as a recurring title formula.
-- [[陶弘景]] (456–536) — author of the *Jízhù* [[KR3ec003]] and editorial compiler of the *Míngyī biélù* [[KR3ec007]]; established the red-and-black interleaving convention and the *zhū-mò* structural backbone every later pharmacopoeia inherited.
+- [[陶弘景]] (456–536) — author of the *Jízhù* [[KR3ec003]] and editorial compiler of the *Míngyī biélù* [[KR3ec007]]; established the red-and-black interleaving convention and the *zhūmò* structural backbone every later pharmacopoeia inherited.
 - [[蘇敬]] / [[李勣]] / [[長孫無忌]] — the team behind the Táng state pharmacopoeia *Xīnxiū běncǎo* [[KR3ec004]], the first illustrated and state-promulgated pharmacopoeia in any tradition.
 - [[孟詵]] — author of *Shíliáo běncǎo* [[KR3ec008]], founder of the dietetic-pharmacology subgenre.
-- [[李珣]] — Persian-descended Shǔ-Hàn writer; *Hǎiyào běncǎo* [[KR3ec005]] is our principal record of medieval Maritime-Silk-Road drug imports.
+- [[李珣]] — Persian-descended ShǔHàn writer; *Hǎiyào běncǎo* [[KR3ec005]] is our principal record of medieval Maritime-Silk-Road drug imports.
 - [[蘇頌]] (1020–1101) — *Běncǎo tújīng* [[KR3ec006]]; pioneer of empirical regional drug-survey methodology.
 - [[唐慎微]] — *Zhènglèi běncǎo* [[KR3ec009]]; via his work nearly all earlier *běncǎo* literature has survived.
 - [[寇宗奭]] (fl. 1116) — *Běncǎo yǎnyì* [[KR3ec010]], *Yǎn jù* [[KR3ec018]]; introduced rigorous substance-by-substance critical correction as a *běncǎo* genre.
-- [[張元素]] / [[李杲]] / [[王好古]] / [[朱震亨]] — the Jīn-Yuán physicians whose pharmacological theory ([[KR3ec011]], [[KR3ec012]], [[KR3ec015]]) reshapes the explanatory frame of every Míng-Qīng pharmacopoeia.
+- [[張元素]] / [[李杲]] / [[王好古]] / [[朱震亨]] — the JīnYuán physicians whose pharmacological theory ([[KR3ec011]], [[KR3ec012]], [[KR3ec015]]) reshapes the explanatory frame of every MíngQīng pharmacopoeia.
 - [[朱橚]] (1361–1425) — Ming prince and field botanist; *Jiùhuāng běncǎo* [[KR3ec023]] is foundational ethnobotany.
 - [[李時珍]] (1518–1593) — author of the *Běncǎo gāngmù* [[KR3ec025]] and the *Pàozhì fǎ* [[KR3ec087]]; the central figure of the entire division.
 - [[繆希雍]] (c. 1546–1627) — *Shénnóng běncǎo jīng shū* [[KR3ec019]] and *Pàozhì dàfǎ* [[KR3ec088]]; the principal late-Míng theorist of pharmacology-by-classic.
@@ -81,7 +81,7 @@ Three transmissional facts must be kept in view. First, the Han core of the *Sh�
 
 - **Taxonomy.** Three competing organisational principles structure the field: the Hàn 三品 grading; the post-*Jízhù* substance-class taxonomy (草、木、玉石、蟲魚 etc.); and [[李時珍]]'s 16-*bù* / 60-*lèi* natural-history hierarchy. Métailié-Hsu argues that the third reflects a *gé wù* (investigation-of-things) impulse and approaches the modern natural-history project.
 
-- **Jīn-Yuán physiology in pharmacology.** [[張元素]]'s 引經 channel-entry doctrine and the 升降浮沉 movement-direction scheme reframe pharmacology around physiology rather than classification — visible in [[KR3ec011]], [[KR3ec012]], [[KR3ec015]], and reshaping nearly all post-Yuán pharmacopoeia.
+- **JīnYuán physiology in pharmacology.** [[張元素]]'s 引經 channel-entry doctrine and the 升降浮沉 movement-direction scheme reframe pharmacology around physiology rather than classification — visible in [[KR3ec011]], [[KR3ec012]], [[KR3ec015]], and reshaping nearly all post-Yuán pharmacopoeia.
 
 - **Pàozhì 炮炙 (drug preparation).** A sub-genre of its own, founded by [[雷敩]] [[KR3ec086]], standardised by [[李時珍]] [[KR3ec087]] and [[繆希雍]] [[KR3ec088]], adopted in Japan by [[稻生宣義]] [[KR3ec089]]. Methods (酒炙、醋炙、鹽炙、童便炙、煅、煨, etc.) modulate the pharmacological action of the same substance — the philosophical premise being that the *medicine* is the prepared drug, not the raw substance.
 
@@ -97,7 +97,7 @@ Three transmissional facts must be kept in view. First, the Han core of the *Sh�
 
 ### Timeline
 
-- 25–220 — *Míngyī biélù* 名醫別錄 [[KR3ec007]] — Hàn-Wèi "famous physicians" supplement to the *Běnjīng*, transmitted only via [[陶弘景]].
+- 25–220 — *Míngyī biélù* 名醫別錄 [[KR3ec007]] — HànWèi "famous physicians" supplement to the *Běnjīng*, transmitted only via [[陶弘景]].
 - 220–270 — *Wú Pǔ běncǎo* 吳普本草 [[KR3ec002]] — early-3rd-c. variant transmission of the *Běnjīng* core.
 - 420–479 — *Léigōng pàozhì lùn* 雷公炮炙論 [[KR3ec086]] — founding text of the *pàozhì* sub-genre.
 - 492–500 — *Běncǎo jīng jízhù* 本草經集註 [[KR3ec003]] — [[陶弘景]]'s structural backbone of the entire later tradition.
@@ -113,7 +113,7 @@ Three transmissional facts must be kept in view. First, the Han core of the *Sh�
 - 1157–1159 — *Shàoxīng běncǎo* 紹興本草 [[KR3ec014]] — last Sòng court pharmacopoeia.
 - 1186–1234 — *Zhēnzhū náng yàoxìng fù* 珍珠囊藥性賦 [[KR3ec015]] — Jīn pharmacological-theory mnemonic.
 - 1271–1368 — *Zēngguǎng héjì jú fāng yàoxìng zǒnglùn* 增廣和劑局方藥性總論 [[KR3ec017]] — Yuán-era pharmacology to the *Héjì jú fāng*.
-- 1289–1306 — *Tāngyè běncǎo* 湯液本草 [[KR3ec011]] — [[王好古]]'s Yuán pharmacology under Jīn-Yuán physiology.
+- 1289–1306 — *Tāngyè běncǎo* 湯液本草 [[KR3ec011]] — [[王好古]]'s Yuán pharmacology under JīnYuán physiology.
 - 1368–1384 — *Běncǎo fāhuī* 本草發揮 [[KR3ec012]] — [[徐彥純]] synthesising 張-李-王-朱.
 - 1368–1644 — *Zhèngzhì běncǎo* 證治本草 [[KR3ec022]] — generic Ming clinical pharmacology (bracket wide).
 - 1406 — *Jiùhuāng běncǎo* 救荒本草 [[KR3ec023]] — [[朱橚]]'s famine-plants ethnobotany.
@@ -129,7 +129,7 @@ Three transmissional facts must be kept in view. First, the Han core of the *Sh�
 - 1598–1613 — *Yào jiàn* 藥鑑 [[KR3ec030]] — clinical pharmacology of [[杜文燮]].
 - 1600–1700 — *Yào zhèng jìyí* 藥症忌宜 [[KR3ec070]] — drug-symptom contraindications.
 - 1622–1625 — *Shénnóng běncǎo jīng shū* 神農本草經疏 [[KR3ec019]] — [[繆希雍]]'s precursor to Qīng *kǎozhèng*.
-- 1622–1627 — *Pàozhì dàfǎ* 炮炙大法 [[KR3ec088]] — standard Míng-Qīng pàozhì manual.
+- 1622–1627 — *Pàozhì dàfǎ* 炮炙大法 [[KR3ec088]] — standard MíngQīng pàozhì manual.
 - 1622–1655 — *Léi gōng pàozhì yàoxìng jiě* 雷公炮製藥性解 [[KR3ec029]], *Běncǎo tōngxuán* 本草通玄 [[KR3ec032]], *Běncǎo zhēngyào* 本草徵要 [[KR3ec027]] — [[李中梓]]'s pharmacology trio.
 - 1624–1640 — *Běncǎo zhèng* 本草正 [[KR3ec031]] — [[張介賓]]'s pharmacology.
 - 1624–1629 — *Běncǎo huì yán* 本草彙言 [[KR3ec033]] — [[倪朱謨]]'s synthesis.
@@ -159,7 +159,7 @@ Three transmissional facts must be kept in view. First, the Han core of the *Sh�
 - 1799 — *Shénnóng běncǎo jīng* 神農本草經 [[KR3ec001]] — [[孫星衍]] / [[孫馮翼]]'s standard *kǎozhèng* reconstruction.
 - 1803 — *Shénnóng běncǎo jīng dú* 神農本草經讀 [[KR3ec046]] / [[KR3ec047]] — [[陳念祖]]'s clinically-oriented Qīng *Běnjīng* commentary.
 - 1820–1837 — *Běnjīng shū zhèng* 本經疏證 [[KR3ec066]] — [[鄒澍]]'s philologically thorough Qīng commentary.
-- 1826–1842 — *Běncǎo shù gōuyuán* 本草述鉤元 [[KR3ec052]] — [[楊時泰]]'s revision of Liú Ruò-jīn's *Běncǎo shù*.
+- 1826–1842 — *Běncǎo shù gōuyuán* 本草述鉤元 [[KR3ec052]] — [[楊時泰]]'s revision of Liú Ruòjīn's *Běncǎo shù*.
 - 1840 — *Běncǎo fēn jīng* 本草分經 [[KR3ec060]] — [[姚瀾]]'s channel-entry organisation.
 - 1850 — *Shénnóng běncǎo jīng zàn* 神農本草經贊 [[KR3ec069]] — verse paraphrase of the reconstructed *Běnjīng*.
 - 1850–1879 — *Shíjiàn běncǎo* 食鑑本草 [[KR3ec067]] — [[費伯雄]]'s Mèng-hé-school dietetic pharmacology.

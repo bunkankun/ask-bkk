@@ -5,7 +5,7 @@ divisionTitlePinyin: Zhíguān lèi
 divisionTitleEnglish: Histories — Official Posts
 parentDivision: KR2
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-08
 ---
 
 # KR2l 職官類 — Histories: Official Posts
@@ -42,10 +42,10 @@ Chronologically, the division begins with the Táng 唐 (the *Táng liùdiǎn* o
 
 **The *guānzhēn* cluster** — manuals of magistracy, the principal premodern documentation of local-level administrative practice:
 - *Zuòyì zìzhēn* 作邑自箴 [[KR2l0019]] by Lǐ Yuánbì (1117) — the earliest dated *guānzhēn*, anchoring the genre in Northern Sòng oral magistracy tradition.
-- *Guānzhēn* 官箴 [[KR2l0017]] by Lǚ Běnzhōng (early twelfth century) — the source of the formula *qīng-shèn-qín* 清慎勤 ("pure, prudent, diligent"), later canonized by the Kāngxī court.
+- *Guānzhēn* 官箴 [[KR2l0017]] by Lǚ Běnzhōng (early twelfth century) — the source of the formula *qīngshènqín* 清慎勤 ("pure, prudent, diligent"), later canonized by the Kāngxī court.
 - *Zhōuxiàn tígāng* 州縣提綱 [[KR2l0016]] (anon., late twelfth or thirteenth century) — Southern Sòng manual whose false attribution to Chén Xiāng the Sìkù editors definitively debunked.
 - *Bǎiguān zhēn* 百官箴 [[KR2l0018]] by Xǔ Yuèqīng (1260–1285) — rhymed admonitions for every Sòng central-government office, in the style of Yáng Xióng's lost *Guān zhēn*; a Sòng-loyalist 遺民 composition.
-- *Zhòulián xùlùn* 晝簾緒論 [[KR2l0020]] by Hú Tàichū (1235) — a tightly organized fifteen-chapter manual that became influential on Yuán-Míng successors.
+- *Zhòulián xùlùn* 晝簾緒論 [[KR2l0020]] by Hú Tàichū (1235) — a tightly organized fifteen-chapter manual that became influential on YuánMíng successors.
 - *Sān shì zhōnggào* 三事忠告 [[KR2l0021]] by Zhāng Yǎnghào (c. 1308–1329) — the most important Yuán contribution to the genre, addressed in turn to the county magistrate, the Censor, and the Grand Councillor.
 - *Yùdìng rénchén jǐngxīn lù* 御定人臣儆心錄 [[KR2l0022]] by the Shùnzhì emperor and Wáng Yǒngjí (1655) — early Qīng imperial admonition, framed as a coded indictment of the recently executed grandees Tántài, Shí Hàn, and Chén Míngxià.
 
@@ -66,7 +66,7 @@ Chronologically, the division begins with the Táng 唐 (the *Táng liùdiǎn* o
 - [[梁國治]] (Liáng Guózhì, 1723–1786) — Qiánlóng-era chief editor of the *Qīndìng Guózǐjiàn zhì* [[KR2l0014]].
 - [[永瑢]] (Yǒng Róng, 1744–1790) and [[紀昀]] (Jǐ Yún, 1724–1805) — nominal and actual chief editors of the *Qīndìng lìdài zhíguān biǎo* [[KR2l0015]]; Jǐ Yún also chief editor of the Sìkù bureau itself.
 - [[李元弼]] (Lǐ Yuánbì, fl. 1117) — Northern Sòng magistrate, author of the earliest dated *guānzhēn* [[KR2l0019]].
-- [[呂本中]] (Lǚ Běnzhōng, 1084–1145) — Northern–Southern Sòng poet and moralist, originator of the *qīng-shèn-qín* formula in *Guānzhēn* [[KR2l0017]].
+- [[呂本中]] (Lǚ Běnzhōng, 1084–1145) — Northern–Southern Sòng poet and moralist, originator of the *qīngshènqín* formula in *Guānzhēn* [[KR2l0017]].
 - [[許月卿]] (Xǔ Yuèqīng, 1216–1285) — Sòng loyalist (*yímín*) and author of *Bǎiguān zhēn* [[KR2l0018]]; changed his *zì* from 太空 to 宋士 after the dynasty's fall.
 - [[胡太初]] (Hú Tàichū, fl. 1235–1253) — Prefect of Chùzhōu and author of the tightly organized fifteen-chapter *Zhòulián xùlùn* [[KR2l0020]].
 - [[張養浩]] (Zhāng Yǎnghào, 1270–1329) — Yuán statesman, *sǎnqǔ* poet, and author of *Sān shì zhōnggào* [[KR2l0021]] — the only *guānzhēn* to span all three levels of imperial administration.
@@ -80,20 +80,20 @@ Chronologically, the division begins with the Táng 唐 (the *Táng liùdiǎn* o
 
 - **Administrative restoration and the *Yǒnglè dàdiǎn*.** Several major Sòng monographs in this division (*Líntái gùshì*, *Nán Sòng guǎngé lù*, *Zhōuxiàn tígāng*) had been lost in standalone form by the late Míng and were recovered from the *Yǒnglè dàdiǎn* by the Sìkù editors — a clearly visible Sìkù-era restoration enterprise.
 
-- **The *guānzhēn* genre and the ethics of office.** The seven-text *guānzhēn* cluster ([[KR2l0016]]–[[KR2l0022]]) traces the evolution of a distinctive Chinese genre: practical-moral handbooks addressed to magistrates and other officials, fusing personal-cultivation maxims (*qīng-shèn-qín*) with practical-administrative advice on lawsuits, taxation, clerk-management, and corvée. The genre takes shape in the Northern Sòng (Lǐ Yuánbì, 1117), develops the Confucian moralizing register in the Sòng-Yuán transition (Lǚ Běnzhōng, Xǔ Yuèqīng, Hú Tàichū, Zhāng Yǎnghào), and is appropriated as an instrument of imperial discipline in the early Qīng (Shùnzhì's *Jǐngxīn lù*).
+- **The *guānzhēn* genre and the ethics of office.** The seven-text *guānzhēn* cluster ([[KR2l0016]]–[[KR2l0022]]) traces the evolution of a distinctive Chinese genre: practical-moral handbooks addressed to magistrates and other officials, fusing personal-cultivation maxims (*qīngshènqín*) with practical-administrative advice on lawsuits, taxation, clerk-management, and corvée. The genre takes shape in the Northern Sòng (Lǐ Yuánbì, 1117), develops the Confucian moralizing register in the SòngYuán transition (Lǚ Běnzhōng, Xǔ Yuèqīng, Hú Tàichū, Zhāng Yǎnghào), and is appropriated as an instrument of imperial discipline in the early Qīng (Shùnzhì's *Jǐngxīn lù*).
 
 - **Comparative cross-dynastic nomenclature.** The trajectory from Sūn Féngjí's Sòng *Zhíguān fēn jì* through to Qiánlóng's *Qīndìng lìdài zhíguān biǎo* (1780, [[KR2l0015]]) exemplifies the late-imperial impulse to map every office onto every predecessor system, with the Qīng establishment as the organizing baseline — a retrospective and Qīng-centric reading of all imperial institutional history.
 
 - **Prosopography as institutional history.** Three works in this division ([[KR2l0007]], [[KR2l0008]], [[KR2l0010]]) anchor their institutional accounts in name-lists of office-holders down to surprisingly low levels (junior directors, clerical sub-officials), making the division an unexpectedly rich biographical resource. Xú Zìmíng's chronicle, in particular, sometimes corrects the *Sòngshǐ* "Year-table of Grand Councillors."
 
-- **Frontier administration and *gǎitǔ guīliú*.** The anomalous *Tǔguān dǐbù* ([[KR2l0012]]) is the principal pre-conquest source for the Míng *tǔsī* system in southwestern China and is therefore the single most important documentary basis for modern ethnohistorical study of Yi, Bai, Zhuang, Miao, and Yao political organization in the Yuán-Míng-Qīng transition.
+- **Frontier administration and *gǎitǔ guīliú*.** The anomalous *Tǔguān dǐbù* ([[KR2l0012]]) is the principal pre-conquest source for the Míng *tǔsī* system in southwestern China and is therefore the single most important documentary basis for modern ethnohistorical study of Yi, Bai, Zhuang, Miao, and Yao political organization in the YuánMíngQīng transition.
 
 ## Timeline
 
 - **738** — *Táng liùdiǎn* 唐六典 [[KR2l0001]] — the foundational compendium of Tang central government, modelled on the *Zhōulǐ*; commentary completed by Lǐ Línfǔ shortly after Zhāng Jiǔlíng's draft.
 - **819** — *Hànlín zhì* 翰林志 [[KR2l0002]] — Lǐ Zhào's foundational monograph on the Tang Hànlín Academy.
 - **1117** — *Zuòyì zìzhēn* 作邑自箴 [[KR2l0019]] — Lǐ Yuánbì's earliest dated *guānzhēn*; the Northern Sòng founding statement of the genre.
-- **c. 1100–1145** — *Guānzhēn* 官箴 [[KR2l0017]] — Lǚ Běnzhōng's pithy admonition manual, source of the *qīng-shèn-qín* formula.
+- **c. 1100–1145** — *Guānzhēn* 官箴 [[KR2l0017]] — Lǚ Běnzhōng's pithy admonition manual, source of the *qīngshènqín* formula.
 - **1131** — *Líntái gùshì* 麟臺故事 [[KR2l0003]] — Chéng Jù's Sòng Imperial Library monograph, composed at the moment of post-Jìn reconstitution.
 - **1173** — *Hànyuàn qúnshū* 翰苑羣書 [[KR2l0004]] — Hóng Zūn's Sòng collectanea of Tang and Northern Sòng Hànlín literature.
 - **1177–1269** — *Nán Sòng guǎngé lù* 南宋館閣錄 [[KR2l0005]] — Chén Kuí's Southern Sòng Imperial Library record with anonymous continuation.

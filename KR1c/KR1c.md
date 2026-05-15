@@ -5,7 +5,7 @@ divisionTitlePinyin: Shī lèi
 divisionTitleEnglish: Classics — Book of Poetry
 parentDivision: KR1
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-08
 ---
 
 # KR1c 詩類 — Classics → *Shī*
@@ -14,7 +14,7 @@ updated: 2026-05-12
 
 The 詩類 (*Shī lèi*) is the *jīngbù* 經部 subdivision dedicated to the *Shījīng* 詩經 / *Máoshī* 毛詩 — the 305-poem canon transmitted under the headings *Fēng* 風 (160 *Guófēng* "Airs of the States"), *Yǎ* 雅 (105 *Xiǎo yǎ* + *Dà yǎ* court odes), and *Sòng* 頌 (40 dynastic hymns of Zhōu, Lǔ, and Shāng). The poems themselves span roughly the eleventh through sixth centuries BCE; the received text reached its present form, in the gǔwén 古文 (Ancient Script) recension of [[毛亨]] and [[毛萇]], during the late third century BCE, and was philologically settled under [[鄭玄]] (Zhèng Xuán)'s *jiān* 箋 of 187 CE (Wilkinson, *Chinese History: A New Manual* §28.4.3, §58.6.3.1). Three rival jīnwén 今文 (Modern Script) traditions — the *Lǔ Shī* 魯詩, *Qí Shī* 齊詩, and *Hán Shī* 韓詩 (the *sānjiā shī* 三家詩 of the *Hànshū yìwénzhì* 漢書·藝文志) — atrophied between Late Hàn and Northern Sòng; only the *Hán Shī wài zhuàn* ([[KR1c0066]]) survives as a substantial textual remnant, and the entire Three-Family corpus had to be reconstructed from citations by Qīng scholars such as [[范家相]].
 
-KR1c therefore divides cleanly into three transmissional phases that any reader must hold in mind: (1) Hàn–Táng *Máo–Zhèng* philological orthodoxy, culminating in the imperially-sponsored *Máoshī zhùshū* 毛詩注疏 ([[KR1c0004]]) under [[孔穎達]] in 653; (2) Sòng *yìlǐ* 義理 reform centred on [[朱熹]]'s *Shī jí zhuàn* ([[KR1c0009]] / [[KR1c0015]]), which after Yánjǐng 4 (1317) became examination orthodoxy for six centuries; and (3) Qīng *Hàn-xué* 漢學 reaction, which retrieved the Mao apparatus and the Three-Family fragments against the Cheng-Zhū framework. Wilkinson (§28.4.3) underlines that the work was customarily called simply *Shī* 詩 or *Máoshī* 毛詩 and only infrequently *Shījīng* 詩經; the late-imperial term *Shī jīng* gained currency precisely through Zhū Xī's title-tradition.
+KR1c therefore divides cleanly into three transmissional phases that any reader must hold in mind: (1) Hàn–Táng *Máo–Zhèng* philological orthodoxy, culminating in the imperially-sponsored *Máoshī zhùshū* 毛詩注疏 ([[KR1c0004]]) under [[孔穎達]] in 653; (2) Sòng *yìlǐ* 義理 reform centred on [[朱熹]]'s *Shī jí zhuàn* ([[KR1c0009]] / [[KR1c0015]]), which after Yánjǐng 4 (1317) became examination orthodoxy for six centuries; and (3) Qīng *Hànxué* 漢學 reaction, which retrieved the Mao apparatus and the Three-Family fragments against the Cheng-Zhū framework. Wilkinson (§28.4.3) underlines that the work was customarily called simply *Shī* 詩 or *Máoshī* 毛詩 and only infrequently *Shījīng* 詩經; the late-imperial term *Shī jīng* gained currency precisely through Zhū Xī's title-tradition.
 
 ## Important texts and text clusters
 
@@ -41,7 +41,7 @@ KR1c therefore divides cleanly into three transmissional phases that any reader 
 **The Lǚ school: Sòng *xù*-defending exegesis**
 - *Lǚshì jiāshú dú Shī jì* 呂氏家塾讀詩記 [[KR1c0017]] — [[呂祖謙]]'s deferential reading, the principal Sòng survival of the *zōng xù* 宗序 (preface-following) position, and the work whose conservatism Yáng Shèn credited with provoking Zhū Xī's late anti-*xù* shift.
 - *Xù Lǚshì jiāshú dú Shī jì* 續呂氏家塾讀詩記 [[KR1c0018]] — [[戴溪]]'s continuation.
-- *Cíhú Shī zhuàn* 慈湖詩傳 [[KR1c0016]] — [[楊簡]]'s Lù-Wáng *xīnxué* 心學 reading; a minority voice but the only Sòng-Yuán *Shī* commentary committed to the Lù school programme.
+- *Cíhú Shī zhuàn* 慈湖詩傳 [[KR1c0016]] — [[楊簡]]'s LùWáng *xīnxué* 心學 reading; a minority voice but the only SòngYuán *Shī* commentary committed to the Lù school programme.
 
 **The Sòng synthesis: bridging Hàn and Sòng readings**
 - *Shī jí* 詩緝 [[KR1c0023]] — [[嚴粲]]'s mid-thirteenth-century combination of *Máo–Zhèng* glosses with Zhū Xī's framework; widely judged by Qīng reviewers (cf. the *Sìkù tíyào*) the best balanced Sòng commentary.
@@ -53,16 +53,16 @@ KR1c therefore divides cleanly into three transmissional phases that any reader 
 **Yuán *jí zhuàn* tradition and Míng imperial codification**
 - *Shī jí zhuàn míngwù chāo* 詩集傳名物鈔 [[KR1c0027]] — [[許謙]]'s natural-history supplement to Zhū Xī.
 - *Shī zhuàn tōngshì* 詩傳通釋 [[KR1c0028]] — [[劉瑾]]'s comprehensive Yuán sub-commentary on the *jí zhuàn*.
-- *Shījīng shūyì huìtōng* 詩經疏義會通 [[KR1c0030]] — [[朱公遷]]'s Yuán-Míng synthesis.
+- *Shījīng shūyì huìtōng* 詩經疏義會通 [[KR1c0030]] — [[朱公遷]]'s YuánMíng synthesis.
 - *Shī zhuàn dàquán* 詩傳大全 [[KR1c0035]] — [[胡廣]]'s 1414–1415 imperial *Yǒnglè* compilation that codified the *jí zhuàn* as exam orthodoxy.
 
 **Late Míng natural-history scholarship**
 - *Lùshì Shī shū guǎngyào* 陸氏詩疏廣要 [[KR1c0006]] — [[毛晉]]'s 1620s–1650s expansion of Lù Jī's third-century *cǎomù niǎoshòu chóngyú shū* 草木鳥獸蟲魚疏.
 - *Liù jiā Shī míngwù shū* 六家詩名物疏 [[KR1c0039]] — [[馮復京]]'s six-school synthesis of the names-of-things tradition.
 
-**Qīng Hàn-xué reaction and reconstruction**
-- *Máoshī jī gǔ biān* 毛詩稽古編 [[KR1c0049]] — [[陳啟源]]'s 1687 *Hàn-xué* manifesto: a chapter-by-chapter retrieval of *Máo–Zhèng* readings against Zhū Xī.
-- *Shī jīng tōng yì* 詩經通義 [[KR1c0048]] — [[朱鶴齡]]'s early-Qīng critical commentary, an important precursor to *Hàn-xué*.
+**Qīng Hànxué reaction and reconstruction**
+- *Máoshī jī gǔ biān* 毛詩稽古編 [[KR1c0049]] — [[陳啟源]]'s 1687 *Hànxué* manifesto: a chapter-by-chapter retrieval of *Máo–Zhèng* readings against Zhū Xī.
+- *Shī jīng tōng yì* 詩經通義 [[KR1c0048]] — [[朱鶴齡]]'s early-Qīng critical commentary, an important precursor to *Hànxué*.
 - *Shī jīng bài shū* 詩經稗疏 [[KR1c0047]] — [[王夫之]]'s philosophically charged Ming-loyalist reading.
 - The [[毛奇齡]] tetralogy: *Máo Shī xiě guān jì* 毛詩寫官記 [[KR1c0051]], *Shī zhá* 詩札 [[KR1c0052]], *Shī zhuàn Shī shuō bó yì* 詩傳詩說駁義 [[KR1c0053]], *Xù Shī zhuàn niǎo míng juǎn* 續詩傳鳥名卷 [[KR1c0054]] — the most aggressive Qīng polemic against the *jí zhuàn* tradition.
 
@@ -87,7 +87,7 @@ KR1c therefore divides cleanly into three transmissional phases that any reader 
 - [[嚴粲]] (Yán Càn, *fl.* 1248) — Hàn–Sòng bridge commentator.
 - [[王應麟]] (Wáng Yīnglín, 1223–1296) — antiquarian whose *Shī kǎo* and *Shī dìlǐ kǎo* founded the Three-Family fragment- and geography-recovery traditions.
 - [[胡廣]] (Hú Guǎng, 1370–1418) — chief editor of the *Shī zhuàn dàquán*, the channel through which Zhū Xī's commentary entered the examination system.
-- [[陳啟源]] (Chén Qǐyuán, d. 1689) — Qīng *Hàn-xué* programmatic restoration of the Mao reading.
+- [[陳啟源]] (Chén Qǐyuán, d. 1689) — Qīng *Hànxué* programmatic restoration of the Mao reading.
 - [[毛奇齡]] (Máo Qílíng, 1623–1716) — most prolific Qīng polemicist against the *jí zhuàn*.
 - [[王夫之]] (Wáng Fūzhī, 1619–1692) — Ming-loyalist philosophical reader of the *Shī*.
 - [[范家相]] (Fàn Jiāxiàng) — author of the two principal Qiánlóng-era *Shī* reconstructions [[KR1c0062]] and [[KR1c0063]].
@@ -96,9 +96,9 @@ KR1c therefore divides cleanly into three transmissional phases that any reader 
 
 ## Topics
 
-- **The Mao *xù* 序 question.** The genuineness of the *Great Preface* and the 305 *Small Prefaces* is the single axis around which the division organizes itself. The Hàn–Táng *Máo–Zhèng–Kǒng* line treats them as Confucian-school transmissions; Zhū Xī ([[KR1c0009]] / [[KR1c0015]]) treats them as Hàn-period allegoresis to be jettisoned; the *Hàn-xué* revival ([[KR1c0049]]) reasserts them; the late-Qīng mediating position ([[KR1c0065]]) accepts only the opening sentence of each. Every Sòng-onward commentary in KR1c can be placed on this axis.
+- **The Mao *xù* 序 question.** The genuineness of the *Great Preface* and the 305 *Small Prefaces* is the single axis around which the division organizes itself. The Hàn–Táng *Máo–Zhèng–Kǒng* line treats them as Confucian-school transmissions; Zhū Xī ([[KR1c0009]] / [[KR1c0015]]) treats them as Hàn-period allegoresis to be jettisoned; the *Hànxué* revival ([[KR1c0049]]) reasserts them; the late-Qīng mediating position ([[KR1c0065]]) accepts only the opening sentence of each. Every Sòng-onward commentary in KR1c can be placed on this axis.
 - **The Three-Family vs. Mao transmissional puzzle.** Why did the gǔwén *Máoshī* alone survive while the three court-supported jīnwén traditions disappeared? The recovery of the *sānjiā shī* from citation fragments (Wáng Yīnglín's [[KR1c0025]] as prototype, Fàn Jiāxiàng's [[KR1c0062]] as the major Qīng synthesis) is one of the principal antiquarian projects of the division.
-- **The "licentious airs" (*yín fēng* 淫風) problem.** Zhū Xī's reading of certain *Guófēng* poems — especially in *Zhèng* 鄭 and *Wèi* 衛 — as ordinary love-songs rather than political allegory triggered both Yuán-Míng moral debate and Qīng *Hàn-xué* rejection. Cf. [[KR1c0009]] for the original move; [[KR1c0049]] for the Qīng counter-argument.
+- **The "licentious airs" (*yín fēng* 淫風) problem.** Zhū Xī's reading of certain *Guófēng* poems — especially in *Zhèng* 鄭 and *Wèi* 衛 — as ordinary love-songs rather than political allegory triggered both YuánMíng moral debate and Qīng *Hànxué* rejection. Cf. [[KR1c0009]] for the original move; [[KR1c0049]] for the Qīng counter-argument.
 - **Bǐ–Xìng–Fù 比興賦 trope-analysis.** Zhū Xī's systematic classification of each ode as *bǐ* (comparison), *xìng* (evocation), or *fù* (direct narration) — adopted from the *Zhōuli* *liù yì* 六義 scheme — became the standard analytic framework from the Yuán onward and is the principal poetological framework of the division.
 - **The *míngwù* 名物 (names of things) tradition.** A continuous natural-history line from [[陸璣]]'s third-century *cǎomù niǎoshòu chóngyú shū* [[KR1c0005]] through [[毛晉]]'s expansion [[KR1c0006]], [[許謙]]'s [[KR1c0027]], [[馮復京]]'s six-school synthesis [[KR1c0039]], and the cluster of Qīng natural-history works ([[KR1c0054]], [[KR1c0055]], [[KR1c0056]], [[KR1c0060]]) identifies the plants, birds, animals, insects, fish, and material objects named in the poems.
 - **Geographical and historical contextualization.** Wáng Yīnglín's *Shī dìlǐ kǎo* [[KR1c0026]] inaugurated and [[顧棟高]]'s *Máo Shī lèi shì* [[KR1c0060]] consolidated the project of locating the *Guófēng* in concrete Zhōu geography and the *Yǎ* in concrete dynastic events.
@@ -130,8 +130,8 @@ KR1c therefore divides cleanly into three transmissional phases that any reader 
 - 1620–1659 — *Lùshì Shī shū guǎngyào* 陸氏詩疏廣要 [[KR1c0006]] — [[毛晉]]'s late-Míng expansion of Lù Jī.
 - 1641 — *Shī jīng shìběn gǔyì* 詩經世本古義 [[KR1c0041]] — [[何楷]]'s historicist re-dating of the odes by ruler.
 - 1660–1716 — [[毛奇齡]] tetralogy: *Máo Shī xiě guān jì* [[KR1c0051]], *Shī zhá* [[KR1c0052]], *Shī zhuàn Shī shuō bó yì* [[KR1c0053]], *Xù Shī zhuàn niǎo míng juǎn* [[KR1c0054]] — concentrated Qīng polemic against the *jí zhuàn*.
-- 1687 — *Máoshī jī gǔ biān* 毛詩稽古編 [[KR1c0049]] — [[陳啟源]]'s programmatic *Hàn-xué* manifesto.
-- 1691–1696 — *Shī shuō* 詩說 [[KR1c0057]] — [[惠周惕]]'s early Suzhou *Hàn-xué* contribution.
+- 1687 — *Máoshī jī gǔ biān* 毛詩稽古編 [[KR1c0049]] — [[陳啟源]]'s programmatic *Hànxué* manifesto.
+- 1691–1696 — *Shī shuō* 詩說 [[KR1c0057]] — [[惠周惕]]'s early Suzhou *Hànxué* contribution.
 - 1718 — *Shī suǒ* 詩所 [[KR1c0050]] — [[李光地]]'s Kāngxī-court systematic reading.
 - 1721–1727 — *Qīndìng Shījīng zhuànshuō huìzuǎn* 欽定詩經傳說彙纂 [[KR1c0044]] — [[王鴻緒]]'s Kāngxī imperial compendium.
 - 1752–1753 — *Máo Shī lèi shì* 毛詩類釋 [[KR1c0060]] — [[顧棟高]]'s topical compendium of *Shī*-geography and *míngwù*.

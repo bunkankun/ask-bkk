@@ -1,12 +1,12 @@
 ---
 division: KR6h
 divisionTitle: 大集部
-pinyinTitle: Dà-jí bù
+titlePinyin: Dàjí bù
 englishTitle: Mahāsaṃnipāta division (Buddhist canon, "Great Collection")
 entriesTotal: 35
 entriesCompleted: 35
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-08
 ---
 
 # KR6h 大集部 — Cataloging Run Summary
@@ -42,9 +42,9 @@ The KR6h division corresponds to the *Dà-jí bù* 大集部 / *Mahāsaṃnipāt
 
 ## Notes on dating and attribution
 
-- **[[KR6h0014]] (anonymous *Shí-lún jīng*)**: dating window 397–439 follows the cataloguer's *附北涼錄* assignment; modern critical scholarship treats register-attributions in the *shī-yì* corpus as cataloguer's reconstructions, not documentary fact (cf. Wang-Toutain 1998, Zhiru 2007).
-- **[[KR6h0016]] (*Dì-zàng běn-yuàn jīng*)**: the traditional attribution to [[實叉難陀]] is preserved in the frontmatter but flagged as devotionally well-established and historically uncertain. The work first appears in the Buddhist catalogues only later (definitively in the Northern Sòng) and exhibits substantial Chinese-composition features per Mochizuki, Wang-Toutain, Zhiru. Date bracket 700–720 is the *attributed* dating; pseudepigraphic later-Tang / Five Dynasties composition is the more likely on stylistic grounds.
-- **[[KR6h0023]]**: the catalog meta truncates the translator's name to *功德*; the Taishō print signs the entry "宋天竺三藏功德直譯" — the fuller form *功德直* / Gōng-dé-zhí is preferred.
+- **[[KR6h0014]] (anonymous *Shílún jīng*)**: dating window 397–439 follows the cataloguer's *附北涼錄* assignment; modern critical scholarship treats register-attributions in the *shīyì* corpus as cataloguer's reconstructions, not documentary fact (cf. Wang-Toutain 1998, Zhiru 2007).
+- **[[KR6h0016]] (*Dìzàng běnyuàn jīng*)**: the traditional attribution to [[實叉難陀]] is preserved in the frontmatter but flagged as devotionally well-established and historically uncertain. The work first appears in the Buddhist catalogues only later (definitively in the Northern Sòng) and exhibits substantial Chinese-composition features per Mochizuki, Wang-Toutain, Zhiru. Date bracket 700–720 is the *attributed* dating; pseudepigraphic later-Tang / Five Dynasties composition is the more likely on stylistic grounds.
+- **[[KR6h0023]]**: the catalog meta truncates the translator's name to *功德*; the Taishō print signs the entry "宋天竺三藏功德直譯" — the fuller form *功德直* / Gōngdézhí is preferred.
 - **[[KR6h0030]] / [[KR6h0035]]**: precisely datable through their preserved translation colophons (542 CE and 541 CE respectively); among the most well-documented Eastern-Wèi Buddhist translations.
 - **[[KR6h0026]] / [[KR6h0027]]**: traditional attribution to Lokakṣema; per Harrison 1990 and Nattier 2008 modern critical scholarship regards T0418 as the more original Lokakṣema rendering, with T0417 as an abridgement.
 

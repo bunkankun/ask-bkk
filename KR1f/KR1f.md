@@ -5,7 +5,7 @@ divisionTitlePinyin: Xiàojīng lèi
 divisionTitleEnglish: Classics — Classic of Filial Piety
 parentDivision: KR1
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-08
 ---
 
 # KR1f 孝經類 — Classics, Classic of Filial Piety
@@ -24,15 +24,15 @@ Three layers shape the division's commentarial history: (1) a Táng imperial lay
 
 - **The Sòng *gǔwén* revival.** *Gǔwén Xiàojīng zhǐjiě* 古文孝經指解 [[KR1f0005]] — Sīmǎ Guāng's *zhǐjiě* (c. 1054) appended to Fàn Zǔyǔ's *shuō* (c. 1085), the primary Sòng witness to the 22-chapter *gǔwén* text independent of the post-1731 Japanese line, and the principal pre-Zhū defence of the *gǔwén* against the established *jīnwén*.
 
-- **The Zhū-Xī editorial line.** *Xiàojīng kānwù* 孝經刋誤 [[KR1f0006]] — Zhū Xī's 1186 restructuring of the *gǔwén* into "1 *jīng* + 14 *zhuàn*" with 223 characters excised, the most consequential single intervention in the *Xiàojīng* canon after the Táng imperial commentary; *Xiàojīng dàyì* 孝經大義 [[KR1f0007]] (Dǒng Dǐng, c. 1290–1305) and *Xiàojīng dìngběn* 孝經定本 [[KR1f0008]] (Wú Chéng, 1303) are the two Yuán expositions that turned Zhū's polemic into a stable curricular text and carried the *Kānwù* recension into the Yuán–Míng examination world.
+- **The ZhūXī editorial line.** *Xiàojīng kānwù* 孝經刋誤 [[KR1f0006]] — Zhū Xī's 1186 restructuring of the *gǔwén* into "1 *jīng* + 14 *zhuàn*" with 223 characters excised, the most consequential single intervention in the *Xiàojīng* canon after the Táng imperial commentary; *Xiàojīng dàyì* 孝經大義 [[KR1f0007]] (Dǒng Dǐng, c. 1290–1305) and *Xiàojīng dìngběn* 孝經定本 [[KR1f0008]] (Wú Chéng, 1303) are the two Yuán expositions that turned Zhū's polemic into a stable curricular text and carried the *Kānwù* recension into the Yuán–Míng examination world.
 
 - **The Edo *gǔwén* recovery.** *Gǔwén Xiàojīng Kǒngshì zhuàn* 古文孝經孔氏傳 [[KR1f0003]] — the Japanese-preserved *gǔwén* 22-chapter recension with the Kǒng-attributed *zhuàn*, fixed in 1731 by Dazai Shundai 太宰純 and reintroduced into China in 1776; assessed as a Sòng-or-later Japanese fabrication by the *Sìkù* editors but a vital independent witness to pre-Xuánzōng textual states.
 
 - **The late-Míng philosophical commentary.** *Xiàojīng jízhuàn* 孝經集傳 [[KR1f0010]] — Huáng Dàozhōu's 1638–1643 prison-and-imprisonment commentary, the most ambitious philosophical reading of the work in the late Míng and the one that explicitly executes Zhū Xī's never-realized *wàizhuàn* 外傳 programme.
 
-- **The Qīng imperial pair.** *Yùdìng Xiàojīng zhù* 御定孝經注 [[KR1f0011]] — Shùnzhì's 1656 commentary, deliberately avoiding both the *jīnwén / gǔwén* dispute and the Zhū-Xī *Kānwù*; *Yùzuǎn Xiàojīng jízhù* 御纂孝經集註 [[KR1f0012]] — Yōngzhèng's 1727 compact compilation modelled on Zhū Xī's *Sìshū zhāngjù jízhù*, the standard ceremonial Qīng recension. The pair (with the unincluded 100-*juàn* Kāngxī *Xiàojīng yǎnyì* 孝經衍義) constitutes the high-Qīng imperial *Xiàojīng* programme.
+- **The Qīng imperial pair.** *Yùdìng Xiàojīng zhù* 御定孝經注 [[KR1f0011]] — Shùnzhì's 1656 commentary, deliberately avoiding both the *jīnwén / gǔwén* dispute and the ZhūXī *Kānwù*; *Yùzuǎn Xiàojīng jízhù* 御纂孝經集註 [[KR1f0012]] — Yōngzhèng's 1727 compact compilation modelled on Zhū Xī's *Sìshū zhāngjù jízhù*, the standard ceremonial Qīng recension. The pair (with the unincluded 100-*juàn* Kāngxī *Xiàojīng yǎnyì* 孝經衍義) constitutes the high-Qīng imperial *Xiàojīng* programme.
 
-- **The Qīng kǎozhèng critique.** *Xiàojīng wèn* 孝經問 [[KR1f0013]] — Máo Qílíng's polemical *wèn-dá* of c. 1685–1716, the most important Qīng critique of the Zhū-Xī editorial tradition and a key document of early kǎozhèngxué.
+- **The Qīng kǎozhèng critique.** *Xiàojīng wèn* 孝經問 [[KR1f0013]] — Máo Qílíng's polemical *wèndá* of c. 1685–1716, the most important Qīng critique of the ZhūXī editorial tradition and a key document of early kǎozhèngxué.
 
 - **The fragmentary outlier.** *Xiàojīng shùzhù* 孝經述註 [[KR1f0009]] — Xiàng Bīn's early-Míng commentary, lost from circulation and recovered by the *Sìkù* editors from the *Yǒnglè dàdiǎn* 永樂大典; included as the principal early-Míng witness in the division.
 
@@ -58,7 +58,7 @@ Three layers shape the division's commentarial history: (1) a Táng imperial lay
 - [[世祖]] — Qīng Shùnzhì emperor (1638–1661); his *Yùdìng Xiàojīng zhù* of 1656 (see [[KR1f0011]]) is the first Qīng imperial *Xiàojīng* commentary.
 - [[蔣赫德]] — Han-banner Grand Secretary; the actual compiler of the Shùnzhì commentary (see [[KR1f0011]]).
 - [[世宗胤禛]] — Qīng Yōngzhèng emperor (1678–1735); his *Yùzuǎn Xiàojīng jízhù* of 1727 (see [[KR1f0012]]) supersedes Shùnzhì's for ceremonial purposes.
-- [[毛奇齡]] — early-Qīng kǎozhèng polemicist; his *Xiàojīng wèn* (see [[KR1f0013]]) is the most important Qīng refutation of the Sòng-Yuán editorial tradition.
+- [[毛奇齡]] — early-Qīng kǎozhèng polemicist; his *Xiàojīng wèn* (see [[KR1f0013]]) is the most important Qīng refutation of the SòngYuán editorial tradition.
 - [[李清植]] — Qīng-period *kǎozhèng* collator whose collation notes are appended in the *Sìkù* recension of [[KR1f0004]].
 - [[馬融]] — Eastern Hàn scholar (79–166); pseudepigraphic author of the *Zhōngjīng* (see [[KR1f0014]]); the attribution is post-Hàn invention.
 
@@ -74,7 +74,7 @@ Three layers shape the division's commentarial history: (1) a Táng imperial lay
 
 - **Cross-canon imitation.** The *Xiàojīng* generated a small genre of formal imitations: the *Zhōngjīng* 忠經 (see [[KR1f0014]]), pseudonymously ascribed to Mǎ Róng, extending the model from filial piety to political loyalty; the *Nǚ xiàojīng* 女孝經 ascribed to "Lady née Zhèng" c. 730 (Wilkinson §11790; Murray 1988, 1990), extending it to women's filial duty. These imitations are not in the *Sìkù* but were bibliographically paired with the *Xiàojīng* in the Sòng *Tōngzhì* and the Yuán *Wénxiàn tōngkǎo*.
 
-- **The *Guīmén* 閨門 chapter and dynastic taboo.** The 24-character *Guīmén* chapter peculiar to the *gǔwén* (on family relations within the home) was excised in the Táng *jīnwén* recension; Yuán-Míng commentators (Xióng Hé in his preface to [[KR1f0007]], Sūn Běn) read this as a deliberate court-taboo response to Wǔ Zétiān 武則天 and Wéi Hòu 韋后 — an interpretation explicitly refuted at length by the *Sìkù* editors in the *Tíyào* to [[KR1f0004]]. The dispute is a useful indicator of how moralized readings of textual history were contested in the Qīng evidential-scholarship project.
+- **The *Guīmén* 閨門 chapter and dynastic taboo.** The 24-character *Guīmén* chapter peculiar to the *gǔwén* (on family relations within the home) was excised in the Táng *jīnwén* recension; YuánMíng commentators (Xióng Hé in his preface to [[KR1f0007]], Sūn Běn) read this as a deliberate court-taboo response to Wǔ Zétiān 武則天 and Wéi Hòu 韋后 — an interpretation explicitly refuted at length by the *Sìkù* editors in the *Tíyào* to [[KR1f0004]]. The dispute is a useful indicator of how moralized readings of textual history were contested in the Qīng evidential-scholarship project.
 
 ## Timeline
 
@@ -84,11 +84,11 @@ Three layers shape the division's commentarial history: (1) a Táng imperial lay
 - 1001 — *Xiàojīng zhùshū* 孝經注疏 [[KR1f0004]] — Xíng Bǐng's *zhèngyì* completed under Sòng imperial commission; the form that enters the *Shísān jīng zhùshū*.
 - 1054–1086 — *Gǔwén Xiàojīng zhǐjiě* 古文孝經指解 [[KR1f0005]] — Sīmǎ Guāng's exposition (presented to Rénzōng in 1054 and again later) plus Fàn Zǔyǔ's *shuō* of c. 1085; the principal Sòng witness to the *gǔwén* text.
 - 1186 — *Xiàojīng kānwù* 孝經刋誤 [[KR1f0006]] — Zhū Xī's restructuring and 223-character excision; the watershed event of post-Táng *Xiàojīng* history.
-- c. 1290–1305 — *Xiàojīng dàyì* 孝經大義 [[KR1f0007]] — Dǒng Dǐng's exposition of the Zhū-Xī *Kānwù* recension, published with Xióng Hé's preface in Dàdé 9 (1305).
+- c. 1290–1305 — *Xiàojīng dàyì* 孝經大義 [[KR1f0007]] — Dǒng Dǐng's exposition of the ZhūXī *Kānwù* recension, published with Xióng Hé's preface in Dàdé 9 (1305).
 - 1303 — *Xiàojīng dìngběn* 孝經定本 [[KR1f0008]] — Wú Chéng's reorganization of the *jīnwén* on the "1 *jīng* + *zhuàn*" model; the second great Yuán recension.
 - 1369–1395 — *Xiàojīng shùzhù* 孝經述註 [[KR1f0009]] — Xiàng Bīn's lost early-Míng commentary, recovered from the *Yǒnglè dàdiǎn*.
 - 1638–1643 — *Xiàojīng jízhuàn* 孝經集傳 [[KR1f0010]] — Huáng Dàozhōu's prison-period philosophical commentary, executing Zhū Xī's never-realized "outer tradition" plan.
 - 1656 — *Yùdìng Xiàojīng zhù* 御定孝經注 [[KR1f0011]] — the Shùnzhì imperial commentary, compiled by Jiǎng Hèdé; first of the Qīng imperial pair.
-- c. 1685–1716 — *Xiàojīng wèn* 孝經問 [[KR1f0013]] — Máo Qílíng's *wèn-dá* polemic against Zhū Xī and Wú Chéng; principal early-Qīng kǎozhèng critique.
+- c. 1685–1716 — *Xiàojīng wèn* 孝經問 [[KR1f0013]] — Máo Qílíng's *wèndá* polemic against Zhū Xī and Wú Chéng; principal early-Qīng kǎozhèng critique.
 - 1727 — *Yùzuǎn Xiàojīng jízhù* 御纂孝經集註 [[KR1f0012]] — the Yōngzhèng imperial *jízhù* on the model of Zhū Xī's *Sìshū zhāngjù jízhù*; the standard Qīng ceremonial recension.
 - 1731 — *Gǔwén Xiàojīng Kǒngshì zhuàn* 古文孝經孔氏傳 [[KR1f0003]] — Dazai Shundai's Edo edition of the Japanese-preserved Old-Text *zhuàn*, reintroduced into China in 1776 and included in the *Sìkù* in 1781 (the underlying Japanese material is older, but not securely datable; the received recension is at this point).
