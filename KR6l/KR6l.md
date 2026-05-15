@@ -111,12 +111,11 @@ The "three commentaries" (*sān shū* 三疏) — 普光's *Jì*, 法寶's *Shū
 
 - Total catalog entries: 45
 - Full entries written: 39 (in `kb/KR6l/`)
-- Entries logged in TODO.md (no source files): 6 ([[KR6l0024]]–0027, [[KR6l0043]]–0044; all Japanese texts)
 - Person notes created or updated: 25+ (including 舍利弗, 目犍連, 世友, 玄奘, 真諦, 世親菩薩, 安慧, 眾賢, 普光, 圓暉, 神泰, 法寶 [Tang], 遁麟, 法盈, 慧暉 [Tang], 元瑜, 法成, 安世高, and others from the previous session)
 
 ## Key Scholarly Findings
 
-1. **Translation date data**: Colophons and prefaces confirm specific dates for several translations: [[KR6l0002]] (T1537, colophon: 顯慶四年九月十四日 = Sept 14, 659), [[KR6l0008]] (T1543, 前秦建元十九年 = 383 CE), [[KR6l0010]] (T1545, 顯慶元年 = 656 – 龍朔三年 = 663).
+1. **Translation date data**: Colophons and prefaces confirm specific dates for several translations: [[KR6l0002]] (T1537, colophon: 顯慶四年九月十四日 = Sept 14, 659), [[KR6l0008]] (T1543, 前秦建元十九年 = 383 CE **sth wrong here!!**), [[KR6l0010]] (T1545, 顯慶元年 = 656 – 龍朔三年 = 663).
 
 2. **Dual Vasubandhu problem**: Person notes document the ongoing debate about whether the author of the *Kośa* and the Yogācāra works are the same person or two distinct *Vasubandhus*.
 
@@ -124,4 +123,3 @@ The "three commentaries" (*sān shū* 三疏) — 普光's *Jì*, 法寶's *Shū
 
 4. **Jiǎ Céng's preface**: The preface to 圓暉's *Sòng Shū* ([[KR6l0036]]) by the official 賈曾 is a rare non-monastic witness to the Tang Kōsha commentary tradition and explicitly documents the transmission chain from Xuanzang through 普光 to 圓暉.
 
-5. **Japanese Kōsha tradition**: Six texts ([[KR6l0024]]–0027, 0043–0044) are Japanese Kōsha studies with no source files in the KRP tree, reflecting the division's dual Chinese/Japanese scope.
