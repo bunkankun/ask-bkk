@@ -1,11 +1,12 @@
 ---
 division: KR6c
-divisionTitle: 般若部
-divisionTitlePinyin: Bōrě bù
-divisionTitleEnglish: Buddhist canon — Prajñāpāramitā (Perfection of Wisdom) literature
+title: 般若部
+titlePinyin: Bōrě bù
+titleEnglish: Buddhist canon — Prajñāpāramitā (Perfection of Wisdom) literature
 parentDivision: KR6
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
+reviewed: 2026-05-16
 ---
 
 # Bōrě bù 般若部 — Prajñāpāramitā literature

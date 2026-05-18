@@ -1,11 +1,12 @@
 ---
 division: KR3ec
-divisionTitle: 本草類
-divisionTitlePinyin: Běncǎo lèi
-divisionTitleEnglish: Masters — Medical Works — Materia Medica
+title: 本草類
+titlePinyin: Běncǎo lèi
+titleEnglish: Masters — Medical Works — Materia Medica
 parentDivision: KR3e
 created: 2026-05-15
-updated: 2026-05-08
+updated: 2026-05-16
+reviewed: 2026-05-16
 ---
 
 ### Scope and scholarly tradition

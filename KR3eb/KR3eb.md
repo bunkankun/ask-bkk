@@ -1,11 +1,12 @@
 ---
 division: KR3eb
-divisionTitle: 診法
-divisionTitlePinyin: Zhěn fǎ
-divisionTitleEnglish: Masters — Medicine — Diagnostic Methods
+title: 診法
+titlePinyin: Zhěn fǎ
+titleEnglish: Masters — Medicine — Diagnostic Methods
 parentDivision: KR3e
 created: 2026-05-15
-updated: 2026-05-08
+updated: 2026-05-16
+reviewed: 2026-05-16
 ---
 
 ## Scope and scholarly tradition

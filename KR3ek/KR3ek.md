@@ -1,14 +1,13 @@
 ---
 division: KR3ek
-divisionTitle: 外科
-divisionTitlePinyin: Wài-kē
-divisionTitleEnglish: Masters — Medical Writings — External Medicine
+title: 外科
+titlePinyin: Wàikē
+titleEnglish: Masters — Medical Writings — External Medicine
 parentDivision: KR3e
 created: 2026-05-15
-updated: 2026-05-08
+updated: 2026-05-16
+reviewed: 2026-05-16
 ---
-
-# KR3ek — Wàikē 外科 (External Medicine / Surgery)
 
 ## Scope and scholarly tradition
 
@@ -44,7 +43,7 @@ The division's principal works fall into recognisable clusters that an outline o
 
 ## Important persons
 
-- [[劉涓子]] (Liú Juānzǐ, *fl.* late Jìn / early LiúSòng) and [[龔慶宣]] (Gōng Qìngxuān, 499 colophon) — the eponymous attribution and the actual recension-editor of the earliest extant Chinese surgical monograph [[KR3ek040]].
+- [[劉涓子]] (Liú Juānzǐ, *fl.* late Jìn / early Liú-Sòng) and [[龔慶宣]] (Gōng Qìngxuān, 499 colophon) — the eponymous attribution and the actual recension-editor of the earliest extant Chinese surgical monograph [[KR3ek040]].
 - [[陳自明]] (Chén Zìmíng, *fl.* mid-13th c.) — Southern-Sòng author of [[KR3ek012]] *Wàikē jīngyào*, codifier of the *yōngjū bì běn yú nèi* doctrine that frames the rest of the division.
 - [[齊德之]] (Qí Dézhī, *fl.* 1330s) — Yuán court surgeon (御藥院外科太醫), author of [[KR3ek005]] *Wàikē jīngyì*; explicitly cited in Hinrichs & Barnes 2013 as a representative of the Yuán-period polemic against unlettered *chuāngyī*.
 - [[汪機]] (Wāng Jī, 1463–1539) — founder of the Xīnān 新安 medical school, author of [[KR3ek045]] *Wàikē lǐlì* (1531); the first Míng systematic absorption of *wàikē* into literati internal-medicine *bǔtǔ* doctrine.
@@ -88,11 +87,11 @@ The division's principal works fall into recognisable clusters that an outline o
 - **c. 1180–1196** — *Jíyàn bèijū fāng* 集驗背疽方 ([[李迅]]) [[KR3ek037]] — Sòng specialist monograph on back carbuncles; principal source for Chén Zìmíng.
 - **1263** — *Wàikē jīngyào* 外科精要 ([[陳自明]]) [[KR3ek012]] — Southern-Sòng codification of the *yōngjū bì běn yú nèi* doctrine; transmitted in [[薛己]]'s 1547 expanded recension.
 - **c. 1330–1335** — *Wàikē jīngyì* 外科精義 ([[齊德之]]) [[KR3ek005]] — Yuán court-surgeon's importation of pulse-diagnosis into surgery.
-- **c. 1378–1382** — *Xiānchuán wàikē jíyàn fāng* 仙傳外科集驗方 ([[趙宜真]]) [[KR3ek004]] — YuánMíng transition; Daoist *xiānchuán* surgical formulary derived from [[楊清叟]].
+- **c. 1378–1382** — *Xiānchuán wàikē jíyàn fāng* 仙傳外科集驗方 ([[趙宜真]]) [[KR3ek004]] — Yuán-Míng transition; Daoist *xiānchuán* surgical formulary derived from [[楊清叟]].
 - **c. 1378–1395** — *Mìchuán wàikē fāng* 秘傳外科方 ([[趙宜真]]) [[KR3ek007]] — companion to [[KR3ek004]].
 - **c. 1430–1450** — *Yōngjū shénmì yànfāng* 癰疽神秘驗方 ([[陶華]], with [[薛己]] editorial collation) [[KR3ek046]] — mid-Míng popular-formulary witness.
 - **1498** — *Wàikē jíyàn fāng* 外科集驗方 ([[周文采]]) [[KR3ek006]] — mid-Míng Hóngzhì compilation.
-- **1522–1566** — *Jiěwéi yuánsǒu* 解圍元藪 ([[沈之問]]) [[KR3ek035]] — Jiā-jìng-era leprosy monograph; key Míng witness to contagion theory.
+- **1522–1566** — *Jiěwéi yuánsǒu* 解圍元藪 ([[沈之問]]) [[KR3ek035]] — Jiājìng-era leprosy monograph; key Míng witness to contagion theory.
 - **1528** — *Lìzhāi wàikē fāhuī* 立齋外科發揮 ([[薛己]]) [[KR3ek039]] — Xuē Jǐ's first major surgical work.
 - **c. 1528–1559** — *Wàikē xīnfǎ* 外科心法 ([[薛己]]) [[KR3ek024]] — programmatic statement of the *wēnbǔ* surgical doctrine.
 - **1531** — *Wàikē lǐlì* 外科理例 ([[汪機]]) [[KR3ek045]] — founding text of the Xīnān surgical line, incorporating Xuē Jǐ in the 1537 print.
@@ -116,9 +115,9 @@ The division's principal works fall into recognisable clusters that an outline o
 - **1776** — *Wàikē xuǎnyào* 外科選要 ([[唐黌]]) [[KR3ek015]] — Qiánlóng condensed teaching text.
 - **1778** — *Shànqì zhèngzhì lùn* 疝氣證治論 ([[大橋尚因]]) [[KR3ek049]] — Edo hernia monograph.
 - **1778** — *Shànzhèng jījù* 疝症積聚 ([[大橋尚因]]) [[KR3ek050]] — companion Edo hernia treatise.
-- **c. 1780–1795** — *Tóngyuán yīshū · Wàikē* 彤園醫書·外科 ([[鄭玉壇]]) [[KR3ek028]] — late-Qián-lóng synthesis.
+- **c. 1780–1795** — *Tóngyuán yīshū · Wàikē* 彤園醫書·外科 ([[鄭玉壇]]) [[KR3ek028]] — late-Qiánlóng synthesis.
 - **1786–1787** — *Méilì xīnshū* / *Bairai shinsho* 黴癘新書 ([[片倉元周]]) [[KR3ek048]] — Edo specialist on syphilis and leprosy, incorporating Dutch surgical recipes.
-- **c. 1796–1845** — *Fēngmén quánshū* 瘋門全書 ([[肖曉亭]]) [[KR3ek041]] — late-Qián-lóng / early-Dào-guāng leprosy monograph.
+- **c. 1796–1845** — *Fēngmén quánshū* 瘋門全書 ([[肖曉亭]]) [[KR3ek041]] — late-Qiánlóng / early-Dàoguāng leprosy monograph.
 - **1805** — *Yángkē xīndé jí* 瘍科心得集 ([[高秉鈞]]) [[KR3ek042]] — founding text of the *xīndé* school; third member of the Qīng canonical triad.
 - **1808–1831** — *Wàikē zhèngzhì quánshū* 外科證治全書 ([[許克昌]]) [[KR3ek001]] — late-Qīng *quánshēng*-school popularisation; with the prior unfinished draft of [[畢法]].
 - **c. 1810–1844** — *Wàikē bèiyào* 外科備要 ([[易鳳翥]]) [[KR3ek026]] — Dàoguāng practitioner's handbook.

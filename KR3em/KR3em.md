@@ -1,20 +1,21 @@
 ---
-division: KR3em
-divisionTitle: 五官科
-divisionTitlePinyin: Wǔ-guān kē
-divisionTitleEnglish: Masters — Medicine — Diseases of the Sense Organs (Eye, Throat, Mouth-and-Teeth)
-parentDivision: KR3e
+textid: KR3em
+title: 五官科
+titlePinyin: Wǔguān kē
+titleEnglish: Masters — Medicine — Diseases of the Sense Organs (Eye, Throat, Mouth-and-Teeth)
+parent: KR3e
 created: 2026-05-15
-updated: 2026-05-08
+updated: 2026-05-16
+reviewed: 2026-05-16
 ---
 
 # KR3em — Wǔguān kē 五官科
 
 ## Scope and scholarly tradition
 
-KR3em is the *wǔguān kē* 五官科 ("five sense-organs") sub-division of `KR3e` 醫家類 (Medicine), itself the principal medical sub-section of `KR3` 子部 (Masters). It collects late-imperial and early-Republican Chinese specialty monographs on diseases of the **eye** (*yǎnkē* 眼科), the **throat and larynx** (*hóukē* 喉科), and the **mouth and teeth** (*kǒuchǐ* 口齒). The selection criterion is editorial rather than canonical: every one of the 39 cataloged entries carries the source code `hxwd`, i.e. the *Hǎiwài huíliú zhōngyī shànběn gǔjí cóngshū* 海外回流中醫善本古籍叢書 ("Returned-from-Overseas Collectanea of Chinese Medical Rare Books and Old Editions"), a modern reprint series of rare medical books — many of them recovered from Japanese and Korean libraries — that fall outside the *Sìkù quánshū* canon. There is no WYG-edition material in this sub-division and no *tíyào* sections in the per-text notes; per project convention the front-matter section is *Prefaces* instead.
+KR3em is the *wǔguān kē* 五官科 ("five sense-organs") sub-division of `KR3e` 醫家類 (Medicine), itself the principal medical sub-section of `KR3` 子部 (Masters). It collects late-imperial and early-Republican Chinese specialty monographs on diseases of the **eye** (*yǎnkē* 眼科), the **throat and larynx** (*hóukē* 喉科), and the **mouth and teeth** (*kǒuchǐ* 口齒). The selection criterion is editorial rather than canonical: every one of the 39 cataloged entries was sourced from the *jicheng.tw* 漢學文典 digital collection of Chinese medical texts — many of the underlying witnesses recovered from Japanese and Korean libraries — that fall outside the *Sìkù quánshū* canon. There is no WYG-edition material in this sub-division and no *tíyào* sections in the per-text notes; per project convention the front-matter section is *Prefaces* instead.
 
-Chronologically the collection spans the YuánMíng transition (the *Yuánjī qǐwēi* 原機啟微 of 1370–1391, [[KR3em001]]) to the final years of the Qīng and the early Republic (the *Hóukē jiāxùn* 喉科家訓 of 1918–1924, [[KR3em038]]; the *Hóukē jīnyuè quánshū* 喉科金鑰全書 of *Xuāntǒng* 3 / 1911, [[KR3em034]]). The bulk of the corpus is Qīng (28 of 39 entries). Three doctrinal currents organise the field: (1) the Indo-Buddhist couching-for-cataract surgical tradition repackaged in the *Lóngmù lùn* 龍木論 group of pseudo-Sūn Sīmiǎo eye texts; (2) the JīnYuán *qìxuè / zàngfǔ* aetiological synthesis of the Dānxī school as applied to ophthalmology by [[倪維德]] Ní Wéidé and re-canonised in the imperial *Yīzōng jīnjiàn* 醫宗金鑑 ([[KR3em007]]); and (3) the family-and-region transmissions of throat medicine that crystallised in the Yóu 尤, Zhāng 張, Jiāo 焦, and Zhèng 鄭 lineages of the JiāngNán *qīshíèr zhǒng yānhóu* (72-throat-disorder) genre, and which were forced into a programmatic recasting by the late-nineteenth-century diphtheria (*báihóu* 白喉) epidemics. Wilkinson (Section 41, "Medicine"; §41.3) treats specialty disciplines like ophthalmology and laryngology as a late development of the secular medical bibliography, paralleling the rise of clan-transmitted *jiāchuán* 家傳 medical practice in MíngQīng JiāngNán; Hinrichs and Barnes (2013, pp. 78, 109–113, 196, 343–345) supply the scholarly anchor for the Indo-Buddhist surgical strand and for the late-Qīng diphtheria literature.
+Chronologically the collection spans the Yuán–Míng transition (the *Yuánjī qǐwēi* 原機啟微 of 1370–1391, [[KR3em001]]) to the final years of the Qīng and the early Republic (the *Hóukē jiāxùn* 喉科家訓 of 1918–1924, [[KR3em038]]; the *Hóukē jīnyuè quánshū* 喉科金鑰全書 of *Xuāntǒng* 3 / 1911, [[KR3em034]]). The bulk of the corpus is Qīng (28 of 39 entries). Three doctrinal currents organise the field: (1) the Indo-Buddhist couching-for-cataract surgical tradition repackaged in the *Lóngmù lùn* 龍木論 group of pseudo-Sūn Sīmiǎo eye texts; (2) the Jīn–Yuán *qìxuè / zàngfǔ* aetiological synthesis of the Dānxī school as applied to ophthalmology by [[倪維德]] Ní Wéidé and re-canonised in the imperial *Yīzōng jīnjiàn* 醫宗金鑑 ([[KR3em007]]); and (3) the family-and-region transmissions of throat medicine that crystallised in the Yóu 尤, Zhāng 張, Jiāo 焦, and Zhèng 鄭 lineages of the Jiāngnán *qīshí'èr zhǒng yānhóu* (72-throat-disorder) genre, and which were forced into a programmatic recasting by the late-nineteenth-century diphtheria (*báihóu* 白喉) epidemics. Wilkinson (Section 41, "Medicine"; §41.3) treats specialty disciplines like ophthalmology and laryngology as a late development of the secular medical bibliography, paralleling the rise of clan-transmitted *jiāchuán* 家傳 medical practice in MíngQīng JiāngNán; Hinrichs and Barnes (2013, pp. 78, 109–113, 196, 343–345) supply the scholarly anchor for the Indo-Buddhist surgical strand and for the late-Qīng diphtheria literature.
 
 ## Important texts and text clusters
 

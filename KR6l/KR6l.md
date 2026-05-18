@@ -1,11 +1,14 @@
 ---
 division: KR6l
-title: 阿毘達磨論 (Abhidharma Treatises)
+title: 毘曇部類
+titlePinyin: Pídān bùlèi
+titleEnglish: Abhidharma Treatises
+parentDivision: KR6
 entryCount: 45
-catalogedEntries: 39
-skippedEntries: 6
+catalogedEntries: 45
 created: 2026-04-29
-updated: 2026-05-08
+updated: 2026-05-16
+reviewed: 2026-05-16
 ---
 
 # KR6l Division Summary: Abhidharma Treatises
@@ -110,8 +113,8 @@ The "three commentaries" (*sān shū* 三疏) — 普光's *Jì*, 法寶's *Shū
 ## Statistics
 
 - Total catalog entries: 45
-- Full entries written: 39 (in `kb/KR6l/`)
-- Person notes created or updated: 25+ (including 舍利弗, 目犍連, 世友, 玄奘, 真諦, 世親菩薩, 安慧, 眾賢, 普光, 圓暉, 神泰, 法寶 [Tang], 遁麟, 法盈, 慧暉 [Tang], 元瑜, 法成, 安世高, and others from the previous session)
+- Full entries written: 45 (in `kb/KR6l/`)
+- Person notes: 30+ (including 舍利弗, 目犍連, 世友, 玄奘, 真諦, 世親菩薩, 安慧, 眾賢, 普光, 圓暉, 神泰, 法寶 [Tang], 遁麟, 法盈, 慧暉 [Tang], 元瑜, 法成, 安世高, 五百大阿羅漢, 道摽, 慧力, 覺天, 德慧, 賈曾, 息菴, 廓瑩, 荻生徂徠, 快辨, 清澊, 尊契, 中村五兵衞尉, etc.)
 
 ## Key Scholarly Findings
 

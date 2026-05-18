@@ -1,11 +1,12 @@
 ---
 division: KR6d
-divisionTitle: 法華部
-divisionTitlePinyin: Fǎhuá bù
-divisionTitleEnglish: Buddhist Canon — Saddharmapuṇḍarīka (Lotus) Section
+title: 法華部
+titlePinyin: Fǎhuá bù
+titleEnglish: Buddhist Canon — Saddharmapuṇḍarīka (Lotus) Section
 parentDivision: KR6
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
+reviewed: 2026-05-16
 ---
 
 # Fǎhuá bù 法華部 — Saddharmapuṇḍarīka (Lotus) Section

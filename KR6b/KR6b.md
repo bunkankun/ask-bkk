@@ -1,11 +1,12 @@
 ---
 division: KR6b
-title: 　本緣部
-divisionTitlePinyin: Běnyuán bù
-divisionTitleEnglish: Buddhist Canon — Past-Life Narratives (Jātaka, Avadāna, Buddha-Biography, Parable, Dharmapada)
+title: 本緣部
+titlePinyin: Běnyuán bù
+titleEnglish: Buddhist Canon — Past-Life Narratives (Jātaka, Avadāna, Buddha-Biography, Parable, Dharmapada)
 parentDivision: KR6
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
+reviewed: 2026-05-16
 ---
 
 ## Scope and scholarly tradition

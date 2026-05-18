@@ -1,11 +1,12 @@
 ---
-division: KR3ej
-divisionTitle: 幼科
-divisionTitlePinyin: Yòukē
-divisionTitleEnglish: Masters → Medicine — Paediatrics
+textid: KR3ej
+title: 幼科
+titlePinyin: Yòukē
+titleEnglish: Masters → Medicine — Paediatrics
 parentDivision: KR3e
 created: 2026-05-15
-updated: 2026-05-08
+updated: 2026-05-16
+reviewed: 2026-05-16
 ---
 
 ## Scope and scholarly tradition

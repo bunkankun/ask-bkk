@@ -1,11 +1,12 @@
 ---
 division: KR6n
-divisionTitle: 瑜伽部
-divisionTitlePinyin: Yújiā bù
-divisionTitleEnglish: Yogācāra works
+title: 瑜伽部
+titlePinyin: Yújiā bù
+titleEnglish: Yogācāra works
 parentDivision: KR6
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-18
+reviewed: 2026-05-16
 ---
 
 ### Scope and scholarly tradition

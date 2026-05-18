@@ -1,11 +1,12 @@
 ---
 division: KR3e
-divisionTitle: 醫家類
-divisionTitlePinyin: Yī jiā lèi
-divisionTitleEnglish: Masters — Medicine
+title: 醫家類
+titlePinyin: Yī jiā lèi
+titleEnglish: Masters — Medicine
 parentDivision: KR3
 created: 2026-05-15
-updated: 2026-05-08
+updated: 2026-05-16
+reviewed: 2026-05-16
 ---
 
 ## Scope and scholarly tradition

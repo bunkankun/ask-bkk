@@ -1,11 +1,12 @@
 ---
 division: KR3ei
-divisionTitle: 婦科
-divisionTitlePinyin: Fùkē
-divisionTitleEnglish: Masters → Medicine — Gynecology and Obstetrics
+title: 婦科
+titlePinyin: Fùkē
+titleEnglish: Masters → Medicine — Gynecology and Obstetrics
 parentDivision: KR3e
 created: 2026-05-15
-updated: 2026-05-08
+updated: 2026-05-16
+reviewed: 2026-05-16
 ---
 
 ## Scope and scholarly tradition

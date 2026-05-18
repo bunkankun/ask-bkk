@@ -1,18 +1,19 @@
 ---
 division: KR6h
-divisionTitle: 大集部
-divisionTitlePinyin: Dà jí bù
-divisionTitleEnglish: Buddhist Canon — Mahāsaṃnipāta Section
+title: 大集部
+titlePinyin: Dà jí bù
+titleEnglish: Buddhist Canon — Mahāsaṃnipāta Section
 parentDivision: KR6
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
+reviewed: 2026-05-16
 ---
 
 ### Scope and scholarly tradition
 
 The Kanripo division KR6h corresponds to the *Dà jí bù* 大集部 (Mahāsaṃnipāta section) of the Taishō Tripiṭaka, occupying T13 (sūtras T0397–T0424 in the printed sequence, with omissions where the Kanripo selection differs). In the Taishō's own structural map (*div05* = 大集部) the section is built around T0397 *Dà fāngděng dà jí jīng* 大方等大集經 [[KR6h0001]], a sixty-fascicle compilation in which translations made independently in the third to seventh centuries were stitched together into a single "Great Assembly" frame. Around this central text the canon collects (a) earlier or alternative renderings of individual sections that survived as separate sūtras, (b) thematically affiliated cycles concerning the bodhisattvas Ākāśagarbha (虛空藏) and Kṣitigarbha (地藏), (c) the *Pratyutpanna-buddha-saṃmukhāvasthita-samādhi* (般舟三昧) and *Bodhisattva-buddhānusmṛti-samādhi* (菩薩念佛三昧) corpora, and (d) a handful of free-standing Mahāyāna sūtras and one Indic śāstra (T0524 = [[KR6h0035]]) whose textual ancestry lies in the same "great assembly" matrix.
 
-The chronological span is wider than that of any other Mahāyāna sūtra division in the canon: it opens with Lokakṣema's late-Hàn renderings of the *Pratyutpanna-samādhi* (179 CE, [[KR6h0026]] / [[KR6h0027]]) — among the earliest datable Chinese Buddhist translations of any kind — and closes with Northern Sòng court-bureau retranslations under Dānapāla and Wéijìng (late tenth to early eleventh century, [[KR6h0004]] / [[KR6h0033]] / [[KR6h0034]]). The Kanripo selection also extends the section sideways into Míng-Qīng paratexts: Zhìxù's Pure-Land repentance liturgy ([[KR6h0020]]) and the three Qīng commentaries on the *Dìzàng běnyuàn jīng* by Língchéng ([[KR6h0017]] / [[KR6h0018]] / [[KR6h0019]]). The principal transmissional traditions a reader must keep in view are therefore three: the Indo-Iranian / Khotanese-mediated translation stream of the fifth century (Dharmakṣema 曇無讖, Buddhayaśas 佛陀耶舍, Dharmamitra 曇摩蜜多), the Suí-Táng Indic-Sanskritic stream (Jñānagupta 闍那崛多, Dharmagupta 達磨笈多, Xuánzàng 玄奘, Prabhākaramitra 波羅頗蜜多羅, Amoghavajra 不空), and the Northern-Sòng *Yìjīng yuàn* 譯經院 bureau stream (Dānapāla 施護, Wéijìng 惟淨, Jīn Zǒngchí 金總持).
+The chronological span is wider than that of any other Mahāyāna sūtra division in the canon: it opens with Lokakṣema's late-Hàn renderings of the *Pratyutpanna-samādhi* (179 CE, [[KR6h0026]] / [[KR6h0027]]) — among the earliest datable Chinese Buddhist translations of any kind — and closes with Northern Sòng court-bureau retranslations under Dānapāla and Wéijìng (late tenth to early eleventh century, [[KR6h0004]] / [[KR6h0033]] / [[KR6h0034]]). The Kanripo selection also extends the section sideways into Míng-Qīng paratexts: Zhìxù's Pure-Land repentance liturgy ([[KR6h0020]]) and the three Qīng commentaries on the *Dìzàng běnyuàn jīng* by Língshèng ([[KR6h0017]] / [[KR6h0018]] / [[KR6h0019]]). The principal transmissional traditions a reader must keep in view are therefore three: the Indo-Iranian / Khotanese-mediated translation stream of the fifth century (Dharmakṣema 曇無讖, Buddhayaśas 佛陀耶舍, Dharmamitra 曇摩蜜多), the Suí-Táng Indic-Sanskritic stream (Jñānagupta 闍那崛多, Dharmagupta 達磨笈多, Xuánzàng 玄奘, Prabhākaramitra 波羅頗蜜多羅, Amoghavajra 不空), and the Northern-Sòng *Yìjīng yuàn* 譯經院 bureau stream (Dānapāla 施護, Wéijìng 惟淨, Jīn Zǒngchí 金總持).
 
 ### Important texts and text clusters
 
@@ -22,7 +23,7 @@ The chronological span is wider than that of any other Mahāyāna sūtra divisio
 
 - **The Ākāśagarbha (虛空藏) cluster.** Five recensions of a single cult-text plus one "great" expansion: [[KR6h0008]] (Amoghavajra, Táng), [[KR6h0009]] (Buddhayaśas, Yáo Qín), [[KR6h0010]] (anonymous Eastern Jìn), [[KR6h0011]] (Dharmamitra, Liú Sòng), [[KR6h0012]] (Jñānagupta, Suí), [[KR6h0013]] (Dharmamitra, visualization manual). The cluster is one of the most extensively-retranslated complexes in the Chinese canon and is the principal source for medieval East-Asian Ākāśagarbha devotion.
 
-- **The Kṣitigarbha (地藏) cluster.** Two distinct strata: the *Daśacakra-kṣitigarbha* sūtras [[KR6h0014]] (anonymous, fifth century) and [[KR6h0015]] (Xuánzàng, 651) — eschatological texts on the "ten wheels" of dharma in a *mòfǎ* 末法 age; and the *Dìzàng běnyuàn jīng* 地藏菩薩本願經 [[KR6h0016]] (attributed to Śikṣānanda but almost certainly a Táng-period Chinese composition), which became the canonical scripture of East-Asian Kṣitigarbha cult and attracted the Qīng commentaries [[KR6h0017]] / [[KR6h0018]] / [[KR6h0019]] by Língchéng 靈椉 and the repentance liturgies [[KR6h0020]] / [[KR6h0021]]. Closing the cluster is the short Indic verse-text [[KR6h0022]] (Amoghavajra), which links Kṣitigarbha back to the Mahāsaṃnipāta frame.
+- **The Kṣitigarbha (地藏) cluster.** Two distinct strata: the *Daśacakra-kṣitigarbha* sūtras [[KR6h0014]] (anonymous, fifth century) and [[KR6h0015]] (Xuánzàng, 651) — eschatological texts on the "ten wheels" of dharma in a *mòfǎ* 末法 age; and the *Dìzàng běnyuàn jīng* 地藏菩薩本願經 [[KR6h0016]] (attributed to Śikṣānanda but almost certainly a Táng-period Chinese composition), which became the canonical scripture of East-Asian Kṣitigarbha cult and attracted the Qīng commentaries [[KR6h0017]] / [[KR6h0018]] / [[KR6h0019]] by Língshèng 靈椉 and the repentance liturgies [[KR6h0020]] / [[KR6h0021]]. Closing the cluster is the short Indic verse-text [[KR6h0022]] (Amoghavajra), which links Kṣitigarbha back to the Mahāsaṃnipāta frame.
 
 - **The *Pratyutpanna-samādhi* / *Buddhānusmṛti-samādhi* cluster.** Lokakṣema's two parallel late-Hàn translations [[KR6h0026]] / [[KR6h0027]] (the latter the locus classicus for early Mahāyāna Buddha-visualization practice and a foundational text for the East-Asian Pure-Land tradition), the anonymous Hàn-period [[KR6h0028]] of the same source, the Suí re-translation as a section of the *Dà jí jīng* [[KR6h0025]] by Jñānagupta, and the closely-related *Púsà niànfó sānmèi jīng* of Gōngdézhí 功德直 [[KR6h0023]] together with its Suí re-translation by Dharmagupta [[KR6h0024]]. Together these works document four centuries of meditation-manual transmission within a single textual lineage.
 
@@ -58,7 +59,7 @@ The chronological span is wider than that of any other Mahāyāna sūtra divisio
 - [[惟淨]] (Wéijìng, 973–c. 1051) — Northern-Sòng court-bureau translator-monk who led the eighteen-fascicle rendering of *Sāgaramati-paripṛcchā* [[KR6h0004]].
 - [[金總持]] (Jīn Zǒngchí, fl. late eleventh c.) — Sòng translator of [[KR6h0033]].
 - [[智旭]] (Ouyi Zhìxù, 1599–1655) — Late-Míng Tiāntái-Pure-Land synthesizer whose Kṣitigarbha repentance liturgy [[KR6h0020]] is the principal Míng paratext in the division.
-- [[靈椉]] (Língchéng, fl. mid-Qīng) — author of the three Qīng commentaries on the *Dìzàng běnyuàn jīng* [[KR6h0017]] / [[KR6h0018]] / [[KR6h0019]] — the densest commentarial reception of any single text in the division.
+- [[靈椉]] (Língshèng, fl. mid-Qīng) — author of the three Qīng commentaries on the *Dìzàng běnyuàn jīng* [[KR6h0017]] / [[KR6h0018]] / [[KR6h0019]] — the densest commentarial reception of any single text in the division.
 
 ### Topics
 
@@ -97,7 +98,7 @@ The chronological span is wider than that of any other Mahāyāna sūtra divisio
 - 541 — *Bǎojì jīng sìfǎ yōubōtíshè* 寶髻經四法憂波提舍 [[KR6h0035]] — Vasubandhu's *upadeśa* translated by Vimokṣasena, Prajñāruci, and Tánlín; the only śāstra in the division.
 - 542 — *Fènxùn-wáng wèn jīng* 奮迅王問經 [[KR6h0030]] — Prajñāruci and Tánlín, Eastern-Wèi retranslation of the *Vikurvāṇa-rāja-paripṛcchā*.
 - 587–600 — *Xūkōngyùn púsà jīng* 虛空孕菩薩經 [[KR6h0012]] — Jñānagupta, Suí *Ākāśagarbha* recension.
-- 587–600 — *Dà jí pìyù-wáng jīng* 大集譬喻王經 [[KR6h0031]] — Jñānagupta, Suí.
+- 587–600 — *Dà jí pìyùwáng jīng* 大集譬喻王經 [[KR6h0031]] — Jñānagupta, Suí.
 - 590–619 — *Púsà niànfó sānmèi fēn* 菩薩念佛三昧分 [[KR6h0024]] — Dharmagupta, Suí re-rendering of [[KR6h0023]].
 - 595 — *Xiánhù fēn* 賢護分 [[KR6h0025]] — Jñānagupta, Suí *Bhadrapāla / Pratyutpanna-samādhi* as a section of [[KR6h0001]].
 - 629–630 — *Bǎoxīng tuóluóní jīng* 寶星陀羅尼經 [[KR6h0006]] — Prabhākaramitra, early Táng.
@@ -109,7 +110,7 @@ The chronological span is wider than that of any other Mahāyāna sūtra divisio
 - 1004–1037 — *Hǎiyì púsà suǒ wèn jìngyìn fǎmén jīng* 海意菩薩所問淨印法門經 [[KR6h0004]] — Wéijìng and the *Yìjīng yuàn* bureau.
 - 1037–1100 — *Dàshèng sēngjiāzhā fǎyì jīng* 大乘僧伽吒法義經 [[KR6h0033]] — Jīn Zǒngchí, late Northern Sòng.
 - 1610–1655 — *Zànlǐ dìzàng púsà chànyuàn yí* 讚禮地藏菩薩懺願儀 [[KR6h0020]] — Ouyi Zhìxù's Pure-Land Kṣitigarbha repentance liturgy.
-- 1644–1722 — *Dìzàng běnyuàn jīng kēwén* 地藏本願經科文 [[KR6h0017]] — Língchéng, Qīng topical outline.
-- 1644–1722 — *Dìzàng běnyuàn jīng lúnguàn* 地藏本願經綸貫 [[KR6h0018]] — Língchéng, Qīng general synthesis.
-- 1644–1722 — *Dìzàng běnyuàn jīng kēzhù* 地藏本願經科註 [[KR6h0019]] — Língchéng, Qīng sectioned commentary.
+- 1644–1722 — *Dìzàng běnyuàn jīng kēwén* 地藏本願經科文 [[KR6h0017]] — Língshèng, Qīng topical outline.
+- 1644–1722 — *Dìzàng běnyuàn jīng lúnguàn* 地藏本願經綸貫 [[KR6h0018]] — Língshèng, Qīng general synthesis.
+- 1644–1722 — *Dìzàng běnyuàn jīng kēzhù* 地藏本願經科註 [[KR6h0019]] — Língshèng, Qīng sectioned commentary.
 - 1644–1911 — *Cíbēi dìzàng púsà chànfǎ* 慈悲地藏菩薩懺法 [[KR6h0021]] — anonymous Qīng repentance liturgy; the latest text in the division.

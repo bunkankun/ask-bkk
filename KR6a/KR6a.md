@@ -1,11 +1,12 @@
 ---
 division: KR6a
-divisionTitle: 阿含部
-divisionTitlePinyin: Āhán bù
-divisionTitleEnglish: Buddhist Canon — Āgama Section
+title: 阿含部
+titlePinyin: Āhán bù
+titleEnglish: Buddhist Canon — Āgama Section
 parentDivision: KR6
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
+reviewed: 2026-05-16
 ---
 
 ### Scope and scholarly tradition

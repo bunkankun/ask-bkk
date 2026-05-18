@@ -1,18 +1,19 @@
 ---
-division: KR3ef
-divisionTitle: 傷寒金匱
-divisionTitlePinyin: Shānghán Jīnguì
-divisionTitleEnglish: Masters — Medicine — Treatises on Cold Damage and the Golden Casket
+textid: KR3ef
+title: 傷寒金匱
+titlePinyin: Shānghán Jīnguì
+titleEnglish: Masters — Medicine — Treatises on Cold Damage and the Golden Casket
 parentDivision: KR3e
 created: 2026-05-15
-updated: 2026-05-08
+updated: 2026-05-16
+reviewed: 2026-05-16
 ---
 
 ## Scope and scholarly tradition
 
-`KR3ef` 傷寒金匱 (*Shānghán Jīnguì*, "Treatises on Cold Damage and the Golden Casket") is the sixth sub-division of `KR3e` 醫家類 (Masters — Medicine) and gathers the entire commentarial and pedagogical tradition built around the two canonical clinical works attributed to the Eastern-Hàn physician [[張機]] Zhāng Jī (Zhòngjǐng 仲景, *c.* 150–219): the *Shānghán lùn* 傷寒論 ([[KR3ef001]]) and the *Jīnguì yào lüè* 金匱要略 ([[KR3ef079]]). The two are halves of a single original work, the *Shānghán zábìng lùn* 傷寒雜病論 — the *Shānghán lùn* covering acute externally-contracted "cold damage" febrile disease in a six-channel (*liùjīng* 六經) progression, the *Jīnguì yào lüè* covering chronic and miscellaneous internal disorders (*zábìng* 雜病). Together they constitute the foundational clinical canon of the entire late-imperial Chinese medical tradition: as Endymion Wilkinson (*Chinese History: A New Manual*, §41.3.1 #3–4) registers, the *Shānghán lùn* and *Jīnguì yào lüè* are the two pre-Táng titles around which the post-Sòng curriculum of practical medicine was organized, alongside the *Huángdì nèijīng* and the *Nànjīng* (themselves in [[KR3ea]]). All 93 entries are drawn from the 華夏文獻 (*hxwd*) supplementary database rather than the Wényuāngé *Sìkù quánshū*: while several major Qīng commentaries (Xú Bīn [[KR3ef092]], Wèi Lìtóng [[KR3ef084]], the imperial *Yīzōng jīnjiàn* sections [[KR3ef022]] [[KR3ef086]]) were absorbed into 子部·醫家 of the *Sìkù*, the bulk of the late-Míng / Qīng / Republican / Edo commentarial literature was excluded as technical and survives only through *hxwd*.
+`KR3ef` 傷寒金匱 (*Shānghán Jīnguì*, "Treatises on Cold Damage and the Golden Casket") is the sixth sub-division of `KR3e` 醫家類 (Masters — Medicine) and gathers the entire commentarial and pedagogical tradition built around the two canonical clinical works attributed to the Eastern-Hàn physician [[張機]] Zhāng Jī (Zhòngjǐng 仲景, *c.* 150–219): the *Shānghán lùn* 傷寒論 ([[KR3ef001]]) and the *Jīnguì yào lüè* 金匱要略 ([[KR3ef079]]). The two are halves of a single original work, the *Shānghán zábìng lùn* 傷寒雜病論 — the *Shānghán lùn* covering acute externally-contracted "cold damage" febrile disease in a six-channel (*liùjīng* 六經) progression, the *Jīnguì yào lüè* covering chronic and miscellaneous internal disorders (*zábìng* 雜病). Together they constitute the foundational clinical canon of the entire late-imperial Chinese medical tradition: as Endymion Wilkinson (*Chinese History: A New Manual*, §41.3.1 #3–4) registers, the *Shānghán lùn* and *Jīnguì yào lüè* are the two pre-Táng titles around which the post-Sòng curriculum of practical medicine was organized, alongside the *Huángdì nèijīng* and the *Nànjīng* (themselves in [[KR3ea]]). All 93 entries are drawn from the 漢學文典 (jicheng.tw) supplementary database rather than the Wényuāngé *Sìkù quánshū*: while several major Qīng commentaries ([[徐彬]] Xú Bīn [[KR3ef092]], [[魏荔彤]] Wèi Lìtóng [[KR3ef084]], the imperial *Yīzōng jīnjiàn* sections [[KR3ef022]] [[KR3ef086]]) were absorbed into 子部·醫家 of the *Sìkù*, the bulk of the late-Míng / Qīng / Republican / Edo commentarial literature was excluded as technical and survives only through jicheng.tw.
 
-Chronologically the division spans nearly eighteen centuries. The anchor is the late-Hàn *Shānghán zábìng lùn* (composed *c.* 196–220 during the Jiàn'ān epidemic that killed two thirds of Zhāng's clan), recovered and re-edited as two separate works by the Western-Jìn physician [[王叔和]] Wáng Shūhé (*c.* 210–285), and definitively stabilized by [[林億]] Lín Yì and his Sòng校正醫書局 (Bureau for Editing Medical Texts) colleagues in 1065 ([[KR3ef001]] [[KR3ef004]] [[KR3ef079]] [[KR3ef080]]). The Northern Sòng then produced the first wave of free-standing commentary ([[韓袛和]] [[KR3ef008]], [[龐安時]] [[KR3ef049]], [[朱肱]] [[KR3ef010]]); the Southern Sòng produced [[許叔微]] Xǔ Shūwēi's foundational case-record and mnemonic works ([[KR3ef044]] [[KR3ef061]] [[KR3ef063]]) and [[郭雍]] Guō Yōng's philological supplementation ([[KR3ef062]]). JīnYuán doctrine is decisively shaped by [[成無己]] Chéng Wúyǐ's 1144 *Zhù jiě Shānghán lùn* ([[KR3ef005]] [[KR3ef040]]) — the first sustained line-by-line commentary, standard until the late Míng — and by the Héjiān 河間 fire-and-heat re-reading of [[劉完素]] Liú Wánsù ([[KR3ef009]] [[KR3ef011]]) and his Yuán transmitters. The late-Míng / early-Qīng *cuòjiǎn chóngdìng* 錯簡重訂 ("re-ordering the disordered slips") revisionist movement, opened by [[方有執]] Fāng Yǒuzhí ([[KR3ef015]], 1593) and amplified by [[喻昌]] Yú Chāng ([[KR3ef026]] [[KR3ef027]], 1648), inaugurated a century of competing high-Qīng reorganizations: [[張璐]] Zhāng Lù's moderated restoration ([[KR3ef020]] [[KR3ef021]]), [[柯琴]] Kē Qín's "by-syndrome" *Láisū jí* set ([[KR3ef013]] [[KR3ef014]] [[KR3ef007]] [[KR3ef033]] [[KR3ef042]]), [[尤怡]] Yóu Yí's "by-treatment-method" *Guànzhū jí* ([[KR3ef019]]) and [[徐大椿]] Xú Dàchūn's "by-prescription-type" *Lèi fāng* ([[KR3ef064]]). The Qiánlóng court fixed an imperial harmonization in [[吳謙]] Wú Qiān's *Yīzōng jīnjiàn · Dìngzhèng Zhòngjǐng quánshū* ([[KR3ef022]] [[KR3ef086]] [[KR3ef067]], 1742). The 19th century brought [[黃元御]] Huáng Yuányù's "Four Sages" cosmological synthesis ([[KR3ef016]] [[KR3ef054]] [[KR3ef088]]) and its Sìchuān continuation in [[鄭壽全]] Zhèng Qīn'ān's 火神派 ([[KR3ef060]]); the Chén Xiūyuán pedagogical line ([[KR3ef066]] [[KR3ef090]]); and the late-Qīng 中西匯通 Sino-Western synthesis of [[唐宗海]] Táng Zōnghǎi ([[KR3ef028]] [[KR3ef091]]). The Edo *Igaku-kan* 醫學館 produced under the [[丹波元簡]] Tamba-Mototane / [[丹波元堅]] Tamba-Motokata philological lineage ([[KR3ef018]] [[KR3ef051]] [[KR3ef053]] [[KR3ef082]] [[KR3ef085]]) the modern East-Asian *textus receptus* of the *Shānghán* canon, paralleled by the *kohō* 古方 critical-reading tradition of Yamada Seichin and Nakanishi Iyū ([[KR3ef025]] [[KR3ef029]] [[KR3ef052]] [[KR3ef069]] [[KR3ef073]] [[KR3ef074]]). The Republican period closes the division with the Shanghai *jīngfāng* 經方 revival of [[曹穎甫]] Cáo Yǐngfǔ ([[KR3ef093]]), the Japanese back-transmission of [[湯本求真]] Yumoto Kyūshin's *Huáng Hàn yī xué* ([[KR3ef059]]), and the Zhèjiāng *tōngsú* line of [[俞根初]] Yú Gēnchū and [[何廉臣]] Hé Liánchén ([[KR3ef031]] [[KR3ef036]]).
+Chronologically the division spans nearly eighteen centuries. The anchor is the late-Hàn *Shānghán zábìng lùn* (composed *c.* 196–220 during the Jiàn'ān epidemic that killed two thirds of Zhāng's clan), recovered and re-edited as two separate works by the Western-Jìn physician [[王叔和]] Wáng Shūhé (*c.* 210–285), and definitively stabilized by [[林億]] Lín Yì and his Sòng校正醫書局 (Bureau for Editing Medical Texts) colleagues in 1065 ([[KR3ef001]] [[KR3ef004]] [[KR3ef079]] [[KR3ef080]]). The Northern Sòng then produced the first wave of free-standing commentary ([[韓袛和]] [[KR3ef008]], [[龐安時]] [[KR3ef049]], [[朱肱]] [[KR3ef010]]); the Southern Sòng produced [[許叔微]] Xǔ Shūwēi's foundational case-record and mnemonic works ([[KR3ef044]] [[KR3ef061]] [[KR3ef063]]) and [[郭雍]] Guō Yōng's philological supplementation ([[KR3ef062]]). Jīn–Yuán doctrine is decisively shaped by [[成無己]] Chéng Wúyǐ's 1144 *Zhù jiě Shānghán lùn* ([[KR3ef005]] [[KR3ef040]]) — the first sustained line-by-line commentary, standard until the late Míng — and by the Héjiān 河間 fire-and-heat re-reading of [[劉完素]] Liú Wánsù ([[KR3ef009]] [[KR3ef011]]) and his Yuán transmitters. The late-Míng / early-Qīng *cuòjiǎn chóngdìng* 錯簡重訂 ("re-ordering the disordered slips") revisionist movement, opened by [[方有執]] Fāng Yǒuzhí ([[KR3ef015]], 1593) and amplified by [[喻昌]] Yú Chāng ([[KR3ef026]] [[KR3ef027]], 1648), inaugurated a century of competing high-Qīng reorganizations: [[張璐]] Zhāng Lù's moderated restoration ([[KR3ef020]] [[KR3ef021]]), [[柯琴]] Kē Qín's "by-syndrome" *Láisū jí* set ([[KR3ef013]] [[KR3ef014]] [[KR3ef007]] [[KR3ef033]] [[KR3ef042]]), [[尤怡]] Yóu Yí's "by-treatment-method" *Guànzhū jí* ([[KR3ef019]]) and [[徐大椿]] Xú Dàchūn's "by-prescription-type" *Lèi fāng* ([[KR3ef064]]). The Qiánlóng court fixed an imperial harmonization in [[吳謙]] Wú Qiān's *Yīzōng jīnjiàn · Dìngzhèng Zhòngjǐng quánshū* ([[KR3ef022]] [[KR3ef086]] [[KR3ef067]], 1742). The 19th century brought [[黃元御]] Huáng Yuányù's "Four Sages" cosmological synthesis ([[KR3ef016]] [[KR3ef054]] [[KR3ef088]]) and its Sìchuān continuation in [[鄭壽全]] Zhèng Qīn'ān's 火神派 ([[KR3ef060]]); the Chén Xiūyuán pedagogical line ([[KR3ef066]] [[KR3ef090]]); and the late-Qīng 中西匯通 Sino-Western synthesis of [[唐宗海]] Táng Zōnghǎi ([[KR3ef028]] [[KR3ef091]]). The Edo *Igaku-kan* 醫學館 produced under the [[丹波元簡]] Tamba-Mototane / [[丹波元堅]] Tamba-Motokata philological lineage ([[KR3ef018]] [[KR3ef051]] [[KR3ef053]] [[KR3ef082]] [[KR3ef085]]) the modern East-Asian *textus receptus* of the *Shānghán* canon, paralleled by the *kohō* 古方 critical-reading tradition of Yamada Seichin and Nakanishi Iyū ([[KR3ef025]] [[KR3ef029]] [[KR3ef052]] [[KR3ef069]] [[KR3ef073]] [[KR3ef074]]). The Republican period closes the division with the Shanghai *jīngfāng* 經方 revival of [[曹穎甫]] Cáo Yǐngfǔ ([[KR3ef093]]), the Japanese back-transmission of [[湯本求真]] Yumoto Kyūshin's *Huáng Hàn yī xué* ([[KR3ef059]]), and the Zhèjiāng *tōngsú* line of [[俞根初]] Yú Gēnchū and [[何廉臣]] Hé Liánchén ([[KR3ef031]] [[KR3ef036]]).
 
 ## Important texts and text clusters
 
@@ -42,13 +43,13 @@ Chronologically the division spans nearly eighteen centuries. The anchor is the 
 - *Shānghán mínglǐ lùn* 傷寒明理論 [[KR3ef040]] — Chéng Wúyǐ, 1156. Four juan; 50 topical essays plus a *Lùn fāng* 論方 covering 20 prescriptions — the first sustained Chinese essay-form exposition of *Shānghán* doctrine, paired with the line-by-line commentary [[KR3ef005]].
 - *Zhāng Qīngzǐ Shānghán lùn* 張卿子傷寒論 [[KR3ef006]] — [[張遂辰]] Zhāng Suìchén (Qīngzǐ, 1589–1668), 1640–1668. Seven juan; the principal vehicle by which Chéng Wúyǐ's commentary persisted in the Hángzhōu *wéihù jiùlùn* 維護舊論 ("preserve the received text") line through the early Qīng.
 
-**The Héjiān 河間 fire-and-heat school (JīnYuán).** [[劉完素]] Liú Wánsù's Jīn re-reading of *Shānghán* through fire-and-heat (*huǒrè* 火熱) doctrine, against Chéng Wúyǐ's strict cold-damage line.
+**The Héjiān 河間 fire-and-heat school (Jīn–Yuán).** [[劉完素]] Liú Wánsù's Jīn re-reading of *Shānghán* through fire-and-heat (*huǒrè* 火熱) doctrine, against Chéng Wúyǐ's strict cold-damage line.
 - *Shānghán zhígé* 傷寒直格 [[KR3ef011]] — Liú Wánsù, 1172–1200. Three juan; the principal vehicle of fire-and-heat reinterpretation, promoting 白虎湯, 涼膈散 and 承氣 as first-line treatments.
 - *Shānghán biāoběn xīnfǎ lèicuì* 傷寒標本心法類萃 [[KR3ef009]] — Liú Wánsù (attributed), 1172–1200. Two juan; root-and-branch (*biāoběn* 標本) framework for the Héjiān doctrine.
 - *Héjiān Shānghán xīn yào* 河間傷寒心要 [[KR3ef034]] — [[鎦洪]] Líu Hóng, 1200–1280. Compact summary of Liú Wánsù doctrine for the Yuán curriculum.
 - *Liú Héjiān Shānghán yī jiàn* 劉河間傷寒醫鑑 [[KR3ef037]] — [[馬宗素]] Mǎ Zōngsù, *c.* 1297–1320. Yuán transmission of Liú Wánsù's *Shānghán* doctrine.
 - *Shānghán qián fǎ* 傷寒鈐法 [[KR3ef048]] — Mǎ Zōngsù, *c.* 1297–1320. The most distinctive Yuán contribution — a calendrical-prognostic system fusing cosmological-correlative reasoning with *Shānghán* clinical decision.
-- *Shānghán xīn jìng bié jí* 傷寒心鏡別集 [[KR3ef056]] — [[張從正]] Zhāng Cóngzhèng (ZǐHé, 1156–1228), rec. by disciple [[常德]] Cháng Dé. The 攻邪 *gōngxié* ("attacking-pathogens") school's *Shānghán* application.
+- *Shānghán xīn jìng bié jí* 傷寒心鏡別集 [[KR3ef056]] — [[張從正]] Zhāng Cóngzhèng (Zǐhé, 1156–1228), rec. by disciple [[常德]] Cháng Dé. The 攻邪 *gōngxié* ("attacking-pathogens") school's *Shānghán* application.
 
 **Pre-revisionist Míng works.** Before Fāng Yǒuzhí, the Míng produced four important integrative compendia.
 - *Shānghán liù shū* 傷寒六書 [[KR3ef038]] — [[陶華]] Táo Huá (Jiéān), 1445. Six juan; foundational mid-Míng synthesis of Chéng Wúyǐ with Héjiān adjustments.
@@ -85,11 +86,11 @@ Chronologically the division spans nearly eighteen centuries. The anchor is the 
 - *Yīzōng jīnjiàn · Shānghán xīnfǎ yào jué* 醫宗金鑑·傷寒心法要訣 [[KR3ef067]] — Wú Qiān et al., 1742. Five juan; the versified mnemonic 歌訣 *Shānghán* digest, standard examination text from 1749.
 
 **The Huáng Yuányù "Four Sages" 四聖 cosmological school and its Sìchuān 火神 continuation.** A second 18th-century reorganizing line, doctrinally distinct from the *cuòjiǎn* revisionists.
-- *Shānghán xuán jiě* 傷寒懸解 [[KR3ef016]] — [[黃元御]] Huáng Yuányù (1705–1758, Shāndōng), 1748–1753. 14 juan; reads the *Shānghán lùn* through *zhōngqì* 中氣, *fúchén* 浮沈, and *Yìjīng* 坎離 (KǎnLí) framework.
+- *Shānghán xuán jiě* 傷寒懸解 [[KR3ef016]] — [[黃元御]] Huáng Yuányù (1705–1758, Shāndōng), 1748–1753. 14 juan; reads the *Shānghán lùn* through *zhōngqì* 中氣, *fúchén* 浮沈, and *Yìjīng* 坎離 (Kǎn–Lí) framework.
 - *Shānghán shuō yì* 傷寒說意* [[KR3ef054]] — Huáng Yuányù, 1748–1758. Ten juan; pedagogical clinical companion to the *Xuán jiě* with spleen-stomach-centred reading.
 - *Jīnguì xuán jiě* 金匱懸解 [[KR3ef088]] — Huáng Yuányù, 1748–1758. 22 juan; the *Jīnguì* member of the "Four Sages" *xuánjiě* set.
 - *Shānghán shěn zhèng biǎo* 傷寒審證表 [[KR3ef065]] — [[包誠]] Bāo Chéng (Xīngyán), 1870, preface by [[李漢章]] Lǐ Hànzhāng. Tabulated chart of Huáng Yuányù's *Xuán jiě*.
-- *Shānghán héng lùn* 傷寒恆論 [[KR3ef060]] — [[鄭壽全]] Zhèng Qīn'ān (Shòuquán, 1804–1901, Sìchuān), 1874–1894. Ten juan; the foundational text of the Sìchuān 火神派 ("Fire-spirit School"); applies the *Yìjīng* KǎnLí cosmology in a continuous living tradition into the present.
+- *Shānghán héng lùn* 傷寒恆論 [[KR3ef060]] — [[鄭壽全]] Zhèng Qīn'ān (Shòuquán, 1804–1901, Sìchuān), 1874–1894. Ten juan; the foundational text of the Sìchuān 火神派 ("Fire-spirit School"); applies the *Yìjīng* Kǎn–Lí cosmology in a continuous living tradition into the present.
 
 **Mid- to late-Qīng commentaries.** A range of further high-Qīng works elaborate, refine, or critique the major commentarial schools.
 - *Shānghán dà bái* 傷寒大白 [[KR3ef047]] — [[秦之楨]] Qín Zhīzhēn (Huángshì), 1714. Four juan; moderate Kāngxī pedagogical exposition.
@@ -102,7 +103,7 @@ Chronologically the division spans nearly eighteen centuries. The anchor is the 
 - *Shānghán bǔ lì* 傷寒補例 [[KR3ef043]] — [[周學海]] Zhōu Xuéhǎi (Jiànchí, 1856–1906, *jìnshì* 1885), 1882–1906. Two juan; 88 supplementary clinical case-records.
 - *Shānghán xún yuán* 傷寒尋源 [[KR3ef039]] — [[呂震名]] Lǚ Zhènmíng (1799–1858), 1856. Three juan; late-Qīng synthesis in the ancient-text-restoration line.
 
-**The Chén Xiūyuán *qiǎnzhù* line and the *zhōngXī huìtōng* 中西匯通 extension.** [[陳念祖]] Chén Niànzǔ (Xiūyuán) and his successor [[唐宗海]] Táng Zōnghǎi (the same lineage continues in [[KR3ea044]] for the *Nèijīng*).
+**The Chén Xiūyuán *qiǎnzhù* line and the *zhōng–Xī huìtōng* 中西匯通 extension.** [[陳念祖]] Chén Niànzǔ (Xiūyuán) and his successor [[唐宗海]] Táng Zōnghǎi (the same lineage continues in [[KR3ea044]] for the *Nèijīng*).
 - *Shānghán yī jué chuàn jiě* 傷寒醫訣串解 [[KR3ef066]] — Chén Niànzǔ (1753–1823), with juan 6 by nephew [[陳道著]] Chén Dàozhù, 1815–1856. Six juan; continuous-exposition clinical primer.
 - *Shānghán lùn qiǎnzhù bǔ zhèng* 傷寒論淺註補正 [[KR3ef028]] — Chén Niànzǔ (淺注), Táng Zōnghǎi (補正, 1846–1897), 1893. Seven juan; key document of late-Qīng 中西匯通 (Chinese-Western synthesis) school.
 - *Jīnguì yào lüè qiǎn zhù* 金匱要略淺註 [[KR3ef090]] — Chén Niànzǔ with *Jīnguì gē kuò* by son [[陳靈石]] Chén Língshí, 1810–1823. Ten juan; foundational late-Qīng pedagogical *Jīnguì* text, with a famous preface by [[林則徐]] Lín Zéxú (1830).
@@ -110,7 +111,7 @@ Chronologically the division spans nearly eighteen centuries. The anchor is the 
 
 **The Qīng *Jīnguì yào lüè* commentaries.** Independent of the imperial harmonization and the *qiǎnzhù* line, the Qīng produced a sustained sequence of high-quality *Jīnguì* commentaries.
 - *Jīnguì yào lüè lùn zhù* 金匱要畧論註 [[KR3ef092]] — [[徐彬]] Xú Bīn (Zhōngkě, disciple of Yú Chāng), 1671. 24 juan; the earliest extant Qīng *Jīnguì* commentary; absorbed into the *Sìkù quánshū*.
-- *Jīnguì yùhán jīng èr zhù* 金匱玉函經二註 [[KR3ef083]] — [[趙以德]] Zhào Yǐdé (YuánMíng, Zhū Dānxī tradition) + [[周揚俊]] Zhōu Yángjùn (Yǔzǎi, early-Qīng supplement), 1687. 22 juan; the "Two Annotators" foundational commentary, base text for all subsequent Qīng *Jīnguì* exegesis.
+- *Jīnguì yùhán jīng èr zhù* 金匱玉函經二註 [[KR3ef083]] — [[趙以德]] Zhào Yǐdé (Yuán–Míng, Zhū Dānxī tradition) + [[周揚俊]] Zhōu Yángjùn (Yǔzǎi, early-Qīng supplement), 1687. 22 juan; the "Two Annotators" foundational commentary, base text for all subsequent Qīng *Jīnguì* exegesis.
 - *Jīnguì yào lüè guǎng zhù* 金匱要略廣註 [[KR3ef087]] — [[李彣]] Lǐ Wén (Zhènshēng, Xīyuán), 1682. Eight juan; distinctively broad citation including the military classic *Hǔ qián jīng* 虎鈐經.
 - *Jīnguì yào lüè xīn diǎn* 金匱要略心典 [[KR3ef089]] — [[尤怡]] Yóu Yí, 1729–1749. Three juan; preface by [[徐大椿]] Xú Dàchūn arguing that the *Jīnguì* corrects the misconception that Zhōngjǐng was a *Shānghán* specialist.
 - *Gāo zhù Jīnguì yào lüè* 高註金匱要略 [[KR3ef081]] — [[高學山]] Gāo Xuéshān (Hànzhì, Yúyáo), 1720–1770. Six juan; notable for moving the canonical opening passage and applying a *wǔcháng* Five-Phases framework.
@@ -121,7 +122,7 @@ Chronologically the division spans nearly eighteen centuries. The anchor is the 
 - *Shānghán guǎng yào* 傷寒廣要 [[KR3ef051]] — [[丹波元堅]] Tamba no Motokata 多紀元堅 (1795–1857), preface by [[丹波元胤]] Tamba no Motoin (Mototane's elder son), 1825–1827. 12 juan; bibliography of 150 commentators — the densest pre-Qīng *Shānghán* commentary survey in any language.
 - *Shānghán lùn shù yì* 傷寒論述義 [[KR3ef053]] — Tamba no Motokata, 1827–1840. Five juan; doctrinal companion to his father's *Jí yì* [[KR3ef018]].
 - *Jīnguì yùhán yào lüè jí yì* 金匱玉函要略輯義 [[KR3ef082]] — Tamba no Mototane, 1800–1810. Six juan; Edo philological *Jīnguì* edition, preserving verbatim the Sòng校正 preface of Lín Yì.
-- *Jīnguì yùhán yào lüè shù yì* 金匱玉函要略述義 [[KR3ef085]] — Tamba no Motokata, 1842. Three juan; supplementary commentary collated against the Korean *Yī fāng lèi jù* 醫方類聚, transmitting otherwise-lost SòngYuán readings.
+- *Jīnguì yùhán yào lüè shù yì* 金匱玉函要略述義 [[KR3ef085]] — Tamba no Motokata, 1842. Three juan; supplementary commentary collated against the Korean *Yī fāng lèi jù* 醫方類聚, transmitting otherwise-lost Sòng–Yuán readings.
 
 **The Edo *kohō* 古方 critical-reading tradition.** A second Edo line, philologically critical and clinically pragmatic, distinct from the Tamba *Igaku-kan*'s text-establishment programme.
 - *Shānghán lùn jí chéng* 傷寒論集成 [[KR3ef025]] — [[山田正珍]] Yamada Seichin 山田正珍 (1749–1787), 1789. Ten juan; late-Edo *koihō* 古意方 harmonization of Chinese commentary lines with the Yoshimasu Tōdō tradition.
@@ -139,7 +140,7 @@ Chronologically the division spans nearly eighteen centuries. The anchor is the 
 - *Zhòngdìng tōngsú Shānghán lùn* 重訂通俗傷寒論 [[KR3ef036]] — [[俞根初]] Yú Gēnchū (1734–1799), re-edited by [[何廉臣]] Hé Liánchén, 1934. 12 juan; definitive posthumous re-edition; foundational Zhèjiāng-school *tōngsú* text.
 - *Zēngdìng tōngsú Shānghán lùn* 增訂通俗傷寒論 [[KR3ef031]] — Hé Liánchén (1861–1929), 1916. 12 juan; expansion of Yú Gēnchū's vernacular treatise.
 - *Gǎn zhèng bǎo fá* 感症寶筏 [[KR3ef055]] — [[吳坤安]] Wú Kūn'ān, re-edited by [[何炳元]] Hé Bǐngyuán (= Hé Liánchén), 1911. Six juan; 1911 retitling of Wú Kūn'ān's *Shānghán zhǐ zhǎng* [[KR3ef032]] integrating 六經 with 三焦 frameworks.
-- *Shānghán zhǐzhǎng* 傷寒指掌 [[KR3ef032]] — Wú Kūn'ān (BìHuá), 1796. Four juan; widely-reprinted pedagogical handbook integrating *Shānghán* with *wēnbìng*.
+- *Shānghán zhǐzhǎng* 傷寒指掌 [[KR3ef032]] — Wú Kūn'ān (Bìhuá), 1796. Four juan; widely-reprinted pedagogical handbook integrating *Shānghán* with *wēnbìng*.
 - *Shānghán wēnyì tiáo biàn* 傷寒瘟疫條辨 [[KR3ef050]] — [[楊濬]] Yáng Jùn (Lìshān, 1705–1795), 1784. Six juan; major late-Qiánlóng synthesis of 傷寒 with the 溫疫 tradition, integrating Wú Yòukě and Yè Tiānshì.
 - *Shānghán biàn yào jiān jì* 傷寒辨要箋記 [[KR3ef058]] — [[程門雪]] Chéng Ménxuě (1902–1972, founding president of the Shanghai TCM University), 1930–1972. One juan; notebook-style commentary; source file empty.
 - *Shānghán jiě dú liáo fǎ* 傷寒解毒療法 [[KR3ef068]] — [[聶雲臺]] Niè Yúntái (1880–1953), 1935–1948. One juan; synthesis of *Shānghán* with modern bacteriology and vitamin biochemistry.
@@ -155,8 +156,8 @@ Chronologically the division spans nearly eighteen centuries. The anchor is the 
 - [[許叔微]] (Xǔ Shūwēi, *c.* 1080–1154) — Southern-Sòng physician; author of [[KR3ef044]] [[KR3ef061]] [[KR3ef063]]; founder of the entire later *yīàn* (case-record) genre.
 - [[郭雍]] (Guō Yōng, 1091–1187) — Southern-Sòng physician and Lǐxué scholar (son of a Chéng Yí disciple); author of [[KR3ef062]], first philological supplementer of the *Shānghán* text.
 - [[成無己]] (Chéng Wúyǐ, *b.* *c.* 1063, *fl.* into 1156) — Jīn-dynasty physician of Liáo; author of [[KR3ef005]] [[KR3ef040]]; produced the first sustained line-by-line *Shānghán* commentary and the standard pedagogical text until the late Míng.
-- [[劉完素]] (Liú Wánsù, Héjiān, *c.* 1120–1200) — Jīn physician, founder of the 河間 fire-and-heat school (one of the "JīnYuán Four Masters"); produced the principal Jīn reinterpretation of *Shānghán* at [[KR3ef009]] [[KR3ef011]]. Also at [[KR3ea015]] [[KR3eb028]].
-- [[張從正]] (Zhāng Cóngzhèng, ZǐHé, 1156–1228) — one of the "JīnYuán Four Masters," founder of the 攻邪 *gōngxié* school; *Shānghán* application at [[KR3ef056]].
+- [[劉完素]] (Liú Wánsù, Héjiān, *c.* 1120–1200) — Jīn physician, founder of the 河間 fire-and-heat school (one of the "Jīn–Yuán Four Masters"); produced the principal Jīn reinterpretation of *Shānghán* at [[KR3ef009]] [[KR3ef011]]. Also at [[KR3ea015]] [[KR3eb028]].
+- [[張從正]] (Zhāng Cóngzhèng, Zǐhé, 1156–1228) — one of the "Jīn–Yuán Four Masters," founder of the 攻邪 *gōngxié* school; *Shānghán* application at [[KR3ef056]].
 - [[馬宗素]] (Mǎ Zōngsù, *fl.* 1297–1320) — Yuán transmitter of the Héjiān doctrine [[KR3ef037]] and originator of the calendrical-prognostic *qián fǎ* system [[KR3ef048]].
 - [[陶華]] (Táo Huá, Jiéān, *fl.* early-mid Míng) — foundational mid-Míng *Shānghán* compiler [[KR3ef038]].
 - [[方有執]] (Fāng Yǒuzhí, *b.* 1523, Shèxiàn Anhui) — opener of the late-imperial *cuòjiǎn chóngdìng* revisionist movement [[KR3ef015]].
@@ -166,17 +167,17 @@ Chronologically the division spans nearly eighteen centuries. The anchor is the 
 - [[柯琴]] (Kē Qín, Yùnbó) — early-Qīng physician; author of the *Láisū jí* set [[KR3ef007]] [[KR3ef013]] [[KR3ef014]] [[KR3ef033]] [[KR3ef042]]; founder of the by-syndrome reorganization school.
 - [[汪琥]] (Wāng Hù, Yìnxí, *fl.* 1680) — Sūzhōu moderate-revisionist [[KR3ef045]] [[KR3ef046]].
 - [[徐彬]] (Xú Bīn, Zhōngkě, disciple of Yú Chāng) — earliest extant Qīng *Jīnguì* commentator [[KR3ef092]].
-- [[趙以德]] (Zhào Yǐdé, YuánMíng) and [[周揚俊]] (Zhōu Yángjùn, Yǔzǎi, early-Qīng) — joint "Two Annotators" of the *Jīnguì yùhán jīng èr zhù* [[KR3ef083]].
+- [[趙以德]] (Zhào Yǐdé, Yuán–Míng) and [[周揚俊]] (Zhōu Yángjùn, Yǔzǎi, early-Qīng) — joint "Two Annotators" of the *Jīnguì yùhán jīng èr zhù* [[KR3ef083]].
 - [[尤怡]] (Yóu Yí, *c.* 1650–1749) — Sūzhōu physician; author of the "treatment-method" reorganization [[KR3ef019]] and the influential *Jīnguì xīn diǎn* [[KR3ef089]].
-- [[錢潢]] (Qián Huáng, Tiānlái, *fl.* 1707) — harmonizer of revisionist and ChéngWúyǐ traditions [[KR3ef012]].
+- [[錢潢]] (Qián Huáng, Tiānlái, *fl.* 1707) — harmonizer of revisionist and Chéng Wúyǐ traditions [[KR3ef012]].
 - [[吳謙]] (Wú Qiān, *c.* 1689–1748) — *Tàiyī yuàn* 太醫院 chief editor under Qiánlóng; produced the imperial *Yīzōng jīnjiàn* harmonization [[KR3ef022]] [[KR3ef086]] [[KR3ef067]]. (Also at [[KR3ea018]] [[KR3eb004]] [[KR3ee015]].)
 - [[徐大椿]] (Xú Dàchūn, Língtāi, 1693–1771) — mid-Qīng Sūzhōu physician; author of the prescription-type reorganization [[KR3ef064]]; preface to Yóu Yí's *Jīnguì xīn diǎn* [[KR3ef089]]. Also at [[KR5c0077]].
-- [[黃元御]] (Huáng Yuányù, 1705–1758) — Shāndōng physician; author of the "Four Sages" *xuánjiě* set [[KR3ef016]] [[KR3ef054]] [[KR3ef088]]; cosmological *Yìjīng* KǎnLí synthesis.
+- [[黃元御]] (Huáng Yuányù, 1705–1758) — Shāndōng physician; author of the "Four Sages" *xuánjiě* set [[KR3ef016]] [[KR3ef054]] [[KR3ef088]]; cosmological *Yìjīng* Kǎn–Lí synthesis.
 - [[陳念祖]] (Chén Niànzǔ, Xiūyuán, 1753–1823) — Fújiàn physician; author of the *qiǎnzhù* pedagogical line [[KR3ef066]] [[KR3ef090]]; foundational late-Qīng curriculum.
 - [[唐宗海]] (Táng Zōnghǎi, 1846–1897) — late-Qīng 中西匯通 synthesist; expanded Chén Niànzǔ's commentaries with Western anatomical reference [[KR3ef028]] [[KR3ef091]]. Also the principal *Nèijīng* *huìtōng* author at [[KR3ea044]].
 - [[鄭壽全]] (Zhèng Qīn'ān, Shòuquán, 1804–1901) — Sìchuān physician; founder of the 火神派 ("Fire-spirit School") with a continuous living tradition [[KR3ef060]].
 - [[陸懋修]] (Lù Màoxiū, Jiǔzhī, 1818–1886) — late-Qīng integrator of *Shānghán* yángmíng with *wēnbìng* doctrine [[KR3ef070]]. Also at [[KR3ea047]].
-- [[吳坤安]] (Wú Kūn'ān, BìHuá, *fl.* 1796) — late-Qīng *Shānghán*-*wēnbìng* synthesist [[KR3ef032]] [[KR3ef055]].
+- [[吳坤安]] (Wú Kūn'ān, Bìhuá, *fl.* 1796) — late-Qīng *Shānghán*-*wēnbìng* synthesist [[KR3ef032]] [[KR3ef055]].
 - [[何廉臣]] (Hé Liánchén, 1861–1929) — Shàoxīng physician; principal Republican re-editor of the Zhèjiāng *tōngsú* line [[KR3ef031]] [[KR3ef036]] [[KR3ef055]].
 - [[丹波元簡]] (Tamba no Mototane 多紀元簡, 1755–1810) — head of the *Igaku-kan*; founder of the Edo Tamba philological lineage; produced the modern *Shānghán* / *Jīnguì* *textus receptus* [[KR3ef018]] [[KR3ef082]].
 - [[丹波元堅]] (Tamba no Motokata 多紀元堅, 1795–1857) — younger son of Mototane; continued the *Igaku-kan* programme [[KR3ef051]] [[KR3ef053]] [[KR3ef085]].
@@ -198,7 +199,7 @@ The division is organized around a small number of long-running debates.
 
 **The "four most-cited Qīng commentaries."** Yú Chāng's *Shàng lùn piān* [[KR3ef026]], Kē Qín's *Láisū jí* [[KR3ef013]], Yóu Yí's *Guànzhū jí* [[KR3ef019]], and Xú Dàchūn's *Lèi fāng* [[KR3ef064]] — four works, four organizing principles, jointly constitute the high-Qīng *Shānghán* canon and the immediate source-base for the imperial *Yīzōng jīnjiàn*.
 
-**Six-channel doctrine and its cosmological reinterpretations.** Zhāng Jī's six-channel (*liùjīng* 六經) framework — 太陽 → 陽明 → 少陽 → 太陰 → 少陰 → 厥陰 — is the structural backbone of the *Shānghán* canon. Successive cosmological reinterpretations recast it: Liú Wánsù's fire-heat ([[KR3ef009]] [[KR3ef011]]), Mǎ Zōngsù's *qián fǎ* calendrical-prognostic ([[KR3ef048]]), Huáng Yuányù's *zhōngqì* / KǎnLí ([[KR3ef016]] [[KR3ef054]] [[KR3ef088]]), and Zhèng Qīn'ān's 火神 ([[KR3ef060]]) all reorganize clinical reasoning by superimposing a separate cosmological structure on the six-channel sequence.
+**Six-channel doctrine and its cosmological reinterpretations.** Zhāng Jī's six-channel (*liùjīng* 六經) framework — 太陽 → 陽明 → 少陽 → 太陰 → 少陰 → 厥陰 — is the structural backbone of the *Shānghán* canon. Successive cosmological reinterpretations recast it: Liú Wánsù's fire-heat ([[KR3ef009]] [[KR3ef011]]), Mǎ Zōngsù's *qián fǎ* calendrical-prognostic ([[KR3ef048]]), Huáng Yuányù's *zhōngqì* / Kǎn–Lí ([[KR3ef016]] [[KR3ef054]] [[KR3ef088]]), and Zhèng Qīn'ān's 火神 ([[KR3ef060]]) all reorganize clinical reasoning by superimposing a separate cosmological structure on the six-channel sequence.
 
 **傷寒 vs. 溫病 vs. 中寒 (cold damage, warm disease, true cold-attack).** A fundamental nosological controversy through the high and late Qīng. The boundary between *Shānghán* (externally-contracted febrile disease) and the late-Míng / Qīng 溫病 *wēnbìng* (warm-disease) and 溫疫 *wēnyì* (epidemic warm-disease) traditions is contested across the division. Wāng Hù argued for a doctrinally distinct 中寒 *zhōnghán* ("true cold-attack") category [[KR3ef046]]; Yáng Jùn integrated 溫疫 with *Shānghán* [[KR3ef050]]; Wú Kūn'ān integrated 三焦 (warm-disease) with 六經 frameworks [[KR3ef032]] [[KR3ef055]]; Lù Màoxiū unified yángmíng with qìfēn [[KR3ef070]]; the Zhèjiāng *tōngsú* line (Yú Gēnchū / Hé Liánchén [[KR3ef031]] [[KR3ef036]]) produced the most thorough Republican-era synthesis.
 
@@ -244,7 +245,7 @@ The division is organized around a small number of long-running debates.
 - 1680–1720 — *Shānghán zhí zhǐ* 傷寒直指 [[KR3ef075]] — [[強健]] Qiáng Jiàn's manuscript-only critique of Yú Chāng.
 - 1682 — *Jīnguì yào lüè guǎng zhù* 金匱要略廣註 [[KR3ef087]] — [[李彣]] Lǐ Wén's broadly-citing *Jīnguì* commentary.
 - 1687 — *Jīnguì yùhán jīng èr zhù* 金匱玉函經二註 [[KR3ef083]] — [[趙以德]] Zhào Yǐdé + [[周揚俊]] Zhōu Yángjùn's "Two Annotators" *Jīnguì* commentary.
-- 1707 — *Shānghán sùyuán jí* 傷寒溯源集 [[KR3ef012]] — [[錢潢]] Qián Huáng's harmonization of revisionist and ChéngWúyǐ traditions.
+- 1707 — *Shānghán sùyuán jí* 傷寒溯源集 [[KR3ef012]] — [[錢潢]] Qián Huáng's harmonization of revisionist and Chéng Wúyǐ traditions.
 - 1712 — Reconstruction of the *Jīnguì yùhán jīng* [[KR3ef080]] by [[何焯]] Hé Zhuō.
 - 1714 — *Shānghán dà bái* 傷寒大白 [[KR3ef047]] — [[秦之楨]] Qín Zhīzhēn's moderate Kāngxī exposition.
 - 1720–1725 — *Jīnguì yào lüè fāng lùn běn yì* [[KR3ef084]] — [[魏荔彤]] Wèi Lìtóng's *kǎozhèng*-style *Jīnguì* commentary.
@@ -278,7 +279,7 @@ The division is organized around a small number of long-running debates.
 - 1875–1884 — *Shānghán lùn yáng míng bìng shì* 傷寒論陽明病釋 [[KR3ef070]] — [[陸懋修]] Lù Màoxiū's yángmíng / qìfēn unification.
 - 1882–1906 — *Shānghán bǔ lì* 傷寒補例 [[KR3ef043]] — [[周學海]] Zhōu Xuéhǎi's 88 supplementary cases.
 - 1884–1893 — *Jīnguì yào lüè qiǎn zhù bǔ zhèng* 金匱要略淺註補正 [[KR3ef091]] — Chén Niànzǔ + [[唐宗海]] Táng Zōnghǎi + [[秦伯未]] Qín Bówèi's four-layer 中西匯通 edition.
-- 1893 — *Shānghán lùn qiǎnzhù bǔ zhèng* 傷寒論淺註補正 [[KR3ef028]] — Chén Niànzǔ + Táng Zōnghǎi's *zhōngXī huìtōng Shānghán* commentary.
+- 1893 — *Shānghán lùn qiǎnzhù bǔ zhèng* 傷寒論淺註補正 [[KR3ef028]] — Chén Niànzǔ + Táng Zōnghǎi's *zhōng–Xī huìtōng Shānghán* commentary.
 - Qīng undated — *Shānghán jié jué* 傷寒捷訣 [[KR3ef035]] — [[嚴則庵]] Yán Zé'ān, edited by [[裘慶元]] Qiú Qìngyuán's *Sānsān yī shū*.
 - 1909–1939 — *Shānghán zábìng lùn (Guìlín gǔběn)* 桂林古本 [[KR3ef002]] — [[羅哲初]] Luó Zhéchū's alleged Zhāng-clan family-transmission "ancient recension."
 - 1911 — *Gǎn zhèng bǎo fá* 感症寶筏 [[KR3ef055]] — Wú Kūn'ān, re-edited by [[何廉臣]] Hé Liánchén.

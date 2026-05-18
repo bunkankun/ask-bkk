@@ -1,16 +1,17 @@
 ---
 division: KR3ep
-divisionTitle: 醫案類
-divisionTitlePinyin: Yī'àn lèi
-divisionTitleEnglish: Masters — Medicine — Medical Case Records
+title: 醫案類
+titlePinyin: Yī'àn lèi
+titleEnglish: Masters — Medicine — Medical Case Records
 parentDivision: KR3e
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
+reviewed: 2026-05-16
 ---
 
 ## Scope and scholarly tradition
 
-`KR3ep` 醫案類 (*Yī'àn lèi*, Medical Case Records) is the sub-division of the Masters → Medicine branch (`KR3e` 醫家類) that gathers the clinical casebook (*yī'àn* 醫案) and clinical-discourse (*yīhuà* 醫話) literature of the late-imperial and early-Republican periods. Where `KR3e` proper preserves the canonical and quasi-canonical mainstream of Chinese medicine from the imperial *Sìkù quánshū* 四庫全書 (`source: WYG`), every text in `KR3ep` instead derives from the modern *Hǎiwài huíliú zhōngyī shànběn gǔjí cóngshū* 海外回流中醫善本古籍叢書 (`source: hxwd`) edited by Zhèng Jīnshēng 鄭金生, the repatriation project that has returned to circulation rare medical *shànběn* 善本 — case-books in particular — preserved in Japanese and Korean libraries after their disappearance from Chinese collections. The division's chronological centre of gravity is therefore the long Qīng (with two foundational Míng anchors and a substantial Republican-period tail), and its generic latitude admits classic single-author casebooks (e.g. [[KR3ep010]] *Línzhèng zhǐnán yī'àn*), great syndrome-organised anthologies ([[KR3ep017]] *Xù míngyī lèi'àn*), Republican standardised case-history reform (Dīng Gānrén [[KR3ep024]]), surgical (*wàikē* 外科) and suppurative-disorder (*yángkē* 瘍科) specialty casebooks ([[KR3ep042]], [[KR3ep043]]), and two Edo-period casebooks of the Japanese *kohōha* 古方派 that the Sìkù editors had never seen ([[KR3ep001]] Kitayama Yūshōshi, [[KR3ep002]] Asada Sōhaku).
+`KR3ep` 醫案類 (*Yī'àn lèi*, Medical Case Records) is the sub-division of the Masters → Medicine branch (`KR3e` 醫家類) that gathers the clinical casebook (*yī'àn* 醫案) and clinical-discourse (*yīhuà* 醫話) literature of the late-imperial and early-Republican periods. Where `KR3e` proper preserves the canonical and quasi-canonical mainstream of Chinese medicine from the imperial *Sìkù quánshū* 四庫全書 (`source: WYG`), every text in `KR3ep` instead derives from the modern *Hǎiwài huíliú zhōngyī shànběn gǔjí cóngshū* 海外回流中醫善本古籍叢書 (the hxwd repatriation project) edited by [[鄭金生]] Zhèng Jīnshēng, and is presently transmitted in this corpus via the jicheng.tw digital edition (`edition: jicheng.tw`) — the repatriation project that has returned to circulation rare medical *shànběn* 善本 — case-books in particular — preserved in Japanese and Korean libraries after their disappearance from Chinese collections. The division's chronological centre of gravity is therefore the long Qīng (with two foundational Míng anchors and a substantial Republican-period tail), and its generic latitude admits classic single-author casebooks (e.g. [[KR3ep010]] *Línzhèng zhǐnán yī'àn*), great syndrome-organised anthologies ([[KR3ep017]] *Xù míngyī lèi'àn*), Republican standardised case-history reform (Dīng Gānrén [[KR3ep024]]), surgical (*wàikē* 外科) and suppurative-disorder (*yángkē* 瘍科) specialty casebooks ([[KR3ep042]], [[KR3ep043]]), and two Edo-period casebooks of the Japanese *kohōha* 古方派 that the Sìkù editors had never seen ([[KR3ep001]] Kitayama Yūshōshi, [[KR3ep002]] Asada Sōhaku).
 
 The intellectual genealogy of the *yī'àn* genre is laid out in Endymion Wilkinson's *Chinese History: A New Manual* §41.3 (Medicine), with the biographical-clinical *Urtext* at §41.3.5: the *Shǐjì* 史記 *liè zhuàn* 列傳 of Chúnyú Yì 淳於意 (*Shǐjì* 105), which preserves twenty-five Hàn-period case histories and stands as the conventional point of origin for Chinese clinical narrative. The mature genre is, however, a late-Míng phenomenon: as TJ Hinrichs and Linda Barnes show in *Chinese Medicine and Healing* (ch. 5), it was only "around the sixteenth century" that "the medical casebook (*yi'an*)" appeared "as a new genre of medical texts" — entire books devoted to clinical narrative as a free-standing literary form, in dialogue with the *biji* 筆記 and *yǔlù* 語錄 traditions and with the rising prestige of the literati-physician. The two earliest works in this division — [[KR3ep089]] *Shíshān yī'àn* of [[汪機]] Wāng Jī (1463–1539) and [[KR3ep016]] *Sūn Wényuán yī'àn* of [[孫一奎]] Sūn Yīkuí (1522–1619) — sit at this birth moment, alongside the (not preserved in this division) *Yī'àn* of Xuē Jǐ 薛己 as the foundational Xīnān 新安-school witnesses.
 
@@ -63,7 +64,7 @@ The intellectual genealogy of the *yī'àn* genre is laid out in Endymion Wilkin
 
 **The Japanese *kohōha* 古方派 witnesses.** Two casebooks of the Edo "return-to-antiquity" school, preserved in Japan and repatriated through the hxwd project:
 - *Běishān yī'àn* 北山醫案 [[KR3ep001]] — [[北山友松子]] Kitayama Yūshōshi (1648–1719), pupil of the émigré Míng physician Dài Lì 戴笠 (Dúlì Xìngyì 獨立性易); the principal clinical document of *kohōha* in its founding generation, attesting the personal transmission of late-Míng Chinese medicine to Japan through the Ōbaku 黃檗 Buddhist channel.
-- *Xiānzhé yīhuà* 先哲醫話 [[KR3ep002]] — [[淺田宗伯]] Asada Sōhaku (1815–1894); a *yīhuà* anthology of thirteen Edo *kohōha* physicians, cut at Huáng Zūnxiàn's 黃遵憲 instigation in Canton in 1879 — a rare instance of Japanese medical scholarship re-entering Qīng circulation in its own day.
+- *Xiānzhé yīhuà* 先哲醫話 [[KR3ep002]] — [[淺田宗伯]] Asada Sōhaku (1815–1894); a *yīhuà* anthology of thirteen Edo *kohōha* physicians, cut at [[黃遵憲]] Huáng Zūnxiàn's instigation in Canton in 1879 — a rare instance of Japanese medical scholarship re-entering Qīng circulation in its own day.
 
 ## Important persons
 
@@ -101,7 +102,7 @@ The intellectual genealogy of the *yī'àn* genre is laid out in Endymion Wilkin
 
 **Republican-era reform of the case record.** The latest stratum of the division — Dīng Gānrén [[KR3ep024]] and the early-twentieth-century continuations [[KR3ep007]], [[KR3ep027]], [[KR3ep022]] — overlaps with He Lianchen 何廉臣's Republican-era project (treated in Hinrichs & Barnes 2013, ch. 8) to reformat Chinese case records on the rubrics of Western case histories ("patient", "ailment", "cause", treatment, outcome). The reform was both defensive (to legitimate Chinese medicine against the 1909 medical-licensing exams) and substantive: it standardised what until then had been an idiosyncratic literary form.
 
-**The hxwd repatriation as a textual fact.** The whole division is preserved because of a modern editorial project. Many of the works in `KR3ep` — particularly the anonymous late-Qīng manuscripts ([[KR3ep043]]–[[KR3ep047]]) and both Japanese witnesses — vanished from Chinese circulation in the late nineteenth or early twentieth century and were recovered only through the Zhèng Jīnshēng project of the 2000s. Citation conventions for these texts (manuscript date, recension witness, editorial intervention) must therefore be handled with the same care that is given to Dūnhuáng or Hēishuǐchéng recoveries.
+**The hxwd repatriation as a textual fact.** The whole division is preserved because of a modern editorial project. Many of the works in `KR3ep` — particularly the anonymous late-Qīng manuscripts ([[KR3ep043]]–[[KR3ep047]]) and both Japanese witnesses — vanished from Chinese circulation in the late nineteenth or early twentieth century and were recovered only through the [[鄭金生]] Zhèng Jīnshēng project of the 2000s. Citation conventions for these texts (manuscript date, recension witness, editorial intervention) must therefore be handled with the same care that is given to Dūnhuáng or Hēishuǐchéng recoveries.
 
 ## Timeline
 
