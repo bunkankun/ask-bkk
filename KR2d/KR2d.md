@@ -5,7 +5,7 @@ divisionTitlePinyin: Biéshǐ lèi
 divisionTitleEnglish: Histories — Other Histories
 parentDivision: KR2
 created: 2026-05-12
-updated: 2026-05-08
+updated: 2026-05-18
 ---
 
 ## Scope and scholarly tradition
@@ -76,6 +76,7 @@ The works collected here span more than two millennia. The earliest is the *Yì 
 - 62–225 CE — *Dōngguān Hànjì* 東觀漢記 [[KR2d0002]] — the first imperial *guóshǐ* compilation after the *Shǐjì*; lost by the Yuán, present recension a Sìkù-era reconstruction.
 - 756–762 — *Jiànkāng shílù* 建康實錄 [[KR2d0003]] — Six-Dynasties annalistic synthesis from Sūn Quán to the fall of Chén.
 - 1081–1142 — *Lóngpíng jí* 隆平集 [[KR2d0004]] — Northern-Sòng *huìyào* attributed to Zēng Gǒng; the 1142 preface fixes the latest date.
+- 1050–1059 — *Shíqī shǐ méngqiú* 十七史蒙求 [[KR2d0027]] — Wáng Lìng 王令's historical primer modelled on Lǐ Hàn's *Méngqiú*, covering the seventeen standard histories from *Shǐjì* through *Xīn Wǔdài shǐ*; only a partial transmission survives in the KR corpus.
 - 1100–1112 — *Gǔshǐ* 古史 [[KR2d0005]] — Sū Zhé's classicising recasting of the *Shǐjì*.
 - 1149–1162 — *Tōngzhì* 通志 [[KR2d0006]] — Zhèng Qiáo's universal history; second of the *Sāntōng*.
 - 1170 — *Lùshǐ* 路史 [[KR2d0008]] — Luó Bì's mythohistorical synthesis; dated 1170 by colophon.
@@ -95,4 +96,5 @@ The works collected here span more than two millennia. The earliest is the *Yì 
 - 1701–1722 — *Chūnqiū Zhànguó yìcí* 春秋戰國異辭 [[KR2d0023]] — Chén Hòuyào's evidential gathering of variant *ChūnqiūZhànguó* materials.
 - 1713 — *HòuHànshū bǔyì* 後漢書補逸 [[KR2d0022]] — Yáo Zhīyīn's recovery of eight lost Eastern-Hàn histories at the Lùdí zhāi studio in Qiántáng.
 - 1730–1745 — *Shàngshǐ* 尚史 [[KR2d0024]] — Lǐ Kǎi's 107-*juǎn* recasting of the pre-imperial record by direct citation, building on Mǎ Sù's *Yìshǐ*.
+- 1780–1817 — *Shìběn* (Wáng Mó *jíběn*) 世本（王謨輯本）[[KR2d0025]] — Qīng-era reconstruction of the ancient genealogical text by Wáng Mó 王謨; one of the eight compilations in the *Shìběn bāzhǒng* 世本八種.
 - 1767 — *Qīndìng xù tōngzhì* 欽定續通志 ([[KR2d0020]], in `data/catalogs/meta/KR2d.yaml` but not yet cataloged in `kb/KR2d/`) — Qiánlóng-era institutional continuation of Zhèng Qiáo's *Tōngzhì*, placed in *biéshǐ* by the Sìkù editors because it contains biographies (Wilkinson, *Chinese History*, §51.2).
