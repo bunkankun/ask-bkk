@@ -1,8 +1,8 @@
 ---
 division: KR4a
-divisionTitle: 楚辭類
-divisionTitlePinyin: Chǔ cí lèi
-divisionTitleEnglish: Collected Works — Songs of Chu
+title: 楚辭類
+titlePinyin: Chǔ cí lèi
+titleEnglish: Collected Works — Songs of Chu
 parentDivision: KR4
 created: 2026-05-13
 updated: 2026-05-08

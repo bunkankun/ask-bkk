@@ -1,8 +1,8 @@
 ---
 division: KR2f
-divisionTitle: 詔令奏議類
-divisionTitlePinyin: Zhàolìng zòuyì lèi
-divisionTitleEnglish: Histories — Imperial Edicts and Memorials
+title: 詔令奏議類
+titlePinyin: Zhàolìng zòuyì lèi
+titleEnglish: Histories — Imperial Edicts and Memorials
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

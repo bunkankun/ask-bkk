@@ -1,8 +1,8 @@
 ---
 division: KR2p
-divisionTitle: 出土文獻
-divisionTitlePinyin: Chūtǔ wénxiàn
-divisionTitleEnglish: Histories — Excavated Manuscripts
+title: 出土文獻
+titlePinyin: Chūtǔ wénxiàn
+titleEnglish: Histories — Excavated Manuscripts
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

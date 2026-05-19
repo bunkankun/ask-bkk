@@ -1,8 +1,8 @@
 ---
 division: KR3fa
-divisionTitle: 天文
-divisionTitlePinyin: Tiānwén
-divisionTitleEnglish: Masters — Astronomy and Mathematics — Astronomy
+title: 天文
+titlePinyin: Tiānwén
+titleEnglish: Masters — Astronomy and Mathematics — Astronomy
 parentDivision: KR3f
 created: 2026-05-15
 updated: 2026-05-08

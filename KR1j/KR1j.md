@@ -1,8 +1,8 @@
 ---
 division: KR1j
-divisionTitle: 小學類
-divisionTitlePinyin: Xiǎoxué lèi
-divisionTitleEnglish: Classics — Philology and Lexicography
+title: 小學類
+titlePinyin: Xiǎoxué lèi
+titleEnglish: Classics — Philology and Lexicography
 parentDivision: KR1
 created: 2026-05-12
 updated: 2026-05-08

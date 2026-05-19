@@ -1,8 +1,8 @@
 ---
 division: KR2n
-divisionTitle: 目錄類
-divisionTitlePinyin: Mùlù lèi
-divisionTitleEnglish: Histories — Bibliographic and Epigraphic Catalogues
+title: 目錄類
+titlePinyin: Mùlù lèi
+titleEnglish: Histories — Bibliographic and Epigraphic Catalogues
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

@@ -1,8 +1,8 @@
 ---
 division: KR3es
-divisionTitle: 醫史類
-divisionTitlePinyin: Yī shǐ lèi
-divisionTitleEnglish: Masters — Medicine — Medical History, Biography, and Bibliography
+title: 醫史類
+titlePinyin: Yī shǐ lèi
+titleEnglish: Masters — Medicine — Medical History, Biography, and Bibliography
 parentDivision: KR3e
 created: 2026-05-15
 updated: 2026-05-15

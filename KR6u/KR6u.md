@@ -1,8 +1,8 @@
 ---
 division: KR6u
-divisionTitle: 疑似部
-divisionTitlePinyin: Yísì bù
-divisionTitleEnglish: Buddhist Canon — Apocrypha (Doubtful and Spurious Scriptures)
+title: 疑似部
+titlePinyin: Yísì bù
+titleEnglish: Buddhist Canon — Apocrypha (Doubtful and Spurious Scriptures)
 parentDivision: KR6
 created: 2026-05-15
 updated: 2026-05-15

@@ -1,8 +1,8 @@
 ---
 division: KR4d
-divisionTitle: 別集類·宋金元
-divisionTitlePinyin: Biéjí lèi · Sòng Jīn Yuán
-divisionTitleEnglish: Collected Works — Individual Writers of the Sòng, Jīn, and Yuán
+title: 別集類·宋金元
+titlePinyin: Biéjí lèi · Sòng Jīn Yuán
+titleEnglish: Collected Works — Individual Writers of the Sòng, Jīn, and Yuán
 parentDivision: KR4
 created: 2026-05-13
 updated: 2026-05-08

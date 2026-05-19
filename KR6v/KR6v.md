@@ -1,8 +1,8 @@
 ---
 division: KR6v
-divisionTitle: 藏外部類
-divisionTitlePinyin: Zàngwài bù lèi
-divisionTitleEnglish: Buddhist Canon — Texts Outside the Tripitaka (Zàngwài fójiào wénxiàn)
+title: 藏外部類
+titlePinyin: Zàngwài bù lèi
+titleEnglish: Buddhist Canon — Texts Outside the Tripitaka (Zàngwài fójiào wénxiàn)
 parentDivision: KR6
 created: 2026-05-15
 updated: 2026-05-15

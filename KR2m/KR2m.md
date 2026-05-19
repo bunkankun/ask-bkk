@@ -1,8 +1,8 @@
 ---
 division: KR2m
-divisionTitle: 政書類
-divisionTitlePinyin: Zhèngshū lèi
-divisionTitleEnglish: Histories — Works relating to government administration
+title: 政書類
+titlePinyin: Zhèngshū lèi
+titleEnglish: Histories — Works relating to government administration
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

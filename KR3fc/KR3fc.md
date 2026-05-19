@@ -1,8 +1,8 @@
 ---
 division: KR3fc
-divisionTitle: 算法
-divisionTitlePinyin: Suàn-fǎ
-divisionTitleEnglish: Masters — Astronomy and Mathematics — Mathematical Methods
+title: 算法
+titlePinyin: Suàn-fǎ
+titleEnglish: Masters — Astronomy and Mathematics — Mathematical Methods
 parentDivision: KR3f
 created: 2026-05-15
 updated: 2026-05-08

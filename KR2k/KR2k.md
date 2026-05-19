@@ -1,8 +1,8 @@
 ---
 division: KR2k
-divisionTitle: 地理類
-divisionTitlePinyin: Dìlǐ lèi
-divisionTitleEnglish: Histories — Geography
+title: 地理類
+titlePinyin: Dìlǐ lèi
+titleEnglish: Histories — Geography
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

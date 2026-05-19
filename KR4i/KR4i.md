@@ -1,8 +1,8 @@
 ---
 division: KR4i
-divisionTitle: 詩文評類
-divisionTitlePinyin: Shī wén píng lèi
-divisionTitleEnglish: Belles-Lettres — Literary Criticism
+title: 詩文評類
+titlePinyin: Shī wén píng lèi
+titleEnglish: Belles-Lettres — Literary Criticism
 parentDivision: KR4
 created: 2026-05-13
 updated: 2026-05-08

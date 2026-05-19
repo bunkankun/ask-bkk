@@ -1,8 +1,8 @@
 ---
 division: KR2i
-divisionTitle: 載記類
-divisionTitlePinyin: Zǎijì lèi
-divisionTitleEnglish: Histories — Annals of Non-Legitimate Regimes
+title: 載記類
+titlePinyin: Zǎijì lèi
+titleEnglish: Histories — Annals of Non-Legitimate Regimes
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

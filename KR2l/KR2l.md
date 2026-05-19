@@ -1,8 +1,8 @@
 ---
 division: KR2l
-divisionTitle: 職官類
-divisionTitlePinyin: Zhíguān lèi
-divisionTitleEnglish: Histories — Official Posts
+title: 職官類
+titlePinyin: Zhíguān lèi
+titleEnglish: Histories — Official Posts
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

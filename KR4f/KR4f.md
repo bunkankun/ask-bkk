@@ -1,8 +1,8 @@
 ---
 division: KR4f
-divisionTitle: 別集類(清)
-divisionTitlePinyin: Biéjí lèi (Qīng)
-divisionTitleEnglish: Belles-Lettres — Individual Collections of the Qīng
+title: 別集類(清)
+titlePinyin: Biéjí lèi (Qīng)
+titleEnglish: Belles-Lettres — Individual Collections of the Qīng
 parentDivision: KR4
 created: 2026-05-13
 updated: 2026-05-08

@@ -1,8 +1,8 @@
 ---
 division: KR5g
-divisionTitle: 正一部
-divisionTitlePinyin: Zhèng yī bù
-divisionTitleEnglish: Daoist Canon — Orthodox Unity (Fourth Supplement)
+title: 正一部
+titlePinyin: Zhèng yī bù
+titleEnglish: Daoist Canon — Orthodox Unity (Fourth Supplement)
 parentDivision: KR5
 created: 2026-05-12
 updated: 2026-05-08

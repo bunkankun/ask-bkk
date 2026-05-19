@@ -1,8 +1,8 @@
 ---
 division: KR3g
-divisionTitle: 術數類
-divisionTitlePinyin: Shù-shù lèi
-divisionTitleEnglish: Masters — Mantic Arts
+title: 術數類
+titlePinyin: Shù-shù lèi
+titleEnglish: Masters — Mantic Arts
 parentDivision: KR3
 created: 2026-05-15
 updated: 2026-05-08

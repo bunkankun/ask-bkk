@@ -1,8 +1,8 @@
 ---
 division: KR5a
-divisionTitle: 洞真部
-divisionTitlePinyin: Dòngzhēn bù
-divisionTitleEnglish: Daoist Canon — Cavern of Perfection
+title: 洞真部
+titlePinyin: Dòngzhēn bù
+titleEnglish: Daoist Canon — Cavern of Perfection
 parentDivision: KR5
 created: 2026-05-12
 updated: 2026-05-08

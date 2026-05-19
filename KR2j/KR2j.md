@@ -1,8 +1,8 @@
 ---
 division: KR2j
-divisionTitle: 時令類
-divisionTitlePinyin: Shílìng lèi
-divisionTitleEnglish: Histories — Seasonal Ordinances
+title: 時令類
+titlePinyin: Shílìng lèi
+titleEnglish: Histories — Seasonal Ordinances
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

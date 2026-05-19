@@ -1,8 +1,8 @@
 ---
 division: KR3a
-divisionTitle: 儒家類
-divisionTitlePinyin: Rújiā lèi
-divisionTitleEnglish: Masters — Confucian Writers
+title: 儒家類
+titlePinyin: Rújiā lèi
+titleEnglish: Masters — Confucian Writers
 parentDivision: KR3
 created: 2026-05-15
 updated: 2026-05-08

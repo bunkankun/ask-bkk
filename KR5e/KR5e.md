@@ -1,8 +1,8 @@
 ---
 division: KR5e
-divisionTitle: 太平部
-divisionTitlePinyin: Tàipíng bù
-divisionTitleEnglish: Daoist Canon — Great Peace
+title: 太平部
+titlePinyin: Tàipíng bù
+titleEnglish: Daoist Canon — Great Peace
 parentDivision: KR5
 created: 2026-05-12
 updated: 2026-05-08

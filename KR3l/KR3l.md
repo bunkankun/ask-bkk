@@ -1,8 +1,8 @@
 ---
 division: KR3l
-divisionTitle: 小說家類
-divisionTitlePinyin: Xiǎoshuō jiā lèi
-divisionTitleEnglish: Masters — School of Minor Discourses (anecdotal miscellanies, *biji*, *zhì-guài*)
+title: 小說家類
+titlePinyin: Xiǎoshuō jiā lèi
+titleEnglish: Masters — School of Minor Discourses (anecdotal miscellanies, *biji*, *zhì-guài*)
 parentDivision: KR3
 created: 2026-05-15
 updated: 2026-05-08

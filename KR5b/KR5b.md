@@ -1,8 +1,8 @@
 ---
 division: KR5b
-divisionTitle: 洞玄部
-divisionTitlePinyin: Dòngxuán bù
-divisionTitleEnglish: Daoist Canon — Cavern of Mystery
+title: 洞玄部
+titlePinyin: Dòngxuán bù
+titleEnglish: Daoist Canon — Cavern of Mystery
 parentDivision: KR5
 created: 2026-05-12
 updated: 2026-05-08

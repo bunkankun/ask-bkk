@@ -1,8 +1,8 @@
 ---
 division: KR5i
-divisionTitle: 道藏輯要
-divisionTitlePinyin: Dàozàng jíyào
-divisionTitleEnglish: Masters — Essentials of the Daoist Canon (Qīng, 1806/1906)
+title: 道藏輯要
+titlePinyin: Dàozàng jíyào
+titleEnglish: Masters — Essentials of the Daoist Canon (Qīng, 1806/1906)
 parentDivision: KR5
 created: 2026-05-12
 updated: 2026-05-08

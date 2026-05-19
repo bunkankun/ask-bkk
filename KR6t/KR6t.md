@@ -1,8 +1,8 @@
 ---
 division: KR6t
-divisionTitle: 諸宗部類
-divisionTitlePinyin: Zhūzōng bù lèi
-divisionTitleEnglish: Buddhist Canon — Japanese Sectarian Writings (Various Schools)
+title: 諸宗部類
+titlePinyin: Zhūzōng bù lèi
+titleEnglish: Buddhist Canon — Japanese Sectarian Writings (Various Schools)
 parentDivision: KR6
 created: 2026-05-15
 updated: 2026-05-15

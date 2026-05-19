@@ -1,8 +1,8 @@
 ---
 division: KR5h
-divisionTitle: 續道藏
-divisionTitlePinyin: Xù Dàozàng
-divisionTitleEnglish: Masters — Wànlì Supplement to the Daoist Canon (1607)
+title: 續道藏
+titlePinyin: Xù Dàozàng
+titleEnglish: Masters — Wànlì Supplement to the Daoist Canon (1607)
 parentDivision: KR5
 created: 2026-05-12
 updated: 2026-05-08

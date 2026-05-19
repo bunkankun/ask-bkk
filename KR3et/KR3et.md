@@ -1,8 +1,8 @@
 ---
 division: KR3et
-divisionTitle: 法醫醫政類
-divisionTitlePinyin: Fǎ-yī yī-zhèng lèi
-divisionTitleEnglish: Masters — Medicine — Forensic Medicine and Medical Administration
+title: 法醫醫政類
+titlePinyin: Fǎ-yī yī-zhèng lèi
+titleEnglish: Masters — Medicine — Forensic Medicine and Medical Administration
 parentDivision: KR3e
 created: 2026-05-15
 updated: 2026-05-15

@@ -1,8 +1,8 @@
 ---
 division: KR3k
-divisionTitle: 類書類
-divisionTitlePinyin: Lèishū lèi
-divisionTitleEnglish: Masters — Encyclopedias and Categorized Anthologies (Lèishū)
+title: 類書類
+titlePinyin: Lèishū lèi
+titleEnglish: Masters — Encyclopedias and Categorized Anthologies (Lèishū)
 parentDivision: KR3
 created: 2026-05-15
 updated: 2026-05-08

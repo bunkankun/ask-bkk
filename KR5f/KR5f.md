@@ -1,8 +1,8 @@
 ---
 division: KR5f
-divisionTitle: 太清部
-divisionTitlePinyin: Tài qīng bù
-divisionTitleEnglish: Daoist Canon — Great Clarity Section (Third Supplement)
+title: 太清部
+titlePinyin: Tài qīng bù
+titleEnglish: Daoist Canon — Great Clarity Section (Third Supplement)
 parentDivision: KR5
 created: 2026-05-12
 updated: 2026-05-08

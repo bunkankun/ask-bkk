@@ -1,8 +1,8 @@
 ---
 division: KR4h
-divisionTitle: 總集類
-divisionTitlePinyin: Zǒngjí lèi
-divisionTitleEnglish: Collected Works — General Anthologies
+title: 總集類
+titlePinyin: Zǒngjí lèi
+titleEnglish: Collected Works — General Anthologies
 parentDivision: KR4
 created: 2026-05-13
 updated: 2026-05-08

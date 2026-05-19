@@ -1,8 +1,8 @@
 ---
 division: KR6s
-divisionTitle: 事彙部類
-divisionTitlePinyin: Shìhuì bù lèi
-divisionTitleEnglish: Buddhist Canon — Reference, Lexicography, Catalogs, and Auxiliary Materials
+title: 事彙部類
+titlePinyin: Shìhuì bù lèi
+titleEnglish: Buddhist Canon — Reference, Lexicography, Catalogs, and Auxiliary Materials
 parentDivision: KR6
 created: 2026-05-15
 updated: 2026-05-15

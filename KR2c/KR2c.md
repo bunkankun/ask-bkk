@@ -1,8 +1,8 @@
 ---
 division: KR2c
-divisionTitle: 紀事本末類
-divisionTitlePinyin: Jìshì běnmò lèi
-divisionTitleEnglish: Histories — Topically Arranged Histories
+title: 紀事本末類
+titlePinyin: Jìshì běnmò lèi
+titleEnglish: Histories — Topically Arranged Histories
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

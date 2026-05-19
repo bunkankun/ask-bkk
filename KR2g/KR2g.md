@@ -1,8 +1,8 @@
 ---
 division: KR2g
-divisionTitle: 傳記類
-divisionTitlePinyin: Zhuàn-jì lèi
-divisionTitleEnglish: Histories — Biographical Writings
+title: 傳記類
+titlePinyin: Zhuàn-jì lèi
+titleEnglish: Histories — Biographical Writings
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

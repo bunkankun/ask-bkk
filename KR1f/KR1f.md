@@ -1,8 +1,8 @@
 ---
 division: KR1f
-divisionTitle: 孝經類
-divisionTitlePinyin: Xiàojīng lèi
-divisionTitleEnglish: Classics — Classic of Filial Piety
+title: 孝經類
+titlePinyin: Xiàojīng lèi
+titleEnglish: Classics — Classic of Filial Piety
 parentDivision: KR1
 created: 2026-05-12
 updated: 2026-05-08

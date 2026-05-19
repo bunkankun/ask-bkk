@@ -1,8 +1,8 @@
 ---
 division: KR6q
-divisionTitle: 禪宗著述部
-divisionTitlePinyin: Chánzōng zhùshù bù
-divisionTitleEnglish: Buddhist Canon — Compositions of the Chán School
+title: 禪宗著述部
+titlePinyin: Chánzōng zhùshù bù
+titleEnglish: Buddhist Canon — Compositions of the Chán School
 parentDivision: KR6
 created: 2026-05-15
 updated: 2026-05-15

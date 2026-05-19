@@ -1,8 +1,8 @@
 ---
 division: KR1c
-divisionTitle: 詩類
-divisionTitlePinyin: Shī lèi
-divisionTitleEnglish: Classics — Book of Poetry
+title: 詩類
+titlePinyin: Shī lèi
+titleEnglish: Classics — Book of Poetry
 parentDivision: KR1
 created: 2026-05-12
 updated: 2026-05-08

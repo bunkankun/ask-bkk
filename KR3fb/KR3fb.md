@@ -1,8 +1,8 @@
 ---
 division: KR3fb
-divisionTitle: 曆法
-divisionTitlePinyin: Lì-fǎ
-divisionTitleEnglish: Masters — Astronomy and Mathematics — Calendrical Method
+title: 曆法
+titlePinyin: Lì-fǎ
+titleEnglish: Masters — Astronomy and Mathematics — Calendrical Method
 parentDivision: KR3f
 created: 2026-05-15
 updated: 2026-05-08

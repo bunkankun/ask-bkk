@@ -1,8 +1,8 @@
 ---
 division: KR2d
-divisionTitle: 別史類
-divisionTitlePinyin: Biéshǐ lèi
-divisionTitleEnglish: Histories — Other Histories
+title: 別史類
+titlePinyin: Biéshǐ lèi
+titleEnglish: Histories — Other Histories
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-18

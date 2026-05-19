@@ -1,8 +1,8 @@
 ---
 division: KR1h
-divisionTitle: 四書類
-divisionTitlePinyin: Sìshū lèi
-divisionTitleEnglish: Classics — Four Books
+title: 四書類
+titlePinyin: Sìshū lèi
+titleEnglish: Classics — Four Books
 parentDivision: KR1
 created: 2026-05-12
 updated: 2026-05-08

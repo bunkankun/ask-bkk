@@ -1,8 +1,8 @@
 ---
 division: KR5c
-divisionTitle: 洞神部
-divisionTitlePinyin: Dòngshén bù
-divisionTitleEnglish: Daoist Canon — Cavern of Divinity
+title: 洞神部
+titlePinyin: Dòngshén bù
+titleEnglish: Daoist Canon — Cavern of Divinity
 parentDivision: KR5
 created: 2026-05-12
 updated: 2026-05-08

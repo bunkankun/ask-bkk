@@ -1,8 +1,8 @@
 ---
 division: KR2h
-divisionTitle: 史鈔類
-divisionTitlePinyin: Shǐchāo lèi
-divisionTitleEnglish: Histories — History Excerpts
+title: 史鈔類
+titlePinyin: Shǐchāo lèi
+titleEnglish: Histories — History Excerpts
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

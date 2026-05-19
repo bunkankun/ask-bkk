@@ -1,8 +1,8 @@
 ---
 division: KR1i
-divisionTitle: 樂類
-divisionTitlePinyin: Yuè lèi
-divisionTitleEnglish: Classics — Music
+title: 樂類
+titlePinyin: Yuè lèi
+titleEnglish: Classics — Music
 parentDivision: KR1
 created: 2026-05-12
 updated: 2026-05-08

@@ -1,8 +1,8 @@
 ---
 division: KR4j
-divisionTitle: 詞曲類
-divisionTitlePinyin: Cí-qǔ lèi
-divisionTitleEnglish: Collected Works — Lyric Poetry and Songbooks
+title: 詞曲類
+titlePinyin: Cí-qǔ lèi
+titleEnglish: Collected Works — Lyric Poetry and Songbooks
 parentDivision: KR4
 created: 2026-05-13
 updated: 2026-05-08

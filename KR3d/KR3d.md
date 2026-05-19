@@ -1,8 +1,8 @@
 ---
 division: KR3d
-divisionTitle: 農家類
-divisionTitlePinyin: Nóngjiā lèi
-divisionTitleEnglish: Masters — Agricultural Treatises
+title: 農家類
+titlePinyin: Nóngjiā lèi
+titleEnglish: Masters — Agricultural Treatises
 parentDivision: KR3
 created: 2026-05-15
 updated: 2026-05-08

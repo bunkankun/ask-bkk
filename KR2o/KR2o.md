@@ -1,8 +1,8 @@
 ---
 division: KR2o
-divisionTitle: 史評類
-divisionTitlePinyin: Shǐpíng lèi
-divisionTitleEnglish: Histories — Historical Criticism
+title: 史評類
+titlePinyin: Shǐpíng lèi
+titleEnglish: Histories — Historical Criticism
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

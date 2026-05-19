@@ -1,8 +1,8 @@
 ---
 division: KR3eu
-divisionTitle: 東瀛醫籍類
-divisionTitlePinyin: Dōng-yíng yī-jí lèi
-divisionTitleEnglish: Masters — Medicine — Japan-Transmitted Medical Works (Kanpō and Overseas-Preserved Chinese Texts)
+title: 東瀛醫籍類
+titlePinyin: Dōng-yíng yī-jí lèi
+titleEnglish: Masters — Medicine — Japan-Transmitted Medical Works (Kanpō and Overseas-Preserved Chinese Texts)
 parentDivision: KR3e
 created: 2026-05-15
 updated: 2026-05-15

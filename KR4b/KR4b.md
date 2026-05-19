@@ -1,8 +1,8 @@
 ---
 division: KR4b
-divisionTitle: 別集類一
-divisionTitlePinyin: Bié-jí lèi yī
-divisionTitleEnglish: Collected Writings — Individual Collections, Hàn through Suí
+title: 別集類一
+titlePinyin: Bié-jí lèi yī
+titleEnglish: Collected Writings — Individual Collections, Hàn through Suí
 parentDivision: KR4
 created: 2026-05-13
 updated: 2026-05-08

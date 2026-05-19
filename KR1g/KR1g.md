@@ -1,8 +1,8 @@
 ---
 division: KR1g
-divisionTitle: 五經總義類
-divisionTitlePinyin: Wǔjīng zǒngyì lèi
-divisionTitleEnglish: Classics — General Works on the Five Classics
+title: 五經總義類
+titlePinyin: Wǔjīng zǒngyì lèi
+titleEnglish: Classics — General Works on the Five Classics
 parentDivision: KR1
 created: 2026-05-12
 updated: 2026-05-08

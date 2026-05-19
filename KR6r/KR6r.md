@@ -1,8 +1,8 @@
 ---
 division: KR6r
-divisionTitle: 史傳部
-divisionTitlePinyin: Shǐ-zhuàn bù
-divisionTitleEnglish: Buddhist Canon — History and Biography
+title: 史傳部
+titlePinyin: Shǐ-zhuàn bù
+titleEnglish: Buddhist Canon — History and Biography
 parentDivision: KR6
 created: 2026-05-15
 updated: 2026-05-15

@@ -1,8 +1,8 @@
 ---
 division: KR2a
-divisionTitle: 正史類
-divisionTitlePinyin: Zhèngshǐ lèi
-divisionTitleEnglish: Histories — Standard Histories
+title: 正史類
+titlePinyin: Zhèngshǐ lèi
+titleEnglish: Histories — Standard Histories
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

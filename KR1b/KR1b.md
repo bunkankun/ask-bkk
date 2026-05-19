@@ -1,8 +1,8 @@
 ---
 division: KR1b
-divisionTitle: 書類
-divisionTitlePinyin: Shū lèi
-divisionTitleEnglish: Classics — Book of Documents
+title: 書類
+titlePinyin: Shū lèi
+titleEnglish: Classics — Book of Documents
 parentDivision: KR1
 created: 2026-05-05
 updated: 2026-05-08

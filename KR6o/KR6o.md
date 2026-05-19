@@ -1,8 +1,8 @@
 ---
 division: KR6o
-divisionTitle: 論集部
-divisionTitlePinyin: Lùnjí bù
-divisionTitleEnglish: Buddhist Canon — Treatise Collection
+title: 論集部
+titlePinyin: Lùnjí bù
+titleEnglish: Buddhist Canon — Treatise Collection
 parentDivision: KR6
 created: 2026-05-15
 updated: 2026-05-15

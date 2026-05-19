@@ -1,8 +1,8 @@
 ---
 division: KR1d
-divisionTitle: 禮類
-divisionTitlePinyin: Lǐ lèi
-divisionTitleEnglish: Classics — Rituals
+title: 禮類
+titlePinyin: Lǐ lèi
+titleEnglish: Classics — Rituals
 parentDivision: KR1
 created: 2026-05-12
 updated: 2026-05-08

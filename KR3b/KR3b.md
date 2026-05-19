@@ -1,8 +1,8 @@
 ---
 division: KR3b
-divisionTitle: 兵家類
-divisionTitlePinyin: Bīngjiā lèi
-divisionTitleEnglish: Masters — Military Experts
+title: 兵家類
+titlePinyin: Bīngjiā lèi
+titleEnglish: Masters — Military Experts
 parentDivision: KR3
 created: 2026-05-15
 updated: 2026-05-08

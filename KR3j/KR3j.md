@@ -1,8 +1,8 @@
 ---
 division: KR3j
-divisionTitle: 雜家類
-divisionTitlePinyin: Zájiā lèi
-divisionTitleEnglish: Masters — Miscellaneous (Syncretists, Investigations, Discourses, Connoisseurship, Compendia)
+title: 雜家類
+titlePinyin: Zájiā lèi
+titleEnglish: Masters — Miscellaneous (Syncretists, Investigations, Discourses, Connoisseurship, Compendia)
 parentDivision: KR3
 created: 2026-05-15
 updated: 2026-05-08

@@ -1,8 +1,8 @@
 ---
 division: KR3h
-divisionTitle: 藝術類
-divisionTitlePinyin: Yì-shù lèi
-divisionTitleEnglish: Masters — Arts
+title: 藝術類
+titlePinyin: Yì-shù lèi
+titleEnglish: Masters — Arts
 parentDivision: KR3
 created: 2026-05-15
 updated: 2026-05-08

@@ -1,8 +1,8 @@
 ---
 division: KR2b
-divisionTitle: 編年
-divisionTitlePinyin: Biānnián
-divisionTitleEnglish: Histories — Annals
+title: 編年
+titlePinyin: Biānnián
+titleEnglish: Histories — Annals
 parentDivision: KR2
 created: 2026-05-12
 updated: 2026-05-08

@@ -1,8 +1,8 @@
 ---
 division: KR3eq
-divisionTitle: 醫話類
-divisionTitlePinyin: Yī-huà lèi
-divisionTitleEnglish: Masters — Medicine — Medical Discourses (Yīhuà and Yīlùn)
+title: 醫話類
+titlePinyin: Yī-huà lèi
+titleEnglish: Masters — Medicine — Medical Discourses (Yīhuà and Yīlùn)
 parentDivision: KR3e
 created: 2026-05-15
 updated: 2026-05-15

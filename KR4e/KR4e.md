@@ -1,8 +1,8 @@
 ---
 division: KR4e
-divisionTitle: 別集類·明
-divisionTitlePinyin: Biéjí lèi · Míng
-divisionTitleEnglish: Collected Works — Individual Writers of the Míng
+title: 別集類·明
+titlePinyin: Biéjí lèi · Míng
+titleEnglish: Collected Works — Individual Writers of the Míng
 parentDivision: KR4
 created: 2026-05-13
 updated: 2026-05-08

@@ -1,8 +1,8 @@
 ---
 division: KR6p
-divisionTitle: 淨土宗著述部
-divisionTitlePinyin: Jìngtǔ zōng zhùshù bù
-divisionTitleEnglish: Buddhist Canon — Compositions of the Pure Land School
+title: 淨土宗著述部
+titlePinyin: Jìngtǔ zōng zhùshù bù
+titleEnglish: Buddhist Canon — Compositions of the Pure Land School
 parentDivision: KR6
 created: 2026-05-15
 updated: 2026-05-15

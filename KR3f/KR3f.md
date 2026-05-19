@@ -1,8 +1,8 @@
 ---
 division: KR3f
-divisionTitle: 天文算法類
-divisionTitlePinyin: Tiānwén suànfǎ lèi
-divisionTitleEnglish: Masters — Astronomy and Mathematics
+title: 天文算法類
+titlePinyin: Tiānwén suànfǎ lèi
+titleEnglish: Masters — Astronomy and Mathematics
 parentDivision: KR3
 created: 2026-05-15
 updated: 2026-05-08

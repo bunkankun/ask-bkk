@@ -1,8 +1,8 @@
 ---
 division: KR3i
-divisionTitle: 譜錄類
-divisionTitlePinyin: Pǔ-lù lèi
-divisionTitleEnglish: Masters — Treatises and Catalogues (Connoisseurship Monographs on Single Objects)
+title: 譜錄類
+titlePinyin: Pǔ-lù lèi
+titleEnglish: Masters — Treatises and Catalogues (Connoisseurship Monographs on Single Objects)
 parentDivision: KR3
 created: 2026-05-15
 updated: 2026-05-08

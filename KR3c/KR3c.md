@@ -1,8 +1,8 @@
 ---
 division: KR3c
-divisionTitle: 法家類
-divisionTitlePinyin: Fǎ-jiā lèi
-divisionTitleEnglish: Masters — Legalists
+title: 法家類
+titlePinyin: Fǎ-jiā lèi
+titleEnglish: Masters — Legalists
 parentDivision: KR3
 created: 2026-05-15
 updated: 2026-05-08

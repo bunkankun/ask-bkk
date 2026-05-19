@@ -1,8 +1,8 @@
 ---
 division: KR4c
-divisionTitle: 別集類·唐五代
-divisionTitlePinyin: Biéjí lèi · Táng Wǔdài
-divisionTitleEnglish: Collected Works — Individual Writers of the Tang and Five Dynasties
+title: 別集類·唐五代
+titlePinyin: Biéjí lèi · Táng Wǔdài
+titleEnglish: Collected Works — Individual Writers of the Tang and Five Dynasties
 parentDivision: KR4
 created: 2026-05-13
 updated: 2026-05-08

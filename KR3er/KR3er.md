@@ -1,8 +1,8 @@
 ---
 division: KR3er
-divisionTitle: 綜合醫書類
-divisionTitlePinyin: Zōng-hé yī-shū lèi
-divisionTitleEnglish: Masters — Medicine — Comprehensive Medical Works
+title: 綜合醫書類
+titlePinyin: Zōng-hé yī-shū lèi
+titleEnglish: Masters — Medicine — Comprehensive Medical Works
 parentDivision: KR3e
 created: 2026-05-15
 updated: 2026-05-08

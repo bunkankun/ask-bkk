@@ -1,8 +1,8 @@
 ---
 division: KR1e
-divisionTitle: 春秋類
-divisionTitlePinyin: Chūnqiū lèi
-divisionTitleEnglish: Classics — Spring and Autumn Annals
+title: 春秋類
+titlePinyin: Chūnqiū lèi
+titleEnglish: Classics — Spring and Autumn Annals
 parentDivision: KR1
 created: 2026-05-12
 updated: 2026-05-08

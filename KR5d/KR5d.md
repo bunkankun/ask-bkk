@@ -1,8 +1,8 @@
 ---
 division: KR5d
-divisionTitle: 太玄部
-divisionTitlePinyin: Tàixuán bù
-divisionTitleEnglish: Daoist Canon — Great Mystery
+title: 太玄部
+titlePinyin: Tàixuán bù
+titleEnglish: Daoist Canon — Great Mystery
 parentDivision: KR5
 created: 2026-05-12
 updated: 2026-05-08
