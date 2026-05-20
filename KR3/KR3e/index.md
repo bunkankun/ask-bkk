@@ -1,12 +1,9 @@
-# KR3 子部
+---
+title: "3e 醫家類"
+---
+# [[KR3e|醫家類 Section introduction]]
+# 醫家類 *Yījiā lèi* — Masters — Medicine. Subsections:
 
-KR3: the Masters division.
-
-- [[KR3a]] 儒家類 *Rújiā lèi* — Masters — Confucian Writers. Non-canonical Confucian thinkers, statecraft works, and moral-political writings. 159 texts.
-- [[KR3b]] 兵家類 *Bīngjiā lèi* — Masters — Military Experts. Strategy, tactics, military institutions, and technical writings on warfare. 28 texts.
-- [[KR3c]] 法家類 *Fǎjiā lèi* — Masters — Legalists. Legalist and administrative thought, law, power, and institutional technique. 9 texts.
-- [[KR3d]] 農家類 *Nóngjiā lèi* — Masters — Agricultural Treatises. Farming, sericulture, agronomy, rural management, and practical agricultural encyclopedias. 10 texts.
-- [[KR3e]] 醫家類 *Yījiā lèi* — Masters — Medicine. The main medical class and its canonical, clinical, pharmaceutical, and specialist subdivisions. 101 texts.
 - [[KR3ea]] 醫經 *Yī jīng* — Masters — Medicine — Medical Classics. Foundational medical classics and their commentarial afterlife. 57 texts.
 - [[KR3eb]] 診法 *Zhěn fǎ* — Masters — Medicine — Diagnostic Methods. Pulse, observation, clinical signs, and diagnostic technique. 56 texts.
 - [[KR3ec]] 本草類 *Běncǎo lèi* — Masters — Medicine — Materia Medica. Pharmacopoeias, materia medica, drug preparation, and medicinal substances. 88 texts.
@@ -28,13 +25,7 @@ KR3: the Masters division.
 - [[KR3es]] 醫史類 *Yī shǐ lèi* — Masters — Medicine — Medical History, Biography, and Bibliography. Medical historiography, biographies, catalogues, and meta-medical works. 6 texts.
 - [[KR3et]] 法醫醫政類 *Fǎyī yīzhèng lèi* — Masters — Medicine — Forensic Medicine and Medical Administration. Forensics, legal medicine, and medical governance. 2 texts.
 - [[KR3eu]] 東瀛醫籍類 *Dōngyíng yījí lèi* — Masters — Medicine — Japan-Transmitted Medical Works. Kanpō texts and Chinese medical works preserved or reworked in Japan. 76 texts.
-- [[KR3f]] 天文算法類 *Tiānwén suànfǎ lèi* — Masters — Astronomy and Mathematics. Astronomy, calendrical computation, instruments, and mathematics. 62 texts.
-- [[KR3fa]] 天文 *Tiānwén* — Masters — Astronomy and Mathematics — Astronomy. Observational astronomy, asterisms, celestial phenomena, and instruments. 38 texts.
-- [[KR3fb]] 曆法 *Lìfǎ* — Masters — Astronomy and Mathematics — Calendrical Method. Calendar construction, astronomical calculation, and official calendrical systems. 24 texts.
-- [[KR3fc]] 算法 *Suànfǎ* — Masters — Astronomy and Mathematics — Mathematical Methods. Mathematical procedures, computation, and problem traditions. 79 texts.
-- [[KR3g]] 術數類 *Shùshù lèi* — Masters — Mantic Arts. Divination, cosmological numerology, geomancy, astrology, and fate calculation. 52 texts.
-- [[KR3h]] 藝術類 *Yìshù lèi* — Masters — Arts. Calligraphy, painting, music-adjacent arts, connoisseurship, and literati technique. 94 texts.
-- [[KR3i]] 譜錄類 *Pǔlù lèi* — Masters — Treatises and Catalogues. Monographs and catalogues on objects, plants, animals, implements, and connoisseurship. 51 texts.
-- [[KR3j]] 雜家類 *Zájiā lèi* — Masters — Miscellaneous. Syncretic works, investigations, miscellanies, and wide-ranging discourse. 201 texts.
-- [[KR3k]] 類書類 *Lèishū lèi* — Masters — Encyclopedias and Categorized Anthologies. Topically arranged encyclopedic compilations and reference anthologies. 76 texts.
-- [[KR3l]] 小說家類 *Xiǎoshuō jiā lèi* — Masters — School of Minor Discourses. Anecdotes, miscellanies, strange accounts, and narrative notes. 172 texts.
+
+
+
+
