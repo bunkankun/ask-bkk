@@ -21,4 +21,6 @@ If you would like to take advantage of this, you can download a copy to your dev
 	7. Obsidian might ask you if you trust the creator of the vault. 
 	Obsidian will then treat that folder as the vault. A vault is just a normal folder containing Markdown notes and subfolders; Obsidian stores its settings in a hidden `.obsidian` folder inside it.
 	On the other hand, if you are already using Obsidian, use the vault switcher: bottom-left **Vault profile** icon → **Manage Vaults...** → **Open folder as vault** → **Open**.
+Enjoy!
+
 
