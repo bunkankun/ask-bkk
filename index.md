@@ -5,7 +5,7 @@ kanbun: 聞㆓分館君㆒
  
 # Annotated catalog for the Kanseki Repository and beyond
 
-The resource offered here is the result of instructing an AI agent to write cataloging notes for the texts.  This agent was nick-named **[[Meta/Bunkankun|Bunkankun]]** and this is used in the name of the site to remind users every time they visit that the information available here has to be read even more critical than usual, since such an agent can go off the rail at any time without warning. [[Meta/Making-Of||Some Information about the making of the catalog]].  **Ask Bunkankun** is not a Chat interface, but rather has precooked answers to questions about the texts users might have, even if they don't know it yet.  
+The resource offered here is the result of instructing an AI agent to write cataloging notes for the texts, to be used in revising Kanseki Repository and preparing a new version.  The agent was nick-named **[[Meta/Bunkankun|Bunkankun]]** and this is used in the name of the site to remind users every time they visit that the information available here has to be read even more critical than usual, since such an agent can go off the rail at any time without warning. [[Meta/Making-Of||Some Information about the making of the catalog]].  **Ask Bunkankun** is not a Chat interface, but rather has precooked answers to questions about the texts users might have, even if they don't know it yet.  
 
 ## Contents
 Overview of the Kanseki Repository Knowledgebase.
@@ -31,5 +31,9 @@ The agent has been instructed to surface any problems or discrepancies that it d
 This catalog is very much tied to the collection it catalogs, which is by design -- after all it was created to improve that collection.  In addition to browsing the notes on the web, they can also be used locally on your own laptop or even smartphone or other mobile device.  They have been created and edited to be compatible with a popular Markdown editor and note-taking application [Obsidian](obsidian.md) as a downloadable 'Vault' -- this is how Obsidian calls such a collection of notes.  Instructions on how to go about this are available [[Readme|here]].  Not only offers this a better reading environment with more sophisticated searching, it also allows you to edit any notes, correct errors or simply make additions that are relevant to your **own research question**.  On top of that, it is possible to contribute corrections back to the origin using a mechanism that is used by (open source) software developers all over the world and is increasingly used in the Digital Humanities and Open Science / Open Data movement:  the distributed version control system [git]() via [GitHub](). See the [[Readme]] file for further instructions on how to set this up.      
 
 Christian Wittern, May 2026.
+
+## Acknowledgements
+The work on this site was supported by the CIIH project *漢籍リポジトリ統合計画*, as well as the KAKENHI projects [デジタル研究基盤としての令和大蔵経の編纂―次世代人文学の研究基盤構築モデルの提示](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25H00001/), and [禅の言葉と翻訳に関する学際的研究ー『正法眼蔵』の諸外国語訳の比較分析を通して](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K00013/)
+
 
 [^1]: Schipper, Kristofer, and Franciscus Verellen, eds. *The Taoist Canon: A Historical Companion to the Daozang*. University of Chicago Press, 2004.
