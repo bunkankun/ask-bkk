@@ -42,7 +42,7 @@ The Sìkù compilers placed under this rubric three distinct kinds of work: (i) 
 - [[勒德洪]] — Manchu Grand Secretary, chief compiler-of-record of the precedent-setting *Píngdìng sānnì fānglüè* [[KR2c0009]] of 1682–86 — the work that established the *fānglüè* form for the remainder of the dynasty.
 - [[溫達]], [[來保]], [[傅恒]], [[阿桂]] — the senior Manchu officials who served as chief compilers-of-record on the great Kāngxī- and Qiánlóng-era *fānglüè*: respectively the Galdan campaign [[KR2c0010]], the First Jīnchuān [[KR2c0011]], the Dzungar conquest [[KR2c0012]], and the combined Jīnchuān + several late-Qiánlóng frontier *jìlüè* [[KR2c0013]] [[KR2c0015]]. Āguì in particular is the connecting figure across the late-Qiánlóng campaign-history office.
 - [[于敏中]] and [[舒赫德]] — late-Qiánlóng Grand Secretaries who together with Āguì ran the campaign-history office through the 1770s and 1780s ([[KR2c0014]]).
-- [[田汝成]], [[郭允蹈]], [[馮甦]], [[藍鼎元]] — the principal individual compilers, outside the imperial *fānglüè* office, of regional and frontier *jìshì běnmò* on YúnnánGuìzhōu, Sìchuān, Yúnnán, and Taiwan respectively.
+- [[田汝成]], [[郭允蹈]], [[馮甦]], [[藍鼎元]] — the principal individual compilers, outside the imperial *fānglüè* office, of regional and frontier *jìshì běnmò* on Yúnnán-Guìzhōu, Sìchuān, Yúnnán, and Taiwan respectively.
 
 ## Topics
 

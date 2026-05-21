@@ -41,7 +41,7 @@ KR1c therefore divides cleanly into three transmissional phases that any reader 
 **The Lǚ school: Sòng *xù*-defending exegesis**
 - *Lǚshì jiāshú dú Shī jì* 呂氏家塾讀詩記 [[KR1c0017]] — [[呂祖謙]]'s deferential reading, the principal Sòng survival of the *zōng xù* 宗序 (preface-following) position, and the work whose conservatism Yáng Shèn credited with provoking Zhū Xī's late anti-*xù* shift.
 - *Xù Lǚshì jiāshú dú Shī jì* 續呂氏家塾讀詩記 [[KR1c0018]] — [[戴溪]]'s continuation.
-- *Cíhú Shī zhuàn* 慈湖詩傳 [[KR1c0016]] — [[楊簡]]'s LùWáng *xīnxué* 心學 reading; a minority voice but the only SòngYuán *Shī* commentary committed to the Lù school programme.
+- *Cíhú Shī zhuàn* 慈湖詩傳 [[KR1c0016]] — [[楊簡]]'s Lù Wáng *xīnxué* 心學 reading; a minority voice but the only Sòng-Yuán *Shī* commentary committed to the Lù school programme.
 
 **The Sòng synthesis: bridging Hàn and Sòng readings**
 - *Shī jí* 詩緝 [[KR1c0023]] — [[嚴粲]]'s mid-thirteenth-century combination of *Máo–Zhèng* glosses with Zhū Xī's framework; widely judged by Qīng reviewers (cf. the *Sìkù tíyào*) the best balanced Sòng commentary.
@@ -53,7 +53,7 @@ KR1c therefore divides cleanly into three transmissional phases that any reader 
 **Yuán *jí zhuàn* tradition and Míng imperial codification**
 - *Shī jí zhuàn míngwù chāo* 詩集傳名物鈔 [[KR1c0027]] — [[許謙]]'s natural-history supplement to Zhū Xī.
 - *Shī zhuàn tōngshì* 詩傳通釋 [[KR1c0028]] — [[劉瑾]]'s comprehensive Yuán sub-commentary on the *jí zhuàn*.
-- *Shījīng shūyì huìtōng* 詩經疏義會通 [[KR1c0030]] — [[朱公遷]]'s YuánMíng synthesis.
+- *Shījīng shūyì huìtōng* 詩經疏義會通 [[KR1c0030]] — [[朱公遷]]'s Yuán-Míng synthesis.
 - *Shī zhuàn dàquán* 詩傳大全 [[KR1c0035]] — [[胡廣]]'s 1414–1415 imperial *Yǒnglè* compilation that codified the *jí zhuàn* as exam orthodoxy.
 
 **Late Míng natural-history scholarship**
@@ -98,7 +98,7 @@ KR1c therefore divides cleanly into three transmissional phases that any reader 
 
 - **The Mao *xù* 序 question.** The genuineness of the *Great Preface* and the 305 *Small Prefaces* is the single axis around which the division organizes itself. The Hàn–Táng *Máo–Zhèng–Kǒng* line treats them as Confucian-school transmissions; Zhū Xī ([[KR1c0009]] / [[KR1c0015]]) treats them as Hàn-period allegoresis to be jettisoned; the *Hànxué* revival ([[KR1c0049]]) reasserts them; the late-Qīng mediating position ([[KR1c0065]]) accepts only the opening sentence of each. Every Sòng-onward commentary in KR1c can be placed on this axis.
 - **The Three-Family vs. Mao transmissional puzzle.** Why did the gǔwén *Máoshī* alone survive while the three court-supported jīnwén traditions disappeared? The recovery of the *sānjiā shī* from citation fragments (Wáng Yīnglín's [[KR1c0025]] as prototype, Fàn Jiāxiàng's [[KR1c0062]] as the major Qīng synthesis) is one of the principal antiquarian projects of the division.
-- **The "licentious airs" (*yín fēng* 淫風) problem.** Zhū Xī's reading of certain *Guófēng* poems — especially in *Zhèng* 鄭 and *Wèi* 衛 — as ordinary love-songs rather than political allegory triggered both YuánMíng moral debate and Qīng *Hànxué* rejection. Cf. [[KR1c0009]] for the original move; [[KR1c0049]] for the Qīng counter-argument.
+- **The "licentious airs" (*yín fēng* 淫風) problem.** Zhū Xī's reading of certain *Guófēng* poems — especially in *Zhèng* 鄭 and *Wèi* 衛 — as ordinary love-songs rather than political allegory triggered both Yuán-Míng moral debate and Qīng *Hànxué* rejection. Cf. [[KR1c0009]] for the original move; [[KR1c0049]] for the Qīng counter-argument.
 - **Bǐ–Xìng–Fù 比興賦 trope-analysis.** Zhū Xī's systematic classification of each ode as *bǐ* (comparison), *xìng* (evocation), or *fù* (direct narration) — adopted from the *Zhōuli* *liù yì* 六義 scheme — became the standard analytic framework from the Yuán onward and is the principal poetological framework of the division.
 - **The *míngwù* 名物 (names of things) tradition.** A continuous natural-history line from [[陸璣]]'s third-century *cǎomù niǎoshòu chóngyú shū* [[KR1c0005]] through [[毛晉]]'s expansion [[KR1c0006]], [[許謙]]'s [[KR1c0027]], [[馮復京]]'s six-school synthesis [[KR1c0039]], and the cluster of Qīng natural-history works ([[KR1c0054]], [[KR1c0055]], [[KR1c0056]], [[KR1c0060]]) identifies the plants, birds, animals, insects, fish, and material objects named in the poems.
 - **Geographical and historical contextualization.** Wáng Yīnglín's *Shī dìlǐ kǎo* [[KR1c0026]] inaugurated and [[顧棟高]]'s *Máo Shī lèi shì* [[KR1c0060]] consolidated the project of locating the *Guófēng* in concrete Zhōu geography and the *Yǎ* in concrete dynastic events.

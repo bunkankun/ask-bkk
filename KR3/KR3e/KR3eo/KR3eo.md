@@ -91,7 +91,7 @@ The division clusters around a small number of recurring problems and debates.
 
 **Monthly and seasonal regimens.** The almanac branch — Zhōu Shǒuzhōng's *Yǎngshēng yuèlǎn* [[KR3eo024]] is the prototype; Jiāng Hán's *Fèngshí zhǐyào* [[KR3eo008]] is the major Qīng exemplar. The cosmological premise is that *qì* flows differently through each lunar month and each of the twenty-four *jiéqì* solar nodes, and that diet, conduct, and exercise must vary accordingly.
 
-**The literatus *yǎngshēng* tradition.** A distinctive strand running from Sū Shì 蘇軾 (whose *SūShěn liángfāng* [[KR3e0020]] sits in `KR3e` proper) through Wáng Tíngxiāng ([[KR3eo015]]) to the Qīng scholar-officials Mǎ Qí ([[KR3eo005]]) and the *Qīngpǔ Zhū jūnzǐ* circle ([[KR3eo017]]). These works are characterised by philosophical self-consciousness and prose elegance rather than by clinical-medical authority.
+**The literatus *yǎngshēng* tradition.** A distinctive strand running from Sū Shì 蘇軾 (whose *Sū-Shěn liángfāng* [[KR3e0020]] sits in `KR3e` proper) through Wáng Tíngxiāng ([[KR3eo015]]) to the Qīng scholar-officials Mǎ Qí ([[KR3eo005]]) and the *Qīngpǔ Zhū jūnzǐ* circle ([[KR3eo017]]). These works are characterised by philosophical self-consciousness and prose elegance rather than by clinical-medical authority.
 
 **External therapy (外治法).** The late-Qīng *wàizhìfǎ* programme — plaster, poultice, fumigation, acupressure as substitutes for internal pharmacotherapy. Chéng Péngchéng ([[KR3eo047]]) and Wú Shījī ([[KR3eo048]]) are the founding figures. Wú's *Lǐyuè piánwén*, written entirely in parallel-prose, is the theoretical statement; it has acquired renewed interest in twentieth-century *zhōngyī* practice.
 

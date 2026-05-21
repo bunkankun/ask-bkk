@@ -10,7 +10,7 @@ updated: 2026-05-08
 
 ## Scope and scholarly tradition
 
-KR4i 詩文評類 (*Shī wén píng lèi*, "Critiques of Poetry and Prose") is the last of the nine sub-categories of *Jíbù* 集部 (KR4, Belles-Lettres) in the *Sìkù quánshū* 四庫全書 taxonomy. It collects the canon of pre-modern Chinese literary criticism: works that *judge* writing rather than *contain* it. The tradition begins with two Liáng-dynasty 梁 (early 6th c.) monuments — Liú Xié's 劉勰 *Wénxīn diāolóng* 文心雕龍 and Zhōng Róng's 鍾嶸 *Shīpǐn* 詩品 — whose ambition to provide a comprehensive theory of writing was not matched again until the late Míng and Qīng. From the eleventh century onward, criticism became overwhelmingly informal and pointillistic: Ōuyáng Xiū 歐陽修 founded the *shīhuà* 詩話 ("remarks on poetry") in 1071–72, a loose, anecdotal form that Wilkinson (§30.5) describes as "a specialized subgenre of *biji*" 筆記. Some forty SòngYuánMíngQīng *shīhuà*, together with parallel-prose criticism (*sìliù huà* 四六話), epitaph-and-inscription manuals (*jīnshí lì* 金石例 etc.), and examination-essay primers (*zuò yì yào jué* 作義要訣), make up the rest of the division.
+KR4i 詩文評類 (*Shī wén píng lèi*, "Critiques of Poetry and Prose") is the last of the nine sub-categories of *Jíbù* 集部 (KR4, Belles-Lettres) in the *Sìkù quánshū* 四庫全書 taxonomy. It collects the canon of pre-modern Chinese literary criticism: works that *judge* writing rather than *contain* it. The tradition begins with two Liáng-dynasty 梁 (early 6th c.) monuments — Liú Xié's 劉勰 *Wénxīn diāolóng* 文心雕龍 and Zhōng Róng's 鍾嶸 *Shīpǐn* 詩品 — whose ambition to provide a comprehensive theory of writing was not matched again until the late Míng and Qīng. From the eleventh century onward, criticism became overwhelmingly informal and pointillistic: Ōuyáng Xiū 歐陽修 founded the *shīhuà* 詩話 ("remarks on poetry") in 1071–72, a loose, anecdotal form that Wilkinson (§30.5) describes as "a specialized subgenre of *biji*" 筆記. Some forty Sòng-Yuán-Míng-Qīng *shīhuà*, together with parallel-prose criticism (*sìliù huà* 四六話), epitaph-and-inscription manuals (*jīnshí lì* 金石例 etc.), and examination-essay primers (*zuò yì yào jué* 作義要訣), make up the rest of the division.
 
 The works span roughly thirteen centuries — c. 496 to c. 1778 — and divide cleanly along genre lines: lyric poetry (*shī* 詩), parallel and ornamental prose (*pián* 駢, *sìliù* 四六), examination and stelae prose, and broad surveys of "literature" (*wén* 文) as such. The chronological centre of gravity sits squarely in the Sòng 宋, when the new examination culture and printed-book economy produced the dense network of *shīhuà* whose internal cross-quotation effectively constitutes the canon of Táng and Sòng poetic taste. Cross-references between texts in this division are exceptionally dense: nearly every Southern Sòng *shīhuà* engages with the Jiāngxī 江西 school of Huáng Tíngjiān 黃庭堅 (KR4d), with the *Sūshì* 蘇軾 tradition, and ultimately with the Late-Sòng synthesis of Yán Yǔ's 嚴羽 *Cānglàng shīhuà* 滄浪詩話. Wilkinson's chronological list of literary-critical landmarks (§30.5) overlaps with the KR4i contents but omits the bulk of the Southern Sòng *shīhuà* preserved here.
 
@@ -110,7 +110,7 @@ The works span roughly thirteen centuries — c. 496 to c. 1778 — and divide c
 - c. 1190–1206 — *Chéngzhāi shīhuà* 誠齋詩話 [[KR4i0033]] — Yáng Wànlǐ, the rare *shīhuà* by a major poet.
 - c. 1190–1279 — *Wénzhāng jīngyì* 文章精義 [[KR4i0042]] — Lǐ Qíqīng, late-Sòng prose-theory.
 - 1193 — *Yúshī lù* 餘師錄 [[KR4i0034]] — Wáng Zhèngdé, collected sayings on prose.
-- c. 1200–1210 — *Cǎotáng shīhuà* 草堂詩話 [[KR4i0040]] — Cài Mèngbì, DùFǔ centred *shīhuà*.
+- c. 1200–1210 — *Cǎotáng shīhuà* 草堂詩話 [[KR4i0040]] — Cài Mèngbì, Dù-Fǔ centred *shīhuà*.
 - c. 1200–1279 — *Zhúzhuāng shīhuà* 竹莊詩話 [[KR4i0041]] — Hé Xīwèn.
 - c. 1219–1240 — *Yúshūtáng shīhuà* 娛書堂詩話 [[KR4i0038]] — Zhào Yǔyán.
 - c. 1226–1256 — *Jīngxī línxià ǒután* 荊溪林下偶談 [[KR4i0039]] — Wú Zǐliáng.
@@ -128,7 +128,7 @@ The works span roughly thirteen centuries — c. 496 to c. 1778 — and divide c
 - c. 1500–1516 — *Huáilùtáng shīhuà* 懷麓堂詩話 [[KR4i0051]] — Lǐ Dōngyáng, agenda-setting early-Míng *shīhuà*.
 - c. 1524–1559 — *Shīhuà bǔyí* 詩話補遺 [[KR4i0053]] — Yáng Shèn's supplement to his *Shēng'ān shīhuà*.
 - 1528 — *Yíshān shīhuà* 頣山詩話 [[KR4i0052]] — Ān Pán.
-- c. 1573–1588 — *Yìpǔ xiéyú* 秇圃擷餘 [[KR4i0054]] — Wáng Shìmào, HòuQīzǐ 後七子 critical positions.
+- c. 1573–1588 — *Yìpǔ xiéyú* 秇圃擷餘 [[KR4i0054]] — Wáng Shìmào, Hòu-Qīzǐ 後七子 critical positions.
 - c. 1620–1644 — *Tángyīn guǐqiān* 唐音癸籤 [[KR4i0055]] — Hú Zhènhēng, the most ambitious late-Míng study of Táng poetry.
 - c. 1660–1685 — *Lìdài shīhuà* 歷代詩話 [[KR4i0056]] — Wú Jǐngxù's encyclopaedic compilation.
 - c. 1660–1695 — *Jīnshí yàolì* 金石要例 [[KR4i0057]] — Huáng Zōngxī's Qīng epitaph manual.
@@ -137,5 +137,5 @@ The works span roughly thirteen centuries — c. 496 to c. 1778 — and divide c
 - c. 1709–1715 — *Tánlóng lù* 談龍錄 [[KR4i0061]] — Zhào Zhíxìn's attack on *shényùn* orthodoxy.
 - 1738 — *Wénxīn diāolóng jí zhù* 文心雕龍輯註 [[KR4i0002]] — Huáng Shūlín, foundational Qīng critical edition.
 - c. 1740–1746 — *Sòng shī jìshì* 宋詩紀事 [[KR4i0062]] — Lì È, the standard compendium of Sòng poetic anecdote.
-- c. 1750–1775 — *QuánMǐn shīhuà* 全閩詩話 [[KR4i0063]] — Zhèng Fāngkūn's regional *shīhuà* of Fújiàn.
+- c. 1750–1775 — *Quán-Mǐn shīhuà* 全閩詩話 [[KR4i0063]] — Zhèng Fāngkūn's regional *shīhuà* of Fújiàn.
 - c. 1750–1778 — *Wǔdài shīhuà* 五代詩話 [[KR4i0064]] — Zhèng Fāngkūn's revision of Wáng Shìzhēn's posthumous compilation.

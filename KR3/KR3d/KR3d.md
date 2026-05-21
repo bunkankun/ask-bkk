@@ -14,7 +14,7 @@ updated: 2026-05-08
 
 KR3d 農家類 (*Nóngjiā lèi*) is the agricultural-treatises subdivision of the 子部 (Masters), gathering the comprehensive *nóng shū* 農書 — practical handbooks and imperially sponsored encyclopedias covering grain and rice cultivation, sericulture, horticulture, animal husbandry, water-control, agricultural implements, food preservation, and famine-relief botany. The classification has a continuous bibliographic history: from the Hàn 漢志 the genre was placed in section nine (*nóngshū*) of the Masters branch; by the Qīng *Sìkù quánshū* it sat in section four of the *zǐbù*, and the present KR3d retains that placement (Wilkinson, *Chinese History: A New Manual* §35.4).
 
-The chronological span of the works actually collected here runs from the Northern Wèi *Qí mín yào shù* of the 530s — the first complete extant agricultural encyclopedia — through the SòngYuán southern-rice and imperial-handbook traditions, the Míng famine-botany and Jesuit-influenced hydraulic literature, and culminates in the Qīng imperial *Qīn dìng shòu shí tōng kǎo* of 1742. Wilkinson (§35.4) notes that some 260 such treatises survive out of about 650 known titles, and characterises the genre as combining (i) quotation from earlier and now-lost agricultural works, (ii) hands-on experience by retired officials, magistrates, and estate-holders, and (iii) imperially commissioned popularisation. KR3d's 10 entries are a curated SKQS selection drawn precisely from these three streams.
+The chronological span of the works actually collected here runs from the Northern Wèi *Qí mín yào shù* of the 530s — the first complete extant agricultural encyclopedia — through the Sòng-Yuán southern-rice and imperial-handbook traditions, the Míng famine-botany and Jesuit-influenced hydraulic literature, and culminates in the Qīng imperial *Qīn dìng shòu shí tōng kǎo* of 1742. Wilkinson (§35.4) notes that some 260 such treatises survive out of about 650 known titles, and characterises the genre as combining (i) quotation from earlier and now-lost agricultural works, (ii) hands-on experience by retired officials, magistrates, and estate-holders, and (iii) imperially commissioned popularisation. KR3d's 10 entries are a curated SKQS selection drawn precisely from these three streams.
 
 ## Important texts and text clusters
 
@@ -47,7 +47,7 @@ The ten works fall into four readily recognisable clusters.
 - [[朱橚]] (Zhū Sù, Prince of Zhōu, 1361–1425) — fifth son of Míng Tàizǔ, founder of the famine-botany sub-tradition through his court-sponsored *Jiù huāng běn cǎo*.
 - [[徐光啟]] (Xú Guāngqǐ, 1562–1633) — the central Late-Míng figure of the division, author or co-author of two KR3d entries ([[KR3d0007]], [[KR3d0008]]) and the principal mediator between the Chinese agricultural tradition and Jesuit-introduced European technical material.
 - [[西洋熊三拔]] (Sabatino de Ursis, 1575–1620) — the Italian Jesuit whose collaboration with Xú Guāngqǐ produced the *Tàixī shuǐ fǎ*, one of the principal works of Late-Míng Chinese-Western technical encounter.
-- [[鄂爾泰]] (È'ěrtài, 1677–1745) and [[張廷玉]] (Zhāng Tíngyù, 1672–1755) — the senior YōngzhèngQiánlóng ministers who directed the imperial synthesis [[KR3d0010]] that closes the SKQS *Nóngjiā* selection.
+- [[鄂爾泰]] (È'ěrtài, 1677–1745) and [[張廷玉]] (Zhāng Tíngyù, 1672–1755) — the senior Yōngzhèng-Qiánlóng ministers who directed the imperial synthesis [[KR3d0010]] that closes the SKQS *Nóngjiā* selection.
 
 ## Topics
 

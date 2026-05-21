@@ -29,11 +29,11 @@ The 47 works fall into recognized clusters; entries are grouped accordingly.
 
 **Sòng specialised bibliographies.** Two works treat one branch of literature in depth: [[KR2n0004]] *Zǐlüè* 子略 by [[高似孫]] (the *zǐbù* / philosophical Masters) and [[KR2n0006]] *Hàn Yìwénzhì kǎozhèng* 漢藝文志考證 by [[王應麟]] (a critical commentary on the *Hànshū* 藝文志 — Wilkinson §73.2.1).
 
-**Míng imperial and palace book catalogues.** [[KR2n0007]] *Wényuàngé shūmù* 文淵閣書目 by [[楊士奇]] — the inventory of the early-Míng palace library at the Wényuàn Pavilion, and the chief source for what survived (and what was lost) of the YuánMíng book collections.
+**Míng imperial and palace book catalogues.** [[KR2n0007]] *Wényuàngé shūmù* 文淵閣書目 by [[楊士奇]] — the inventory of the early-Míng palace library at the Wényuàn Pavilion, and the chief source for what survived (and what was lost) of the Yuán-Míng book collections.
 
 **Míng specialised bibliographies.** [[KR2n0008]] *Shòujīngtú yìlì* 授經圖義例 by [[朱睦㮮]] — an unusual visual-genealogical catalogue diagramming the transmission of the Five Classics.
 
-**Qīng palace book catalogues.** [[KR2n0009]] *Qīndìng Tiānlù línláng shūmù* 欽定天祿琳琅書目 — the imperially commissioned catalogue of the Qiánlóng emperor's collection of rare SòngYuánMíng imprints, compiled by [[于敏中]], [[王際華]], and [[梁國治]]: the model imperial-collector catalogue of the eighteenth century.
+**Qīng palace book catalogues.** [[KR2n0009]] *Qīndìng Tiānlù línláng shūmù* 欽定天祿琳琅書目 — the imperially commissioned catalogue of the Qiánlóng emperor's collection of rare Sòng-Yuán-Míng imprints, compiled by [[于敏中]], [[王際華]], and [[梁國治]]: the model imperial-collector catalogue of the eighteenth century.
 
 **Qīng private bibliographies of earlier scholarship.** Two great early-Qīng works recover the bibliographic history of the preceding dynasties:
 - [[KR2n0010]] *Qiānqǐngtáng shūmù* 千頃堂書目 by [[黃虞稷]] — the most complete bibliography of Míng publications, and the principal source for the *yìwén zhì* 藝文志 of the *Míngshǐ* 明史.
@@ -70,7 +70,7 @@ The 47 works fall into recognized clusters; entries are grouped accordingly.
 - [[趙明誠]] (Zhào Míngchéng, 1081–1129) and [[李清照]] (Lǐ Qīngzhào, 1084–ca. 1155) — joint compilers of the *Jīnshí lù*, the defining early *jīnshí* monograph.
 - [[洪适]] (Hóng Kuò, 1117–1184) — author of the *Lìshì* and *Lìxù*, the canonical Sòng treatments of Hàn clerical-script stelae.
 - [[姜夔]] (Jiāng Kuí, ca. 1155–1221) and [[黃伯思]] (Huáng Bósī, 1079–1118) — leading Sòng critics of the *Chúnhuàgé tiè* calligraphic anthology.
-- [[陶宗儀]] (Táo Zōngyí, ca. 1329–ca. 1409) — YuánMíng transition figure whose *Gǔkè cóngchāo* preserves otherwise-lost inscriptions.
+- [[陶宗儀]] (Táo Zōngyí, ca. 1329–ca. 1409) — Yuán-Míng transition figure whose *Gǔkè cóngchāo* preserves otherwise-lost inscriptions.
 - [[顧炎武]] (Gù Yánwǔ, 1613–1682) — author of three of the most important early-Qīng *jīnshí* works (*Qiúgǔ lù*, *Jīnshí wénzì jì*, *Shíjīng kǎo*); decisive in introducing *kǎozhèng* method into the discipline.
 - [[萬斯同]] (Wàn Sītóng, 1638–1702) — author of the rival *Wànshì Shíjīng kǎo*; a major figure of the Zhèjiāng historical school.
 - [[王澍]] (Wáng Shù, 1668–1743) — leading high-Qīng calligrapher-philologist; author of two works in this division (*Chúnhuà mìgé fǎtiè kǎozhèng* and *Zhúyún tíbá*).
@@ -86,7 +86,7 @@ The 47 works fall into recognized clusters; entries are grouped accordingly.
 - **The birth of *jīnshí***. The systematic, rubbing-based study of inscriptions on bronze and stone is a Northern-Sòng invention (Wilkinson §55.1, §73.3 introduction); [[KR2n0012]] *Jígǔ lù* and [[KR2n0013]] *Jīnshí lù* are the foundational documents.
 - **Calligraphic anthologies (*fǎtiè* 法帖) as a textual problem.** The repeated re-cutting of the *Chúnhuàgé tiè* (992) and its rivals produced a critical literature concerned with attribution, ordering, and the corruption of individual characters across recensions: [[KR2n0014]], [[KR2n0015]], [[KR2n0019]], [[KR2n0021]], [[KR2n0031]], [[KR2n0035]], [[KR2n0044]], [[KR2n0045]].
 - **The *Lántíng* problem.** The reception-history of the *Lántíng xù* 蘭亭序 by Wáng Xīzhī 王羲之 became a self-contained scholarly genre, represented here by [[KR2n0022]] and [[KR2n0023]].
-- **Stone Classics scholarship.** The successive cuttings of the Confucian Classics in stone (XīPíng, ZhèngShǐ, Kāichéng, etc.) produced a tightly-connected sub-literature: [[KR2n0038]], [[KR2n0039]], [[KR2n0047]].
+- **Stone Classics scholarship.** The successive cuttings of the Confucian Classics in stone (Xī-Píng, Zhèng-Shǐ, Kāichéng, etc.) produced a tightly-connected sub-literature: [[KR2n0038]], [[KR2n0039]], [[KR2n0047]].
 - **Regionalism.** Several Míng–Qīng catalogues are explicitly local: Sūzhōu ([[KR2n0029]], [[KR2n0030]]), Mount Sōng ([[KR2n0041]]). They prefigure the Qīng *jīnshí zhì* 金石志 chapters of provincial gazetteers.
 - ***Kǎozhèng* applied to inscriptions.** The decisive shift from connoisseurial appreciation to philological evidential argument, traceable from [[顧炎武]] through [[萬斯同]], [[王澍]], and [[杭世駿]].
 

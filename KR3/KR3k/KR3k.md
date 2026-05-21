@@ -33,7 +33,7 @@ The four canonical Táng general *lèishū* listed together in Wilkinson §72.1.
 - *Yìwén lèijù* 藝文類聚 [[KR3k0003]] — Ōuyáng Xún 歐陽詢, 624; arranged in 46 *bù* / 727 *mù*; landmark in interleaving facts (*shì*) with literary excerpts (*wén*).
 - *Běitáng shūchāo* [[KR3k0004]] — see above.
 - *Chūxué jì* 初學記 [[KR3k0006]] — Xú Jiān 徐堅 et al., compiled for the Tang Xuánzōng 唐玄宗's princes; introduces the tripartite *xùshì* / *shìduì* / *shīwén* internal layout.
-- *BáiKǒng liùtiē* 白孔六帖 [[KR3k0008]] — Bái Jūyì 白居易's *Liùtiē*, with Kǒng Chuán's 孔傳 Northern-Sòng continuation; the prototypical examination-preparation *lèishū*. Wilkinson §72.1.2.1 cites it for the famous anecdote of Bái assembling entries in jars on a seven-tiered rack.
+- *Bái Kǒng liùtiē* 白孔六帖 [[KR3k0008]] — Bái Jūyì 白居易's *Liùtiē*, with Kǒng Chuán's 孔傳 Northern-Sòng continuation; the prototypical examination-preparation *lèishū*. Wilkinson §72.1.2.1 cites it for the famous anecdote of Bái assembling entries in jars on a seven-tiered rack.
 
 Around this nucleus belong *Lóngjīn fèngsuǐ pàn* 龍筋鳳髓判 [[KR3k0005]] — Zhāng Zhuó's 張鷟 model-*pàn* 判 anthology for the Táng *shēnyánshūpàn* 身言書判 examination — and the surviving fragments of two specifically examination-oriented texts recovered from Dùnhuáng and Dazaifu, *Tùyuán cèfǔ* 兔園策府 [[KR3k0069]] and *Hànyuàn* 翰苑 [[KR3k0070]]. These fragmentary witnesses are textually marginal but historically central as the only direct evidence for early-Táng *cèwén* pedagogy.
 
@@ -104,7 +104,7 @@ The Kāngxī–Yōngzhèng court produced an unparalleled cluster of phraseologi
 ### *Méngqiú* primers
 
 - *Méngqiú jízhù* 蒙求集註 [[KR3k0010]] — Sòng commentary by Xú Zǐguāng 徐子光 on Lǐ Hàn 李瀚's Táng *Méngqiú* (rhymed historical-anecdote primer for children).
-- *Chúnzhèng méngqiú* 純正蒙求 [[KR3k0040]] — Hú Bǐngwén 胡炳文, Yuán ZhūXī school orthodox primer.
+- *Chúnzhèng méngqiú* 純正蒙求 [[KR3k0040]] — Hú Bǐngwén 胡炳文, Yuán Zhū Xī school orthodox primer.
 
 ## Important persons
 
@@ -151,7 +151,7 @@ The Kāngxī–Yōngzhèng court produced an unparalleled cluster of phraseologi
 - c. 685–730 — *Lóngjīn fèngsuǐ pàn* 龍筋鳳髓判 [[KR3k0005]] — model-*pàn* anthology for the *shēnyánshūpàn* examination.
 - 725–728 — *Chūxué jì* 初學記 [[KR3k0006]] — Kāiyuán imperial-tutor *lèishū*; introduces *xùshì* / *shìduì* / *shīwén* layout.
 - 812 — *Yuánhé xìngzuǎn* 元和姓纂 [[KR3k0007]] — foundational Táng surname-and-*jùnwàng* manual.
-- c. 826–1131 — *BáiKǒng liùtiē* 白孔六帖 [[KR3k0008]] — composite Táng (Bái) + Sòng (Kǒng) examination-preparation *lèishū*.
+- c. 826–1131 — *Bái Kǒng liùtiē* 白孔六帖 [[KR3k0008]] — composite Táng (Bái) + Sòng (Kǒng) examination-preparation *lèishū*.
 - c. 850–881 — *Xiǎomíng lù* 小名錄 [[KR3k0009]] — late-Táng childhood-name register.
 - c. 880–960 — *Suìhuá jìlì* 歲華紀麗 [[KR3k0067]] — Hán È 韓鄂's seasonal-festival *lèishū* for parallel-prose composition.
 - 977–983 — *Tàipíng yùlǎn* 太平御覽 [[KR3k0012]] — first of the Sòng court mega-compendia in the division.
@@ -177,7 +177,7 @@ The Kāngxī–Yōngzhèng court produced an unparalleled cluster of phraseologi
 - c. 1230–1265 — *Gǔjīn yuánliú zhìlùn* 古今源流至論 [[KR3k0031]] — *cèlùn* crammer organised by *yuán* / *liú*.
 - c. 1240–1253 — *Quánfāng bèizǔ jí* 全芳備祖集 [[KR3k0028]] — late-Sòng botanical *lèishū*.
 - c. 1240–1280 — *Hànyuàn xīnshū* 翰苑新書 [[KR3k0038]] — anonymous late-Sòng court-document formulary.
-- c. 1242–1260 — *Liùtiē bǔ* 六帖補 [[KR3k0037]] — Yáng Bóyán's supplement to the *BáiKǒng liùtiē*.
+- c. 1242–1260 — *Liùtiē bǔ* 六帖補 [[KR3k0037]] — Yáng Bóyán's supplement to the *Bái Kǒng liùtiē*.
 - c. 1250–1265 — *Xiǎozì lù* 小字錄 [[KR3k0035]] — Chén Sī's update of Lù Guīméng's childhood-name register.
 - 1256–1296 — *Yùhǎi* 玉海 [[KR3k0032]] — Wáng Yīnglín's *Bóxué hóngcí* preparation; the most rigorous source-citation discipline in the Sòng tradition.
 - c. 1257–1260 — *Gǔjīn hébì shìlèi bèiyào* 古今合璧事類備要 [[KR3k0030]] — large late-Southern-Sòng commercial general *lèishū*.

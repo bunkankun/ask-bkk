@@ -75,7 +75,7 @@ The division resolves into roughly a dozen clusters, each representing a major g
 - [[紀昀]] — Qīng scholar-official and chief *Sìkù* compiler (1724–1805); author of *Yuèwēi Cǎotáng Bǐjì* [[KR4k0284]], the division's principal Qīng *zhìguài* collection.
 - [[韓邦慶]] — Qīng novelist (1856–1894); author of *Hǎishàng Huā Lièzhuàn* [[KR4k0124]], the landmark Wú-dialect novel.
 - [[許嘯天]] — Republican popular writer (1886–1946); author of the Gōngwéi Yànshǐ 宮闈豔史 palace-intrigue series spanning multiple dynasties.
-- Early-medieval historians (tail fragments): [[陸機]] ([[KR4k0348]]), [[習鑿齒]] ([[KR4k0346]]), [[裴松之]] ([[KR4k0341]], [[KR4k0366]]), [[虞預]] ([[KR4k0359]]), [[何法盛]] ([[KR4k0361]]), [[檀道鸞]] ([[KR4k0342]]), [[孔衍]] ([[KR4k0356]]), [[束皙]] ([[KR4k0354]]) — a roll-call of Jìn and LiúSòng historians whose lost works survive only through the *jíyìběn* reconstructions gathered in the tail of the division.
+- Early-medieval historians (tail fragments): [[陸機]] ([[KR4k0348]]), [[習鑿齒]] ([[KR4k0346]]), [[裴松之]] ([[KR4k0341]], [[KR4k0366]]), [[虞預]] ([[KR4k0359]]), [[何法盛]] ([[KR4k0361]]), [[檀道鸞]] ([[KR4k0342]]), [[孔衍]] ([[KR4k0356]]), [[束皙]] ([[KR4k0354]]) — a roll-call of Jìn and Liú-Sòng historians whose lost works survive only through the *jíyìběn* reconstructions gathered in the tail of the division.
 
 ## Topics
 

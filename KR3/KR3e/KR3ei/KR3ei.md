@@ -21,12 +21,12 @@ The chronological span runs from the mid-Táng — [[昝殷]] Zàn Yīn's *Jīng
 - *Jīngxiào chǎnbǎo* 經效產寶 ([[KR3ei048]], c. 847) of [[昝殷]] Zàn Yīn of Chéngdū — the earliest extant Chinese specialised obstetrical monograph, 378 prescriptions, transmitted via Bái Mǐnzhōng's mid-Táng presentation to the court and rediscovered in Sòng-period reconstruction. Foundational source for all subsequent *Chǎnbǎo* lineage compilations.
 - *Wèishēng jiābǎo chǎnkē bèiyào* 衛生家寶產科備要 ([[KR3ei056]], c. 1180–1190) of [[朱端章]] Zhū Duānzhāng — the single most important surviving witness to Southern-Sòng obstetrical literature, preserving in its *juǎn* 4 and 6 the otherwise-lost *Chǎnyù bǎoqìng jí* of [[李師聖]] Lǐ Shīshèng and *Bèichǎn jìyòng fāng* of [[虞流]] Yú Liú, recut by Lù Xīnyuán in 1887.
 - *Chǎnyù bǎoqìng fāng* 產育寶慶方 ([[KR3ei076]], 1075–1108) — Lǐ Shīshèng's 11th-century obstetrical formulary, preserved bibliographically here but substantively transmitted only through [[KR3ei056]].
-- *Chǎnbǎo zhūfāng* 產寶諸方 ([[KR3ei077]], Sòng) and *Jìshēng chǎnbǎo* 濟生產寶 ([[KR3ei068]], 1180–1535) — further anonymous SòngYuán *Chǎnbǎo*-lineage compilations.
+- *Chǎnbǎo zhūfāng* 產寶諸方 ([[KR3ei077]], Sòng) and *Jìshēng chǎnbǎo* 濟生產寶 ([[KR3ei068]], 1180–1535) — further anonymous Sòng-Yuán *Chǎnbǎo*-lineage compilations.
 
 **The Sòng catechetical gynecology.** *Nǚkē bǎiwèn* 女科百問 ([[KR3ei031]], c. 1220–1230) of [[宋仲甫]] Sòng Zhòngfǔ (= Qí Zhòngfǔ 齊仲甫) — the principal Sòng gynecological work in the division, structured as one hundred numbered *wèndá* (question-and-answer) entries opening with the foundational doctrinal premise that *jīngxuè* (essence-blood) is the source of male-female differentiation; the *bǎiwèn* format would be replicated in numerous Qīng popular gynecologies (cf. [[KR3ei004]], [[KR3ei034]]).
 
 **The Xuēshì 薛氏 mid-Míng cluster.** Three works by or associated with [[薛己]] Xuē Jǐ (1487–1559), Imperial Medical Academy president under the Jiājìng emperor, who established the *Xuēpài* 薛派 gynecology lineage as the principal mid-Míng synthesis:
-- *Jiàozhù Fùrén liángfāng* 校註婦人良方 ([[KR3ei039]], 1547) — Xuē's critical annotation of [[陳自明]] Chén Zìmíng's 1237 Sòng *Fùrén dàquán liángfāng* (the principal Sòng gynecological synthesis, parent text catalogued at [[KR3e0038]]), the channel through which the Sòng *fùkē* canon entered MíngQīng circulation.
+- *Jiàozhù Fùrén liángfāng* 校註婦人良方 ([[KR3ei039]], 1547) — Xuē's critical annotation of [[陳自明]] Chén Zìmíng's 1237 Sòng *Fùrén dàquán liángfāng* (the principal Sòng gynecological synthesis, parent text catalogued at [[KR3e0038]]), the channel through which the Sòng *fùkē* canon entered Míng-Qīng circulation.
 - *Nǚkē cuōyào* 女科撮要 ([[KR3ei009]], 1548) — Xuē's own case-record gynecology in two *juǎn*, applying his Lǐ Dōngyuán *Bǔzhōng yìqì tāng* spleen-stomach plus *Liùwèi / Bāwèi dìhuáng wán* kidney-tonification synthesis to women's medicine.
 - *Xuēshì jìyīn wànjīn shū* 薛氏濟陰萬金書 ([[KR3ei033]], 1569) of [[薛古愚]] Xuē Gǔyú, edited by [[鄭敷政]] Zhèng Fūzhèng — a Wàn-lì-era family-lineage compilation transmitting Xuē-school clinical doctrine into the late Míng.
 
@@ -41,7 +41,7 @@ The chronological span runs from the mid-Táng — [[昝殷]] Zàn Yīn's *Jīng
 
 **The Qīng imperial standard.** *Yīzōng jīnjiàn·Fùkē xīnfǎ yàojué* 醫宗金鑑·婦科心法要訣 ([[KR3ei007]], 1742) of [[吳謙]] Wú Qiān et al. — the gynecology section (*juǎn* 44–49) of the Qiánlóng imperial *Yùzuǎn Yīzōng jīnjiàn* [[KR3e0090]], in seven-character rhymed mnemonic verses with prose commentary; the standard textbook for the *Tàiyī yuàn* 太醫院 examinations and the *de facto* curriculum of Qīng-period gynecology pedagogy, indebted in arrangement to [[KR3ei006]].
 
-**The FùQīngzhǔ 傅青主 / *Fùpài* pseudepigraphic cluster.** Four texts ascribed to the Míng loyalist [[傅山]] Fù Shān (1607–1684), all in fact early- to late-Qīng compilations whose attribution functions as legitimating fiction:
+**The Fù Qīngzhǔ 傅青主 / *Fùpài* pseudepigraphic cluster.** Four texts ascribed to the Míng loyalist [[傅山]] Fù Shān (1607–1684), all in fact early- to late-Qīng compilations whose attribution functions as legitimating fiction:
 - *Fù Qīngzhǔ nǚkē* 傅青主女科 ([[KR3ei001]], first printed 1827) — the single most influential gynecological formulary in Chinese-medicine practice since the late 19th century; its *Wándài tāng* 完帶湯, *Yìhuáng tāng* 易黃湯, and *Tiáogān tāng* 調肝湯 remain core curriculum-formulas in modern PRC TCM gynecology. Demonstrated by Mǎ Jìxìng to draw substantially on [[陳士鐸]] Chén Shìduó's *Shíshì mìlù* and *Biànzhèng lù* (1687).
 - *Fù Qīngzhǔ nǚkē gēkuò* 傅青主女科歌括 ([[KR3ei021]], 1827–1900) — versified mnemonic paratext to the above.
 - *Fùshì nǚkē* 傅氏女科 ([[KR3ei042]]) and *Nǚkē xiānfāng* 女科仙方 ([[KR3ei043]]) — variant late-Qīng recensions in the same pseudepigraphic stream.
@@ -59,7 +59,7 @@ The chronological span runs from the mid-Táng — [[昝殷]] Zàn Yīn's *Jīng
 - *Tāichǎn xīnfǎ* 胎產心法 ([[KR3ei058]], 1730) of [[閻純璽]] Yán Chúnxǐ — three-juan systematic obstetric monograph.
 - *Pánzhū jí tāichǎn zhèngzhì* 盤珠集胎產症治 ([[KR3ei049]], 1780–1820) and *Tāichǎn zhǐnán* 胎產指南 ([[KR3ei053]], 1750–1856), both of [[單南山]] Dān Nánshān.
 - *Tāichǎn mìshū* 胎產秘書 ([[KR3ei054]], 1750–1809) of [[陳笏庵]] Chén Hùān.
-- *Chǎnyùn jí* 產孕集 ([[KR3ei059]], 1830–1850) and its revision *Chóngdìng chǎnyùn jí* 重訂產孕集 ([[KR3ei060]], 1850–1863) of [[張曜孫]] Zhāng Yàosūn — a late-Qīng pair from the prominent Yánghú 陽湖 literary-medical ZhāngWáng lineage.
+- *Chǎnyùn jí* 產孕集 ([[KR3ei059]], 1830–1850) and its revision *Chóngdìng chǎnyùn jí* 重訂產孕集 ([[KR3ei060]], 1850–1863) of [[張曜孫]] Zhāng Yàosūn — a late-Qīng pair from the prominent Yánghú 陽湖 literary-medical Zhāng-Wáng lineage.
 - *Chǎnhòu shíbā lùn* 產後十八論 ([[KR3ei051]], 1729) — anonymous focused post-partum monograph.
 - *Píngzhù chǎnkē xīnfǎ* 評註產科心法 ([[KR3ei069]]) of [[汪樸齋]] Wāng Pǔzhāi.
 - *Chǎnjiàn* 產鑑 ([[KR3ei050]], 1618) of [[王化貞]] Wáng Huàzhēn and *Yìnchǎn quánshū* 胤產全書 ([[KR3ei063]], 1600–1613) of [[王肯堂]] — the principal late-Míng predecessors of the genre.
@@ -79,8 +79,8 @@ The chronological span runs from the mid-Táng — [[昝殷]] Zàn Yīn's *Jīng
 
 **The Wàn-family lineage.** [[萬全]] Wàn Quán of Luótián 羅田 (Húběi) is the principal mid-Míng paediatrician-gynaecologist; his *Guǎngsì jìyào* ([[KR3ei074]]) and *Wànshì nǚkē* ([[KR3ei040]]) anchor the family-school in this division, paired with his paediatrics catalogued elsewhere (cf. Hinrichs and Barnes 2013, p. 153).
 
-**The ShěnWángZhāng late-Qīng / Republican lineage.** A three-generation editorial-textual lineage:
-- *Shěnshì nǚkē jíyào* 沈氏女科輯要 ([[KR3ei010]], 1770–1780) of [[沈又彭]] Shěn Yòupéng — mid-*Qiánlóng* clinical-pragmatic essentials handbook in the PínghúSūzhōu medical milieu; printed in 1850 by [[王士雄]] Wáng Shìxióng (Mèngyīng) with his own *Wēnbìng*-school annotations.
+**The Shěn-Wáng-Zhāng late-Qīng / Republican lineage.** A three-generation editorial-textual lineage:
+- *Shěnshì nǚkē jíyào* 沈氏女科輯要 ([[KR3ei010]], 1770–1780) of [[沈又彭]] Shěn Yòupéng — mid-*Qiánlóng* clinical-pragmatic essentials handbook in the Pínghú-Sūzhōu medical milieu; printed in 1850 by [[王士雄]] Wáng Shìxióng (Mèngyīng) with his own *Wēnbìng*-school annotations.
 - *Shěnshì nǚkē jíyào jiānshū* 沈氏女科輯要箋疏 ([[KR3ei041]], 1915–1933) of [[張壽頤]] Zhāng Shòuyí (Shānléi 山雷) — the early-Republican critical annotation, prepared as a teaching text for the Lánxī Zhōngyī Zhuānménxuéxiào 蘭谿中醫專門學校 (one of the first formal TCM colleges); the standard modern TCM gynecology textbook in this lineage, preserving all three editorial strata.
 
 **Other major Qīng gynecological monographs.** *Nǚkē yàozhǐ* 女科要旨 ([[KR3ei008]], 1801–1820) of [[陳念祖]] Chén Niànzǔ (Xiūyuán) — the great Qīng populariser's gynecology; *Nǚkē zhǐyào* 女科指要 ([[KR3ei016]], 1740–1771) of [[徐大椿]] Xú Dàchūn — the central mid-Qīng *Shānghán*-school critic's gynecology; *Nǚkē qièyào* 女科切要 ([[KR3ei017]], 1750–1800) of [[吳道源]] Wú Dàoyuán; *Nǚkē jīngyào* 女科精要 ([[KR3ei018]], 1702) of [[馮兆張]] Féng Zhàozhāng; *Fùkē yùchǐ* 婦科玉尺 ([[KR3ei023]], 1773) of [[沈金鰲]] Shěn Jīnáo; *Nǚkē zhézhōng zuǎnyào* 女科折衷纂要 ([[KR3ei024]], 1850–1900) of [[凌德]] Líng Dé; *Nǚkē zhǐzhǎng* 女科指掌 ([[KR3ei027]], 1724) of [[葉其蓁]] Yè Qíshēn; *Tóngyuán yīshū·Fùrénkē* 彤園醫書·婦人科 ([[KR3ei037]], 1801–1850) of [[鄭玉壇]] Zhèng Yùtán; *Jīnguì qǐyuè (Fùkē)* 金匱啟鑰（婦科） ([[KR3ei038]], 1850–1900) of [[黃朝坊]] Huáng Cháofāng; *Fùkē bīngjiàn* 婦科冰鑑 ([[KR3ei044]], 1750–1850) of [[柴得華]] Chái Déhuá; and *Nèifǔ mìchuán jīngyàn nǚkē* 內府秘傳經驗女科 ([[KR3ei015]], 1580–1619) of [[龔廷賢]] Gōng Tíngxián.
@@ -110,12 +110,12 @@ The chronological span runs from the mid-Táng — [[昝殷]] Zàn Yīn's *Jīng
 - [[閻純璽]] Yán Chúnxǐ (early Qīng, *fl.* 1730) — author of [[KR3ei058]] *Tāichǎn xīnfǎ*, a foundational Qīng systematic obstetric monograph.
 - [[吳謙]] Wú Qiān (c. 1689–1748) — chief editor of the Qiánlóng imperial *Yīzōng jīnjiàn*; the [[KR3ei007]] *Fùkē xīnfǎ yàojué* section is the standard Qīng imperial textbook of gynecology.
 - [[徐大椿]] Xú Dàchūn (1693–1771) — central mid-Qīng *Shānghán*-school critic; author of [[KR3ei016]] *Nǚkē zhǐyào*.
-- [[沈又彭]] Shěn Yòupéng (Yáofēng, *fl.* 1750–1780) — PínghúHángzhōu clinical-pragmatic physician in the SūzhōuPínghú orbit; author of [[KR3ei010]] *Shěnshì nǚkē jíyào*, the textual basis for the Republican-era TCM-college standard textbook.
+- [[沈又彭]] Shěn Yòupéng (Yáofēng, *fl.* 1750–1780) — Pínghú-Hángzhōu clinical-pragmatic physician in the Sūzhōu-Pínghú orbit; author of [[KR3ei010]] *Shěnshì nǚkē jíyào*, the textual basis for the Republican-era TCM-college standard textbook.
 - [[陳念祖]] Chén Niànzǔ (Xiūyuán, 1753–1823) — the great Qīng medical populariser; author of [[KR3ei008]] *Nǚkē yàozhǐ*.
 - [[賀川玄悅]] Kagawa Gen'etsu (1700–1777) — Edo-period founder of the Kagawa school of Japanese obstetrics; author of [[KR3ei062]] *Sǎn lùn*; first systematic critic of Chinese obstetrical orthodoxy from a non-Chinese empirical position.
 - [[賀川玄迪]] Kagawa Genteki — adoptive son and successor; author of [[KR3ei066]] *Sǎn lùn yì*.
 - [[片倉元周]] Katakura Kakuryō (1751–1822) — Kagawa-school systematist; author of [[KR3ei065]] *Sǎnkē fāméng*.
-- [[張曜孫]] Zhāng Yàosūn (1807–1863) — Yánghú literary-medical ZhāngWáng lineage; author of [[KR3ei059]] and [[KR3ei060]] on pregnancy and childbirth.
+- [[張曜孫]] Zhāng Yàosūn (1807–1863) — Yánghú literary-medical Zhāng-Wáng lineage; author of [[KR3ei059]] and [[KR3ei060]] on pregnancy and childbirth.
 - [[沈金鰲]] Shěn Jīnáo (1717–1776) — author of [[KR3ei023]] *Fùkē yùchǐ*.
 - [[賀龍驤]] Hè Lóngxiāng (late Qīng, *fl.* 1880s–1900s) — Sìchuān Daoist scholar-publisher; editor of [[KR3ei036]] *Nǚdān hébiān xuǎnzhù*, the principal late-Qīng anthology of female internal alchemy.
 - [[王士雄]] Wáng Shìxióng (Mèngyīng, 1808–1868) — leading late-Qīng *Wēnbìng* school physician, editor and 1850 annotator of [[KR3ei010]].
@@ -136,8 +136,8 @@ The chronological span runs from the mid-Táng — [[昝殷]] Zàn Yīn's *Jīng
 - **The active-vs-quietist obstetrical controversy.** [[KR3ei062]] Kagawa Gen'etsu's *Sǎn lùn* (1765) is the foundational Japanese reformist treatise; it openly attacks [[KR3ei055]] *Dáshēng biān*'s quietist programme of *shuì-zhe shēng* and the Chinese practice of *zhèndài* prenatal abdominal-binding, advocating active obstetrical manipulation (*huíshēngshù* 回生術, *gōubāoshù* 鉤胞術). One of the few clear cases of early-modern East-Asian medical exchange in the reverse direction — Chinese practices rejected by a Japanese practitioner developing an alternative empirical system.
 - **The *zhǒngzǐ* / *guǎngsì* genre and Confucian-medical synthesis.** [[KR3ei074]] *Guǎngsì jìyào*, [[KR3ei071]] *Guǎngsì yàoyǔ*, [[KR3ei072]] *Yílín cè*, and [[KR3ei075]] *Xùzēng dàshēng yàozhǐ* form a distinctive late-imperial sub-genre that fuses Confucian-ethical prerequisites for fertility (*xiūdé*, *guǎyù*, *yǎngxīn*) with medical pharmacology. Fertility is theorised as not purely a medical-pharmacological problem but a *xiūdé* problem; the parental generation's moral cultivation is the principal cause of fertile, healthy offspring.
 - **Female internal alchemy as a taxonomic question.** [[KR3ei036]] *Nǚdān hébiān xuǎnzhù* is a Daoist alchemical anthology, not a medical text in the conventional sense; its presence in a *fùkē* cataloging division documents the late-imperial Chinese taxonomic convention that all female-body-focused texts — medical, alchemical, didactic — belonged together. The *zhǎn chìlóng* technique (alchemical cessation of menstruation) is the female counterpart of the male *zhǎn báihǔ* (cessation of seminal emission).
-- **Family-school transmission and the late-Qīng / Republican TCM-college reform.** The ShěnWángZhāng editorial line ([[KR3ei010]] → [[KR3ei041]]) traces a three-generation textual lineage that culminates in the early-Republican TCM-college standard textbook tradition (Zhāng Shānléi at Lánxī Zhōngyī Zhuānménxuéxiào). The lineage exemplifies the longue-durée editorial process by which late-imperial *fùkē* knowledge was transformed into the modernised TCM-college curriculum (cf. Scheid 2007 in Wilkinson §41.7.5; Andrews 2014).
-- **SòngYuánMíngQīng cross-divisional connections.** Several core gynecological works are explicitly excerpts or re-organisations of works held elsewhere in the KR catalog: [[KR3ei028]] is *juǎn* 38ff of [[KR3e0086]] *Jǐngyuè quánshū*; [[KR3ei007]] is *juǎn* 44–49 of [[KR3e0090]] *Yīzōng jīnjiàn*; [[KR3ei030]] is one of six sections of [[KR3e0078]] *Liùkē Zhèngzhì zhǔnshéng*; [[KR3ei039]] is Xuē Jǐ's edition of Chén Zìmíng's [[KR3e0038]]. The *fùkē* sub-discipline is constituted both through specialised monographs and through the systematic disaggregation of comprehensive medical encyclopaedias for specialised-practitioner audiences.
+- **Family-school transmission and the late-Qīng / Republican TCM-college reform.** The Shěn-Wáng-Zhāng editorial line ([[KR3ei010]] → [[KR3ei041]]) traces a three-generation textual lineage that culminates in the early-Republican TCM-college standard textbook tradition (Zhāng Shānléi at Lánxī Zhōngyī Zhuānménxuéxiào). The lineage exemplifies the longue-durée editorial process by which late-imperial *fùkē* knowledge was transformed into the modernised TCM-college curriculum (cf. Scheid 2007 in Wilkinson §41.7.5; Andrews 2014).
+- **Sòng-Yuán-Míng-Qīng cross-divisional connections.** Several core gynecological works are explicitly excerpts or re-organisations of works held elsewhere in the KR catalog: [[KR3ei028]] is *juǎn* 38ff of [[KR3e0086]] *Jǐngyuè quánshū*; [[KR3ei007]] is *juǎn* 44–49 of [[KR3e0090]] *Yīzōng jīnjiàn*; [[KR3ei030]] is one of six sections of [[KR3e0078]] *Liùkē Zhèngzhì zhǔnshéng*; [[KR3ei039]] is Xuē Jǐ's edition of Chén Zìmíng's [[KR3e0038]]. The *fùkē* sub-discipline is constituted both through specialised monographs and through the systematic disaggregation of comprehensive medical encyclopaedias for specialised-practitioner audiences.
 
 ## Timeline
 
@@ -145,7 +145,7 @@ The chronological span runs from the mid-Táng — [[昝殷]] Zàn Yīn's *Jīng
 - **1075–1108** — *Chǎnyù bǎoqìng fāng* 產育寶慶方 [[KR3ei076]] — Lǐ Shīshèng's Northern-Sòng obstetrical formulary, preserved bibliographically.
 - **1100–1279** — *Chǎnbǎo zhūfāng* 產寶諸方 [[KR3ei077]] — anonymous Sòng obstetrical-prescription compilation.
 - **1180–1190** — *Wèishēng jiābǎo chǎnkē bèiyào* 衛生家寶產科備要 [[KR3ei056]] — [[朱端章]] Zhū Duānzhāng's Southern-Sòng anthology, the principal Sòng-edition obstetrical witness.
-- **1180–1535** — *Jìshēng chǎnbǎo* 濟生產寶 [[KR3ei068]] — SòngYuán *Chǎnbǎo*-lineage compilation, edited by [[徐明善]] Xú Míngshàn.
+- **1180–1535** — *Jìshēng chǎnbǎo* 濟生產寶 [[KR3ei068]] — Sòng-Yuán *Chǎnbǎo*-lineage compilation, edited by [[徐明善]] Xú Míngshàn.
 - **c. 1220–1230** — *Nǚkē bǎiwèn* 女科百問 [[KR3ei031]] — [[宋仲甫]] Sòng Zhòngfǔ's Southern-Sòng catechetical gynecology.
 - **1500–1700** — *Qiánshì mìchuán chǎnkē fāngshū* 錢氏秘傳產科方書 [[KR3ei052]] — anonymous Qián-family obstetrical formulary; wide bracket.
 - **1540–1570** — *Guǎngsì yàoyǔ* 廣嗣要語 [[KR3ei071]] — [[俞橋]] Yú Qiáo's early-Míng *zhǒngzǐ* monograph.
@@ -206,7 +206,7 @@ The chronological span runs from the mid-Táng — [[昝殷]] Zàn Yīn's *Jīng
 - **1880–1906** — *Nǚdān hébiān xuǎnzhù* 女丹合編選註 [[KR3ei036]] — [[賀龍驤]] Hè Lóngxiāng's Sìchuān anthology of female internal alchemy.
 - **1885–1886** — *Nǚkē mìzhǐ* 女科秘旨 [[KR3ei022]] — [[輪印禪師]] Lúnyìn Chánshī's late-Qīng monastic-medical compendium.
 - **1896** — *Jìshēng jí* 濟生集 [[KR3ei014]] — [[王春亭]] Wáng Chūntíng's late-Qīng *Aiding-Life* anthology.
-- **1915–1933** — *Shěnshì nǚkē jíyào jiānshū* 沈氏女科輯要箋疏 [[KR3ei041]] — [[張壽頤]] Zhāng Shānléi's early-Republican TCM-college standard textbook (preserves ShěnWángZhāng tripartite editorial layer).
+- **1915–1933** — *Shěnshì nǚkē jíyào jiānshū* 沈氏女科輯要箋疏 [[KR3ei041]] — [[張壽頤]] Zhāng Shānléi's early-Republican TCM-college standard textbook (preserves Shěn-Wáng-Zhāng tripartite editorial layer).
 - **1925–1931** — *Zhúquánshēng nǚkē jíyào* 竹泉生女科集要 [[KR3ei019]] — Republican-era essentials by [[竹泉生]] Master Bamboo-Spring.
 - **1929–1930** — *Tāichǎn zhèngzhì* 胎產證治 [[KR3ei064]] — early-Republican edition issued under Wáng Kěntáng's name.
 - **1930–1972** — *Chéng Ménxuě yígǎo* 程門雪遺稿 [[KR3ei047]] — [[程門雪]] Chéng Ménxuě's posthumous case-records; bridges late-imperial *fùkē* to the post-1949 Shanghai TCM College era; closes the division.

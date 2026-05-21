@@ -12,7 +12,7 @@ updated: 2026-05-08
 
 ## Scope and scholarly tradition
 
-`KR2m` 政書類 is the *zhèngshū* (works relating to government administration) subdivision of the History branch (`KR2` 史部) of the *Sìkù quánshū* 四庫全書. As Wilkinson observes in his Chapter 51, the *Sìkù* category — credited by the editors to Qián Pǔ 錢溥 (*jìnshì* 1439) in his *Mìgé shūmù* 秘閣書目, and previously called *jiùshì* 舊事 in the *Qīlù* 七錄 and *Suízhì* 隋志, or *gùshì* 故事 in TángSòng catalogs — gathers the topical-encyclopedic, administrative, and regulatory texts that lay outside the annals-biography (*jìzhuàn* 紀傳) and chronicle (*biānnián* 編年) genres but were nevertheless central to the practical operation of imperial government. The 57 works collected here — the same 57 listed by Wilkinson in his Table 73 — comprise the comprehensive institutional histories (the *Sāntōng* 三通 / *Shítōng* 十通), the dynasty-by-dynasty *huìyào* 會要 and *huìdiǎn* 會典 compendia, the ritual codes (*wǔlǐ* / *lǐqì túshì*), the famine-relief literature (*huāngzhèng* 荒政), the military-administration treatises, the major imperial law codes, and a small but historically pivotal group of works on construction, printing, and dynastic ceremonial.
+`KR2m` 政書類 is the *zhèngshū* (works relating to government administration) subdivision of the History branch (`KR2` 史部) of the *Sìkù quánshū* 四庫全書. As Wilkinson observes in his Chapter 51, the *Sìkù* category — credited by the editors to Qián Pǔ 錢溥 (*jìnshì* 1439) in his *Mìgé shūmù* 秘閣書目, and previously called *jiùshì* 舊事 in the *Qīlù* 七錄 and *Suízhì* 隋志, or *gùshì* 故事 in Táng-Sòng catalogs — gathers the topical-encyclopedic, administrative, and regulatory texts that lay outside the annals-biography (*jìzhuàn* 紀傳) and chronicle (*biānnián* 編年) genres but were nevertheless central to the practical operation of imperial government. The 57 works collected here — the same 57 listed by Wilkinson in his Table 73 — comprise the comprehensive institutional histories (the *Sāntōng* 三通 / *Shítōng* 十通), the dynasty-by-dynasty *huìyào* 會要 and *huìdiǎn* 會典 compendia, the ritual codes (*wǔlǐ* / *lǐqì túshì*), the famine-relief literature (*huāngzhèng* 荒政), the military-administration treatises, the major imperial law codes, and a small but historically pivotal group of works on construction, printing, and dynastic ceremonial.
 
 The scholarly tradition is unusually long-running and self-conscious. Dù Yòu's 杜佑 *Tōngdiǎn* (801) established a nine-fold topical taxonomy — *shíhuò* 食貨, *xuǎnjǔ* 選舉, *zhíguān* 職官, *lǐ* 禮, *yuè* 樂, *bīng* 兵, *xíng* 刑, *zhōujùn* 州郡, *biānfáng* 邊防 — that every later *zhèngshū* author had to engage with, whether by extension (Mǎ Duānlín's 馬端臨 *Wénxiàn tōngkǎo*, which added five new *kǎo*), continuation (the eighteenth-century Qiánlóng commissions), or polemical critique (Zhèng Qiáo 鄭樵 in the *Tōngzhì*, whose own twenty *lüè* were classified by the *Sìkù* editors not here but as a *biéshǐ* 別史). The chronological span runs from a Late-Hàn institutional handbook (the *Hàn guān jiùyí* 漢官舊儀) at one end to Qiánlóng-era court compilations (the *Bāxún wànshòu shèngdiǎn* of 1792) at the other; the densest concentration is in the Sòng (*huìyào*, ritual codes, *Tōngkǎo*) and the Qīng (the imperially-commissioned continuations and the *Dà Qīng huìdiǎn* / *Dà Qīng lǜlì* / *Bāqí tōngzhì* state-machinery compendia).
 
@@ -34,7 +34,7 @@ The scholarly tradition is unusually long-running and self-conscious. Dù Yòu's
 - *Wǔdài huìyào* 五代會要 [[KR2m0003]] — Wáng Pǔ's parallel digest of the Five-Dynasties period in 30 *juǎn*.
 - *Xī Hàn huìyào* 西漢會要 [[KR2m0006]] and *Dōng Hàn huìyào* 東漢會要 [[KR2m0007]] — Xú Tiānlín's early-thirteenth-century pair of reverse-engineered *huìyào* for the two Hàn (the *Huìyào* genre having not existed under the Hàn itself).
 
-**The *Huìdiǎn* 會典 cluster (MíngQīng administrative law codes).** Successor format to the *huìyào*, organized by agency rather than by topic.
+**The *Huìdiǎn* 會典 cluster (Míng-Qīng administrative law codes).** Successor format to the *huìyào*, organized by agency rather than by topic.
 
 - *Míng huìdiǎn* 明會典 [[KR2m0010]] — Xú Pǔ and Lǐ Dōngyáng's *Hóngzhì* 10 (1497) imperial compilation in 180 *juǎn*; the standard Míng administrative-law reference.
 - *Qīndìng Dà Qīng huìdiǎn* 欽定大清會典 [[KR2m0012]] and *Qīndìng Dà Qīng huìdiǎn zélì* 欽定大清會典則例 [[KR2m0013]] — the two-volume Qīng equivalent: a regulatory code paired with case-precedent supplements.
@@ -90,7 +90,7 @@ The scholarly tradition is unusually long-running and self-conscious. Dù Yòu's
 
 - *Hàn guān jiùyí* 漢官舊儀 [[KR2m0020]] — Wèi Hóng's late-first-century outline of Hàn court offices; the earliest text in the division.
 - *Hàn zhì kǎo* 漢制考 [[KR2m0008]] — Wáng Yīnglín's Sòng study of Hàn institutions.
-- *Qīguó kǎo* 七國考 [[KR2m0011]] — Dǒng Shuō's MíngQīng study of Warring-States institutions.
+- *Qīguó kǎo* 七國考 [[KR2m0011]] — Dǒng Shuō's Míng-Qīng study of Warring-States institutions.
 - *Yuáncháo diǎngù biānnián kǎo* 元朝典故編年考 [[KR2m0019]] — Sūn Chéngzé's chronologically arranged study of Yuán institutions.
 - *Lìdài jiànyuán kǎo* 歷代建元考 [[KR2m0041]] — Zhōng Yuānyìng's reign-title compendium.
 - *Běijiāo pèiwèi zūn xī xiàng yì* 北郊配位尊西向議 [[KR2m0042]] — Máo Qílíng's polemical brief on suburban-sacrifice ritual orientation.
@@ -133,7 +133,7 @@ The division's principal interpretive problems run along several axes.
 
 **Technical knowledge as state knowledge.** The presence of *Yíngzào fǎshì*, *Áobō tú*, and *Wǔyīng Diàn chéngshì* in the History branch (not in *zǐbù* / Masters) reflects a *Sìkù* judgment that engineering and craft regulation, when promulgated by the throne, become part of the institutional record proper rather than artisanal *zǐ* literature.
 
-**Antiquarian recovery of lost institutions.** Wáng Yīnglín's *Hàn zhì kǎo*, Xú Tiānlín's *LiǎngHàn huìyào* pair, Sūn Chéngzé's Yuán-institutions study, and Wàn Sītóng's temple-regulation diagram all belong to a long-running project of using textual evidence to reconstruct institutional configurations no longer documented in extant codes.
+**Antiquarian recovery of lost institutions.** Wáng Yīnglín's *Hàn zhì kǎo*, Xú Tiānlín's *Liǎng Hàn huìyào* pair, Sūn Chéngzé's Yuán-institutions study, and Wàn Sītóng's temple-regulation diagram all belong to a long-running project of using textual evidence to reconstruct institutional configurations no longer documented in extant codes.
 
 ## Timeline
 

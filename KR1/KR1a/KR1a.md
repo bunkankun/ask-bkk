@@ -89,7 +89,7 @@ The chronological span of the collected works runs from the Hàn weft texts ([[K
 
 The division's principal interpretive axes:
 
-- **象數 *xiàngshù* vs. 義理 *yìlǐ*.** The defining methodological tension in the *Yì* tradition: image-and-number readings (associated with Hàn exegetes such as Zhèng Xuán, Yú Fān, Xún Shuǎng) treat the hexagrams' graphic and numerical structure as primary; meaning-and-principle readings (Wáng Bì, Chéng Yí) treat the line statements as ethical-philosophical text. Almost every commentary in the division can be located on this axis, and most SòngQīng disputes are restagings of it.
+- **象數 *xiàngshù* vs. 義理 *yìlǐ*.** The defining methodological tension in the *Yì* tradition: image-and-number readings (associated with Hàn exegetes such as Zhèng Xuán, Yú Fān, Xún Shuǎng) treat the hexagrams' graphic and numerical structure as primary; meaning-and-principle readings (Wáng Bì, Chéng Yí) treat the line statements as ethical-philosophical text. Almost every commentary in the division can be located on this axis, and most Sòng-Qīng disputes are restagings of it.
 
 - **The Ten Wings / *Yìzhuàn* 易傳.** Whether the appended commentaries are integral to the classic or a separate textual layer, and how they should be arranged on the page, is a question the division returns to repeatedly — most decisively in Lǚ Zǔqiān's *Gǔ Zhōuyì* [[KR1a0043]] and Zhū Xī's *Běnyì* [[KR1a0031]] [[KR1a0032]], both of which separate *jīng* from *zhuàn* against the Wáng Bì / Kǒng Yǐngdá interleaved layout.
 

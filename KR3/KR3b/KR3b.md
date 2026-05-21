@@ -10,9 +10,9 @@ updated: 2026-05-08
 
 ### Scope and scholarly tradition
 
-KR3b is the *bīngjiā* 兵家 ("military experts") subdivision of the Masters branch (*zǐbù* 子部) in the Sìkù fourfold classification. Wilkinson (§26.5) treats this as a single coherent corpus running from the foundational Warring-States manuals (*Sūnzǐ*, *Wúzǐ*, *Sīmǎ fǎ*, *Wèi Liáozǐ*) through the Hàn aphoristic and apocryphal layer (*Sān lüè*, *Liù tāo*) to the Sòng-period synthesis. The decisive moment in the formation of this division is the canonisation of the *Wǔ jīng qī shū* 武經七書 ("Seven Military Classics") in c. 1078–1080 under Sòng Shénzōng as the curriculum for the military examinations; six pre-Hàn / Hàn texts plus the TángSòng *Lǐ Wèigōng wèn duì* were thereby fixed as the authoritative canon of the genre, and remained so until the end of the empire (Wilkinson §26.5.3).
+KR3b is the *bīngjiā* 兵家 ("military experts") subdivision of the Masters branch (*zǐbù* 子部) in the Sìkù fourfold classification. Wilkinson (§26.5) treats this as a single coherent corpus running from the foundational Warring-States manuals (*Sūnzǐ*, *Wúzǐ*, *Sīmǎ fǎ*, *Wèi Liáozǐ*) through the Hàn aphoristic and apocryphal layer (*Sān lüè*, *Liù tāo*) to the Sòng-period synthesis. The decisive moment in the formation of this division is the canonisation of the *Wǔ jīng qī shū* 武經七書 ("Seven Military Classics") in c. 1078–1080 under Sòng Shénzōng as the curriculum for the military examinations; six pre-Hàn / Hàn texts plus the Táng-Sòng *Lǐ Wèigōng wèn duì* were thereby fixed as the authoritative canon of the genre, and remained so until the end of the empire (Wilkinson §26.5.3).
 
-Inside KR3b, the division therefore stratifies cleanly into three transmissional layers: (1) the Warring-States and Hàn nucleus of the *Wǔ jīng qī shū*, much of it now controlled by the Yínquèshān 銀雀山 bamboo-strip find of 1972 (*Sūnzǐ*, *Sūn Bìn bīngfǎ*, *Wèi Liáozǐ*, etc.); (2) the Sòng compilation and pseudepigraphical efflorescence (the *Wǔ jīng zǒng yào*, the *Hǔ qián jīng*, the *Lǐ Wèigōng wèn duì* itself, the *Wòjī jīng*, the *Sù shū*), a period in which the genre was both standardised (canon, examinations) and saturated by retroactively-attributed material; and (3) the Late-Míng training-and-defence corpus of Qī Jìguāng 戚繼光 and his contemporaries, written in direct response to the *wōkòu* 倭寇 crisis on the Lower-Yangzi and ZhèMǐn coasts. The Wènyuāngé Sìkù preserves twenty principal works; three further entries ([[KR3b0021]]–0023) are *jíyì* fragments and pseudepigrapha included in the broader Kanripo digitisation.
+Inside KR3b, the division therefore stratifies cleanly into three transmissional layers: (1) the Warring-States and Hàn nucleus of the *Wǔ jīng qī shū*, much of it now controlled by the Yínquèshān 銀雀山 bamboo-strip find of 1972 (*Sūnzǐ*, *Sūn Bìn bīngfǎ*, *Wèi Liáozǐ*, etc.); (2) the Sòng compilation and pseudepigraphical efflorescence (the *Wǔ jīng zǒng yào*, the *Hǔ qián jīng*, the *Lǐ Wèigōng wèn duì* itself, the *Wòjī jīng*, the *Sù shū*), a period in which the genre was both standardised (canon, examinations) and saturated by retroactively-attributed material; and (3) the Late-Míng training-and-defence corpus of Qī Jìguāng 戚繼光 and his contemporaries, written in direct response to the *wōkòu* 倭寇 crisis on the Lower-Yangzi and Zhè-Mǐn coasts. The Wènyuāngé Sìkù preserves twenty principal works; three further entries ([[KR3b0021]]–0023) are *jíyì* fragments and pseudepigrapha included in the broader Kanripo digitisation.
 
 ### Important texts and text clusters
 
@@ -31,21 +31,21 @@ The Sòng imperial and private encyclopedias:
 
 Sòng essayistic and siege-defence works:
 - *Hé bóshì bèi lùn* 何博士備論 [[KR3b0014]] — Hé Qùfēi's *jiào shǐ* (lessons-of-history) essays, an exemplar of the Sòng officer-scholar genre.
-- *Shǒu chéng lù* 守城錄 [[KR3b0015]] — Chén Guī's siege-defence treatise, drawn from his own command experience in the SòngJīn wars.
+- *Shǒu chéng lù* 守城錄 [[KR3b0015]] — Chén Guī's siege-defence treatise, drawn from his own command experience in the Sòng-Jīn wars.
 
 The *Huángshí gōng* / *Sān lüè* satellite cluster:
 - *Huángshí gōng sù shū* 黃石公素書 [[KR3b0009]] — Sòng-period aphoristic pseudepigraphon attached to the *Sān lüè* tradition, with a standard Zhāng Shāngyīng 張商英 commentary.
 - *Sān lüè zhí jiě* 三畧直解 [[KR3b0008]] — the standard early-Míng commentary on the *Sān lüè*, composed 1371 by Liú Yín 劉寅.
 
-The SòngSòng pseudepigraphical formation-classics:
+The Sòng-Sòng pseudepigraphical formation-classics:
 - *Wòjī jīng* 握奇經 [[KR3b0001]] — a Late-Táng / Five-Dynasties / Northern-Sòng compilation, traceable through Dúgū Jí's *Bāzhèn tú jì* to the Zhūgě Liàng *bāzhèn fǎ* tradition; the canonical Sòng *jīng* / *jiě* / *zàn* form is itself diagnostic.
-- *Xīnshū* 心書 [[KR3b0023]] — a late-Sòng / Yuán pseudepigraphon ascribed to Zhūgě Liàng; excluded from the SKQS *Bīngjiā lèi* main collection but circulated widely in MíngQīng military *cóngshū*.
+- *Xīnshū* 心書 [[KR3b0023]] — a late-Sòng / Yuán pseudepigraphon ascribed to Zhūgě Liàng; excluded from the SKQS *Bīngjiā lèi* main collection but circulated widely in Míng-Qīng military *cóngshū*.
 
 The Táng treatises:
 - *Tàibái yīn jīng* 太白陰經 [[KR3b0011]] — Lǐ Quán's Mid-Táng (c. 759) treatise, written against the background of the post-An-Lù-shān reform debate.
 
 The Late-Míng *wōkòu* defence and training corpus (Wilkinson §26.5.4 treats this as the second great cluster of the division):
-- *Jì xiào xīn shū* 紀效新書 [[KR3b0019]] — Qī Jìguāng's foundational training manual (1559–1567), drafted on his ZhèMǐn coastal command.
+- *Jì xiào xīn shū* 紀效新書 [[KR3b0019]] — Qī Jìguāng's foundational training manual (1559–1567), drafted on his Zhè-Mǐn coastal command.
 - *Liàn bīng shí jì* 練兵實紀 [[KR3b0020]] — Qī's mature northern-frontier doctrinal companion to the *Jì xiào xīn shū*.
 - *Wǔ biān* 武編 [[KR3b0016]] — Táng Shùnzhī's mid-Míng military encyclopedia, the scholarly counterpart to Qī's practitioner manuals.
 - *Jiāngnán jīng lüè* 江南經畧 [[KR3b0018]] — Zhèng Ruòzēng's regional-defence treatise on Lower-Yangzi *wōkòu* defence, companion to his *Chóu hǎi tú biān*.
@@ -88,7 +88,7 @@ The outlier:
 - **The commentary tradition on the *Sūnzǐ*.** From Cáo Cāo through the Sòng *Shíyī jiā* compilation by Jí Tiānbǎo, the *Sūnzǐ* commentary tradition is the longest continuous textual project in the genre. The Mèngshì stratum [[KR3b0022]] is one of the eleven; the others (Cáo Cāo, Lǐ Quán, Du Mu, Méi Yáochén, Wáng Xī, Hé Yánxī, Zhāng Yù, Jiǎ Lín, Du You, Chén Hào) are not separately extant in the SKQS *Bīngjiā lèi*, only in the eleven-commentary edition.
 - **Yínquèshān 銀雀山 (1972) and 20th-c. critical scholarship.** The Hàn-tomb find recovered late-Western-Hàn versions of the *Sūnzǐ*, *Sūn Bìn bīngfǎ*, *Wèi Liáozǐ* and other military texts, decisively reshaping modern philological work on the corpus (Wilkinson §26.5.1.1, §26.5.3). Although the bamboo strips themselves lie outside the SKQS, every modern critical edition of the relevant KR3b texts uses them as principal collation source.
 - **Civil-military separation under the Sòng.** The Sòng deliberate downgrading of the military profession (Wilkinson §26.6) is the political background against which the Sòng compilation programme — *Wǔ jīng zǒng yào*, *Hǔ qián jīng*, *Lǐ Wèigōng wèn duì*, the canonisation of the Seven — must be read: a state attempt to codify and control military expertise at exactly the moment when general-officer prestige was being squeezed out of the elite culture.
-- **Late-Míng *wōkòu* defence and military reform.** The Late-Míng cluster ([[KR3b0016]]–[[KR3b0020]]) is unified by the *wōkòu* crisis on the Lower-Yangzi and ZhèMǐn coasts. Qī Jìguāng's *Jì xiào xīn shū* is the central work; Táng Shùnzhī's *Wǔ biān* and Zhèng Ruòzēng's *Jiāngnán jīng lüè* are the encyclopedic and regional-defence companions; Hé Liángchén's *Zhèn jì* is the tactical formal reference.
+- **Late-Míng *wōkòu* defence and military reform.** The Late-Míng cluster ([[KR3b0016]]–[[KR3b0020]]) is unified by the *wōkòu* crisis on the Lower-Yangzi and Zhè-Mǐn coasts. Qī Jìguāng's *Jì xiào xīn shū* is the central work; Táng Shùnzhī's *Wǔ biān* and Zhèng Ruòzēng's *Jiāngnán jīng lüè* are the encyclopedic and regional-defence companions; Hé Liángchén's *Zhèn jì* is the tactical formal reference.
 - **Siege warfare and the technical layer.** From Chén Guī's *Shǒu chéng lù* through the relevant chapters of the *Wǔ jīng zǒng yào* and the *Hǔ qián jīng* to Qī Jìguāng's training manuals, the division contains the principal pre-modern Chinese textual record of siege technology, fortifications, weapons and unit drill — a layer that is conceptually separable from the strategic-philosophical layer of the *Sūnzǐ* tradition.
 
 ### Timeline
@@ -109,10 +109,10 @@ The outlier:
 - 1000 — *Hǔ qián jīng* 虎鈐經 [[KR3b0013]] — Xǔ Dòng's private military compendium.
 - 1038–1044 — *Wǔ jīng zǒng yào* 武經總要 [[KR3b0012]] — the comprehensive Northern-Sòng imperial military encyclopedia.
 - 1082–1090 — *Hé bóshì bèi lùn* 何博士備論 [[KR3b0014]] — Hé Qùfēi's *jiàoshǐ* essays.
-- 1130–1141 — *Shǒu chéng lù* 守城錄 [[KR3b0015]] — Chén Guī's siege-defence treatise from the SòngJīn wars.
+- 1130–1141 — *Shǒu chéng lù* 守城錄 [[KR3b0015]] — Chén Guī's siege-defence treatise from the Sòng-Jīn wars.
 - 1371 — *Sān lüè zhí jiě* 三畧直解 [[KR3b0008]] — Liú Yín's standard early-Míng commentary on the *Sān lüè*.
 - c. 1540–1560 — *Wǔ biān* 武編 [[KR3b0016]] — Táng Shùnzhī's Mid-Míng military encyclopedia.
-- 1560–1567 — *Jì xiào xīn shū* 紀效新書 [[KR3b0019]] — Qī Jìguāng's training manual from the ZhèMǐn coastal-defence command.
+- 1560–1567 — *Jì xiào xīn shū* 紀效新書 [[KR3b0019]] — Qī Jìguāng's training manual from the Zhè-Mǐn coastal-defence command.
 - c. 1560–1580 — *Jiāngnán jīng lüè* 江南經畧 [[KR3b0018]] — Zhèng Ruòzēng's Lower-Yangzi *wōkòu*-defence treatise.
 - c. 1560–1600 — *Zhèn jì* 陣紀 [[KR3b0017]] — Hé Liángchén's Late-Míng tactical treatise on formations.
 - 1568–1582 — *Liàn bīng shí jì* 練兵實紀 [[KR3b0020]] — Qī Jìguāng's mature northern-frontier doctrinal companion to the *Jì xiào xīn shū*.

@@ -14,7 +14,7 @@ updated: 2026-05-08
 
 The *Yuè lèi* 樂類 sits inside the *Jīngbù* 經部 (Classics) as the systematic literature on ritual music — pitch-pipe theory (*lǜlǚ* 律呂), instrument construction, modal practice, court song repertoire, and the philological and metaphysical commentary tradition that grew up around them. It is, by Sìkù convention, the smallest of the seven *jīngbù* subdivisions, and its scholarly horizon is conditioned by a peculiar absence: as Wilkinson notes (§34.2), of the original Six Classics it was the *Yuè* 樂 itself that the Hàn "mislaid," with the consequence that the entire premodern Chinese music classic-tradition is, in effect, an ongoing reconstructive enterprise. Authors work from surviving fragments embedded in the *Lǐ jì Yuè jì* 禮記·樂記, the music monographs of the standard histories ("seventeen of the *Histories* have treatises on music and seven on tuning standards" — Wilkinson §34.2), the music chapters of the encyclopaedic *lèishū*, and the live tradition of imperial *yǎyuè* 雅樂 ceremony. The Sìkù compilers therefore treat the genre as canon-adjacent rather than canon-internal: the works gathered here are the *jīngzhuàn* 經傳 ("classic-and-commentary") of a classic that was never in fact transmitted.
 
-The corpus collected at WYG runs from Northern Sòng (1053) to mid-Qián-lóng (mid-18th century), 22 works in all (19 currently cataloged). Three constants run across the seven centuries: (1) repeated imperial commissions to standardize the *zhōnglǜ* 鐘律 system for court ritual — the Sòng *Huángyòu* reform, the Kāngxī *Lǜlǚ zhèngyì* and its sequels; (2) the CàiZhū *xiàngshù* 象數 tradition descended from Cài Yuándìng 蔡元定 ([[KR1i0003]]), which gave the genre its standard mathematical idiom; and (3) the polemical drive — most visible in [[KR1i0009]] *Yuèlǜ quán shū* and the late-Qīng *kǎozhèng* treatises — to anchor music theory in observable measurement rather than speculative number, culminating in Zhū Zàiyù's mathematically explicit equal temperament (Wilkinson §34.2.3).
+The corpus collected at WYG runs from Northern Sòng (1053) to mid-Qián-lóng (mid-18th century), 22 works in all (19 currently cataloged). Three constants run across the seven centuries: (1) repeated imperial commissions to standardize the *zhōnglǜ* 鐘律 system for court ritual — the Sòng *Huángyòu* reform, the Kāngxī *Lǜlǚ zhèngyì* and its sequels; (2) the Cài-Zhū *xiàngshù* 象數 tradition descended from Cài Yuándìng 蔡元定 ([[KR1i0003]]), which gave the genre its standard mathematical idiom; and (3) the polemical drive — most visible in [[KR1i0009]] *Yuèlǜ quán shū* and the late-Qīng *kǎozhèng* treatises — to anchor music theory in observable measurement rather than speculative number, culminating in Zhū Zàiyù's mathematically explicit equal temperament (Wilkinson §34.2.3).
 
 ## Important texts and text clusters
 
@@ -22,7 +22,7 @@ The corpus collected at WYG runs from Northern Sòng (1053) to mid-Qián-lóng (
 - *Huángyòu xīn yuè tú jì* 皇祐新樂圖記 [[KR1i0001]] — the illustrated official record of the 1053 *zhōnglǜ* recension under Sòng Rénzōng, the foundational Northern-Sòng artefact of imperial *yuèlǜ* design.
 - *Yuèshū* 樂書 [[KR1i0002]] — Chén Yáng's 200-juan encyclopaedic treatise (presented 1101–1106), the largest single work in the division and the principal anthology of music passages from the Three Rites and the rest of the canon.
 
-**The CàiZhū *Dàoxué* tradition.** The interpretive backbone of the SòngYuánMíng portion of the division.
+**The Cài-Zhū *Dàoxué* tradition.** The interpretive backbone of the Sòng-Yuán-Míng portion of the division.
 - *Lǜlǚ xīn shū* 律呂新書 [[KR1i0003]] — Cài Yuándìng's foundational two-juan treatise (1187), written in collaboration with Zhū Xī; the standard reference text for every later author in the division.
 - *Lǜlǚ chéng shū* 律呂成書 [[KR1i0006]] — Liú Jǐn's 1347 systematic Yuán synthesis of Cài's system with Péng Sī's *Huángzhōng lǜ shuō*.
 - *Yuànluò zhì yuè* 苑洛志樂 [[KR1i0007]] — Hán Bāngqí's 20-juan Míng treatise that opens with a "direct exposition" of Cài's *Xīn shū* and then reconstructs the six legendary court dances by *wǔdé* element-correspondence.
@@ -65,8 +65,8 @@ The corpus collected at WYG runs from Northern Sòng (1053) to mid-Qián-lóng (
 - [[李光地]] (Lǐ Guāngdì, 1642–1718) — Kāngxī-era Grand Secretary; author of [[KR1i0013]], the major Qīng attempt to reconstruct the lost *Yuè jīng*.
 - [[應撝謙]] (Yìng Huīqiān, 1615–1683) — early-Qīng Hángzhōu *yímín*; author of [[KR1i0014]].
 - [[毛奇齡]] (Máo Qílíng, 1623–1716) — early-Qīng polymath and notorious controversialist; author of the late-Kāngxī trilogy [[KR1i0015]] / [[KR1i0016]] / [[KR1i0017]] and revising teacher of [[KR1i0018]].
-- [[李塨]] (Lǐ Gōng, 1659–1733) — YánLǐ school philosopher; transmitter of Máo's doctrines in [[KR1i0018]].
-- [[胡彥昇]] (Hú Yànshēng) — YōngzhèngQiánlóng *jìnshì* and Dìngtáo magistrate; author of [[KR1i0019]].
+- [[李塨]] (Lǐ Gōng, 1659–1733) — Yán-Lǐ school philosopher; transmitter of Máo's doctrines in [[KR1i0018]].
+- [[胡彥昇]] (Hú Yànshēng) — Yōngzhèng-Qiánlóng *jìnshì* and Dìngtáo magistrate; author of [[KR1i0019]].
 - [[江永]] (Jiāng Yǒng, 1681–1762) — leading Wǎnpài *kǎozhèng* master; author of two of the division's most theoretically sophisticated works, [[KR1i0020]] and [[KR1i0021]], and the bridge from the private music-theory tradition to high-Qīng evidential scholarship.
 - [[王坦]] (Wáng Tǎn) — Nántōngzhōu Kāngxī-era *qín* theorist; author of [[KR1i0022]].
 

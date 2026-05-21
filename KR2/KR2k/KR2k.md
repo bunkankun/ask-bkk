@@ -23,11 +23,11 @@ The genre's textual ancestry runs from the *Yúgòng* 禹貢 of the *Shàngshū*
 - *Yuánhé jùnxiàn (tú)zhì* 元和郡縣(圖)志 [[KR2k0003]] — Lǐ Jífǔ's 李吉甫 (758–814) Yuánhé-era (813–814) gazetteer of the entire empire, the earliest extant separately-circulating empire-wide geography (Wilkinson §16.3.3 #1; §61.3.3). The *Yuánhé* sets the template — *yán'gé* prologue, then prefecture-by-prefecture survey of borders, products, and population — that all later *yītǒng zhì* will inherit.
 - *Tàipíng huányǔ jì* 太平寰宇記 [[KR2k0004]] — Yuè Shǐ's 樂史 (930–1007) early-Sòng (979–987) compilation, the first comprehensive gazetteer of the unified Sòng empire and the work that introduces the inclusion of biographies, literary works, and ethnographic material into the *zǒngzhì* genre (Wilkinson §16.3.3 #2). The two great empire-wide compilations of the long 11th–13th c. that follow it — *Yuánfēng jiǔyù zhì* 元豐九域志 [[KR2k0005]] (Wáng Cún 王存, 1080) and *Yúdì guǎngjì* 輿地廣記 [[KR2k0006]] (Ōuyáng Mín 歐陽忞, 1111–1117) — extend its template into the high-Sòng administrative state.
 - *Fāngyú shènglǎn* 方輿勝覽 [[KR2k0007]] — Zhù Mù's 祝穆 1239 Southern-Sòng compilation organized by *lù* 路, the principal Southern-Sòng cultural-geographical synthesis and the only major Sòng *zǒngzhì* still preserved in its full original form.
-- *Míng yītǒng zhì* 明一統志 [[KR2k0008]] — Lǐ Xián's 李賢 imperially-commissioned 90-juan compendium of 1461, the standard Míng comprehensive gazetteer; and *DàQīng yītǒng zhì* 大清一統志 [[KR2k0009]] — the 424-juan HéShēn 和珅-supervised Qiánlóng-era revision (1764–1784) of the Kāngxī and Yōngzhèng *Yītǒng zhì* projects, the largest single work in the division and the standard imperial-Qīng repository (Wilkinson §16.3.3 #6).
+- *Míng yītǒng zhì* 明一統志 [[KR2k0008]] — Lǐ Xián's 李賢 imperially-commissioned 90-juan compendium of 1461, the standard Míng comprehensive gazetteer; and *Dà Qīng yītǒng zhì* 大清一統志 [[KR2k0009]] — the 424-juan Hé-Shēn 和珅-supervised Qiánlóng-era revision (1764–1784) of the Kāngxī and Yōngzhèng *Yītǒng zhì* projects, the largest single work in the division and the standard imperial-Qīng repository (Wilkinson §16.3.3 #6).
 
 ### Sòng–Yuán prefectural gazetteers and the *fāngzhì* tradition (都會郡縣)
 
-The Sòng *fāngzhì* of [[KR2k0010]]–0027 are the principal surviving witnesses to a genre that produced over 1,000 titles in the Southern Sòng alone, of which fewer than 30 are extant (Wilkinson §16.4.1, §62.3.3.2). The cluster anchors the historical geography of the JiāngZhè and Mǐn cultural cores:
+The Sòng *fāngzhì* of [[KR2k0010]]–0027 are the principal surviving witnesses to a genre that produced over 1,000 titles in the Southern Sòng alone, of which fewer than 30 are extant (Wilkinson §16.4.1, §62.3.3.2). The cluster anchors the historical geography of the Jiāng-Zhè and Mǐn cultural cores:
 - *Wújùn tújīng xùjì* 吳郡圖經續記 [[KR2k0010]] — Zhū Chángwén's 朱長文 1084 Sūzhōu prefectural continuation, the earliest extant work in the long Sūzhōu-prefectural-gazetteer series.
 - The Línān / Hángzhōu cluster — *Qiándào Línān zhì* 乾道臨安志 [[KR2k0011]] (1169–1173) and *Xiánchún Línān zhì* 咸淳臨安志 [[KR2k0022]] (1268–1274), the two principal Southern-Sòng capital gazetteers.
 - *Chúnxī Sānshān zhì* 淳熙三山志 [[KR2k0012]] — Liáng Kèjiā 梁克家, Fúzhōu 1179–1182; the earliest extant prefectural gazetteer of Fújiàn.
@@ -55,14 +55,14 @@ The Sòng *fāngzhì* of [[KR2k0010]]–0027 are the principal surviving witness
 ### Mountains, antiquarian topographies, and famous sites (山川, 古蹟)
 
 - *Luòyáng qiélán jì* 洛陽伽藍記 [[KR2k0090]] — Yáng Xuànzhī's 楊衒之 547 Buddhist-monastic topography of post-Northern-Wèi Luòyáng, one of the great literary monuments of the early-medieval period and the principal source for the religious and urban history of Luòyáng under Xuānwǔ and Xiàomíng.
-- *Chángān zhì* 長安志 [[KR2k0092]] — Sòng Mǐnqiú's 宋敏求 20-juan Sòng-era historical topography of the HànTáng capital, and its illustrated companion *Chángān zhì tú* 長安志圖 [[KR2k0096]] (Lǐ Hǎowén 李好文, 1346); the standard repository for the historical urbanism of Cháng'ān.
+- *Chángān zhì* 長安志 [[KR2k0092]] — Sòng Mǐnqiú's 宋敏求 20-juan Sòng-era historical topography of the Hàn-Táng capital, and its illustrated companion *Chángān zhì tú* 長安志圖 [[KR2k0096]] (Lǐ Hǎowén 李好文, 1346); the standard repository for the historical urbanism of Cháng'ān.
 - *Luòyáng míngyuán jì* 洛陽名園記 [[KR2k0093]] — Lǐ Géfēi's 李格非 turn-of-the-12th-c. record of nineteen private gardens of late-Běi-Sòng Luòyáng; a foundational document of Chinese garden history.
-- *Guānzhōng shèngjì túzhì* 關中勝蹟圖志 [[KR2k0103]] — Bì Yuán's 畢沅 (1730–1797) 1776 illustrated antiquarian gazetteer of the Wèihé basin, written during his ShǎnGān viceregal tenure; the culmination of the late-Qiánlóng antiquarian-topographical tradition.
+- *Guānzhōng shèngjì túzhì* 關中勝蹟圖志 [[KR2k0103]] — Bì Yuán's 畢沅 (1730–1797) 1776 illustrated antiquarian gazetteer of the Wèihé basin, written during his Shǎn-Gān viceregal tenure; the culmination of the late-Qiánlóng antiquarian-topographical tradition.
 
 ### Regional ethnography and urban memoirs (雜記)
 
 - *Nánfāng cǎomù zhuàng* 南方草木狀 [[KR2k0104]] — Jī Hán's 嵇含 (263–306) work on the plants and products of Lǐngnán; the earliest dated text in the division and the foundational document of Chinese ethnobotany.
-- *JīngChǔ suìshí jì* 荊楚嵗時記 [[KR2k0105]] — Zōng Lǐn's 宗懍 mid-6th-c. Liáng work, the foundational document of the imperial-Chinese annual-festival cycle. (Note: the more comprehensive Sòng anthology *Suìshí guǎngjì* 歲時廣記 of Chén Yuánjìng 陳元靚 is in [[KR2j0001]], not KR2k.)
+- *Jīng-Chǔ suìshí jì* 荊楚嵗時記 [[KR2k0105]] — Zōng Lǐn's 宗懍 mid-6th-c. Liáng work, the foundational document of the imperial-Chinese annual-festival cycle. (Note: the more comprehensive Sòng anthology *Suìshí guǎngjì* 歲時廣記 of Chén Yuánjìng 陳元靚 is in [[KR2j0001]], not KR2k.)
 - The four great urban memoirs of the late Sòng — *Dōngjīng mènghuá lù* 東京夢華錄 [[KR2k0111]] (Mèng Yuánlǎo, 1147; memoir of Northern-Sòng Kāifēng), *Dūchéng jìshèng* 都城紀勝 [[KR2k0117]] (1235), *Mèngliáng lù* 夢梁錄 [[KR2k0118]] (Wú Zìmù, 1274), and *Wǔlín jiùshì* 武林舊事 [[KR2k0119]] (Zhōu Mì, 1280–1290; memoir of Southern-Sòng Línān). Together they form the most concentrated body of urban-historical material in pre-modern Chinese literature and the principal anglophone-translated cluster of the division.
 - *Guìhǎi yúhéng zhì* 桂海虞衡志 [[KR2k0115]] (Fàn Chéngdà 范成大, 1175) and *Lǐngwài dàidá* 嶺外代答 [[KR2k0116]] (Zhōu Qùfēi 周去非, 1178) — the two great Southern-Sòng Lǐngnán ethnographies, indispensable for the social, mineral, and material history of the southwestern frontier.
 
@@ -80,7 +80,7 @@ The Sòng *fāngzhì* of [[KR2k0010]]–0027 are the principal surviving witness
 - *Zhēnlà fēngtǔ jì* 眞臘風土記 [[KR2k0141]] — Zhōu Dáguān's 周達觀 1297 Cambodia account, the unique surviving eyewitness description of the Khmer Angkor court.
 - *Zhífāng wàijì* 職方外紀 [[KR2k0146]] (Ài Rúlüè / Giulio Aleni, 1623), and *Kūnyú túshuō* 坤輿圖說 [[KR2k0150]] (Nán Huáirén / Ferdinand Verbiest, 1672) — the Jesuit world geographies that the Sìkù compilers admitted to the canon, the central textual evidence for the 17th-c. encounter between European and Chinese cartography.
 - *Yìyù lù* 異域錄 [[KR2k0151]] — Tulišen's 圖理琛 1715–1721 Manchu/Chinese embassy report on the Volga Torghut Mongols, the unique 18th-c. eyewitness account of the Caspian-steppe Mongols and their Russian context.
-- *HuángQīng zhígòng tú* 皇清職貢圖 [[KR2k0149]] (Fù Héng 傅恒 et al., 1751–1763) and *Hǎiguó wénjiàn lù* 海國聞見錄 [[KR2k0152]] (Chén Lúnjiǒng 陳倫炯, 1730) — the high-Qīng visual-ethnographic and maritime-geographical syntheses with which the division closes.
+- *Huáng Qīng zhígòng tú* 皇清職貢圖 [[KR2k0149]] (Fù Héng 傅恒 et al., 1751–1763) and *Hǎiguó wénjiàn lù* 海國聞見錄 [[KR2k0152]] (Chén Lúnjiǒng 陳倫炯, 1730) — the high-Qīng visual-ethnographic and maritime-geographical syntheses with which the division closes.
 
 ## Important persons
 
@@ -96,14 +96,14 @@ The Sòng *fāngzhì* of [[KR2k0010]]–0027 are the principal surviving witness
 - [[潘季馴]] (1521–1595) — Míng Yellow-River conservancy commissioner and author of *Héfáng yīlǎn* [[KR2k0066]]; the standard-setter of imperial-Chinese hydraulic engineering doctrine.
 - [[顧炎武]] (1613–1682) — Ming-loyalist polymath, author of *Tiānxià jùnguó lìbìng shū* [[KR2k0037]]; founder of *Hànxué pài* / *kǎojù* historical geography (Wilkinson §16.3.4).
 - [[酈道元]], [[戴震]] (1724–1777) — Dài Zhèn is the principal Sìkù editor of the *Shuǐjīng zhù* and the central figure of the celebrated *kǎojù* controversy over the *jīngzhù* separation (see [[KR2k0058]], [[KR2k0059]], [[KR2k0060]]).
-- [[畢沅]] (1730–1797) — ShǎnGān viceroy, antiquarian-topographer, author of *Guānzhōng shèngjì túzhì* [[KR2k0103]]; the late-Qiánlóng synthesis of *Hànxué* historical topography and viceregal patronage.
+- [[畢沅]] (1730–1797) — Shǎn-Gān viceroy, antiquarian-topographer, author of *Guānzhōng shèngjì túzhì* [[KR2k0103]]; the late-Qiánlóng synthesis of *Hànxué* historical topography and viceregal patronage.
 - [[艾儒略]] (Giulio Aleni, 1582–1649) and [[南懷仁]] (Ferdinand Verbiest, 1623–1688) — the Jesuit authors whose world geographies ([[KR2k0146]], [[KR2k0150]]) the Sìkù admitted to the canon; the bridge between European and Chinese cartography in the 17th c.
 - [[和珅]], [[于敏中]], [[英廉]], [[傅恒]] — the senior Qing court officials who headed the great imperial gazetteer commissions of the Qiánlóng era ([[KR2k0009]], [[KR2k0035]]–[[KR2k0040]], [[KR2k0149]]).
 
 ## Topics
 
 - **The *fāngzhì* as instrument of governance.** The *Sìkù* editors retained the inherited classification of geography under *shǐbù* because, as Wilkinson §16.4.1 emphasizes, the gazetteer was first and foremost an administrator's handbook — the rules of avoidance forbade officials from serving in their own home region, so every new magistrate or prefect had to learn the locality from its gazetteer. Almost every text in [[KR2k0010]]–0056 was either commissioned by, or actively used by, the local administration. The 1672 and 1728 imperial edicts mandating provincial *tōngzhì* are the proximate cause of the dominance of Qīng *fāngzhì* in the division.
-- **The empire-wide *yītǒng zhì* programme.** From the *Tàipíng huányǔ jì* through the *Da-Yuán da-yītǒng zhì* (lost in part) and the *DàMíng yītǒng zhì* [[KR2k0008]] to the *DàQīng yītǒng zhì* [[KR2k0009]], each unifying dynasty signaled its claim to *tiānxià* by commissioning a single empire-wide gazetteer (Wilkinson §16.3.3). The Sìkù sub-cluster preserves the standard recension of every surviving member of the sequence except the Yuán entry.
+- **The empire-wide *yītǒng zhì* programme.** From the *Tàipíng huányǔ jì* through the *Da-Yuán da-yītǒng zhì* (lost in part) and the *Dà Míng yītǒng zhì* [[KR2k0008]] to the *Dà Qīng yītǒng zhì* [[KR2k0009]], each unifying dynasty signaled its claim to *tiānxià* by commissioning a single empire-wide gazetteer (Wilkinson §16.3.3). The Sìkù sub-cluster preserves the standard recension of every surviving member of the sequence except the Yuán entry.
 - **Historical hydrology and the *Shuǐjīng zhù* tradition.** The 23-text 河渠 cluster ([[KR2k0058]]–0080) preserves the entire long arc from Lì Dàoyuán to the late-Qiánlóng imperial Yellow-River programmes. The *kǎojù* reconstruction of the *Shuǐjīng zhù* in the 18th century (Quán Zǔwàng, Zhào Yīqīng, Shěn Bǐngxùn, Dài Zhèn) and the Dài–Zhào plagiarism controversy is one of the most documented affairs in early-modern Chinese textual scholarship.
 - **The Sòng prefectural-gazetteer renaissance.** Of the 1,000+ known Southern-Sòng *fāngzhì*, fewer than 30 survive; the Sòng cluster of [[KR2k0010]]–0022 contains the bulk of them, including the two great Línān gazetteers ([[KR2k0011]], [[KR2k0022]]) and the canonical Sūzhōu set ([[KR2k0010]], [[KR2k0013]]). These works embody the Southern-Sòng shift Wilkinson describes (§16.4.1) — from military-administrative reportage to gentry biography, literary citation, and cultural display.
 - **Late-Sòng urban nostalgia.** The cluster [[KR2k0111]], [[KR2k0117]], [[KR2k0118]], [[KR2k0119]] preserves the most concentrated body of urban-cultural-historical writing in the pre-modern Chinese tradition, all four works composed retrospectively after the loss of their respective capitals (Kāifēng to the Jīn; Línān to the Mongols). They are the documentary basis of almost every modern study of Sòng urban culture, popular entertainment, ritual calendar, and material life.
@@ -117,10 +117,10 @@ The Sòng *fāngzhì* of [[KR2k0010]]–0027 are the principal surviving witness
 - 304 — *Nánfāng cǎomù zhuàng* 南方草木狀 [[KR2k0104]] — Jī Hán; the earliest dated text in the division (the catalog window 304–1100 reflects later editorial layers, but the core is Jìn-era).
 - 414–416 — *Fóguó jì* 佛國記 [[KR2k0136]] — Fǎxiǎn's pilgrimage account; earliest Chinese first-person foreign ethnography.
 - 515–527 — *Shuǐjīng zhù* 水經注 [[KR2k0058]] — the foundational Chinese historical-hydrographical work.
-- 540–565 — *JīngChǔ suìshí jì* 荊楚嵗時記 [[KR2k0105]] — Zōng Lǐn; foundational annual-festival record.
+- 540–565 — *Jīng-Chǔ suìshí jì* 荊楚嵗時記 [[KR2k0105]] — Zōng Lǐn; foundational annual-festival record.
 - 547 — *Luòyáng qiélán jì* 洛陽伽藍記 [[KR2k0090]] — Yáng Xuànzhī's monastic topography of Northern-Wèi Luòyáng.
 - 646 — *Dà Táng Xīyù jì* 大唐西域記 [[KR2k0137]] — Xuánzàng/Biànjī; the canonical Táng foreign-records text.
-- 757–800 — *Sānfǔ huángtú* 三輔黃圖 [[KR2k0001]] — late-Táng received recension of the Cháng'ān palace-register tradition (with earlier WèiJìn substrate).
+- 757–800 — *Sānfǔ huángtú* 三輔黃圖 [[KR2k0001]] — late-Táng received recension of the Cháng'ān palace-register tradition (with earlier Wèi-Jìn substrate).
 - 813–814 — *Yuánhé jùnxiàn zhì* 元和郡縣志 [[KR2k0003]] — Lǐ Jífǔ; earliest extant comprehensive empire-wide gazetteer.
 - 902 — *Nányuè xiǎolù* 南嶽小錄 [[KR2k0083]] — earliest extant mountain-gazetteer in the canon.
 - 979–987 — *Tàipíng huányǔ jì* 太平寰宇記 [[KR2k0004]] — Yuè Shǐ; founding Sòng *zǒngzhì*.
@@ -133,7 +133,7 @@ The Sòng *fāngzhì* of [[KR2k0010]]–0027 are the principal surviving witness
 - 1111–1117 — *Yúdì guǎngjì* 輿地廣記 [[KR2k0006]] — Ōuyáng Mín.
 - 1124 — *Xuānhé fèngshǐ Gāolí tújīng* 宣和奉使高麗圖經 [[KR2k0138]] — Xú Jīng; standard pre-Mongol Goryeo record.
 - 1147 — *Dōngjīng mènghuá lù* 東京夢華錄 [[KR2k0111]] — Mèng Yuánlǎo; the urban memoir of Northern-Sòng Kāifēng.
-- 1169–1227 — the great Southern-Sòng prefectural-gazetteer set: [[KR2k0011]], [[KR2k0012]], [[KR2k0013]], [[KR2k0014]], [[KR2k0015]], [[KR2k0016]], [[KR2k0017]], [[KR2k0018]] — the canonical JiāngZhèMǐn *fāngzhì* corpus.
+- 1169–1227 — the great Southern-Sòng prefectural-gazetteer set: [[KR2k0011]], [[KR2k0012]], [[KR2k0013]], [[KR2k0014]], [[KR2k0015]], [[KR2k0016]], [[KR2k0017]], [[KR2k0018]] — the canonical Jiāng-Zhè-Mǐn *fāngzhì* corpus.
 - 1175 — *Guìhǎi yúhéng zhì* 桂海虞衡志 [[KR2k0115]] — Fàn Chéngdà; foundational Lǐngnán ethnography.
 - 1178 — *Lǐngwài dàidá* 嶺外代答 [[KR2k0116]] — Zhōu Qùfēi.
 - 1225 — *Zhūfān zhì* 諸蕃志 [[KR2k0139]] — Zhào Rǔshì; standard Sòng maritime-trade ethnography.
@@ -155,9 +155,9 @@ The Sòng *fāngzhì* of [[KR2k0010]]–0027 are the principal surviving witness
 - 1715–1721 — *Yìyù lù* 異域錄 [[KR2k0151]] — Tulišen; Volga-Torghut embassy report.
 - 1721–1725 — *Xíngshuǐ jīnjiàn* 行水金鑑 [[KR2k0078]] — Fù Zéhóng; standard imperial-Qīng Yellow-River compendium.
 - 1729–1742 — the imperial provincial *tōngzhì* programme ([[KR2k0041]]–[[KR2k0056]]) — 16 provincial gazetteers commissioned under Yōngzhèng's 1728 edict, completed under Qiánlóng.
-- 1751–1763 — *HuángQīng zhígòng tú* 皇清職貢圖 [[KR2k0149]] — Fù Héng et al.; Qiánlóng tributary-peoples visual ethnography.
+- 1751–1763 — *Huáng Qīng zhígòng tú* 皇清職貢圖 [[KR2k0149]] — Fù Héng et al.; Qiánlóng tributary-peoples visual ethnography.
 - 1761 — *Shuǐdào tígāng* 水道提綱 [[KR2k0079]] — Qí Zhàonán; comprehensive Qīng hydrography on geodetic basis.
-- 1764–1784 — *DàQīng yītǒng zhì* 大清一統志 [[KR2k0009]] — HéShēn supervising; the largest single work in the division.
+- 1764–1784 — *Dà Qīng yītǒng zhì* 大清一統志 [[KR2k0009]] — Hé-Shēn supervising; the largest single work in the division.
 - 1774–1787 — *Qīndìng Rìxià jiùwén kǎo* 欽定日下舊聞考 [[KR2k0036]] — imperial-Qīng standard topography of Běijīng.
 - 1776 — *Guānzhōng shèngjì túzhì* 關中勝蹟圖志 [[KR2k0103]] — Bì Yuán; late-Qiánlóng antiquarian-topographical synthesis.
 - 1779–1789 — *Qīndìng Shèngjīng tōngzhì* 欽定盛京通志 [[KR2k0040]] — the latest dated work in the division; the imperial-Qīng monument to the Manchu second capital.
