@@ -1,3 +1,6 @@
+---
+title: 6 佛部 Buddhism
+---
 # KR6 佛藏
 
 KR6:  Buddhist Canon division.

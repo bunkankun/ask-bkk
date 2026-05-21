@@ -1,5 +1,5 @@
 ---
-title: " 3 子部 Masters"
+title: "3 子部 Masters"
 ---
 # KR3 子部
 

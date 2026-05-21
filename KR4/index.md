@@ -1,3 +1,6 @@
+---
+title: "4 集部 Collections"
+---
 # KR4 集部
 
 KR4:  Collected Works / Literature division.

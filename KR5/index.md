@@ -1,3 +1,6 @@
+---
+title: 5 道部 Daoism
+---
 # KR5 道藏
 
 KR5: Daoist Canon division.

@@ -1,6 +1,6 @@
 ---
 division: KR3e
-title: 醫家類 Section introduction
+title: 醫家類
 titlePinyin: Yī jiā lèi
 titleEnglish: Masters — Medicine
 parentDivision: KR3
