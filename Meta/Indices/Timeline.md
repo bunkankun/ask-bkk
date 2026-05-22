@@ -3,6 +3,8 @@ title: Timeline
 ---
 # Timeline by text index years
 
+The placement of a text in this timeline is governed by **index years**.  For every text, the index year is calculated as the midpoint between `notBefore` and `notAfter` fields in the frontmatter of the text note.  If the bracket is larger than 100 years, the `notBefore` value is selected.  For Buddhist texts, there are about 1200 items for which the creation date for a text also carries values from the [dazangthings.nz](https://dazangthings.nz ) website maintained by Michael Radich.  In these cases, this value is used in preference to calculate the index year.    
+
 ## Details by 500 years 
 
 - [[Timeline -1000 to -501]] (5 notes)
