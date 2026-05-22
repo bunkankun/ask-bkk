@@ -1,0 +1,1544 @@
+---
+title: "Timeline 0 to 499"
+---
+# Timeline 0 to 499 (1441)
+
+[[Timeline|Timeline overview]]
+
+## 0 to 99 (28)
+
+### KR1 (1)
+
+- [[KR1j0006]] 4 輶軒使者絕代語釋別國方言 Yóuxuān shǐzhě juédài yǔshì biéguó fāngyán **
+
+### KR2 (11)
+
+- [[KR2p0098]] 0 武威漢代醫簡‧第一類簡 Wǔwēi Hàndài Yījiǎn · Dì Yī Lèi Jiǎn *Wuwei Han Medical Slips — Category One Slips*
+- [[KR2p0099]] 0 武威漢代醫簡‧第二類簡 Wǔwēi Hàndài Yījiǎn · Dì Èr Lèi Jiǎn *Wuwei Han Medical Slips — Category Two Slips*
+- [[KR2p0100]] 0 武威漢代醫簡‧木牘 Wǔwēi Hàndài Yījiǎn · Mùdú *Wuwei Han Medical Slips — Wooden Tablets*
+- [[KR2p0111]] 0 散見簡牘合輯‧甘肅武威磨咀子十八號漢墓王杖十簡 Sǎn Jiàn Jiǎndú Héjí‧Gānsù Wǔwēi Mózuǐzǐ Shíbā Hào Hànmù Wángzhàng Shí Jiǎn *Collected Scattered Documents — Ten Wang-Staff Slips from Han Tomb No. 18 at Mozuizi, Wuwei, Gansu*
+- [[KR2p0114]] 0 散見簡牘合輯‧甘肅武威磨咀子漢墓王杖詔書令冊 Sǎn Jiàn Jiǎndú Héjí‧Gānsù Wǔwēi Mózuǐzǐ Hànmù Wángzhàng Zhàoshū Lìng Cè *Collected Scattered Documents — Register of Imperial Edicts and Orders Concerning the Wang Staff, Mozuizi Han Tombs, Wuwei, Gansu*
+- [[KR2p0136]] 5 散見簡牘合輯‧江蘇揚州胥浦一零一號漢墓竹簡、木牘、封檢 Sǎn Jiàn Jiǎndú Héjí‧Jiāngsū Yángzhōu Xūpǔ Yī Líng Yī Hào Hànmù Zhújiǎn、Mùdú、Fēngjiǎn *Collected Scattered Documents — Bamboo Slips, Wooden Tablets, and Sealed Check-Tags from Han Tomb no. 101 at Xupu, Yangzhou, Jiangsu*
+- [[KR2i0002]] 50 越絕書 Yuè Jué Shū *Records of the Glory of Yuè*
+- [[KR2d0002]] 62 東觀漢記 Dōngguān Hànjì *Records of Hàn from the Eastern Lodge*
+- [[KR2i0001]] 62 吳越春秋 Wú Yuè Chūnqiū *Annals of Wu and Yue*
+- [[KR2m0020]] 62 漢官舊儀 Hàn Guān Jiùyí *Old Protocols of the Hàn Officials*
+- [[KR2a0007]] 75 前漢書 Qián Hànshū *The Book of the Former Han*
+
+### KR3 (7)
+
+- [[KR3g0001]] 3 太玄經 Tàixuán jīng **
+- [[KR3a0009]] 9 揚子法言 Yángzǐ Fǎ yán *Master Yáng's* Model Sayings — *with Collected Commentaries*
+- [[KR3ec007]] 25 名醫別錄 Míngyī Biélù *Separate Records of Renowned Physicians*
+- [[KR3j0192]] 40 新論 Xīn lùn *New Discourses*
+- [[KR3ea054]] 50 八十一難經 Bāshíyī Nànjīng *The Classic of Eighty-One Difficulties*
+- [[KR3j0080]] 83 論衡 Lùn héng *Balanced Discussions*
+- [[KR3j0023]] 85 白虎通義 Báihǔ tōngyì *Comprehensive Discussions in the White Tiger Hall*
+
+### KR5 (3)
+
+- [[KR5f0005]] 0 鬻子 Yù zǐ *Master Yù*
+- [[KR5a0306]] 25 列仙傳 Lièxiān zhuàn *Biographies of Famous Immortals*
+- [[KR5c0065]] 25 道德真經註 (河上公) Dàodé zhēn jīng zhù (Héshàng gōng) *Commentary on the True Scripture of the Way and Its Virtue — Attributed to the Master of the River Bank*
+
+### KR6 (6)
+
+- [[KR6a0150]] 25 舍衛國王夢見十事經 Shèwèiguówáng mèngjiàn shíshì jīng *Sūtra of the Ten Dreams Seen by the King of Śrāvasti*
+- [[KR6b0062]] 25 雜譬喻經 Zá pìyù jīng *Sūtra of Miscellaneous Parables*
+- [[KR6i0511]] 25 佛說栴檀樹經 Fó shuō zhāntánshù jīng *The Buddha Speaks -- The Sūtra of the Sandalwood Tree*
+- [[KR6j0626]] 25 佛說安宅神呪經 Fó shuō Ānzhái shénzhòu jīng *Sūtra of the Divine Spell for Settling the Dwelling*
+- [[KR6a0035]] 73 海八德經 Hǎibādé jīng *Sūtra of the Eight Virtues of the Ocean*
+- [[KR6i0483]] 73 四十二章經 Sìshíèrzhāng jīng *The Sūtra in Forty-Two Sections*
+
+## 100 to 199 (138)
+
+### KR1 (13)
+
+- [[KR1a0163]] 100 乾坤鑿度 Qián Kūn záo dù *The Chiseled Way of Qián and Kūn*
+- [[KR1a0164]] 100 易緯稽覽圖 Yì wěi jī lǎn tú *Examining-Charts of the Apocryphal Yì*
+- [[KR1a0165]] 100 易緯辨終備 Yì wěi biàn zhōng bèi *The Apocryphal Yì on Discriminating-the-End and Preparedness*
+- [[KR1a0166]] 100 周易乾鑿度 Zhōuyì Qián záo dù *The Chiseled Way of the Qián [Hexagram] of the Zhōuyì*
+- [[KR1a0167]] 100 易緯通卦驗 Yì wěi tōng guà yàn *The Apocryphal Yì on Penetrating-Hexagrams and Verifying*
+- [[KR1a0168]] 100 易緯乾元序制記 Yì wěi Qián yuán xù zhì jì *The Apocryphal Yì on the Sequencing-and-Setting Records of Qián's Source*
+- [[KR1a0169]] 100 易緯是類謀 Yì wěi shì lèi móu *The Apocryphal Yì on Such-And-Such-Class Stratagems*
+- [[KR1a0170]] 100 易緯坤靈圖 Yì wěi Kūn líng tú *The Apocryphal Yì on the Spirit-Charts of Kūn*
+- [[KR1c0002]] 100 毛詩 Máoshī *The Mao Recension of the Classic of Poetry*
+- [[KR1j0018]] 110 說文解字 Shuōwén jiězì *Explaining Graphs and Analyzing Characters*
+- [[KR1e0007]] 173 春秋公羊經傳解詁 Chūnqiū Gōngyáng jīng zhuàn jiě gǔ *Glosses on the Classic and Tradition of the Gōngyáng Spring and Autumn*
+- [[KR1g0001]] 175 駁五經異義 Bó Wǔjīng yìyì *Refutation of [Xu Shen's] Disagreements among the Five Classics*
+- [[KR1e0011]] 182 箴膏肓 Zhēn gāohuāng *Needles for the Incurably Ill ([Zuǒ-tradition's] Vital-Organ Diseases)*
+
+### KR2 (5)
+
+- [[KR2k0167]] 150 三秦記 Sān Qín jì *Records of the Three Qin*
+- [[KR2k0164]] 175 陳留風俗傳 Chénliú fēngsú zhuàn *Record of Customs of Chenliu*
+- [[KR2p0112]] 175 散見簡牘合輯‧甘肅甘谷漢簡 Sǎn Jiàn Jiǎndú Héjí‧Gānsù Gāngǔ Hànjian *Collected Scattered Documents — Han Bamboo Slips from Gangu, Gansu*
+- [[KR2k0200]] 185 十三州記 Shísān zhōu jì *Records of the Thirteen Provinces*
+- [[KR2b0003]] 199 前漢紀 Qián Hàn jì *Annals of the Former Hàn*
+
+### KR3 (6)
+
+- [[KR3f0033]] 100 孫子算經 Sūnzǐ suànjīng *Master Sūn's Mathematical Classic*
+- [[KR3l0095]] 100 漢武故事 Hàn Wǔ gùshì *Anecdotes of Emperor Wǔ of the Hàn*
+- [[KR3a0010]] 146 潛夫論 Qiánfū lùn *Discourses of a Recluse*
+- [[KR3e0108]] 180 藥錄 Yàolù *Drug Record*
+- [[KR3j0024]] 182 獨斷 Dúduàn *Solitary Decisions*
+- [[KR3j0081]] 192 風俗通義 Fēng sú tōng yì *Comprehensive Meaning of Customs and Mores*
+
+### KR4 (2)
+
+- [[KR4a0002]] 123 楚辭章句 Chǔ cí zhāng jù *Sectional and Phrasal Commentary on the Chu ci*
+- [[KR4b0092]] 191 孔融集 Kǒng Róng jí *Collected Works of Kong Rong (Reconstructed)*
+
+### KR5 (3)
+
+- [[KR5e0002]] 100 太平經 Tài píng jīng *The Scripture of Great Peace*
+- [[KR5b0016]] 150 太上黃庭外景玉經 Tàishàng huángtíng wàijǐng yùjīng *Jade Scripture of the Outer Landscape of the Yellow Court, of the Most High*
+- [[KR5f0002]] 150 太上老君中經 Tài shàng Lǎo jūn zhōng jīng *Central Scripture of the Most High Lord Lǎo*
+
+### KR6 (109)
+
+- [[KR6l0001]] 100 阿毘達磨集異門足論 Āpídámó Jíyìmén Zúlùn *Abhidharma-saṅgīti-paryāya-pāda-śāstra -- Treatise on the Canonical Text Grouping Diverse Teachings*
+- [[KR6l0002]] 100 阿毘達磨法蘊足論 Āpídámó Fǎyùn Zúlùn *Abhidharma-dharma-skandha-pāda-śāstra -- Treatise on the Aggregation of Dharmas*
+- [[KR6l0003]] 100 施設論 Shīshè Lùn *Prajñapti-śāstra -- Treatise on Designations*
+- [[KR6l0004]] 100 阿毘達磨識身足論 Āpídámó Shíshen Zúlùn *Abhidharma-vijñāna-kāya-pāda-śāstra -- Treatise on the Body of Consciousness*
+- [[KR6l0005]] 100 阿毘達磨界身足論 Āpídámó Jièshēn Zúlùn *Abhidharma-dhātu-kāya-pāda-śāstra -- Treatise on the Body of Elements*
+- [[KR6l0006]] 100 眾事分阿毘曇論 Zhòngshìfēn Āpítán Lùn *Bahudhātuka-abhidharma-vibhāṣā -- Abhidharma Commentary on the Various Matters*
+- [[KR6l0007]] 100 阿毘達磨品類足論 Āpídámó Pǐnlèi Zúlùn *Abhidharma-prakaraṇa-pāda-śāstra -- Treatise on the Exposition of Categories*
+- [[KR6l0010]] 100 阿毘達磨大毘婆沙論 Āpídámó Dà Pípóshā Lùn *Abhidharma-mahāvibhāṣā-śāstra -- Great Treatise of the Great Exposition*
+- [[KR6l0011]] 100 阿毘曇毘婆沙論 Āpítán Pípóshā Lùn *Abhidharma-vibhāṣā-śāstra -- Commentary Treatise on the Abhidharma*
+- [[KR6l0012]] 100 鞞婆沙論 Pípóshā Lùn *Vibhāṣā-śāstra -- Commentary Treatise*
+- [[KR6l0013]] 100 舍利弗阿毘曇論 Shèlìfú Āpítán Lùn *Śāriputra-abhidharma-śāstra -- Abhidharma Treatise of Śāriputra*
+- [[KR6l0014]] 100 尊婆須蜜菩薩所集論 Zūn Póxūmì Púsà Suǒjí Lùn *Vasumitrasaṃgīti -- Collection Compiled by the Bodhisattva Vasumitra*
+- [[KR6l0020]] 100 五事毘婆沙論 Wǔshì Pípóshā Lùn *Pañcavastu-vibhāṣā -- Commentary on the Five Topics*
+- [[KR6k0056]] 148 佛說犯戒罪報輕重經 (variant) Fó shuō fànjiè zuìbào qīngzhòng jīng *The Sūtra on the Light and Heavy Karmic Retributions for Violating the Precepts (variant recension)*
+- [[KR6o0058]] 150 因緣心論頌因緣心論釋 Yīn yuán xīn lùn sòng yīn yuán xīn lùn shì *Verses on the Heart of Dependent Arising (Pratītyasamutpāda-hṛdaya-kārikā) and its Commentary*
+- [[KR6v0033]] 150 因緣心論頌 Yīnyuán xīn lùn sòng *Pratītyasamutpāda-hṛdaya-kārikā*
+- [[KR6v0034]] 150 因緣心論釋 Yīnyuán xīn lùn shì *Pratītyasamutpāda-hṛdaya-vṛtti*
+- [[KR6i0121]] 159 佛說阿難問事佛吉凶經 Fóshuō Ānán wèn shìfó jíxiōng jīng *Sūtra of Ānanda's Questions on Auspicious and Inauspicious Aspects of Serving the Buddha*
+- [[KR6i0122]] 159 阿難問事佛吉凶經 Ānán wèn shìfó jíxiōng jīng *Sūtra of Ānanda's Questions on Auspicious and Inauspicious Aspects of Serving the Buddha*
+- [[KR6k0055]] 159 佛說犯戒罪報輕重經 Fó shuō fànjiè zuìbào qīngzhòng jīng *The Sūtra on the Light and Heavy Karmic Retributions for Violating the Precepts*
+- [[KR6r0002]] 159 迦葉結經 Jiāyè jié jīng *Sūtra on the Convocation by Kāśyapa*
+- [[KR6a0014]] 160 人本欲生經 Rénběn yùshēng jīng *Sūtra on the Origins and the Wish-to-Be-Reborn of Humans*
+- [[KR6a0016]] 160 尸迦羅越六方禮經 Shījiāluóyuè liùfāng lǐ jīng *Sūtra of Sigāla[ka]'s Worship of the Six Directions*
+- [[KR6a0031]] 160 一切流攝守因經 Yīqiè liú shèshǒu yīn jīng *Sūtra on the Causes of the Restraint and Guarding of All Outflows*
+- [[KR6a0032]] 160 四諦經 Sìdì jīng *Sūtra of the Four Noble Truths*
+- [[KR6a0036]] 160 本相猗致經 Běnxiāng yīzhì jīng *Sūtra on the Origins, Manifestations, and Concomitant Causes (of Existence)*
+- [[KR6a0048]] 160 是法非法經 Shìfǎ fēifǎ jīng *Sūtra on Dharma and Non-Dharma*
+- [[KR6a0057]] 160 漏分布經 Lòufēnbù jīng *Sūtra on the Distribution of the Outflows*
+- [[KR6a0091]] 160 婆羅門子命終愛念不離經 Póluóménzǐ mìngzhōng àiniàn bùlí jīng *Sūtra on the Brahmin's Inability to Let Go of His Beloved Son's Death*
+- [[KR6a0092]] 160 十支居士八城人經 Shízhī jūshì Bāchéngrén jīng *Sūtra of the Householder Daśama of the Eight-Cities-Folk*
+- [[KR6a0098]] 160 普法義經 Pǔfǎyì jīng *Sūtra of the Universal-Doctrine Meaning*
+- [[KR6a0101]] 160 雜阿含經 Zá Āhán jīng *The Connected Discourses (a one-fascicle anthology)*
+- [[KR6a0105]] 160 五陰譬喻經 Wǔyīn pìyù jīng *Sūtra of the Five-Aggregate Similes*
+- [[KR6a0109]] 160 佛說轉法輪經 Fó shuō zhuǎn fǎlún jīng *Sūtra of the Turning of the Dharma-Wheel*
+- [[KR6a0112]] 160 佛說八正道經 Fó shuō bāzhèngdào jīng *Sūtra of the Noble Eightfold Path*
+- [[KR6a0133]] 160 佛說婆羅門避死經 Fó shuō póluómén bìsǐ jīng *Sūtra of the Brahmins Who Tried to Escape Death*
+- [[KR6a0143]] 160 阿那邠邸化七子經 Ānàbīndǐ huà qīzǐ jīng *Sūtra of Anāthapiṇḍika Converting His Seven Sons*
+- [[KR6a0153]] 160 佛說阿難同學經 Fó shuō Ānán tóngxué jīng *Sūtra of Ānanda's Fellow-Disciple*
+- [[KR6a0154]] 160 七處三觀經 Qīchù sānguān jīng *Sūtra of the Seven Stations and Three Contemplations*
+- [[KR6a0155]] 160 九橫經 Jiǔhéng jīng *Sūtra of the Nine Untimely Deaths*
+- [[KR6a0161]] 160 人本欲生經註 Rénběn yùshēng jīng zhù *Annotations on the Sūtra on the Origin of Human Birth-Lust*
+- [[KR6b0019]] 160 太子慕魄經 Tàizǐ Mùpò jīng *Sūtra of Prince Mùpò*
+- [[KR6f0040]] 160 佛說大乘方等要慧經 Fó shuō dà chéng fāng děng yào huì jīng *The Great-Vehicle Vaipulya Sūtra of Essential Wisdom*
+- [[KR6g0025]] 160 四童子三昧經 Sì tóng zǐ sānmèi jīng *The Sūtra of the Samādhi of the Four Boys*
+- [[KR6h0001]] 160 大方等大集經 Dà fāngděng dà jí jīng *The Great Vaipulya Mahāsaṃnipāta-sūtra*
+- [[KR6i0129]] 160 佛為阿支羅迦葉自化作苦經 Fó wèi Āzhīluó Jiāyè zì huà zuò kǔ jīng *Sūtra of the Buddha's Teaching to Acela Kassapa on Self-Caused Suffering*
+- [[KR6i0136]] 160 犍陀國王經 Jiāntuó guówáng jīng *Sūtra of the King of Gandhāra*
+- [[KR6i0155]] 160 佛說長者子懊惱三處經 Fóshuō zhǎngzhě zǐ àonǎo sān chù jīng *Sūtra of the Elder's Son Vexed in Three Places*
+- [[KR6i0156]] 160 佛說長者子制經 Fóshuō zhǎngzhě zǐ Zhì jīng *Sūtra of the Elder's Son Zhì*
+- [[KR6i0182]] 160 佛說摩鄧女經 Fóshuō Móténg nǚ jīng *Sūtra of the Mātaṅga Woman*
+- [[KR6i0184]] 160 佛說㮈女祇域因緣經 Fóshuō Nàinǚ Qíyù yīnyuán jīng *Sūtra of the Causes and Conditions of the Mango-Maiden and Jīvaka*
+- [[KR6i0185]] 160 佛說奈女耆婆經 Fóshuō Nàinǚ Qípó jīng *Sūtra of the Mango-Maiden and Jīvaka*
+- [[KR6i0239]] 160 佛說大安般守意經 Fóshuō Dàānbān shǒuyì jīng *Sūtra of Great Mindfulness on Inhalation and Exhalation (Mahā-ānāpānasmṛti-sūtra)*
+- [[KR6i0240]] 160 陰持入經 Yīnchírù jīng *Sūtra on the Aggregates, Holdings, and Sense-Bases (Skandha-dhātu-āyatana)*
+- [[KR6i0241]] 160 佛說禪行三十七品經 Fóshuō Chánxíng sānshíqī pǐn jīng *Sūtra of the Thirty-Seven Factors of Meditation Practice*
+- [[KR6i0242]] 160 禪行法想經 Chánxíng fǎxiǎng jīng *Sūtra on the Dharma-Perceptions of Meditation Practice*
+- [[KR6i0259]] 160 佛說自誓三昧經 Fóshuō zìshì sānmèi jīng *The Sūtra on the Self-Vow Samādhi as Spoken by the Buddha*
+- [[KR6i0260]] 160 佛說如來獨證自誓三昧經 Fóshuō Rúlái dúzhèng zìshì sānmèi jīng *The Sūtra on the Tathāgata's Solitary Realization of the Self-Vow Samādhi as Spoken by the Buddha*
+- [[KR6i0278]] 160 佛說月燈三昧經 Fóshuō yuèdēng sānmèi jīng *Sūtra on the Moon-Lamp Samādhi as Spoken by the Buddha (different fascicle)*
+- [[KR6i0363]] 160 佛說父母恩難報經 Fó shuō fùmǔēn nánbào jīng *The Buddha's Sūtra on the Difficulty of Repaying the Kindness of Parents*
+- [[KR6i0391]] 160 佛說溫室洗浴眾僧經 Fó shuō wēnshì xǐyù zhòngsēng jīng *The Buddha's Sūtra on the Warm-Bath-House -- Bathing the Saṅgha*
+- [[KR6i0418]] 160 佛說罪業應報教化地獄經 Fó shuō zuìyè yìngbào jiàohuà dìyù jīng *The Buddha's Sūtra on the Hells of Karmic Recompense for Sinful Actions, for Edification*
+- [[KR6i0423]] 160 佛說分別善惡所起經 Fó shuō fēnbié shànè suǒqǐ jīng *The Buddha's Sūtra Discriminating the Origins of Good and Evil*
+- [[KR6i0424]] 160 佛說處處經 Fó shuō chùchù jīng *The Buddha's Sūtra on Various Places*
+- [[KR6i0425]] 160 佛說十八泥犁經 Fó shuō shíbā nílí jīng *The Buddha's Sūtra on the Eighteen Hells*
+- [[KR6i0426]] 160 佛說罵意經 Fó shuō màyì jīng *The Buddha's Sūtra on Reviling Thoughts*
+- [[KR6i0427]] 160 佛說堅意經 Fó shuō jiānyì jīng *The Buddha's Sūtra on Resolute Determination*
+- [[KR6i0428]] 160 佛說鬼問目連經 Fó shuō guǐwènmùlián jīng *The Buddha's Sūtra of the Ghosts Questioning Maudgalyāyana*
+- [[KR6i0476]] 160 佛說八大人覺經 Fó shuō bā dàrén jué jīng *The Buddha Speaks: The Sūtra of the Eight Great-Person Awakenings*
+- [[KR6i0495]] 160 佛說出家緣經 Fó shuō chūjiā yuán jīng *The Buddha Speaks -- The Sūtra of the Causes of Going Forth into Homelessness*
+- [[KR6i0496]] 160 佛說法受塵經 Fó shuō Fǎ shòu chén jīng *The Buddha Speaks -- The Sūtra on the Dharma Receiving Defilement*
+- [[KR6j0532]] 160 舍頭諫太子二十八宿經 Shètóujiàn tàizǐ èrshíbā xiù jīng *Sūtra of Prince Śārdūlakarṇa and the Twenty-Eight Lunar Mansions*
+- [[KR6j0638]] 160 佛說辟除賊害呪經 Fó shuō Pìchú zéihài zhòu jīng *Sūtra of the Spell for Warding off Bandit-Harm*
+- [[KR6k0059]] 160 大比丘三千威儀 Dà bǐqiū sānqiān wēiyí *The Three Thousand Decorums of the Great Bhikṣu*
+- [[KR6k0114]] 160 佛說舍利弗悔過經 Fó shuō Shèlìfú huǐguò jīng *The Sūtra of Śāriputra's Confession of Faults*
+- [[KR6o0144]] 160 請賓頭盧法 Qǐng Bīntóulú fǎ *Method for Inviting Piṇḍola*
+- [[KR6a0160]] 173 阿含口解十二因緣經 Āhán kǒujiě shí'èr yīnyuán jīng *Sūtra on the Oral Exposition from the Āgamas of the Twelve Causes-and-Conditions*
+- [[KR6f0048]] 173 佛說寶積三昧文殊師利菩薩問法身經 Fó shuō bǎo jī sānmèi wénshūshīlì pútísà wèn fǎ shēn jīng *The Sūtra on the Treasure-Heap Samādhi as Asked by Bodhisattva Mañjuśrī Concerning the Dharma-Body*
+- [[KR6i0245]] 173 小道地經 Xiǎodàodì jīng *Lesser Sūtra on the Stages of the Path*
+- [[KR6h0026]] 179 般舟三昧經 Bānzhōu sānmèi jīng *The Pratyutpanna-Samādhi-Sūtra (1-fascicle recension)*
+- [[KR6h0027]] 179 般舟三昧經 Bānzhōu sānmèi jīng *The Pratyutpanna-Samādhi-Sūtra (3-fascicle recension)*
+- [[KR6a0114]] 186 佛說馬有三相經 Fó shuō mǎ yǒu sānxiāng jīng *Sūtra on the Three Marks of a Horse*
+- [[KR6a0115]] 186 佛說馬有八態譬人經 Fó shuō mǎ yǒu bātài pìrén jīng *Sūtra on the Eight Behaviours of Horses Compared with Persons*
+- [[KR6a0148]] 186 佛說大愛道般泥洹經 Fó shuō Dààidào bānníhuán jīng *Sūtra of the Parinirvāṇa of Mahāprajāpatī Gautamī*
+- [[KR6b0061]] 186 雜譬喻經 Zá pìyù jīng *Sūtra of Miscellaneous Parables*
+- [[KR6c0010]] 186 道行般若經 Dàoxíng bōrě jīng *Aṣṭasāhasrikā Prajñāpāramitā (Way-Practice Perfection-of-Wisdom Sūtra)*
+- [[KR6d0004]] 186 薩曇分陀利經 Sàtán fēntuólì jīng *Sūtra of the Saddharma-Puṇḍarīka (Partial Translation)*
+- [[KR6e0028]] 186 佛說兜沙經 Fó shuō dōushā jīng *The Sūtra Spoken by the Buddha on Tuṣa (a phonetic rendering of *daśa* "ten" — early proto-Avataṃsaka text)*
+- [[KR6e0030]] 186 諸菩薩求佛本業經 Zhū pútísà qiú fó běn yè jīng *The Sūtra on the Various Bodhisattvas Seeking the Buddha's Original Practice*
+- [[KR6e0031]] 186 菩薩十住行道品 Pútísà shízhù xíng dào pǐn *The Chapter on the Bodhisattva's Ten-Abode Practice and Way*
+- [[KR6f0004]] 186 阿閦佛國經 Āchù fó guó jīng *The Sūtra on the Buddha-Land of Akṣobhya*
+- [[KR6f0029]] 186 佛說阿闍貰王女阿術達菩薩經 Fó shuō ā shé shì wáng nǚ ā shù dá pútísà jīng *The Sūtra Spoken by the Buddha on the Bodhisattva-Girl Aśokadattā, Daughter of King Ajātaśatru*
+- [[KR6f0042]] 186 佛說遺日摩尼寶經 Fó shuō yí rì mó ní bǎo jīng *The Sūtra Spoken by the Buddha on the Wish-Granting Maṇi-Jewel (Kāśyapa-parivarta)*
+- [[KR6f0061]] 186 佛說無量清淨平等覺經 Fó shuō wú liàng qīng jìng píng děng jué jīng *The Sūtra Spoken by the Buddha on the Equal Awakening of Boundless Purity (early Sukhāvatī-vyūha)*
+- [[KR6i0059]] 186 文殊師利問菩薩署經 Wénshūshīlì wèn púsà shǔ jīng *Sūtra of Mañjuśrī's Questions on the Bodhisattva's Pledge*
+- [[KR6i0138]] 186 阿闍世王問五逆經 Āshéshì wáng wèn wǔnì jīng *Sūtra of King Ajātaśatru's Questions on the Five Heinous Crimes*
+- [[KR6i0191]] 186 佛說老女人經 Fóshuō lǎo nǚrén jīng *Sūtra of the Old Woman*
+- [[KR6i0263]] 186 佛說阿闍世王經 Fóshuō Āshéshìwáng jīng *Sūtra on King Ajātaśatru as Spoken by the Buddha*
+- [[KR6i0269]] 186 佛說慧印三昧經 Fóshuō huìyìn sānmèi jīng *Sūtra on the Samādhi of the Wisdom-Seal as Spoken by the Buddha*
+- [[KR6i0475]] 186 佛說菩薩內習六波羅蜜經 Fó shuō púsà nèixí liù bōluómì jīng *The Buddha Speaks -- The Sūtra of the Bodhisattva's Inner Cultivation of the Six Perfections*
+- [[KR6i0513]] 186 佛說內藏百寶經 Fó shuō nèizàng bǎibǎo jīng *The Buddha Speaks -- The Sūtra of the Hundred Jewels of the Inner Treasury*
+- [[KR6i0522]] 186 佛說道神足無極變化經 Fó shuō dào shénzú wújí biànhuà jīng *The Buddha Speaks -- The Sūtra of Limitless Transformations through the Bases of Path-Power*
+- [[KR6k0054]] 186 優波離問佛經 Yōubālí wèn fó jīng *The Sūtra of Upāli's Inquiry of the Buddha*
+- [[KR6i0267]] 188 佛說成具光明定意經 Fóshuō chéngjù guāngmíng dìngyì jīng *Sūtra on the Concentrated Mind of Accomplished and Brilliant Light, as Spoken by the Buddha*
+- [[KR6h0028]] 189 拔陂菩薩經 Bábēi púsà jīng *The Sūtra of the Bodhisattva Bhadrapāla (anonymous Hàn-period recension of the Pratyutpanna-samādhi-sūtra)*
+- [[KR6a0140]] 190 舍利弗摩訶目連遊四衢經 Shèlìfó Móhémùlián yóu sìqú jīng *Sūtra of Sāriputra and Mahāmaudgalyāyana Travelling the Four Crossroads*
+- [[KR6b0040]] 190 修行本起經 Xiūxíng běnqǐ jīng *Sūtra of the Origins of Cultivation (Buddha-biography)*
+- [[KR6b0054]] 190 佛說興起行經 Fóshuō Xīngqǐxíng jīng *Sūtra of the Buddha's Karmic Aetiologies*
+- [[KR6b0053]] 198 中本起經 Zhōng běnqǐ jīng *Middle Origin-Sūtra (Continuation of the Buddha-Biography)*
+
+## 200 to 299 (380)
+
+### KR1 (44)
+
+- [[KR1j0007]] 208 釋名 Shìmíng *Explaining Names*
+- [[KR1d0134]] 220 禮統 Lǐtǒng *Comprehensive [Outline of] Ritual*
+- [[KR1e0004]] 222 春秋左傳注疏 Chūnqiū Zuǒzhuàn zhùshū *The Spring and Autumn Annals with the Zuǒ Tradition -- Commentary and Sub-commentary*
+- [[KR1g0002]] 227 鄭志 Zhèng zhì *Records of Zhèng [Xuán]*
+- [[KR1j0008]] 229 廣雅 Guǎngyǎ **
+- [[KR1j0098]] 230 埤蒼 Pí Cāng *Supplementing the Cāngjié [Primer]*
+- [[KR1j0099]] 230 古今字詁 Gǔjīn zì gǔ *Glosses on Ancient and Modern Graphs*
+- [[KR1j0115]] 230 雜字 Zá zì *Miscellaneous Graphs*
+- [[KR1d0131]] 232 皇覽逸禮一卷附中霤禮 Huánglǎn yìlǐ yī juàn fù Zhōngliú lǐ *Lost-Ritual Fragments from the Huánglǎn, with Appended Hearth-Sacrifice Ritual*
+- [[KR1d0113]] 238 王氏喪服要記 Wáng-shì sāngfú yàojì *Master Wáng's Essential Notes on Mourning Dress*
+- [[KR1a0006]] 240 周易註 Zhōuyì zhù *Commentary on the Zhōuyì*
+- [[KR1j0100]] 242 廣蒼 Guǎng Cāng *Expanded Cāngjié [Primer]*
+- [[KR1j0110]] 242 聲類 Shēng lèi *Sound Categories*
+- [[KR1h0005]] 244 論語 Lúnyǔ (Hé Yàn jíjiě) *The Analects, with the collected commentaries of He Yan*
+- [[KR1a0172]] 246 周易略例 Zhōu Yì lüè lì *Brief Exemplary Schemata of the Zhōu Yì*
+- [[KR1c0005]] 250 毛詩草木鳥獸蟲魚疏 Máoshī cǎomù niǎoshòu chóngyú shū *A Sub-Commentary on the Plants, Trees, Birds, Beasts, Insects, and Fish of the Mao Recension of the Classic of Poetry*
+- [[KR1c0068]] 250 毛詩譜注 Máo Shī pǔ zhù *Annotations on the Genealogical Chart of the Mao Recension of the Poetry*
+- [[KR1d0108]] 250 周官禮異同評 Zhōuguān lǐ yìtóng píng *Evaluation of Similarities and Differences in the Zhōuguān-Ritual [Transmissions]*
+- [[KR1d0114]] 250 喪服變除圖 Sāngfú biànchú tú *Chart of Mourning-Dress Reduction-and-Removal*
+- [[KR1d0123]] 250 喪服難問 Sāngfú nánwèn *Difficult Questions on Mourning Dress*
+- [[KR1d0126]] 250 禮記音義隱 Lǐjì yīnyì yǐn *Hidden Sounds and Meanings of the Lǐjì*
+- [[KR1d0133]] 250 雜禮議 Zálǐ yì *Miscellaneous Ritual Discussions*
+- [[KR1g0034]] 250 五經然否論 Wǔjīng ránfǒu lùn *Discourse on the Yeas and Nays of the Five Classics*
+- [[KR1j0092]] 250 爾雅孫氏音 Ěryǎ Sūn-shì yīn *Master Sūn's Phonological Commentary on the Ěryǎ*
+- [[KR1j0117]] 250 異字 Yì zì *Variant Graphs*
+- [[KR1d0115]] 253 喪服要集 Sāngfú yàojí *Essential Compilation on Mourning Dress*
+- [[KR1e0002]] 253 春秋經傳集解 Chūnqiū jīng zhuàn jí jiě *Collected Explanations of the Classic and Tradition of the Spring and Autumn Annals*
+- [[KR1j0097]] 259 辨釋名 Biàn Shìmíng *Discriminations on the Shìmíng*
+- [[KR1e0126]] 265 穀梁傳例 Gǔliáng zhuàn lì *Regulatory Items in the Gǔliáng Tradition*
+- [[KR1e0012]] 277 春秋釋例 Chūnqiū shì lì *The Spring and Autumn Annals -- Explanation of the Regulatory Items*
+- [[KR1e0123]] 277 春秋地名 Chūnqiū dìmíng *Place-Names of the Spring and Autumn Annals*
+- [[KR1e0127]] 277 春秋公羊穀梁傳集解 Chūnqiū Gōngyáng Gǔliáng zhuàn jíjiě *Collected Commentary on the Gōngyáng and Gǔliáng Traditions of the Spring and Autumn Annals*
+- [[KR1a0173]] 280 周易卦序論 Zhōu Yì guà xù lùn *Discussion of the Hexagram Sequence of the Zhōu Yì*
+- [[KR1j0101]] 280 雜字解詁 Zá zì jiě gǔ *Miscellaneous Graphs Explained and Glossed*
+- [[KR1j0102]] 280 周成難字 Zhōuchéng nán zì *Zhōu Chéng's Difficult Graphs*
+- [[KR1j0103]] 280 字指 Zì zhǐ *A Guide to Graphs*
+- [[KR1d0132]] 281 五禮駁 Wǔlǐ bó *Refutations on the Five Rites*
+- [[KR1g0036]] 282 七經詩 Qījīng shī *Poems of the Seven Classics*
+- [[KR1g0035]] 290 五經通論 Wǔjīng tōnglùn *Comprehensive Discourse on the Five Classics*
+- [[KR1d0116]] 292 喪服釋疑 Sāngfú shìyí *Resolving Doubts on Mourning Dress*
+- [[KR1d0097]] 294 凶禮 Xiōnglǐ *[Treatise on] Inauspicious Rituals*
+- [[KR1d0107]] 296 決疑要注 Juéyí yàozhù *Essential Annotations for Resolving Doubts*
+- [[KR1d0117]] 299 賀氏喪服譜 Hè-shì sāngfú pǔ *Master Hè's Genealogical Chart of Mourning Dress*
+- [[KR1d0118]] 299 賀氏喪服要記 Hè-shì sāngfú yàojì *Master Hè's Essential Notes on Mourning Dress*
+
+### KR2 (14)
+
+- [[KR2k0154]] 200 黃恭十四州記 Huáng Gōng shísì zhōu jì *Huang Gong's Records of the Fourteen Provinces*
+- [[KR2k0158]] 200 十三州志 Shísān zhōu zhì *Monograph on the Thirteen Provinces*
+- [[KR2k0165]] 200 陳留志 Chénliú zhì *Chenliu Gazetteer*
+- [[KR2k0163]] 220 齊地記 Qídì jì *Records of the Qi Region*
+- [[KR2k0185]] 265 始興記 Shǐxīng jì *Records of Shixing*
+- [[KR2p0117]] 265 散見簡牘合輯‧甘肅武威旱灘坡十九號晉墓木牘 Sǎn Jiàn Jiǎndú Héjí‧Gānsù Wǔwēi Hàntánpō Shíjiǔ Hào Jìn Mù Mùdú *Collected Scattered Documents — Wooden Tablet from Jin Tomb no. 19 at Hantanpo, Wuwei, Gansu*
+- [[KR2p0118]] 265 散見簡牘合輯‧甘肅高台常封晉墓木牘 Sǎn Jiàn Jiǎndú Héjí‧Gānsù Gāotái Cháng Fēng Jìn Mù Mùdú *Collected Scattered Documents — Wooden Tablet from a Jin Tomb at Changfeng, Gaotai, Gansu*
+- [[KR2g0018]] 266 高士傳 Gāoshì zhuàn *Biographies of Lofty Gentlemen*
+- [[KR2c0002]] 280 汲冢周書 Jízhǒng Zhōushū **
+- [[KR2k0161]] 281 風土記 Fēngtú jì *Record of Local Customs*
+- [[KR2k0153]] 284 太康地記 Tàikāng dìjì *Geographical Records of the Taikang Era*
+- [[KR2a0012]] 288 三國志 Sānguó zhì *Records of the Three Kingdoms*
+- [[KR2k0190]] 291 洛陽記 Luòyáng jì *Records of Luoyang*
+- [[KR2k0166]] 295 關中記 Guānzhōng jì *Records of the Guanzhong Region*
+
+### KR3 (76)
+
+- [[KR3a0003]] 200 孔叢子 Kǒng cóngzǐ *The Kǒng-Family Anthology*
+- [[KR3l0093]] 200 神異經 Shényì jīng *Classic of Divine Marvels*
+- [[KR3l0136]] 200 山陽死友傳 Shānyáng sǐyǒu zhuàn *A Death-Friend's Tale from Shānyáng*
+- [[KR3a0011]] 203 申鑒 Shēn jiàn *Extended Reflections*
+- [[KR3l0129]] 205 笑林 Xiàolín *Forest of Jokes*
+- [[KR3a0012]] 208 中論 Zhōng lùn *Discourses of the Mean*
+- [[KR3a0140]] 208 劉氏政論 Liú Shǐ zhènglùn *The Political Discourses of Master Liú*
+- [[KR3ef001]] 208 傷寒論（宋本） Shānghán lùn (Sòng běn) *Treatise on Cold Damage Disorders (Song recension)*
+- [[KR3ef079]] 208 金匱要略方論 Jīnguì yào lüè fāng lùn *Treatise on Essential Prescriptions from the Golden Casket*
+- [[KR3ef080]] 208 金匱玉函經 Jīnguì yùhán jīng *The Golden-Casket Jade-Cabinet Canon*
+- [[KR3h0099]] 210 藝經 Yì jīng *Classic of the Arts*
+- [[KR3l0134]] 216 魏臺訪議 Wèitái fǎngyì *Inquiries at the Wèi Terrace*
+- [[KR3f0058]] 220 玉符瑞圖 Yùfú ruìtú *Jade-Tally Auspicious Charts*
+- [[KR3l0142]] 220 蘇娥訴冤記 Sū É sùyuān jì *Record of Sū É's Plea for Redress*
+- [[KR3l0145]] 220 泰嶽府君記 Tàiyuè fǔjūn jì *Record of the Magistrate of the Great Peak (Mount Tài)*
+- [[KR3a0159]] 223 典論 Diǎn lùn *Normative Disquisitions*
+- [[KR3h0102]] 223 彈碁經 Tánqí jīng *Classic of Elastic-Chess*
+- [[KR3j0011]] 232 人物志 Rénwù zhì *Treatise on Personalities*
+- [[KR3a0142]] 234 世要論 Shìyào lùn *Discourse on the Essentials of the Age*
+- [[KR3a0144]] 234 蔣子萬機論 Jiǎngzǐ wànjī lùn *Master Jiǎng's Discourse on the Ten Thousand Affairs of State*
+- [[KR3a0120]] 236 杜氏體論 Dù Shǐ tǐlùn *Discourse on the Substance (of Things), by Master Dù*
+- [[KR3a0145]] 236 篤論 Dǔ lùn *Sincere Discourse*
+- [[KR3a0146]] 237 諸葛子 Zhūgězǐ *Master Zhūgě*
+- [[KR3a0001]] 238 孔子家語 Kǒngzǐ jiāyǔ *Sayings of the Confucian School*
+- [[KR3a0121]] 238 王氏新書 Wáng Shǐ xīnshū *A New Book by Master Wáng*
+- [[KR3a0129]] 238 王子正論 Wángzǐ zhènglùn *The Correct Discourses of Master Wáng*
+- [[KR3l0139]] 240 泰山生令記 Tàishān shēnglìng jì *Record of Becoming Magistrate of Mount Tài*
+- [[KR3a0119]] 242 周生子要論 Zhōushēngzǐ yàolùn *Essential Discussions of Master Zhōushēng*
+- [[KR3a0134]] 242 任子道論 Rénzǐ dàolùn *On the Way, by Master Rén*
+- [[KR3a0141]] 242 阮子政論 Ruǎnzǐ zhènglùn *The Political Discourses of Master Ruǎn*
+- [[KR3a0151]] 242 時務論 Shíwù lùn *On the Pressing Tasks of the Time*
+- [[KR3a0160]] 242 周生烈子 Zhōushēng Lièzǐ *Master Zhōushēng Liè*
+- [[KR3a0123]] 245 譙子法訓 Qiáozǐ fǎxùn *The Standards and Instructions of Master Qiáo*
+- [[KR3ec002]] 245 吳普本草 Wú Pǔ Běncǎo *Wú Pǔ's Materia Medica*
+- [[KR3f0060]] 245 徐整長曆 Xú Zhěng chánglì *Xú Zhěng's Long Chronology*
+- [[KR3j0196]] 245 始學篇 Shǐ xué piān *Primer for Beginning Students*
+- [[KR3l0141]] 250 天上玉女記 Tiānshàng yùnǚ jì *Record of the Jade Maiden from Heaven*
+- [[KR3a0135]] 251 唐子 Tángzǐ *Master Táng*
+- [[KR3a0143]] 251 陳子要言 Chénzǐ yàoyán *The Essential Sayings of Master Chén*
+- [[KR3a0147]] 251 裴氏新言 Péi Shǐ xīnyán *The New Sayings of Master Péi*
+- [[KR3a0148]] 251 士緯 Shìwěi *The Woof-Threads of the Officer*
+- [[KR3a0122]] 255 通語 Tōngyǔ *General Discourses*
+- [[KR3f0059]] 260 昕天論 Xīntiān lùn *Treatise on the Dawn-Heaven*
+- [[KR3l0137]] 260 列異傳 Lièyì zhuàn *Records of Various Marvels*
+- [[KR3l0162]] 261 玄晏春秋 Xuányàn chūnqiū *Spring and Autumn of Xuányàn (Annals of the Dark-Recluse)*
+- [[KR3a0013]] 264 傅子 Fùzǐ *The Master Fù*
+- [[KR3a0131]] 265 古今通論 Gǔjīn tōnglùn *General Discourse on Ancient and Modern (Times)*
+- [[KR3a0137]] 265 陸子 Lùzǐ *Master Lù*
+- [[KR3a0149]] 265 新義 Xīnyì *New Meanings*
+- [[KR3a0150]] 265 秦子 Qínzǐ *Master Qín*
+- [[KR3a0152]] 265 化清經 Huàqīng jīng *The Classic of Transformative Purity*
+- [[KR3a0158]] 265 太元經 Tàiyuán jīng *The Classic of the Great Yuán*
+- [[KR3e0005]] 269 鍼灸甲乙經 Zhēnjiǔ jiǎyǐ jīng *The A-B Classic of Acupuncture and Moxibustion*
+- [[KR3ee005]] 269 針灸甲乙經 Zhēnjiǔ jiǎyǐ jīng *Systematic Classic of Acupuncture and Moxibustion (Stems-A-and-B Classic)*
+- [[KR3f0035]] 271 海島算經 Hǎidǎo suànjīng *Sea-Island Mathematical Classic*
+- [[KR3f0061]] 272 年曆 Niánlì *Annual Chronology*
+- [[KR3a0125]] 278 夏侯子新論 Xiàhóuzǐ xīnlùn *The New Discourses of Master Xiàhóu*
+- [[KR3eb011]] 280 脈經 Mài Jīng *The Pulse Classic*
+- [[KR3h0092]] 280 四體書勢 Sìtǐ shūshì *Forces of the Four Scripts*
+- [[KR3l0146]] 280 古墓斑狐記 Gǔmù bānhú jì *Record of the Striped Fox at the Old Tomb*
+- [[KR3l0147]] 280 烏衣鬼軍記 Wūyī guǐjūn jì *Record of the Black-Clad Ghost Army*
+- [[KR3l0159]] 280 東越祭蛇記 Dōngyuè jì shé jì *Records of the Dōngyuè Snake Sacrifice*
+- [[KR3l0160]] 280 玄中記 Xuánzhōng jì *Records from the Mysterious Centre*
+- [[KR3a0153]] 282 鄒子 Zōuzǐ *Master Zōu*
+- [[KR3j0198]] 282 物理論 Wù lǐ lùn *Treatise on the Patterns of Things*
+- [[KR3l0123]] 285 博物志 Bówù zhì *Treatise on Universal Things*
+- [[KR3h0091]] 286 草書狀 Cǎoshū zhuàng *Description of Cursive Script*
+- [[KR3a0124]] 290 袁子正書 Yuánzǐ zhèngshū *The Correct Writings of Master Yuán*
+- [[KR3a0126]] 290 去伐論 Qù fá lùn *Discourse on Eschewing Self-Boasting*
+- [[KR3a0130]] 290 袁子正論 Yuánzǐ zhènglùn *The Correct Discourses of Master Yuán*
+- [[KR3e0009]] 290 新刊王氏脈經 Xīn kān Wángshì Mài jīng *A Newly-Printed Edition of Mister Wáng's Classic of the Pulse*
+- [[KR3f0062]] 290 穹天論 Qióngtiān lùn *Treatise on the Vaulted Heaven*
+- [[KR3j0197]] 291 陸氏要覽 Lù shì yào lǎn *Mister Lù's Essentials*
+- [[KR3j0200]] 291 發蒙記 Fā méng jì *Notes for Opening the Untutored*
+- [[KR3l0140]] 296 陸氏異林 Lùshì yìlín *Master Lù's Forest of Anomalies*
+- [[KR3j0025]] 298 古今注 Gǔjīn zhù *Notes on Things Old and New*
+
+### KR4 (64)
+
+- [[KR4b0088]] 203 陳琳集 Chén Lín jí *Collected Works of Chen Lin (Reconstructed)*
+- [[KR4b0021]] 204 王朗集 Wáng Lǎng jí *Collected Works of Wang Lang (Reconstructed)*
+- [[KR4b0111]] 204 阮瑀集 Ruǎn Yǔ jí *Collected Works of Ruan Yu (Reconstructed)*
+- [[KR4b0020]] 205 曹操集 Cáo Cāo jí *Collected Works of Cao Cao (Reconstructed)*
+- [[KR4b0099]] 205 魏武帝集 Wèi Wǔdì jí *Collected Works of Emperor Wu of Wei (Cao Cao, Supplementary Reconstruction)*
+- [[KR4b0089]] 206 王粲集 Wáng Càn jí *Collected Works of Wang Can (Reconstructed)*
+- [[KR4b0093]] 206 徐幹集 Xú Gān jí *Collected Works of Xu Gan (Reconstructed)*
+- [[KR4b0090]] 208 應瑒集 Yīng Yáng jí *Collected Works of Ying Yang (Reconstructed)*
+- [[KR4b0091]] 208 劉楨集 Liú Zhēn jí *Collected Works of Liu Zhen (Reconstructed)*
+- [[KR4b0024]] 209 劉備集 Liú Bèi jí *Collected Writings of Liu Bei (Reconstructed)*
+- [[KR4b0094]] 215 魏文帝集 Wèi Wéndì jí *Collected Works of Emperor Wen of Wei (Reconstructed)*
+- [[KR4b0098]] 220 諸葛亮集 Zhūgě Liàng jí *Collected Works of Zhuge Liang (Reconstructed)*
+- [[KR4b0095]] 221 陳思王集 Chén Sī Wáng jí *Collected Works of the Prince of Chen (Cao Zhi, Reconstructed)*
+- [[KR4k0001]] 234 獻帝春秋 Xiàndì Chūnqiū *Annals of Emperor Xian*
+- [[KR4b0025]] 235 蔣琬集 Jiǎng Wǎn jí *Collected Writings of Jiang Wan (Reconstructed)*
+- [[KR4b0022]] 236 應璩集 Yīng Jú jí *Collected Works of Ying Ju (Reconstructed)*
+- [[KR4k0371]] 250 三五歷記 Sānwǔ Lìjì *Record of the Three and Five*
+- [[KR4b0096]] 251 阮籍集 Ruǎn Jí jí *Collected Works of Ruan Ji (Reconstructed)*
+- [[KR4b0023]] 252 鍾會集 Zhōng Huì jí *Collected Works of Zhong Hui (Reconstructed)*
+- [[KR4k0406]] 252 聖賢高士傳 Shèngxián Gāoshì Zhuàn *Biographies of Sages, Worthies, and Lofty Scholars*
+- [[KR4b0097]] 253 嵇中散集 Jī Zhōngsǎn jí *Collected Works of Ji Zhongsan (Ji Kang, Reconstructed)*
+- [[KR4b0083]] 263 成公綏集 Chéng Gōngsūi jí *Collected Works of Cheng Gongsui (Reconstructed)*
+- [[KR4b0078]] 265 佚名集（角賦·服議） Yìmíng jí (Jiǎo fù · fú yì) *Anonymous Collection — Rhapsody on the Horn; Memorial on Mourning Dress (Reconstructed)*
+- [[KR4k0002]] 265 魏晉世語 Wèi-Jìn Shìyǔ *Conversations of the Wei-Jin Period*
+- [[KR4k0339]] 265 曹嘉之晉紀 Cáo Jiāzhī Jìnjì *Cáo Jiāzhī's Record of the Jin*
+- [[KR4k0345]] 265 晉錄 Jìn Lù *Records of the Jin*
+- [[KR4k0394]] 265 長沙耆舊傳 Chángshā Qíjiù Zhuàn *Biographies of Elders of Changsha*
+- [[KR4k0396]] 265 孝子傳 (蕭廣濟) Xiàozǐ Zhuàn (Xiāo Guǎngjì) *Biographies of Filial Sons (Xiao Guangji)*
+- [[KR4k0397]] 265 孝子傳 (佚名) Xiàozǐ Zhuàn (anonymous) *Biographies of Filial Sons*
+- [[KR4k0399]] 265 孝子傳 (王歆) Xiàozǐ Zhuàn (Wáng Xīn) *Biographies of Filial Sons (Wang Xin)*
+- [[KR4k0400]] 265 孝子傳 (周景式) Xiàozǐ Zhuàn (Zhōu Jǐngshì) *Biographies of Filial Sons (Zhou Jingshi)*
+- [[KR4k0403]] 265 孝子傳 (虞盤佑) Xiàozǐ Zhuàn (Yú Pányòu) *Biographies of Filial Sons (Yu Panyou)*
+- [[KR4k0404]] 265 孝子傳 (鄭緝) Xiàozǐ Zhuàn (Zhèng Jī) *Biographies of Filial Sons (Zheng Ji)*
+- [[KR4k0405]] 265 孝子傳 (佚名二) Xiàozǐ Zhuàn (anonymous II) *Biographies of Filial Sons (second anonymous collection)*
+- [[KR4k0408]] 265 楚國先賢傳 Chǔguó Xiānxián Zhuàn *Biographies of Former Worthies of Chu*
+- [[KR4k0409]] 265 襄陽耆舊傳 Xiāngyáng Qíjiù Zhuàn *Biographies of Elders of Xiangyang*
+- [[KR4k0410]] 265 零陵先賢傳 Línglíng Xiānxián Zhuàn *Biographies of Former Worthies of Lingling*
+- [[KR4k0413]] 265 幼童傳 Yòutóng Zhuàn *Biographies of Prodigies*
+- [[KR4k0414]] 265 列女傳 (jíyìběn) Liènǚ Zhuàn *Biographies of Exemplary Women (jíyìběn)*
+- [[KR4k0415]] 265 晉百官名 Jìn Bǎiguān Míng *Names of the Hundred Officials of Jin*
+- [[KR4k0417]] 265 帝王要略 Dìwáng Yàolüè *Essentials of Emperors and Kings*
+- [[KR4k0418]] 265 東宮舊事 Dōnggōng Jiùshì *Old Affairs of the Eastern Palace*
+- [[KR4b0027]] 267 杜預集 Dù Yù jí *Collected Works of Du Yu (Reconstructed)*
+- [[KR4b0030]] 271 孫楚集 Sūn Chǔ jí *Collected Works of Sun Chu (Reconstructed)*
+- [[KR4k0355]] 271 帝王世紀 Dìwáng Shìjì *Chronicles of Emperors and Kings*
+- [[KR4b0026]] 272 荀勖集 Xún Xù jí *Collected Works of Xun Xu (Reconstructed)*
+- [[KR4b0031]] 275 夏侯湛集 Xiàhóu Zhàn jí *Collected Works of Xiahou Zhan (Reconstructed)*
+- [[KR4b0028]] 277 張華集 Zhāng Huá jí *Collected Works of Zhang Hua (Reconstructed)*
+- [[KR4b0029]] 277 傅咸集 Fù Xián jí *Collected Works of Fu Xian (Reconstructed)*
+- [[KR4b0034]] 282 潘岳集 Pān Yuè jí *Collected Works of Pan Yue (Reconstructed)*
+- [[KR4k0333]] 284 陸機晉紀 Lù Jī Jìnjì *Lù Jī's Record of the Jin*
+- [[KR4k0003]] 285 九州春秋 Jiǔzhōu Chūnqiū *Annals of the Nine Regions*
+- [[KR4b0081]] 287 左思集 Zuǒ Sī jí *Collected Works of Zuo Si (Reconstructed)*
+- [[KR4b0082]] 287 張載集 Zhāng Zài jí *Collected Works of Zhang Zai (Western Jin Poet, Reconstructed)*
+- [[KR4b0032]] 289 摯虞集 Zhì Yú jí *Collected Works of Zhi Yu (Reconstructed)*
+- [[KR4b0035]] 289 潘尼集 Pān Ní jí *Collected Works of Pan Ni (Reconstructed)*
+- [[KR4k0354]] 290 汲冢書鈔 Jí Zhǒng Shū Chāo *Extracts from the Jizhong Documents*
+- [[KR4k0392]] 290 會稽典錄 Kuàijī Diǎnlù *Canonical Records of Guiji*
+- [[KR4k0393]] 290 襄陽記 Xiāngyáng Jì *Record of Xiangyang*
+- [[KR4k0395]] 290 益都耆舊傳 Yìdū Qíjiù Zhuàn *Biographies of Elders of Yidu*
+- [[KR4k0407]] 290 會稽先賢傳 Kuàijī Xiānxián Zhuàn *Biographies of Former Worthies of Guiji*
+- [[KR4b0100]] 291 陸機集 Lù Jī jí *Collected Works of Lu Ji (Reconstructed)*
+- [[KR4b0033]] 292 束晳集 Shù Xī jí *Collected Works of Shu Xi (Reconstructed)*
+- [[KR4k0348]] 298 惠帝起居注 Huìdì Qǐjūzhù *Court Diary of Emperor Hui of Jin*
+
+### KR5 (11)
+
+- [[KR5a0133]] 200 太清真人絡命訣 Tàiqīng zhēnrén luòmìng jué *Methods for a Lasting Life of the True Persons of the Great Purity*
+- [[KR5c0163]] 200 太上通靈八史聖文真形圖 Tài shàng tōng líng bā shǐ shèng wén zhēn xíng tú *Diagrams of the True Forms of the Most High Sacred Writings of the Eight Archivists Communicating with the Spirits*
+- [[KR5c0183]] 200 太上老君經律 Tài shàng Lǎo jūn jīng lǜ *Scripture-Code of the Most High Lord Lǎo*
+- [[KR5a0081]] 220 洞真太微黃書天帝君石景金陽素經 Dòngzhēn tàiwēi huángshū tiāndìjūn shíjǐng jīnyáng sùjīng *Pure Scripture of Golden Yáng of Mineral Splendour of the Lord of Heaven and Earth, from the Yellow Book of the Tàiwēi Heaven*
+- [[KR5a0296]] 220 黃帝金匱玉衡經 Huángdì jīnguì yùhéng jīng *Book of the Jade Scales and Golden Casket, Transmitted by Huangdi*
+- [[KR5b0104]] 220 神仙服餌丹石行藥法 Shénxiān fú'ěr dānshí xíngyào fǎ *Methods of the Divine Immortals for Ingesting Cinnabar and Minerals, and for Making Medicines Edible*
+- [[KR5g0064]] 237 老子微旨例略 Lǎo zǐ wēi zhǐ lì lüè *Abridged Examples of Lǎo-zǐ's Subtle Purport*
+- [[KR5c0073]] 244 道德真經註 (王弼) Dàodé zhēn jīng zhù (Wáng Bì) *Commentary on the True Scripture of the Way and Its Virtue — Wáng Bì*
+- [[KR5c0187]] 250 女青鬼律 Nǚ qīng guǐ lǜ *Demon-Disciplinary Rules of Nǚ qīng*
+- [[KR5c0186]] 260 正一法文天師教戒科經 Zhèng yī fǎ wén Tiān shī jiào jiè kē jīng *Scripture of the Celestial Master's Teachings and Precepts in the Zhèng yī Dharma-Writings*
+- [[KR5i0102]] 290 華蓋山三仙真經 Huá gài shān sān xiān zhēn jīng *True Scripture of the Three Immortals of Mount Huá-gài*
+
+### KR6 (171)
+
+- [[KR6a0162]] 200 陰持入經註 Yīnchírù jīng zhù *Annotations on the Skandha-Dhātu-Āyatana Sūtra*
+- [[KR6i0120]] 200 六菩薩亦當誦持經 Liù púsà yì dāng sòngchí jīng *Sūtra of the Six Bodhisattvas Who Should Also Be Chanted*
+- [[KR6i0151]] 200 佛說梵摩難國王經 Fóshuō Fànmónán guówáng jīng *Sūtra of King Brahmadatta*
+- [[KR6i0152]] 200 普達王經 Pǔdá wáng jīng *Sūtra of King Pǔdá*
+- [[KR6i0159]] 200 佛說阿鳩留經 Fóshuō Ājiūliú jīng *Sūtra of Ājiūliú*
+- [[KR6l0015]] 200 阿毘曇心論 Āpítán Xīn Lùn *Abhidharma-hṛdaya-śāstra -- Heart Treatise of the Abhidharma*
+- [[KR6l0016]] 200 阿毘曇心論經 Āpítán Xīn Lùnjīng *Abhidharma-hṛdaya-sūtra-śāstra -- Sūtra-Commentary on the Heart of the Abhidharma*
+- [[KR6l0017]] 200 雜阿毘曇心論 Zá Āpítán Xīn Lùn *Saṃyuktābhidharma-hṛdaya-śāstra -- Mixed/Combined Heart of the Abhidharma*
+- [[KR6l0018]] 200 阿毘曇甘露味論 Āpítán Gānlùwèi Lùn *Abhidharma-amṛtarasa-śāstra -- Treatise on the Taste of Nectar of the Abhidharma*
+- [[KR6o0124]] 200 那先比丘經 Nàxiān bǐqiū jīng *Sūtra of the Bhikṣu Nāgasena (recension A)*
+- [[KR6o0125]] 200 那先比丘經 Nàxiān bǐqiū jīng *Sūtra of the Bhikṣu Nāgasena (recension B)*
+- [[KR6a0107]] 202 佛說不自守意經 Fó shuō bùzìshǒuyì jīng *Sūtra on the Unguarded Mind*
+- [[KR6i0258]] 202 佛說佛印三昧經 Fóshuō Fóyìn sānmèi jīng *The Sūtra on the Buddha-Seal Samādhi as Spoken by the Buddha*
+- [[KR6i0429]] 202 佛說四願經 Fó shuō sìyuàn jīng *The Buddha's Sūtra on the Four Wishes*
+- [[KR6a0013]] 205 長阿含十報法經 Cháng āhán shíbào fǎ jīng *Sūtra of the "Ten Ascending Categories" of the Long Āgama*
+- [[KR6a0156]] 205 佛說阿含正行經 Fóshuō Āhán zhèngxíng jīng *Sūtra Spoken by the Buddha on the Right Practice of the Āgama*
+- [[KR6i0244]] 205 道地經 Dàodì jīng *Sūtra on the Stages of the Path (partial Saṅgharakṣa Yogācārabhūmi)*
+- [[KR6a0068]] 215 賴吒和羅經 Làizhàhéluó jīng *Sūtra of Raṭṭhapāla*
+- [[KR6b0021]] 215 月明菩薩經 Yuèmíng púsà jīng *Sūtra of the Moon-Light Bodhisattva*
+- [[KR6f0062]] 215 佛說阿彌陀三耶三佛薩樓佛檀過度人道經 Fó shuō ā mí tuó sān yē sān fó sà lóu fó tán guò dù rén dào jīng *The Sūtra Spoken by the Buddha on Amitābha Samyak-saṃbuddha Surpassing-the-Path-of-Beings*
+- [[KR6i0457]] 215 惟日雜難經 Wéirì zánán jīng *Sūtra of Miscellaneous Difficulties [Asked of] Wéirì*
+- [[KR6a0046]] 218 阿那律八念經 Ānàlǜ bāniàn jīng *Sūtra of the Eight Reflections of Anuruddha*
+- [[KR6f0014]] 218 法鏡經 Fǎ jìng jīng *The Sūtra of the Dharma-Mirror (Ugra-paripṛcchā)*
+- [[KR6i0261]] 218 佛說伅真陀羅所問如來三昧經 Fóshuō Dùnzhēntuóluó suǒwèn rúlái sānmèi jīng *Sūtra on the Tathāgata-Samādhi Asked About by the Kinnara-king Druma*
+- [[KR6i0434]] 220 佛說頞多和多耆經 Fó shuō èduōhéduōqí jīng *The Buddha's Sūtra of Atavataki*
+- [[KR6i0500]] 220 佛治身經 Fó zhìshēn jīng *The Sūtra of the Buddha's Cure for the Body*
+- [[KR6i0512]] 220 佛說枯樹經 Fó shuō kūshù jīng *The Buddha Speaks -- The Sūtra of the Withered Tree*
+- [[KR6j0225]] 220 佛說安宅陀羅尼呪經 Fóshuō ānzhái tuóluóní zhòu jīng *Sūtra of the Dhāraṇī-Spell for Pacifying the Dwelling*
+- [[KR6a0129]] 237 須摩提女經 Xūmótínǚ jīng *Sūtra of Sumati the Daughter*
+- [[KR6a0130]] 237 須摩提女經 Xūmótínǚ jīng *Sūtra of Sumati*
+- [[KR6b0035]] 237 九色鹿經 Jiǔsè lù jīng *Sūtra of the Nine-Coloured Deer*
+- [[KR6b0036]] 237 佛說九色鹿經 Fóshuō Jiǔsè lù jīng *Sūtra of the Nine-Coloured Deer (alternative recension)*
+- [[KR6i0186]] 237 五母子經 Wǔmǔ zǐ jīng *Sūtra of the Five Mothers and the Son (Recension a)*
+- [[KR6i0187]] 237 五母子經 Wǔmǔ zǐ jīng *Sūtra of the Five Mothers and the Son (Recension b)*
+- [[KR6b0067]] 238 法句經 Fǎjù jīng *Dharmapada (Sūtra of Dharma-Verses)*
+- [[KR6i0141]] 240 佛說蓱沙王五願經 Fóshuō Píngshā wáng wǔyuàn jīng *Sūtra of the Five Vows of King Bimbisāra*
+- [[KR6a0004]] 242 七佛父母姓字經 Qī fó fùmǔ xìngzì jīng *Sūtra of the Family Names of the Seven Buddhas' Parents*
+- [[KR6a0006]] 245 般泥洹經 Bānníhuán jīng *Sūtra of the Parinirvāṇa*
+- [[KR6a0020]] 245 佛開解梵志阿颰經 Fó kāijiě fànzhì Ābá jīng *Sūtra in which the Buddha Enlightens the Brahmin Ambaṭṭha*
+- [[KR6a0021]] 245 梵網六十二見經 Fànwǎng liùshí'èr jiàn jīng *Sūtra of the Brahma-Net of Sixty-Two Views*
+- [[KR6a0027]] 245 七知經 Qī zhī jīng *Sūtra of the Seven Kinds of Knowing*
+- [[KR6a0054]] 245 釋摩男本四子經 Shì Mónán běnsìzǐ jīng *Sūtra on the Original Four Sons of the Śākyan Mahānāman*
+- [[KR6a0059]] 245 諸法本經 Zhūfǎ běn jīng *Sūtra on the Roots of All Phenomena*
+- [[KR6a0076]] 245 梵摩渝經 Fànmóyú jīng *Sūtra of the Brahmin Brahmāyu*
+- [[KR6a0087]] 245 齋經 Zhāi jīng *Sūtra of the Fast-Day Observance*
+- [[KR6b0001]] 245 六度集經 Liùdù jí jīng *Sūtra-Anthology of the Six Perfections (Ṣaṭ-pāramitā-saṃgraha)*
+- [[KR6b0002]] 245 菩薩本緣經 Púsà běnyuán jīng *Sūtra on the Past-Life Causes of the Bodhisattva*
+- [[KR6b0041]] 245 太子瑞應本起經 Tàizǐ ruìyìng běnqǐ jīng *Sūtra of the Auspicious-Marks Origins of the Prince*
+- [[KR6b0055]] 245 佛說義足經 Fóshuō Yìzú jīng *Aṭṭhakavagga (Sūtra of the Foot of Meaning)*
+- [[KR6b0057]] 245 撰集百緣經 Zhuànjí bǎiyuán jīng *Avadānaśataka (Compiled Anthology of One Hundred Conditions)*
+- [[KR6b0071]] 245 猘狗經 Zhìgǒu jīng *Sūtra of the Mad Dog*
+- [[KR6e0029]] 245 佛說菩薩本業經 Fó shuō pútísà běn yè jīng *The Sūtra Spoken by the Buddha on the Bodhisattvas' Original Practice*
+- [[KR6f0020]] 245 佛說須賴經 Fó shuō xū lài jīng (Báiyán) *The Sūtra Spoken by the Buddha on Surata (Surata-paripṛcchā)*
+- [[KR6f0021]] 245 佛說須賴經 Fó shuō xū lài jīng (Zhī Shīlún) **
+- [[KR6f0036]] 245 佛說太子和休經 Fó shuō tài zǐ hé xiū jīng *The Sūtra Spoken by the Buddha on Prince Sukha-prabha*
+- [[KR6g0041]] 245 佛說法滅盡經 Fó shuō fǎ miè jìn jīng *The Sūtra Spoken by the Buddha on the Extinction of the Dharma*
+- [[KR6i0003]] 245 佛說八吉祥神呪經 Fóshuō bā jíxiáng shénzhòu jīng *Sūtra of the Divine Dhāraṇī of the Eight Auspicious Ones*
+- [[KR6i0006]] 245 八吉祥經 Bā jíxiáng jīng *Sūtra of the Eight Auspicious Ones*
+- [[KR6i0123]] 245 佛說阿難四事經 Fóshuō Ānán sìshì jīng *Sūtra of Ānanda's Four Matters*
+- [[KR6i0160]] 245 佛說須摩提長者經 Fóshuō Xūmótí zhǎngzhě jīng *Sūtra of the Elder Sumati*
+- [[KR6i0161]] 245 佛說長者音悅經 Fóshuō zhǎngzhě Yīnyuè jīng *Sūtra of the Elder Yīnyuè*
+- [[KR6i0165]] 245 佛說申日經 Fóshuō Shēnrì jīng *Sūtra of Sundaya / Shēnrì*
+- [[KR6i0188]] 245 佛說七女經 Fóshuō qīnǚ jīng *Sūtra of the Seven Women*
+- [[KR6i0193]] 245 佛說老母經 Fóshuō lǎomǔ jīng *Sūtra of the Old Woman*
+- [[KR6i0213]] 245 佛說八師經 Fóshuō Bāshī jīng *Sūtra of the Eight Teachers*
+- [[KR6i0215]] 245 佛說黑氏梵志經 Fóshuō Hēishì fànzhì jīng *Sūtra of the Black-Clansman Brahmin*
+- [[KR6i0231]] 245 龍王兄弟經 Lóngwáng xiōngdì jīng *Sūtra of the Two Nāga-King Brothers*
+- [[KR6i0281]] 245 佛說金剛三昧本性清淨不壞不滅經 Fóshuō jīngāng sānmèi běnxìng qīngjìng bùhuài bùmiè jīng *Sūtra on the Vajra Samādhi, the Originally-Pure, Unbreakable, Unceasing Nature, as Spoken by the Buddha*
+- [[KR6i0400]] 245 了本生死經 Liǎo běnshēngsǐ jīng *Sūtra of Comprehending the Root of Birth and Death (Śālistamba-sūtra, earliest Chinese version)*
+- [[KR6i0407]] 245 貝多樹下思惟十二因緣經 Bèiduō shù xià sīwéi shíèr yīnyuán jīng *Sūtra of Contemplating the Twelve Links of Dependent-Origination Beneath the Pippala Tree*
+- [[KR6i0494]] 245 佛說孛經抄 Fó shuō Bèijīng chāo *The Buddha Speaks -- An Excerpt of the Sūtra of Bèi*
+- [[KR6i0514]] 245 佛說犢子經 Fó shuō dúzǐ jīng *The Buddha Speaks -- The Sūtra of the Calf*
+- [[KR6i0526]] 245 佛說演道俗業經 Fó shuō yǎndào súyè jīng *The Buddha Speaks -- The Sūtra Explaining the Path and the Lay Profession*
+- [[KR6j0204]] 245 佛說無量門微密持經 Fóshuō wúliàngmén wéimì chí jīng *Sūtra on the Subtle-Secret Retention through the Boundless Gate (Anantamukha-sādhaka-dhāraṇī)*
+- [[KR6j0581]] 245 佛說持句神呪經 Fó shuō chíjù shénzhòu jīng *Sūtra of the Divine Spell of Sustaining-Verses*
+- [[KR6j0586]] 245 佛說華積陀羅尼神呪經 Fó shuō huájī tuóluóní shénzhòu jīng *Sūtra of the Divine Spell of the Flower-Heap Dhāraṇī*
+- [[KR6k0066]] 245 佛說戒消災經 Fó shuō jiè xiāozāi jīng *The Sūtra on the Precepts as Disaster-Averting*
+- [[KR6c0011]] 247 大明度經 Dàmíngdù jīng *Aṣṭasāhasrikā Prajñāpāramitā (Wú-period Translation)*
+- [[KR6i0137]] 247 佛說未生冤經 Fóshuō Wèishēngyuàn jīng *Sūtra of [the King] Yet-To-Be-Born-Foe (Ajātaśatru)*
+- [[KR6i0162]] 247 私呵昧經 Sīhēmèi jīng *Sūtra of Sīhēmèi*
+- [[KR6i0214]] 247 佛說孫多耶致經 Fóshuō Sūnduōyézhì jīng *Sūtra of [the Brahmin] Sundarī(ka)bhāradvāja*
+- [[KR6j0531]] 247 摩登伽經 Módēngjiā jīng *Sūtra of the Mātaṅga (Mātaṅga-sūtra / Śārdūlakarṇāvadāna)*
+- [[KR6a0131]] 250 佛說三摩竭經 Fó shuō Sānmójié jīng *Sūtra of Sumāgadha*
+- [[KR6a0149]] 250 佛母般泥洹經 Fómǔ bānníhuán jīng *Sūtra of the Parinirvāṇa of the Buddha's Mother*
+- [[KR6g0037]] 250 佛滅度後棺斂葬送經 Fó miè dù hòu guān liǎn zàng sòng jīng *The Sūtra on the Coffin, Cremation, and Funeral After the Buddha's Parinirvāṇa*
+- [[KR6i0497]] 250 佛說佛醫經 Fó shuō Fóyī jīng *The Buddha Speaks -- The Sūtra on the Buddha as Physician*
+- [[KR6f0060]] 252 佛說無量壽經 Fó shuō wú liàng shòu jīng *The Sūtra Spoken by the Buddha on Amitāyus (the Larger Sukhāvatī-vyūha)*
+- [[KR6k0013]] 252 曇無德律部雜羯磨 Tánwúdé lǜbù zájiémó *Miscellaneous Karmavācanā of the Dharmaguptaka Vinaya Section*
+- [[KR6k0014]] 254 羯磨 Jiémó *Karmavācanā*
+- [[KR6i0438]] 255 佛說除恐災患經 Fó shuō chúkǒng zāihuàn jīng *The Buddha's Sūtra on Removing Fear, Calamity, and Misfortune*
+- [[KR6d0108]] 256 佛說法華三昧經 Fóshuō Fǎhuá sānmèi jīng *Sūtra of the Lotus Sūtra Samādhi (Taught by the Buddha)*
+- [[KR6i0018]] 265 十方千五百佛名經 Shífāng qiān wǔbǎi fómíng jīng *Sūtra of the Names of 1,500 Buddhas of the Ten Directions*
+- [[KR6i0523]] 266 佛說大淨法門經 Fó shuō dà jìng fǎmén jīng *The Buddha Speaks -- The Sūtra of the Great Pure Dharma-Gate*
+- [[KR6i0525]] 266 佛說法常住經 Fó shuō fǎ chángzhù jīng *The Buddha Speaks -- The Sūtra of the Permanence of the Dharma*
+- [[KR6a0005]] 272 佛般泥洹經 Fó bānníhuán jīng *Sūtra of the Buddha's Parinirvāṇa*
+- [[KR6a0033]] 272 恒水經 Héngshuǐ jīng *Sūtra of the Ganges*
+- [[KR6a0067]] 272 弊魔試目連經 Bìmó shì Mùlián jīng *Sūtra of the Vile Māra Testing Mahāmaudgalyāyana*
+- [[KR6e0036]] 272 等目菩薩所問三昧經 Děngmù pútísà suǒ wèn sānmèi jīng *The Sūtra on the Samādhi Concerning Which Bodhisattva Equal-Eye Inquired (alternative title 普賢菩薩定意 *Pǔxián pútísà dìngyì*, "Samantabhadra's Concentrated Will")*
+- [[KR6i0075]] 272 佛說維摩詰經 Fóshuō Wéimójié jīng *Sūtra Spoken by the Buddha on Vimalakīrti*
+- [[KR6i0163]] 272 菩薩生地經 Púsà shēngdì jīng *Sūtra of the Bodhisattva's Place of Birth*
+- [[KR6i0189]] 272 佛說龍施女經 Fóshuō Lóngshī nǚ jīng *Sūtra of the Nāga-Donor Maiden*
+- [[KR6i0190]] 272 佛說龍施菩薩本起經 Fóshuō Lóngshī púsà běnqǐ jīng *Sūtra on the Original Arising of the Bodhisattva Nāga-Donor*
+- [[KR6i0464]] 272 佛說三品弟子經 Fó shuō sānpǐn dìzǐ jīng *The Buddha Speaks -- The Sūtra of Disciples of Three Grades*
+- [[KR6i0466]] 272 佛說四輩經 Fó shuō sìbèi jīng *The Buddha Speaks -- The Sūtra of the Four Assemblies*
+- [[KR6b0063]] 275 舊雜譬喻經 Jiù zá pìyù jīng *Old Sūtra of Miscellaneous Parables*
+- [[KR6f0022]] 277 佛說菩薩修行經 Fó shuō pútísà xiū xíng jīng *The Sūtra Spoken by the Buddha on the Bodhisattva's Cultivation*
+- [[KR6i0268]] 280 佛說法律三昧經 Fóshuō fǎlǜ sānmèi jīng *Sūtra on the Samādhi of Dharma and Discipline as Spoken by the Buddha*
+- [[KR6j0492]] 280 佛說鬼子母經 Fó shuō Guǐzǐmǔ jīng *Sūtra of the Demon-Children Mother, Spoken by the Buddha*
+- [[KR6k0063]] 280 沙彌尼戒經 Shāmínī jièjīng *The Sūtra of the Novice-Nun Precepts*
+- [[KR6k0064]] 280 沙彌尼離戒文 Shāmínī líjiè wén *The Text of the Liberation Precepts for Novice Nuns*
+- [[KR6k0072]] 280 佛說目連問戒律中五百輕重事 Fó shuō Mùlián wèn jièlǜ zhōng wǔbǎi qīngzhòng shì *The Sūtra of Maudgalyāyana's Five-Hundred Inquiries on the Light and Heavy Matters of the Vinaya (recension a)*
+- [[KR6k0073]] 280 佛說目連問戒律中五百輕重事經 Fó shuō Mùlián wèn jièlǜ zhōng wǔbǎi qīngzhòng shì jīng *The Sūtra of Maudgalyāyana's Five-Hundred Inquiries (recension b)*
+- [[KR6k0108]] 280 受十善戒經 Shòu shíshànjiè jīng *The Sūtra on Receiving the Ten Wholesome Precepts*
+- [[KR6s0074]] 280 老子化胡經 Lǎozǐ huàhú jīng *The Sūtra of Lǎo-zǐ Converting the Barbarians*
+- [[KR6i0221]] 283 佛說須真天子經 Fóshuō Xūzhēn tiānzǐ jīng *Sūtra of the Questions of the Devaputra Suvikrāntacinta (Xūzhēn)*
+- [[KR6g0024]] 284 佛說方等般泥洹經 Fó shuō fāng děng bān ní huán jīng *The Vaipulya Sūtra of the Buddha's Parinirvāṇa*
+- [[KR6b0022]] 285 德光太子經 Déguāng tàizǐ jīng *Sūtra of Prince Glorious-Virtue*
+- [[KR6i0060]] 285 佛說文殊悔過經 Fóshuō Wénshū huǐguò jīng *Sūtra Spoken by the Buddha on Mañjuśrī's Repentance*
+- [[KR6i0062]] 285 佛說文殊師利現寶藏經 Fóshuō Wénshūshīlì xiàn bǎozàng jīng *Sūtra Spoken by the Buddha on Mañjuśrī Manifesting the Treasure-Store*
+- [[KR6i0110]] 285 持人菩薩經 Chírén púsà jīng *Sūtra of the Bodhisattva Person-Holder*
+- [[KR6f0001]] 288 大寶積經 Dà bǎo jī jīng *The Great Heap-of-Jewels Sūtra (Mahā-ratnakūṭa-sūtra)*
+- [[KR6f0006]] 289 佛說普門品經 (a) Fó shuō pǔ mén pǐn jīng (recension a) *The Sūtra of the Universal Gate Chapter (recension a)*
+- [[KR6f0007]] 289 佛說普門品經 (b) Fó shuō pǔ mén pǐn jīng (recension b) *The Sūtra of the Universal Gate Chapter (recension b)*
+- [[KR6i0498]] 289 佛說時非時經 Fó shuō shí fēishí jīng *The Buddha Speaks -- The Sūtra of Proper and Improper Times*
+- [[KR6i0499]] 289 佛說時非時經 Fó shuō shí fēishí jīng *The Buddha Speaks -- The Sūtra of Proper and Improper Times (recension b)*
+- [[KR6b0013]] 290 長壽王經 Chángshòuwáng jīng *Sūtra of King Long-Life (Dīrghāyu-rāja)*
+- [[KR6i0266]] 290 佛說放鉢經 Fóshuō fàngbō jīng *Sūtra on Letting Go of the Begging-Bowl as Spoken by the Buddha*
+- [[KR6i0377]] 290 佛說孝子經 Fó shuō xiàozǐ jīng *The Buddha's Sūtra on the Filial Son*
+- [[KR6a0096]] 291 治意經 Zhìyì jīng *Sūtra on the Disciplining of the Mind*
+- [[KR6a0145]] 291 佛說玉耶女經 Fó shuō Yùyēnǚ jīng *Sūtra of the Lay-Sister Sujātā*
+- [[KR6a0146]] 291 玉耶女經 Yùyēnǚ jīng *Sūtra of Sujātā*
+- [[KR6a0151]] 291 佛說舍衛國王十夢經 Fó shuō Shèwèiguówáng shímèng jīng *Sūtra of the Ten Dreams of the King of Śrāvasti*
+- [[KR6c0002]] 291 放光般若經 Fàngguāng bōrě jīng *Pañcaviṃśatisāhasrikā Prajñāpāramitā (Light-Emitting Perfection-of-Wisdom Sūtra)*
+- [[KR6d0105]] 292 佛說阿惟越致遮經 Fóshuō Āwéiyuèzhì zhē jīng *Sūtra of the Avaivartika [Non-Backsliding Bodhisattva] (Taught by the Buddha)*
+- [[KR6f0037]] 292 慧上菩薩問大善權經 Huì shàng pútísà wèn dà shàn quán jīng *The Sūtra on the Bodhisattva Wisdom-Above's Inquiry concerning the Great Skillful Means*
+- [[KR6i0232]] 292 佛說海龍王經 Fóshuō Hǎilóngwáng jīng *Sūtra of the Sea-Nāga King (Sāgara-nāgarāja-paripṛcchā)*
+- [[KR6i0243]] 292 修行道地經 Xiūxíng dàodì jīng *Sūtra on the Stages of the Path of Practice (Yogācārabhūmi of Saṅgharakṣa)*
+- [[KR6c0003]] 293 光讚經 Guāngzàn jīng *Pañcaviṃśatisāhasrikā Prajñāpāramitā (Light-Praise Perfection-of-Wisdom Sūtra)*
+- [[KR6d0002]] 293 正法華經 Zhèng fǎhuá jīng *Sūtra of the True Dharma-Lotus (Saddharmapuṇḍarīka-sūtra)*
+- [[KR6h0003]] 293 寶女所問經 Bǎonǚ suǒ wèn jīng *The Sūtra on the Questions of the Jewel Maiden (±Mahāyānopadeśa / Ratnadārikā-paripṛcchā)*
+- [[KR6i0217]] 293 持心梵天所問經 Chíxīn Fàntiān suǒwèn jīng *Sūtra of the Questions of Brahmā Dhāraṇī-mati*
+- [[KR6i0264]] 293 文殊支利普超三昧經 Wénshūzhīlì pǔchāo sānmèi jīng *Sūtra on the Universal-Transcending Samādhi of Mañjuśrī*
+- [[KR6r0031]] 293 阿育王傳 Āyùwáng zhuàn *Biography of King Aśoka*
+- [[KR6f0030]] 294 佛說離垢施女經 Fó shuō lí gòu shī nǚ jīng *The Sūtra Spoken by the Buddha on the Maiden Vimaladattā*
+- [[KR6i0061]] 294 佛說文殊師利淨律經 Fóshuō Wénshūshīlì jìnglǜ jīng *Sūtra Spoken by the Buddha on Mañjuśrī's Pure Vinaya*
+- [[KR6i0222]] 294 佛說魔逆經 Fóshuō Mónì jīng *Sūtra of the Subjugation of Māra (Mañjuśrī-vikrīḍita)*
+- [[KR6e0040]] 295 度世品經 Dù shì pǐn jīng *The Sūtra on the Chapter on Crossing Over the World*
+- [[KR6h0002]] 295 大哀經 Dà āi jīng *The Sūtra of Great Compassion (±Tathāgatamahākaruṇānirdeśa)*
+- [[KR6e0039]] 296 佛說如來興顯經 Fó shuō rúlái xīng xiǎn jīng *The Sūtra Spoken by the Buddha on the Tathāgata's Arising and Manifestation*
+- [[KR6b0037]] 298 鹿母經 Lùmǔ jīng *Sūtra of the Mother-Deer*
+- [[KR6b0038]] 298 佛說鹿母經 Fóshuō Lùmǔ jīng *Sūtra of the Mother-Deer (alternative recension)*
+- [[KR6e0033]] 298 漸備一切智德經 Jiàn bèi yīqiè zhì dé jīng *The Sūtra on the Gradual Provision of All Wisdom-Virtues* (alternative titles -- 十住 *Shízhù*; 大慧光三昧 *Dà huì guāng sānmèi*) — i.e. the *Daśabhūmika-sūtra*
+- [[KR6i0516]] 298 諸佛要集經 Zhūfó yàojí jīng *The Sūtra of the Essential Compilation of [the Teaching of] All Buddhas*
+- [[KR6a0023]] 299 大樓炭經 Dà lóutàn jīng *Sūtra of the Great Tower-Charcoal*
+- [[KR6a0034]] 299 法海經 Fǎhǎi jīng *Sūtra of the Sea of Dharma*
+- [[KR6a0111]] 299 佛說相應相可經 Fó shuō xiāngyīng xiāngkě jīng *Sūtra on Mutual Correspondence and Mutual Compatibility*
+- [[KR6a0113]] 299 佛說難提釋經 Fó shuō Nántíshì jīng *Sūtra of the Śākyan Nandiya*
+- [[KR6b0032]] 299 前世三轉經 Qiánshì sānzhuǎn jīng *Sūtra on the Three Past-Life Transformations*
+- [[KR6b0068]] 299 法句譬喻經 Fǎjù pìyù jīng *Dharmapada-avadāna (Dharma-Verses with Parables)*
+- [[KR6f0024]] 299 佛說優填王經 Fó shuō yōu tián wáng jīng *The Sūtra Spoken by the Buddha on King Udayana*
+- [[KR6i0130]] 299 羅云忍辱經 Luóyún rěnrǔ jīng *Sūtra of Rāhula's Patience*
+- [[KR6i0131]] 299 佛說沙曷比丘功德經 Fóshuō Shāhé bǐqiū gōngdé jīng *Sūtra of the Merits of the Monk Shāhé*
+- [[KR6i0132]] 299 佛為年少比丘說正事經 Fó wèi niánshào bǐqiū shuō zhèngshì jīng *Sūtra of the Buddha Teaching Correct Matters to Young Monks*
+- [[KR6i0133]] 299 比丘避女惡名欲自殺經 Bǐqiū bì nǚ èmíng yù zìshā jīng *Sūtra of the Monk Avoiding a Woman's Slander and Wishing to Take His Own Life*
+- [[KR6i0139]] 299 阿闍世王授決經 Āshéshì wáng shòujué jīng *Sūtra of King Ajātaśatru Receiving the Buddhahood Prediction*
+- [[KR6i0142]] 299 佛說淨飯王般涅槃經 Fóshuō Jìngfàn wáng bān nièpán jīng *Sūtra of King Śuddhodana's Parinirvāṇa*
+- [[KR6i0362]] 299 佛說諸德福田經 Fó shuō zhūdé fútián jīng *The Buddha's Sūtra on the Various Fields of Merit and Virtue*
+- [[KR6i0382]] 299 佛說作佛形像經 Fó shuō zuò fó xíngxiàng jīng *The Buddha's Sūtra on Making Buddha-Images*
+- [[KR6i0385]] 299 佛說灌洗佛形像經 Fó shuō guànxǐ fóxíngxiàng jīng *The Buddha's Sūtra on the Bathing of the Buddha-Image*
+- [[KR6i0386]] 299 佛說摩訶剎頭經 Fó shuō móhēshàtóu jīng *The Buddha's Sūtra of the Mahāmūrdhan (alternate title: 灌佛形像經 Sūtra on the Bathing of the Buddha-Image)*
+- [[KR6i0433]] 299 佛說慢法經 Fó shuō mànfǎ jīng *The Buddha's Sūtra on Despising the Dharma*
+
+## 300 to 399 (431)
+
+### KR1 (31)
+
+- [[KR1j0093]] 300 爾雅圖讚 Ěryǎ tú zàn *Encomia for the Illustrated Ěryǎ*
+- [[KR1d0119]] 313 葛氏喪服變除 Gě-shì sāngfú biànchú *Master Gě's [Chart of] Mourning-Dress Reduction-and-Removal*
+- [[KR1j0104]] 313 要用字苑 Yào yòng zì yuàn *Essential Use Garden of Graphs*
+- [[KR1j0111]] 315 韻集 Yùn jí *A Rhyme Collection*
+- [[KR1c0067]] 317 易洞林 Yì dòng lín *Forest of Insights into the Changes*
+- [[KR1d0100]] 317 雜祭法 Zájìfǎ *Miscellaneous Sacrificial Procedures*
+- [[KR1d0110]] 317 周禮李氏音 Zhōulǐ Lǐ-shì yīn *Master Lǐ's Phonological Commentary on the Zhōulǐ*
+- [[KR1d0112]] 317 周禮劉氏音 Zhōulǐ Liú-shì yīn *Master Liú's Phonological Commentary on the Zhōulǐ*
+- [[KR1d0129]] 317 禮記劉氏音 Lǐjì Liú-shì yīn *Master Liú's Phonological Commentary on the Lǐjì*
+- [[KR1d0106]] 318 逆降義 Nìjiàng yì *Inverse-Downgrading Doctrine*
+- [[KR1d0120]] 318 蔡氏喪服譜 Cài-shì sāngfú pǔ *Master Cài's Genealogical Chart of Mourning Dress*
+- [[KR1d0093]] 326 後養議 Hòuyǎng yì *Discussion of the After-Care [of Two Mothers]*
+- [[KR1d0094]] 336 通疑 Tōngyí *Penetrating the Doubts [of Ritual]*
+- [[KR1d0095]] 336 廣林 Guǎnglín *Broadening the [Sānglǐ-fú] Corpus*
+- [[KR1d0096]] 336 釋滯 Shìzhì *Resolving Stuck-Points [in Mourning Ritual]*
+- [[KR1e0010]] 339 春秋穀梁注疏 Chūnqiū Gǔliáng zhùshū *The Spring and Autumn Annals with the Gǔliáng Tradition -- Commentary and Sub-commentary*
+- [[KR1d0098]] 344 祭典 Jìdiǎn *Canon of Sacrifices*
+- [[KR1d0102]] 357 禮論答問 Lǐlùn dáwèn *Question-and-Answer on Discussions of Ritual*
+- [[KR1d0109]] 368 周禮徐氏音 Zhōulǐ Xú-shì yīn *Master Xú's Phonological Commentary on the Zhōulǐ*
+- [[KR1d0128]] 368 禮記徐氏音 Lǐjì Xú-shì yīn *Master Xú's Phonological Commentary on the Lǐjì*
+- [[KR1d0099]] 370 禮雜問 Lǐ záwèn *Miscellaneous Questions on Ritual*
+- [[KR1d0127]] 370 禮記范氏音 Lǐjì Fàn-shì yīn *Master Fàn's Phonological Commentary on the Lǐjì*
+- [[KR1e0009]] 370 春秋穀梁傳 Chūnqiū Gǔliáng zhuàn *The Spring and Autumn Annals with the Gǔliáng Tradition -- Collected Explanations*
+- [[KR1e0124]] 370 春秋徐氏音 Chūnqiū Xú-shì yīn *Master Xú's Phonological Commentary on the Spring and Autumn Annals*
+- [[KR1g0037]] 378 五經大義 Wǔjīng dàyì *Great Meaning of the Five Classics*
+- [[KR1c0069]] 383 毛詩徐氏音 Máo Shī Xú-shì yīn *Master Xu's Phonological Glosses on the Mao Recension of the Poetry*
+- [[KR1b0061]] 384 古文尚書音 Gǔwén Shàngshū yīn *Phonological Glosses on the Old-Text Shàngshū*
+- [[KR1d0111]] 386 周禮聶氏音 Zhōulǐ Niè-shì yīn *Master Niè's Phonological Commentary on the Zhōulǐ*
+- [[KR1j0108]] 386 字略 Zì lüè *Compact Glossary of Graphs*
+- [[KR1j0109]] 386 字統 Zì tǒng *A Comprehensive Treatment of Graphs*
+- [[KR1j0116]] 386 小學篇 Xiǎoxué piān *The Primer of Lesser Learning*
+
+### KR2 (19)
+
+- [[KR2p0129]] 300 散見簡牘合輯‧湖北鄂城泥廠一號墓木刺 Sǎn Jiàn Jiǎndú Héjí‧Húběi Échéng Nícháng Yī Hào Mù Mùcì *Collected Scattered Documents — Wooden Name-Cards from Tomb no. 1 at Nichang, Echeng, Hubei*
+- [[KR2k0104]] 304 南方草木狀 Nánfāng cǎomù zhuàng *A Description of the Plants and Trees of the South*
+- [[KR2k0170]] 304 會稽土地記 Kuàijī tǔdì jì *Land Records of Kuaiji*
+- [[KR2i0004]] 317 鄴中記 Yèzhōng Jì *Records of Yè*
+- [[KR2k0162]] 317 三齊略記 Sān Qí lüèjì *Brief Records of the Three Qi*
+- [[KR2k0172]] 317 豫辛記 Yùxīn jì *Records of Yuxin*
+- [[KR2k0174]] 317 潯陽記 Xúnyáng jì *Records of Xunyang*
+- [[KR2k0184]] 317 廣州記 Guǎngzhōu jì *Records of Guangzhou*
+- [[KR2k0188]] 317 北征記 Běi zhēng jì *Record of the Northern Campaign*
+- [[KR2p0130]] 317 散見簡牘合輯‧江西南昌東湖區永外正街一號晉墓木刺、木牘 Sǎn Jiàn Jiǎndú Héjí‧Jiāngxī Nánchāng Dōnghúqū Yǒngwài Zhèngjiē Yī Hào Jìn Mù Mùcì、Mùdú *Collected Scattered Documents — Wooden Name-Cards and Wooden Tablet from Jin Tomb no. 1 at Yongwai Zhengjie, Donghu District, Nanchang, Jiangxi*
+- [[KR2p0131]] 317 散見簡牘合輯‧江西南昌東[殘]高[殘]墓木刺、木牘 Sǎn Jiàn Jiǎndú Héjí‧Jiāngxī Nánchāng Dōng [cán] Gāo [cán] Mù Mùcì、Mùdú *Collected Scattered Documents — Wooden Name-Cards and Wooden Tablet from a Jin Tomb at [Damaged Toponym], Nanchang, Jiangxi (Tomb of Gao Rong)*
+- [[KR2k0177]] 344 湘中記 Xiāngzhōng jì *Records of the Xiang Region*
+- [[KR2k0191]] 350 沙州記 Shāzhōu jì *Records of Shazhou*
+- [[KR2i0003]] 351 華陽國志 Huáyáng Guózhì *Treatise on the States South of Huá-shān*
+- [[KR2b0004]] 366 後漢紀 Hòu Hàn jì *Annals of the Later Hàn*
+- [[KR2k0159]] 386 大魏諸州記 Dà Wèi zhū zhōu jì *Records of the Provinces of the Great Wei*
+- [[KR2k0176]] 390 宜都記 Yídū jì *Records of Yidu*
+- [[KR2k0197]] 390 宜都山川記 Yídū shānchuān jì *Record of the Mountains and Rivers of Yidu*
+- [[KR2k0196]] 393 交州記 Jiāozhōu jì *Records of Jiaozhou*
+
+### KR3 (32)
+
+- [[KR3l0094]] 300 海內十洲記 Hǎinèi shízhōu jì *Record of the Ten Continents Within the Seas*
+- [[KR3l0096]] 300 漢武帝內傳 Hàn Wǔdì nèizhuàn *Inner Biography of Emperor Wǔ of the Hàn*
+- [[KR3l0097]] 300 洞冥記 Dòngmíng jì *Record of Penetrating the Mysterious*
+- [[KR3l0138]] 300 太古蠶馬記 Tàigǔ cánmǎ jì *Record of the Silkworm-and-Horse from Highest Antiquity*
+- [[KR3l0143]] 300 王浮神異記 Wáng Fú shényì jì *Records of Divine Marvels by Wáng Fú*
+- [[KR3l0148]] 300 夏侯鬼語記 Xiàhóu guǐyǔ jì *Record of Xiàhóu's Conversations with Ghosts*
+- [[KR3l0152]] 300 古異傳 Gǔyì zhuàn *Records of Ancient Anomalies*
+- [[KR3l0161]] 300 鬼神列傳 Guǐshén lièzhuàn *Biographies of Ghosts and Spirits (by a Mr. Xiè)*
+- [[KR3a0136]] 301 杜氏幽求新書 Dù Shǐ yōuqiú xīnshū *Master Dù's New Book of Searching the Recondite*
+- [[KR3e0010]] 311 肘後備急方 Zhǒuhòu bèijí fāng *Prescriptions for Emergencies, To Keep Beneath the Elbow*
+- [[KR3a0138]] 317 蘇子 Sūzǐ *Master Sū*
+- [[KR3a0155]] 317 析言論 Xīyán lùn *Discourse on Distinguishing Words*
+- [[KR3j0199]] 317 廣志 Guǎng zhì *Extended Treatise (on Foreign Places and Products)*
+- [[KR3h0093]] 320 筆陣圖 Bǐzhèn tú *Diagram of the Battle Formation of the Brush*
+- [[KR3h0094]] 320 筆經 Bǐjīng *Classic of the Brush*
+- [[KR3l0165]] 320 靈鬼志 Língguǐ zhì *Records of Numinous Ghosts (by Mr. Xún)*
+- [[KR3a0127]] 325 梅子新論 Méizǐ xīnlùn *The New Discourses of Master Méi*
+- [[KR3a0154]] 326 干子 Gānzǐ *Master Gān*
+- [[KR3l0099]] 326 搜神記 Sōushén jì *In Search of the Supernatural*
+- [[KR3a0133]] 328 厲學 Lì xué *On Diligent Study*
+- [[KR3a0156]] 328 文釋 Wén shì *An Explication of Letters*
+- [[KR3ed002]] 331 肘後備急方 Zhǒuhòu Bèijí Fāng *Emergency Prescriptions to Keep up One's Sleeve*
+- [[KR3f0063]] 338 安天論 Āntiān lùn *Treatise on the Tranquil Heaven*
+- [[KR3l0156]] 338 志林新書 Zhìlín xīnshū *New Records of the Forest (of Notes)*
+- [[KR3l0150]] 340 殖氏志怪記 Zhíshì zhìguài jì *Master Zhí's Records of Anomalies*
+- [[KR3a0128]] 348 顧子義訓 Gùzǐ yìxùn *The Instructions on Righteous Conduct by Master Gù*
+- [[KR3l0144]] 360 曹毗志怪 Cáo Pí zhìguài *Records of Anomalies, by Cáo Pí*
+- [[KR3l0135]] 361 裴子語林 Péizǐ yǔlín *Master Péi's Forest of Sayings*
+- [[KR3l0149]] 370 孔氏志怪 Kǒngshì zhìguài *Master Kǒng's Records of Anomalies*
+- [[KR3l0098]] 375 拾遺記 Shíyí jì *Records of Gleaned Remnants*
+- [[KR3b0021]] 384 苻子 Fúzǐ *The Master Fú*
+- [[KR3l0163]] 390 志怪 Zhìguài *Records of Anomalies (by Zǔ Tái-zhī)*
+
+### KR4 (41)
+
+- [[KR4b0036]] 300 孫惠集 Sūn Huì jí *Collected Works of Sun Hui (Reconstructed)*
+- [[KR4k0365]] 300 晉諸公別傳 Jìn Zhūgōng Biézhuàn *Alternative Biographies of Jin Lords*
+- [[KR4k0349]] 304 永安起居注 Yǒng'ān Qǐjūzhù *Court Diary of the Yong'an Era*
+- [[KR4k0360]] 305 晉書 (朱鳳) Jìn Shū (Zhū Fèng) *History of the Jin (Zhu Feng)*
+- [[KR4b0080]] 306 劉琨集 Liú Kūn jí *Collected Works of Liu Kun (Reconstructed)*
+- [[KR4k0368]] 310 晉八王故事 Jìn Bā Wáng Gùshì *Stories of the Eight Princes of Jin*
+- [[KR4k0369]] 310 晉四王遺事 Jìn Sì Wáng Yíshì *Remaining Affairs of Four Princes of Jin*
+- [[KR4k0391]] 310 晉諸公讚 Jìn Zhūgōng Zàn *Encomia on Jin Lords*
+- [[KR4k0416]] 310 晉公卿禮秩 Jìn Gōngqīng Lǐzhì *Ritual Ranks of Jin Dukes and Ministers*
+- [[KR4b0101]] 314 郭璞集 Guō Pú jí *Collected Works of Guo Pu (Reconstructed)*
+- [[KR4k0335]] 317 晉春秋 Jìn Chūnqiū *Spring and Autumn Annals of Jin*
+- [[KR4k0340]] 317 劉謙之晉紀 Liú Qiānzhī Jìnjì *Liú Qiānzhī's Record of the Jin*
+- [[KR4k0350]] 317 建武起居注 Jiànwǔ Qǐjūzhù *Court Diary of the Jianwu Era*
+- [[KR4k0367]] 320 晉後略 Jìn Hòulüè *Summary of the Later Jin*
+- [[KR4k0374]] 324 漢趙記 Hàn Zhào Jì *Record of Han-Zhao*
+- [[KR4k0334]] 326 干寶晉紀 Gān Bǎo Jìnjì *Gān Bǎo's Record of the Jin*
+- [[KR4k0351]] 330 咸和起居注 Xiánhé Qǐjūzhù *Court Diary of the Xianhe Era*
+- [[KR4k0357]] 330 晉書 (王隱) Jìn Shū (Wáng Yǐn) *History of the Jin (Wang Yin)*
+- [[KR4k0358]] 330 晉地道記 Jìn Dìdào Jì *Geographical Record of the Jin*
+- [[KR4k0377]] 335 趙書 Zhào Shū *Book of Zhao*
+- [[KR4k0378]] 335 趙書 (吳篤) Zhào Shū (Wú Dǔ) *Book of Zhao (Wu Du)*
+- [[KR4k0332]] 337 魏春秋 Wèi Chūnqiū *Spring and Autumn Annals of Wei*
+- [[KR4k0336]] 337 晉陽秋 Jìn Yángqiū *Jin Yangqiu (variant compilation)*
+- [[KR4k0337]] 337 孫盛晉陽秋 Sūn Shèng Jìn Yángqiū *Sūn Shèng's Jin Yangqiu*
+- [[KR4k0356]] 344 春秋後語 Chūnqiū Hòuyǔ *Discourses Following the Spring and Autumn*
+- [[KR4k0359]] 345 晉書 (虞預) Jìn Shū (Yǔ Yù) *History of the Jin (Yu Yu)*
+- [[KR4k0376]] 345 涼記 Liáng Jì *Record of Liang*
+- [[KR4b0037]] 350 支遁集 Zhī Dùn jí *Collected Works of Zhi Dun (Reconstructed)*
+- [[KR4k0352]] 350 永和起居注 Yǒnghé Qǐjūzhù *Court Diary of the Yonghe Era*
+- [[KR4k0373]] 350 蜀李書 Shǔ Lǐ Shū *Book of Shu and Li*
+- [[KR4k0411]] 350 梓潼士女志 Zǐtóng Shìnǚ Zhì *Record of Gentlemen and Women of Zitong*
+- [[KR4k0338]] 357 鄧粲晉紀 Dèng Càn Jìnjì *Dèng Càn's Record of the Jin*
+- [[KR4b0038]] 360 孫綽集 Sūn Chuò jí *Collected Works of Sun Chuo (Reconstructed)*
+- [[KR4k0379]] 360 二石傳 Èr Shí Zhuàn *Biography of the Two Shis*
+- [[KR4b0109]] 362 王羲之集 Wáng Xīzhī jí *Collected Works of Wang Xizhi (Reconstructed)*
+- [[KR4k0346]] 371 漢晉春秋 Hàn Jìn Chūnqiū *Annals of Han and Jin*
+- [[KR4k0384]] 372 秦書 Qín Shū *Book of Qin*
+- [[KR4b0039]] 374 王獻之集 Wáng Xiànzhī jí *Collected Works of Wang Xianzhi (Reconstructed)*
+- [[KR4b0079]] 386 車胤集 Chē Yìn jí *Collected Works of Che Yin (Reconstructed)*
+- [[KR4k0375]] 395 燕書 Yàn Shū *Book of Yan*
+- [[KR4k0419]] 395 晉紀 (鄧粲) Jìn Jì (Dèng Càn) *Annals of the Jin (Deng Can)*
+
+### KR5 (138)
+
+- [[KR5b0235]] 300 太極真人敷靈寶齋戒威儀諸經要訣 Tàijí zhēnrén fū língbǎo zhāijiè wēiyí zhūjīng yàojué *The Tàijí Perfected's Exposition of the Essential Instructions of the Various Scriptures on Língbǎo Fasts, Precepts, and Liturgical Standards*
+- [[KR5c0161]] 300 上清金闕帝君五斗三一圖訣 Shàng qīng jīn què dì jūn wǔ dǒu sān yī tú jué *Shàng qīng Diagrams and Instructions on the Five Dippers and Three Ones of the Golden Portal Imperial Lord*
+- [[KR5c0233]] 300 神仙食氣金櫃妙錄 Shén xiān shí qì jīn guì miào lù *Marvelous Golden-Cabinet Records of the Divine Immortals' Consumption of Pneuma*
+- [[KR5c0252]] 300 太清金闕玉華仙書八極神章三皇內祕文 Tài qīng jīn què yù huá xiān shū bā jí shén zhāng sān huáng nèi mì wén *Inner-Secret Writings of the Three Sovereigns, Divine-Stanzas of the Eight Extremes, from the Immortal-Book of the Jade-Florescence of the Golden-Portal in the Great Clarity*
+- [[KR5h0045]] 300 搜神記 Sōu shén jì *In Search of Spirits*
+- [[KR5c0138]] 301 莊子注 Zhuāngzǐ zhù **
+- [[KR5a0329]] 313 麻姑傳 Mágū zhuàn *Account of the Immortal Mágū*
+- [[KR5a0033]] 317 上清黃氣陽精三道順行經 Shàngqīng huángqì yángjīng sāndào shùnxíng jīng *Shàngqīng Scripture on Following the Three Ways and [Absorbing] the Yellow Pneuma and Yang Essence*
+- [[KR5a0049]] 317 洞真太極北帝紫微神咒妙經 Dòngzhēn tàijí Běidì zǐwēi shénzhòu miàojīng *Marvellous Book of the Spells of the God of the Pole Star, Emperor of the North of the Supreme Ultimate, a Dòngzhēn Canon*
+- [[KR5a0084]] 317 上清瓊宮靈飛六甲左右上符 Shàngqīng qiónggōng língfēi liùjiǎ zuǒyòu shàngfú *Six-Jiǎ Talismans for Summoning the Língfēi [Maidens] of the Qiónggōng Palace*
+- [[KR5a0180]] 317 太微靈書紫文仙忌真記上經 Tàiwēi língshū zǐwén xiānjì zhēnjì shàngjīng *True Record of the Interdictions of the Immortals — Superior Scripture from the Tàiwēi Numinous-Book Purple-Writ*
+- [[KR5a0256]] 317 太微靈書紫文琅玕華丹神真上經 Tàiwēi língshū zǐwén lánggān huádān shénzhēn shàngjīng *Superior Scripture of the Divine Truth of the Lánggān Flower-Elixir, in Purple Writ from the Numinous Book of the Tàiwēi Heaven*
+- [[KR5a0330]] 317 杜蘭香別傳 Dù Lánxiāng biézhuàn *Alternative Account of the Immortal Du Lanxiang*
+- [[KR5b0015]] 317 太上黃庭內景玉經 Tàishàng huángtíng nèijǐng yùjīng *Jade Scripture of the Inner Landscape of the Yellow Court, of the Most High*
+- [[KR5b0072]] 317 太上靈寶五符序 Tàishàng língbǎo wǔfú xù *The Five Talismans, Powerful Treasure of the Most High*
+- [[KR5b0110]] 317 上清太上八素真經 Shàngqīng tàishàng bāsù zhēnjīng *True Scripture of the Eight Purities, of the Most High Upper Clarity*
+- [[KR5c0273]] 317 太上五星七元空常訣 Tài shàng wǔ xīng qī yuán kōng cháng jué *Most High Instructions on the Constant Voidness of the Five Planets and Seven Origins*
+- [[KR5c0277]] 317 上清金書玉字上經 Shàng qīng jīn shū yù zì shàng jīng *Superior Scripture of Gold-Writ and Jade-Graphs of Shàng qīng*
+- [[KR5c0278]] 317 太清金液神丹經 Tài qīng jīn yè shén dān jīng *Great-Clarity Scripture of the Divine Gold-Liquor Elixir*
+- [[KR5c0280]] 317 太清金液神氣經 Tài qīng jīn yè shén qì jīng *Great-Clarity Scripture of the Divine-Pneuma of Gold Liquor*
+- [[KR5c0281]] 317 太清經天師口訣 Tài qīng jīng Tiān shī kǒu jué *Oral Instructions of the Celestial Master on the Great-Clarity Scripture*
+- [[KR5c0283]] 317 黃帝九鼎神丹經訣 Huáng dì jiǔ dǐng shén dān jīng jué *Instructions on the Yellow Thearch's Nine-Tripod Divine-Elixir Scripture*
+- [[KR5c0287]] 317 太極真人九轉還丹經要訣 Tài jí zhēn rén jiǔ zhuǎn huán dān jīng yào jué *Essential Instructions of the Tài-jí Perfected on the Nine-Cycle Return-Elixir Scripture*
+- [[KR5c0306]] 317 上清九真中經內訣 Shàng qīng jiǔ zhēn zhōng jīng nèi jué *Inner Instructions on the Shàng qīng Nine-Perfected Central Scripture*
+- [[KR5c0316]] 317 抱朴子神仙金汋經 Bào pǔ zǐ shén xiān jīn zhuó jīng *Bào pǔ zǐ's Scripture of the Divine-Immortal Gold-Liquor*
+- [[KR5c0330]] 317 三十六水法 Sān shí liù shuǐ fǎ *The Thirty-Six Water-Methods*
+- [[KR5c0376]] 317 太上洞神五星讚 Tài shàng dòng shén wǔ xīng zàn *Most High Dòng-shén Hymns to the Five Planets*
+- [[KR5d0002]] 317 太上洞玄靈寶三一五氣真經 Tài shàng dòng xuán Líng bǎo sān yī wǔ qì zhēn jīng *Most High Dòng-xuán Líng-bǎo Perfect Scripture of the Three-One and Five Pneumas*
+- [[KR5d0005]] 317 上清無英真童合遊內變玉經 Shàng qīng Wú yīng zhēn tóng hé yóu nèi biàn yù jīng *Shàng-qīng Jade-Scripture on the Inner Transformations of the Wú-yīng Perfected and the Perfect-Lad Journeying Together*
+- [[KR5d0006]] 317 上清神寶洞房真諱上經 Shàng qīng shén bǎo dòng fáng zhēn huì shàng jīng *Shàng-qīng Superior Scripture of the Divine-Treasure Cavern-Chamber and Perfected Secret-Names*
+- [[KR5d0010]] 317 上清祕道九精回曜合神上真玉經 Shàng qīng mì dào jiǔ jīng huí yào hé shén shàng zhēn yù jīng *Shàng-qīng Secret-Way Jade-Scripture of the Superior Perfected on the Nine Essences Reverting in Radiance and Merging with the Divinities*
+- [[KR5d0011]] 317 上清太淵神龍瓊胎乘景上玄玉章 Shàng qīng tài yuān shén lóng qióng tāi chéng jǐng shàng xuán yù zhāng *Shàng-qīng Jade-Stanzas of the Most-High-Mystery on Mounting-Radiance of the Divine-Dragon Jasper-Embryo in the Great Abyss*
+- [[KR5d0064]] 317 靈棋本章正經 Líng qí běn zhāng zhèng jīng *Orthodox Scripture of Original Stanzas for Spirit-Chess Divination*
+- [[KR5e0003]] 317 太平經復文序 Tài píng jīng fù wén xù *Preface to the Reduplicated Texts of the Tài píng jīng*
+- [[KR5e0016]] 317 太上洞玄靈寶本行宿緣經 Tài shàng dòng xuán Líng bǎo běn xíng sù yuán jīng *Most High Dòng-xuán Líng-bǎo Scripture of Original Practice and Karmic Prior-Causes*
+- [[KR5e0017]] 317 太上洞玄靈寶本行因緣經 Tài shàng dòng xuán Líng bǎo běn xíng yīn yuán jīng *Most High Dòng-xuán Líng-bǎo Scripture of Original Practice and Conditioned Causation*
+- [[KR5e0019]] 317 太極左仙公說神符經 Tài jí zuǒ xiān gōng shuō shén fú jīng *Scripture of Divine Talismans as Expounded by the Great-Ultimate Left-Immortal-Duke*
+- [[KR5e0020]] 317 太上洞玄靈寶飛行三界通微內思妙經 Tài shàng dòng xuán Líng bǎo fēi xíng sān jiè tōng wēi nèi sī miào jīng *Most High Dòng-xuán Líng-bǎo Wondrous Scripture on Flying through the Three Realms with Penetrating-Subtle Inner Visualization*
+- [[KR5e0021]] 317 洞玄靈寶玄一真人說生死輪轉因緣經 Dòng xuán Líng bǎo xuán yī zhēn rén shuō shēng sǐ lún zhuǎn yīn yuán jīng *Dòng-xuán Líng-bǎo Scripture of the Mysterious-One Perfected on the Cause-Conditions of Birth-and-Death Transmigration*
+- [[KR5e0022]] 317 太上洞玄靈寶中和經 Tài shàng dòng xuán Líng bǎo zhōng hé jīng *Most High Dòng-xuán Líng-bǎo Scripture of Centered Harmony*
+- [[KR5e0024]] 317 太上靈寶昇玄內教經中和品述議疏 Tài shàng Líng bǎo shēng xuán nèi jiào jīng zhōng hé pǐn shù yì shū *Most High Líng-bǎo Scripture of Ascending-Mystery Inner Teaching -- Exegetical Sub-commentary on the Chapter of Centered Harmony*
+- [[KR5g0004]] 317 老君變化無極經 Lǎo jūn biàn huà wú jí jīng *Scripture of Lord Lǎo's Limitless Transformations*
+- [[KR5g0027]] 317 正一法文經章官品 Zhèng yī fǎ wén jīng zhāng guān pǐn *Zhèng-yī Dharma-Text on the Official Grades in Scripture-Memorials*
+- [[KR5g0052]] 317 正一法文太上外籙儀 Zhèng yī fǎ wén tài shàng wài lù yí *Zhèng-yī Dharma-Text Most-High Liturgy for Outer Registers*
+- [[KR5g0082]] 317 正一天師告趙昇口訣 Zhèng yī tiān shī gào Zhào Shēng kǒu jué *Oral Instructions of the Zhèng-yī Celestial Master Instructing Zhào Shēng*
+- [[KR5g0097]] 317 元辰章醮立成曆 Yuán chén zhāng jiào lì chéng lì *Established Calendar for Original-Hour Memorial Offerings*
+- [[KR5g0098]] 317 六十甲子本命元辰曆 Liù shí jiǎ zǐ běn mìng yuán chén lì *Calendar of the Sexagenary Original-Destiny Original-Hours*
+- [[KR5g0099]] 317 太上洞神洞淵神咒治病口章 Tài shàng dòng shén Dòng yuān shén zhòu zhì bìng kǒu zhāng *Most High Dòng-shén Cavern-Abyss Divine-Incantation Oral-Memorial for Healing Illness*
+- [[KR5g0103]] 317 上清黃書過度儀 Shàng qīng huáng shū guò dù yí *Shàng-qīng Yellow-Writing Transition-Crossing Liturgy*
+- [[KR5g0104]] 317 太上洞玄靈寶二部傳授儀 Tài shàng dòng xuán Líng bǎo èr bù chuán shòu yí *Most High Dòng-xuán Líng-bǎo Transmission-Liturgy for the Two Sections*
+- [[KR5g0106]] 317 洞玄靈寶五老攝召北酆鬼魔赤書玉訣 Dòng xuán Líng bǎo wǔ lǎo shè zhào Běi fēng guǐ mó chì shū yù jué *Dòng-xuán Líng-bǎo Five-Elders' Red-Writ Jade-Instructions for Summoning the Demon-Ghosts of Northern Fēng*
+- [[KR5g0115]] 317 葛仙翁肘後備急方 Gě xiān wēng zhǒu hòu bèi jí fāng *Immortal-Elder Gě's Elbow-Kept Emergency Prescriptions*
+- [[KR5g0123]] 317 洞真太上素靈洞元大有妙經 Dòng zhēn tài shàng sù líng dòng yuán dà yǒu miào jīng *Dòng-zhēn Most High Plain-Numen Cavern-Origin Great-Having Wondrous Scripture*
+- [[KR5g0124]] 317 洞真上清青要紫書金根眾經 Dòng zhēn Shàng qīng qīng yào zǐ shū jīn gēn zhòng jīng *Dòng-zhēn Shàng-qīng Green-Essence Purple-Writ Gold-Root Multi-Scripture*
+- [[KR5g0125]] 317 洞真上清太微帝君步天綱飛地紀金簡玉字上經 Dòng zhēn Shàng qīng Tài wēi dì jūn bù tiān gāng fēi dì jì jīn jiǎn yù zì shàng jīng *Shàng-qīng Superior Scripture of the Tài-wēi Thearch-Lord's Heaven-Pacing and Earth-Flying Gold-Seal Jade-Graphs*
+- [[KR5g0126]] 317 洞真上清開天三圖七星移度經 Dòng zhēn Shàng qīng kāi tiān sān tú qī xīng yí dù jīng *Shàng-qīng Scripture of Heaven-Opening Three Diagrams on the Shifting Positions of the Seven Stars*
+- [[KR5g0132]] 317 洞真太上八素真經服食日月皇華訣 Dòng zhēn tài shàng bā sù zhēn jīng fú shí rì yuè huáng huā jué *Dòng-zhēn Eight-Plain Instructions on Ingesting the Sun-Moon Imperial-Radiance*
+- [[KR5g0135]] 317 洞真上清龍飛九道尺素隱訣 Dòng zhēn Shàng qīng lóng fēi jiǔ dào chǐ sù yǐn jué *Shàng-qīng Concealed Instructions on the Nine-Dao Foot-of-Silk for the Dragon's Flight*
+- [[KR5g0136]] 317 洞真太上三九素語玉精真訣 Dòng zhēn tài shàng sān jiǔ sù yǔ yù jīng zhēn jué *Dòng-zhēn Three-Nine Plain-Words True Instructions of Jade-Essence*
+- [[KR5g0137]] 317 洞真太上八道命籍經 Dòng zhēn tài shàng bā dào mìng jí jīng *Dòng-zhēn Scripture of the Eight-Dào Destiny-Register*
+- [[KR5g0138]] 317 太上九赤班符五帝內真經 Tài shàng jiǔ chì bān fú wǔ dì nèi zhēn jīng *Most High Nine-Red Mottled-Talisman Inner Perfect-Scripture of the Five Thearchs*
+- [[KR5g0139]] 317 洞真太一帝君太丹隱書洞真玄經 Dòng zhēn Tài yī dì jūn tài dān yǐn shū Dòng zhēn xuán jīng *Dòng-zhēn Mysterious Scripture of the Tài-yī Thearch-Lord's Tài-dān Concealed Writing*
+- [[KR5g0140]] 317 洞真上清神州七轉七變舞天經 Dòng zhēn Shàng qīng shén zhōu qī zhuǎn qī biàn wǔ tiān jīng *Shàng-qīng Scripture of the Divine-Province Seven-Cycle Seven-Transform Heaven-Dance*
+- [[KR5g0141]] 317 洞真太上紫度炎光神元變經 Dòng zhēn tài shàng zǐ dù yán guāng shén yuán biàn jīng *Dòng-zhēn Scripture of Purple-Crossing Flame-Radiance Divine Origin-Transformation*
+- [[KR5g0142]] 317 洞真太上神虎玉經 Dòng zhēn tài shàng shén hǔ yù jīng *Dòng-zhēn Jade Scripture of the Divine Tiger*
+- [[KR5g0143]] 317 洞真太上神虎隱文 Dòng zhēn tài shàng shén hǔ yǐn wén *Dòng-zhēn Concealed-Writing of the Divine Tiger*
+- [[KR5g0144]] 317 洞真太上紫文丹章 Dòng zhēn tài shàng zǐ wén dān zhāng *Dòng-zhēn Purple-Writ Cinnabar Stanzas*
+- [[KR5g0145]] 317 洞真太上金篇虎符真文經 Dòng zhēn tài shàng jīn piān hǔ fú zhēn wén jīng *Dòng-zhēn Scripture of the Gold-Leaf Tiger-Talisman True-Script*
+- [[KR5g0146]] 317 洞真太微金虎真符 Dòng zhēn Tài wēi jīn hǔ zhēn fú *Dòng-zhēn Tài-wēi Gold-Tiger True Talisman*
+- [[KR5g0148]] 317 洞真八景玉籙晨圖隱符 Dòng zhēn bā jǐng yù lù chén tú yǐn fú *Dòng-zhēn Eight-Landscapes Jade Register's Dawn-Diagram Concealed Talisman*
+- [[KR5g0150]] 317 洞真太上上皇民籍定真玉籙 Dòng zhēn tài shàng shàng huáng mín jí dìng zhēn yù lù *Dòng-zhēn Most High Superior-Emperor People-Register Perfection-Fixing Jade Register*
+- [[KR5g0152]] 317 洞真黃書 Dòng zhēn huáng shū *Dòng-zhēn Yellow-Writing*
+- [[KR5g0154]] 317 洞真太上道君元丹上經 Dòng zhēn tài shàng dào jūn yuán dān shàng jīng *Dòng-zhēn Most High Dào-Lord's Superior Scripture of the Original Elixir*
+- [[KR5g0155]] 317 洞真金房度命綠字迴年三華寶曜內真上經 Dòng zhēn jīn fáng dù mìng lǜ zì huí nián sān huá bǎo yào nèi zhēn shàng jīng *Dòng-zhēn Gold-Chamber Life-Saving Green-Graphs Year-Reverting Three-Flower Treasure-Radiance Inner-Perfect Superior Scripture*
+- [[KR5g0157]] 317 洞真太上丹景道精經 Dòng zhēn tài shàng dān jǐng dào jīng jīng *Dòng-zhēn Scripture of the Cinnabar-Landscape Dào-Essence*
+- [[KR5g0158]] 317 洞真太上青芽始生經 Dòng zhēn tài shàng qīng yá shǐ shēng jīng *Dòng-zhēn Scripture of the Green-Sprout First-Arising*
+- [[KR5g0160]] 317 洞真太上飛行羽經九真昇玄上記 Dòng zhēn tài shàng fēi xíng yǔ jīng jiǔ zhēn shēng xuán shàng jì *Dòng-zhēn Feathered-Scripture of Flight -- Superior Record of the Nine Perfected Ascending to the Mystery*
+- [[KR5g0161]] 317 洞真太上太霄琅書 Dòng zhēn tài shàng Tài xiāo láng shū *Dòng-zhēn Tài-xiāo Jade-Writing*
+- [[KR5g0164]] 317 上清太上玉清隱書滅魔神慧高玄真經 Shàng qīng tài shàng Yù qīng yǐn shū miè mó shén huì gāo xuán zhēn jīng *Shàng-qīng Yù-qīng Concealed-Writing Perfect-Scripture of Demon-Slaying Divine Wisdom*
+- [[KR5g0165]] 317 上清高上滅魔玉帝神慧玉清隱書 Shàng qīng gāo shàng miè mó Yù dì shén huì Yù qīng yǐn shū *Shàng-qīng Superior Jade-Thearch Demon-Slaying Divine-Wisdom Yù-qīng Concealed-Writing*
+- [[KR5g0166]] 317 上清高上滅魔洞景金元玉清隱書經 Shàng qīng gāo shàng miè mó dòng jǐng jīn yuán Yù qīng yǐn shū jīng *Shàng-qīng Superior Cavern-Landscape Gold-Origin Yù-qīng Concealed-Writing Scripture*
+- [[KR5g0167]] 317 上清高上金元羽章玉清隱書經 Shàng qīng gāo shàng jīn yuán yǔ zhāng Yù qīng yǐn shū jīng *Shàng-qīng Superior Gold-Origin Feathered-Stanzas Yù-qīng Concealed-Writing Scripture*
+- [[KR5g0168]] 317 上清丹景道精隱地八術經 Shàng qīng dān jǐng dào jīng yǐn dì bā shù jīng *Shàng-qīng Cinnabar-Landscape Dào-Essence Concealed-Earth Eight-Arts Scripture*
+- [[KR5g0169]] 317 上清九天上帝祝百神內名經 Shàng qīng jiǔ tiān shàng dì zhù bǎi shén nèi míng jīng *Shàng-qīng Scripture of Nine-Heavens Supreme-Thearch's Invocations of the Inner Names of the Hundred Spirits*
+- [[KR5g0170]] 317 上清七聖玄紀經 Shàng qīng qī shèng xuán jì jīng *Shàng-qīng Mysterious-Record Scripture of the Seven Sages*
+- [[KR5g0171]] 317 上清太上迴元隱道除罪籍經 Shàng qīng tài shàng huí yuán yǐn dào chú zuì jí jīng *Shàng-qīng Scripture on the Origin-Returning Concealed-Way Sin-Register-Dispelling*
+- [[KR5g0173]] 317 上清洞真智慧觀身大戒文 Shàng qīng dòng zhēn zhì huì guān shēn dà jiè wén *Shàng-qīng Great-Precepts Text of Wisdom-Contemplating-the-Body*
+- [[KR5g0174]] 317 上清元始譜籙太真玉訣 Shàng qīng Yuán shǐ pǔ lù tài zhēn yù jué *Shàng-qīng Yuán-shǐ Lineage-Register Great-Perfect Jade Instructions*
+- [[KR5g0175]] 317 上清天關三圖經 Shàng qīng Tiān guān sān tú jīng *Shàng-qīng Three-Diagrams Scripture of the Heavenly Barrier*
+- [[KR5g0177]] 317 上清迴神飛霄登空招五星上法經 Shàng qīng huí shén fēi xiāo dēng kōng zhāo wǔ xīng shàng fǎ jīng *Shàng-qīng Scripture of Spirit-Returning Empyrean-Flight Void-Ascent and Summoning the Five Planets*
+- [[KR5g0180]] 317 上清素靈上篇 Shàng qīng sù líng shàng piān *Shàng-qīng Plain-Numinous Superior Treatise*
+- [[KR5g0181]] 317 上清高上玉晨鳳臺曲素上經 Shàng qīng gāo shàng yù chén fèng tái qū sù shàng jīng *Shàng-qīng Superior Jade-Dawn Phoenix-Terrace Qū-sù Scripture*
+- [[KR5g0182]] 317 上清外國放品青童內文 Shàng qīng wài guó fàng pǐn qīng tóng nèi wén *Shàng-qīng Foreign-States Release-Grade Qīng-tóng Inner Text*
+- [[KR5g0185]] 317 上清太上帝君九真中經 Shàng qīng tài shàng dì jūn jiǔ zhēn zhōng jīng *Shàng-qīng Central Scripture of the Nine Perfected of the Most High Thearch-Lord*
+- [[KR5g0186]] 317 上清太上九真中經絳生神丹訣 Shàng qīng tài shàng jiǔ zhēn zhōng jīng jiàng shēng shén dān jué *Shàng-qīng Nine-Perfected Central Scripture's Cinnabar-Red Life-Giving Divine-Elixir Instructions*
+- [[KR5g0187]] 317 上清金真玉光八景飛經 Shàng qīng jīn zhēn yù guāng bā jǐng fēi jīng *Shàng-qīng Flying-Scripture of Gold-Perfect Jade-Light and Eight Landscapes*
+- [[KR5g0188]] 317 上清玉帝七聖玄紀迴天九霄經 Shàng qīng Yù dì qī shèng xuán jì huí tiān jiǔ xiāo jīng *Shàng-qīng Jade-Thearch Seven-Sages Mystery-Record Heaven-Reverting Nine-Empyrean Scripture*
+- [[KR5g0189]] 317 上清太上黃素四十四方經 Shàng qīng tài shàng huáng sù sì shí sì fāng jīng *Shàng-qīng Yellow-Plain Scripture of the Forty-Four Methods*
+- [[KR5g0190]] 317 上清明堂玄丹真經 Shàng qīng Míng táng xuán dān zhēn jīng *Shàng-qīng Perfect Scripture of the Mysterious Elixir of the Bright Hall*
+- [[KR5g0191]] 317 上清九丹上化胎精中記經 Shàng qīng jiǔ dān shàng huà tāi jīng zhōng jì jīng *Shàng-qīng Central-Record Scripture of Nine-Elixir Embryo-Essence Transformation*
+- [[KR5g0192]] 317 上清太上元始耀光金虎鳳文章寶經 Shàng qīng tài shàng Yuán shǐ yào guāng jīn hǔ fèng wén zhāng bǎo jīng *Shàng-qīng Yuán-shǐ Radiant-Light Gold-Tiger Phoenix-Writ Stanzas Precious Scripture*
+- [[KR5g0193]] 317 上清太一帝君太丹隱書解胞十二結節圖訣 Shàng qīng Tài yī dì jūn tài dān yǐn shū jiě bāo shí èr jié jié tú jué *Shàng-qīng Tài-yī Thearch-Lord's Diagrammed Instructions on Releasing the Twelve Knots of the Placenta*
+- [[KR5g0198]] 317 上清高聖太上大道君洞真金元八景玉錄 Shàng qīng gāo shèng tài shàng dà dào jūn dòng zhēn jīn yuán bā jǐng yù lù *Shàng-qīng Dà-dào Lord's Dòng-zhēn Gold-Origin Eight-Landscapes Jade Register*
+- [[KR5g0200]] 317 上清瓊宮靈飛六甲籙 Shàng qīng qióng gōng líng fēi liù jiǎ lù *Shàng-qīng Numinous-Flying Six-Jiǎ Register of the Jasper Palace*
+- [[KR5g0202]] 317 上清元始變化寶真上經九靈太妙龜山玄籙 Shàng qīng Yuán shǐ biàn huà bǎo zhēn shàng jīng jiǔ líng tài miào Guī shān xuán lù *Shàng-qīng Yuán-shǐ Transformations Precious-Perfect Scripture on the Nine-Numens Tortoise-Mountain Mysterious Register*
+- [[KR5g0216]] 317 洞玄靈寶二十四生圖經 Dòng xuán Líng bǎo èr shí sì shēng tú jīng *Dòng-xuán Líng-bǎo Twenty-Four Life-Diagrams Scripture*
+- [[KR5g0218]] 317 太上九真明科 Tài shàng jiǔ zhēn míng kē *Most High Illumined Regulations of the Nine Perfected*
+- [[KR5g0219]] 317 洞玄靈寶千真科 Dòng xuán Líng bǎo qiān zhēn kē *Dòng-xuán Líng-bǎo Regulations of the Thousand Perfected*
+- [[KR5g0220]] 317 洞玄靈寶長夜之府九幽玉匱明真科 Dòng xuán Líng bǎo cháng yè zhī fǔ jiǔ yōu yù guì míng zhēn kē *Dòng-xuán Líng-bǎo Illumined-Perfect Regulations of the Nine-Dark Jade-Coffer of the Long-Night Office*
+- [[KR5h0005]] 317 上清元始變化寶真上經 Shàng qīng Yuán shǐ biàn huà bǎo zhēn shàng jīng *Shàng-qīng Superior Precious-Perfect Scripture of Yuán-shǐ's Transformations*
+- [[KR5h0006]] 317 太上老君開天經 Tài shàng Lǎo jūn kāi tiān jīng *Most High Lord Lǎo's Heaven-Opening Scripture*
+- [[KR5h0026]] 317 高上玉宸憂樂章 Gāo shàng yù chén yōu lè zhāng *Stanzas of Sorrow-and-Joy of the Superior Jade-Dawn*
+- [[KR5b0316]] 320 洞玄靈寶六甲玉女上宮歌章 Dòngxuán língbǎo liùjiǎ yùnǚ shànggōng gēzhāng *Song-Stanzas of the Six-Jiǎ Jade Maidens of the Upper Palace, of the Cavernous-Mystery Numinous-Treasure*
+- [[KR5f0019]] 323 抱朴子內篇 Bào pǔ zǐ nèi piān *Inner Chapters of the Master Embracing the Unhewn*
+- [[KR5f0021]] 323 抱朴子外篇 Bào pǔ zǐ wài piān *Outer Chapters of the Master Embracing the Unhewn*
+- [[KR5c0317]] 330 神仙傳 Shén xiān zhuàn *Biographies of Divine Immortals*
+- [[KR5c0049]] 335 沖虛至德真經 Chōngxū zhìdé zhēn jīng *True Scripture of the Void-and-Emptiness and Supreme Virtue*
+- [[KR5c0124]] 335 列子 Lièzǐ **
+- [[KR5c0125]] 335 列子 (釋文) Lièzǐ (Shì wén — with philological glosses) **
+- [[KR5a0258]] 350 洞真太微黃書九天八籙真文 Dòngzhēn tàiwēi huángshū jiǔtiān bālù zhēnwén *True Writs of the Eight Registers of the Nine Heavens, from the Yellow Book of the Tàiwēi Heaven, Dòngzhēn Canon*
+- [[KR5b0233]] 350 洞玄靈寶玉籙簡文三元威儀自然真經 Dòngxuán língbǎo yùlù jiǎnwén sānyuán wēiyí zìrán zhēnjīng *The Spontaneously-Arisen True Scripture of the Liturgical Standards of the Three Primes from the Tablet-Text of the Jade Register of the Dòngxuán Língbǎo*
+- [[KR5c0039]] 350 太上妙始經 Tàishàng miàoshǐ jīng *Scripture of the Marvellous Beginning, of the Most High*
+- [[KR5i0010]] 350 太上黃庭內景玉經 Tài shàng huáng tíng nèi jǐng yù jīng *The Most-High Jade Scripture of the Inner Effulgence of the Yellow Court*
+- [[KR5a0083]] 364 白羽黑翮靈飛玉符 Báiyǔ hēihé língfēi yùfú **
+- [[KR5b0089]] 364 上清紫精君皇初紫靈道君洞房上經 Shàngqīng zǐjīngjūn huángchū zǐlíng dàojūn dòngfáng shàngjīng *Superior Scripture on the Dòngfáng [Cavern-Chamber] of the Purple-Essence Sovereign and the Primordial Sovereign Purple-Numen Lord of the Dao, of the Upper Clarity*
+- [[KR5b0108]] 364 上清明堂元真經訣 Shàngqīng míngtáng yuánzhēn jīng jué *Instructions for the Scripture of the Primordial Perfected in the Hall of Light, of the Upper Clarity*
+- [[KR5c0020]] 367 皇天上清金闕帝君靈書紫文上經 Huángtiān shàngqīng jīnquè dìjūn língshū zǐwén shàngjīng *Upper Scripture of the Numinous Writ in Purple Characters from the Lord Emperor of the Gold Portal in the August Heaven of Highest Clarity*
+- [[KR5a0315]] 389 紫陽真人內傳 Zǐyáng zhēnrén nèizhuàn *The Esoteric Life of the Zhēnrén of Purple Yáng*
+- [[KR5a0056]] 392 太上玉珮金璫太極金書上經 Tàishàng yùpèi jīndāng tàijí jīnshū shàngjīng *Superior Scripture, Golden Writ of the Supreme Pole [in Honour] of Jade Pendant and Gold Ring, Spoken by the Most High*
+- [[KR5b0038]] 392 上清三元玉檢三元布經 Shàngqīng sānyuán yùjiǎn sānyuán bùjīng *Jade Rule of the Three Primordials and Promulgated Scripture of the Three Primordials, of the Upper Clarity*
+- [[KR5b0092]] 392 上清胎精記解結行事訣 Shàngqīng tāijīng jì jiějié xíngshì jué *Formula for the Practice of Untying the Knots from the Records of Embryonic Essence, of the Upper Clarity*
+- [[KR5b0126]] 392 上清後聖道君列紀 Shàngqīng hòushèng dàojūn lièjì *Annals of the Latter-Day Saint of the Dào, of the Upper Clarity*
+- [[KR5a0022]] 398 元始五老赤書玉篇真文天書經 Yuánshǐ wǔlǎo chìshū yùpiān zhēnwén tiānshū jīng *Celestial-Script Scripture of the True Writs in Vermilion-Writing on Jade Tablets, [Bestowed] by the Five Ancients of the Primordial Beginning*
+- [[KR5a0023]] 398 太上諸天靈書度命妙經 Tàishàng zhūtiān língshū dùmìng miàojīng *Marvellous Scripture of Salvation in the Numinous Writing of the Numerous Heavens*
+- [[KR5a0098]] 398 太上靈寶諸天內音自然玉字 Tàishàng língbǎo zhūtiān nèiyīn zìrán yùzì *Língbǎo Scripture on the Esoteric Sounds of the Spontaneously Created Jade-Characters in the Various Heavens*
+- [[KR5b0002]] 399 洞玄靈寶自然九天生神章經 Dòngxuán língbǎo zìrán jiǔtiān shēngshén zhāngjīng *Scripture of the Stanzas of the Life-Spirits of the Nine Heavens, from the Spontaneous Cavern-Mystery Numinous Treasure*
+- [[KR5b0009]] 399 太上洞玄靈寶智慧定志通微經 Tàishàng dòngxuán língbǎo zhìhuì dìngzhì tōngwēi jīng *Scripture on Wisdom, Fixing the Will and Penetrating the Sublime, of the Most High Cavern-Mystery Numinous Treasure*
+- [[KR5b0036]] 399 太上洞玄靈寶赤書玉訣妙經 Tàishàng dòngxuán língbǎo chìshū yùjué miàojīng *Marvelous Scripture of the Jade Instructions on the Red Writing, of the Most High Cavern-Mystery Numinous Treasure*
+
+### KR6 (170)
+
+- [[KR6a0061]] 300 受新歲經 Shòu xīnsuì jīng *Sūtra of the Receiving of the New Year*
+- [[KR6a0093]] 300 邪見經 Xiéjiàn jīng *Sūtra on Wrong Views*
+- [[KR6a0103]] 300 佛說聖法印經 Fó shuō shèngfǎyìn jīng *Sūtra of the Sacred Dharma-Seals*
+- [[KR6a0118]] 300 佛說鴦掘摩經 Fó shuō Yāngjuémó jīng *Sūtra of Aṅgulimāla*
+- [[KR6a0138]] 300 佛說力士移山經 Fó shuō lìshì yíshān jīng *Sūtra of the Strongmen Who Moved the Mountain*
+- [[KR6b0003]] 300 生經 Shēng jīng *Sūtra of Births (Jātakas)*
+- [[KR6b0020]] 300 太子墓魄經 Tàizǐ Mùpò jīng *Sūtra of Prince Mùpò (alternative recension)*
+- [[KR6b0034]] 300 過去世佛分衛經 Guòqùshì Fó fēnwèi jīng *Sūtra of a Past-World Buddha's Alms-Round*
+- [[KR6b0044]] 300 異出菩薩本起經 Yìchū púsà běnqǐ jīng *Variant Bodhisattva Origin-Sūtra*
+- [[KR6b0050]] 300 佛本行經 Fó běnxíng jīng *Sūtra of the Buddha's Practice (Buddha-biography in verse)*
+- [[KR6c0012]] 300 摩訶般若鈔經 Móhē bōrě chāo jīng *Mahāprajñāpāramitā-Excerpt (Aṣṭasāhasrikā Partial Translation)*
+- [[KR6d0116]] 300 佛說濟諸方等學經 Fóshuō Jì zhū fāngděng xué jīng *Sūtra Saving All the Vaipulya Studies (Taught by the Buddha)*
+- [[KR6f0010]] 300 文殊師利佛土嚴淨經 Wénshūshīlì fó tǔ yán jìng jīng *The Sūtra on the Adornment-and-Purification of Mañjuśrī's Buddha-Land*
+- [[KR6f0015]] 300 郁迦羅越問菩薩行經 Yù jiā luó yuè wèn pútísà xíng jīng *The Sūtra on the Bodhisattva Practice as Asked by Ugra (Ugra-paripṛcchā)*
+- [[KR6f0016]] 300 佛說幻士仁賢經 Fó shuō huàn shì rén xián jīng *The Sūtra Spoken by the Buddha on the Magician Bhadra (Bhadramāyākāra-vyākaraṇa)*
+- [[KR6f0017]] 300 佛說決定毘尼經 Fó shuō jué dìng pí ní jīng *The Sūtra Spoken by the Buddha on the Decisive Vinaya (Vinaya-viniścaya-upāli-paripṛcchā)*
+- [[KR6f0026]] 300 佛說須摩提菩薩經 Fó shuō xū mó tí pútísà jīng (Zhú Fǎhù) *The Sūtra Spoken by the Buddha on the Bodhisattva Sumati*
+- [[KR6f0027]] 300 佛說須摩提菩薩經 Fó shuō xū mó tí pútísà jīng (Kumārajīva) **
+- [[KR6f0035]] 300 佛說太子刷護經 Fó shuō tài zǐ shuā hù jīng *The Sūtra Spoken by the Buddha on Prince Susukha*
+- [[KR6f0041]] 300 彌勒菩薩所問本願經 Mí lè pútísà suǒ wèn běn yuàn jīng *The Sūtra on the Original Vow Asked by Bodhisattva Maitreya*
+- [[KR6f0099]] 300 後出阿彌陀佛偈 Hòu chū ā mí tuó fó jì *Late-Issued Verses on Amitābha Buddha*
+- [[KR6g0027]] 300 等集眾德三昧經 Děng jí zhòng dé sānmèi jīng *The Sūtra on the Samādhi of Equal Gathering of Many Virtues*
+- [[KR6g0036]] 300 般泥洹後灌臘經 Bān ní huán hòu guàn là jīng *The Sūtra on the Ablution-and-Sacrifice After the Buddha's Parinirvāṇa*
+- [[KR6g0040]] 300 佛說當來變經 Fó shuō dāng lái biàn jīng *The Sūtra Spoken by the Buddha on the Coming Changes*
+- [[KR6h0005]] 300 佛說無言童子經 Fó shuō wúyán tóngzǐ jīng *The Sūtra of the Silent Boy (Avivādya / Aniṣpranāda kumāra-paripṛcchā)*
+- [[KR6i0001]] 300 賢劫經 Xiánjié jīng *Sūtra of the Fortunate Aeon (Bhadrakalpika-sūtra)*
+- [[KR6i0004]] 300 佛說八陽神呪經 Fóshuō bā yáng shénzhòu jīng *Sūtra of the Divine Dhāraṇī of the Eight Luminous Ones*
+- [[KR6i0009]] 300 佛說寶網經 Fóshuō bǎowǎng jīng *Sūtra of the Jewel Net*
+- [[KR6i0032]] 300 佛說彌勒下生經 Fóshuō Mílè xiàshēng jīng *Sūtra Spoken by the Buddha on the Descent of Maitreya*
+- [[KR6i0064]] 300 佛說文殊師利般涅槃經 Fóshuō Wénshūshīlì bān nièpán jīng *Sūtra Spoken by the Buddha on Mañjuśrī's Parinirvāṇa*
+- [[KR6i0106]] 300 佛說大方等頂王經 Fóshuō dàfāngděng dǐngwáng jīng *Mahāvaipulya Crowned-King Sūtra (a.k.a. Vimalakīrti's Son's Questions)*
+- [[KR6i0112]] 300 三曼陀跋陀羅菩薩經 Sānmàntuó báduóluó púsà jīng *Sūtra of the Bodhisattva Samantabhadra*
+- [[KR6i0125]] 300 佛說阿難分別經 Fóshuō Ānán fēnbié jīng *Sūtra of Ānanda's Discrimination*
+- [[KR6i0126]] 300 佛說大迦葉本經 Fóshuō dà Jiāyè běn jīng *Sūtra on the Origins of Mahākāśyapa*
+- [[KR6i0143]] 300 佛說琉璃王經 Fóshuō Liúlí wáng jīng *Sūtra of King Vaidūrya*
+- [[KR6i0158]] 300 佛說菩薩逝經 Fóshuō Púsà Shì jīng *Sūtra of the Bodhisattva Shì*
+- [[KR6i0164]] 300 佛說月光童子經 Fóshuō Yuèguāng tóngzǐ jīng *Sūtra of the Boy Moon-Light*
+- [[KR6i0167]] 300 佛說越難經 Fóshuō Yuènán jīng *Sūtra of the Crossing-of-Difficulty*
+- [[KR6i0175]] 300 辯意長者子經 Biànyì zhǎngzhě zǐ jīng *Sūtra of the Elder's Son Eloquent-Mind*
+- [[KR6i0194]] 300 佛說無垢賢女經 Fóshuō Wúgòu xiánnǚ jīng *Sūtra of the Spotless Worthy Maiden*
+- [[KR6i0199]] 300 佛說梵志女首意經 Fóshuō Fànzhìnǚ Shǒuyì jīng *Sūtra of the Brahmin-Maiden Shǒuyì*
+- [[KR6i0201]] 300 佛說心明經 Fóshuō Xīnmíng jīng *Sūtra Spoken by the Buddha on Xīnmíng (the Lucid-Minded Brahmin Wife)*
+- [[KR6i0223]] 300 佛說四天王經 Fóshuō Sìtiānwáng jīng *Sūtra of the Four Heavenly Kings*
+- [[KR6i0248]] 300 法觀經 Fǎguān jīng *Sūtra on the Contemplation of Dharmas*
+- [[KR6i0249]] 300 身觀經 Shēnguān jīng *Sūtra on Body-Contemplation*
+- [[KR6i0272]] 300 佛說弘道廣顯三昧經 Fóshuō hóngdào guǎngxiǎn sānmèi jīng *Sūtra on the Samādhi That Spreads the Way and Manifests the Vast as Spoken by the Buddha*
+- [[KR6i0275]] 300 佛說超日明三昧經 Fóshuō chāorìmíng sānmèi jīng *Sūtra on the Sūrya-Surpassing Brilliance Samādhi as Spoken by the Buddha*
+- [[KR6i0364]] 300 佛說盂蘭盆經 Fó shuō yúlánpén jīng *The Buddha's Sūtra on the Yúlán Bowl (also known in the West as the "Ullambana Sūtra")*
+- [[KR6i0430]] 300 佛說四自侵經 Fó shuō sì zìqīn jīng *The Buddha's Sūtra on the Four Self-Inflicted Harms*
+- [[KR6i0431]] 300 所欲致患經 Suǒyù zhìhuàn jīng *Sūtra on How Desires Bring Calamity*
+- [[KR6i0432]] 300 佛說分別經 Fó shuō fēnbié jīng *The Buddha's Sūtra on Discrimination*
+- [[KR6i0467]] 300 佛說四不可得經 Fó shuō sì bùkědé jīng *The Buddha Speaks -- The Sūtra of the Four Things That Cannot Be Obtained*
+- [[KR6i0474]] 300 佛說賢者五福德經 Fó shuō xiánzhě wǔ fúdé jīng *The Buddha Speaks -- The Sūtra of the Worthy Person's Five Merits*
+- [[KR6i0517]] 300 佛說決定總持經 Fó shuō juédìng zǒngchí jīng *The Buddha Speaks -- The Sūtra of Definitive Dhāraṇī*
+- [[KR6i0518]] 300 菩薩行五十緣身經 Púsà xíng wǔshí yuán shēn jīng *The Sūtra of the Bodhisattva's Practice and the Fifty Causes for [the Adornment of the Buddha's] Body*
+- [[KR6i0519]] 300 佛說無希望經 Fó shuō wúxīwàng jīng *The Buddha Speaks -- The Sūtra of [the Practice of] No Expectation*
+- [[KR6i0521]] 300 佛昇忉利天為母說法經 Fó shēng dāolì tiān wèimǔ shuōfǎ jīng *The Sūtra of the Buddha Ascending to the Trāyastriṃśa Heaven to Preach the Dharma to His Mother*
+- [[KR6k0124]] 300 菩薩受齋經 Púsà shòuzhāi jīng *The Sūtra on the Bodhisattva's Reception of the Posadha-Fast*
+- [[KR6u0003]] 300 慈仁問八十種好經 Círén wèn bāshí zhǒng hǎo jīng *Sūtra of Maitrī's Questions on the Eighty Minor Marks*
+- [[KR6a0017]] 301 善生子經 Shànshēng zǐ jīng *Sūtra of the Son of Sujāta*
+- [[KR6b0056]] 301 佛五百弟子自說本起經 Fó wǔbǎi dìzǐ zìshuō běnqǐ jīng *Sūtra of the Five Hundred Disciples Speaking Their Own Origins*
+- [[KR6f0009]] 301 佛說胞胎經 Fó shuō bāo tāi jīng *The Sūtra Spoken by the Buddha on Conception in the Womb (Garbhāvakrāntir-nirdeśa)*
+- [[KR6i0157]] 301 佛說逝童子經 Fóshuō Shì tóngzǐ jīng *Sūtra of the Boy Shì*
+- [[KR6i0197]] 301 順權方便經 Shùnquán fāngbiàn jīng *Sūtra of Skillful Means in Conformity with the Provisional*
+- [[KR6i0011]] 302 佛說滅十方冥經 Fóshuō miè shífāng míng jīng *Sūtra of Extinguishing the Darkness of the Ten Directions*
+- [[KR6i0273]] 303 無極寶三昧經 Wújí bǎo sānmèi jīng *Sūtra on the Boundless-Treasure Samādhi*
+- [[KR6b0042]] 304 普曜經 Pǔyào jīng *Lalitavistara-sūtra (Sūtra of the Universally-Manifest [Acts of the Buddha])*
+- [[KR6h0007]] 304 阿差末菩薩經 Āchāmò púsà jīng *The Sūtra of the Bodhisattva Akṣayamati (Akṣayamati-nirdeśa)*
+- [[KR6i0051]] 307 佛說灌頂經 Fóshuō guàndǐng jīng *Sūtra of Consecration*
+- [[KR6a0134]] 317 佛說食施獲五福報經 Fó shuō shíshī huò wǔfúbào jīng *Sūtra on the Five Merit-Rewards of Giving Food*
+- [[KR6a0135]] 317 施食獲五福報經 Shīshí huò wǔfúbào jīng *Sūtra on the Five Merit-Rewards of Giving Food*
+- [[KR6a0159]] 317 分別功德論 Fēnbié gōngdé lùn *Treatise on the Differentiation of Merit (\*Puṇya-vibhaṅga)*
+- [[KR6b0005]] 317 大方便佛報恩經 Dàfāngbiàn fó bào'ēn jīng *Sūtra on the Buddha's Great Skilful-Means Repayment of Kindness*
+- [[KR6h0010]] 317 虛空藏菩薩神呪經 Xūkōngzàng púsà shénzhòu jīng *The Spirit-Spell Sūtra of the Bodhisattva Ākāśagarbha*
+- [[KR6i0246]] 317 禪要經 Chányào jīng *Sūtra on the Essentials of Meditation*
+- [[KR6i0247]] 317 佛說內身觀章句經 Fóshuō Nèishēnguān zhāngjù jīng *Sūtra of Verses on Inner Body-Contemplation*
+- [[KR6i0383]] 317 佛說造立形像福報經 Fó shuō zàolì xíngxiàng fúbào jīng *The Buddha's Sūtra on the Karmic Reward of Erecting Buddha-Images*
+- [[KR6j0243]] 317 佛說六字神呪王經 Fóshuō liùzì shénzhòuwáng jīng *Sūtra of the Divine Six-Syllable Spell-King (Recension A)*
+- [[KR6j0244]] 317 六字神呪王經 Liùzì shénzhòuwáng jīng *Sūtra of the Divine Six-Syllable Spell-King (Recension B)*
+- [[KR6j0354]] 317 金剛祕密善門陀羅尼呪經 Jīngāng mìmì shànmén tuóluóní zhòu jīng *Vajra-Secret Beneficial-Gate Dhāraṇī Spell Sūtra*
+- [[KR6j0355]] 317 金剛祕密善門陀羅尼經 Jīngāng mìmì shànmén tuóluóní jīng *Vajra-Secret Beneficial-Gate Dhāraṇī Sūtra*
+- [[KR6j0654]] 317 佛說却溫黃神咒經 Fó shuō Quèwēnhuáng shénzhòu jīng *Sūtra of the Divine Spell for Repelling Plague-Yellow*
+- [[KR6j0656]] 317 作世水宅心陀羅尼 Zuòshì shuǐzhái xīn tuóluóní *The Heart-Dhāraṇī of the World-Constructing Water-Abode*
+- [[KR6f0034]] 336 佛說如幻三昧經 Fó shuō rú huàn sānmèi jīng *The Sūtra Spoken by the Buddha on the Illusion-Like Samādhi*
+- [[KR6a0039]] 344 頂生王故事經 Dǐngshēng wáng gùshì jīng *Sūtra of the Story of King Mūrdhāja*
+- [[KR6a0049]] 344 求欲經 Qiúyù jīng *Sūtra on the Quest for Desire*
+- [[KR6a0055]] 344 苦陰因事經 Kǔyìn yīnshì jīng *Sūtra on the Causes of the Mass of Suffering*
+- [[KR6a0064]] 344 瞻婆比丘經 Zhānbó bǐqiū jīng *Sūtra of the Monks of Campā*
+- [[KR6a0065]] 344 伏婬經 Fúyín jīng *Sūtra on the Subduing of Lust*
+- [[KR6a0070]] 344 數經 Shù jīng *Sūtra of the Numbered (Stages)*
+- [[KR6a0119]] 344 佛說鴦崛髻經 Fó shuō Yāngjuéjì jīng *Sūtra of Aṅgulimāla*
+- [[KR6a0122]] 344 佛說波斯匿王太后崩塵土坌身經 Fó shuō Bōsīnìwáng tàihòu bēng chéntǔ bènshēn jīng *Sūtra of King Pasenadi's Self-Defilement at His Mother's Death*
+- [[KR6a0136]] 344 頻毘娑羅王詣佛供養經 Pínpísuōluówáng yìfó gòngyǎng jīng *Sūtra on King Bimbisāra's Visit to Make Offerings to the Buddha*
+- [[KR6b0072]] 344 群牛譬經 Qúnniú pì jīng *Sūtra of the Cattle-Herd Parable*
+- [[KR6a0047]] 345 離睡經 Líshuì jīng *Sūtra on Driving Off Drowsiness*
+- [[KR6a0050]] 345 受歲經 Shòusuì jīng *Sūtra of the Receiving of Years*
+- [[KR6a0056]] 345 樂想經 Lèxiǎng jīng *Sūtra on the Perception of Pleasure*
+- [[KR6a0077]] 345 尊上經 Zūnshàng jīng *Sūtra of the Most-Venerable*
+- [[KR6a0082]] 345 意經 Yì jīng *Sūtra of the Mind*
+- [[KR6a0083]] 345 應法經 Yìngfǎ jīng *Sūtra on Dharma-Conformity*
+- [[KR6a0139]] 345 佛說四未曾有法經 Fó shuō sì wèicéngyǒu fǎ jīng *Sūtra of the Four Wonderful Qualities*
+- [[KR6i0515]] 345 佛說乳光佛經 Fó shuō rǔguāngfó jīng *The Buddha Speaks -- The Sūtra of the Buddha "Milk-Light"*
+- [[KR6i0022]] 350 過去莊嚴劫千佛名經 Guòqù zhuāngyán jié qiān fómíng jīng *Sūtra of the Names of the Thousand Buddhas of the Past Ornate Aeon*
+- [[KR6i0023]] 350 過去莊嚴劫千佛名經 Guòqù zhuāngyán jié qiān fómíng jīng *Sūtra of the Names of the Thousand Buddhas of the Past Ornate Aeon (recension b)*
+- [[KR6i0024]] 350 現在賢劫千佛名經 Xiànzài xiánjié qiān fómíng jīng *Sūtra of the Names of the Thousand Buddhas of the Present Fortunate Aeon (recension a)*
+- [[KR6i0025]] 350 現在賢劫千佛名經 Xiànzài xiánjié qiān fómíng jīng *Sūtra of the Names of the Thousand Buddhas of the Present Fortunate Aeon (recension b)*
+- [[KR6i0026]] 350 未來星宿劫千佛名經 Wèilái xīngxiù jié qiān fómíng jīng *Sūtra of the Names of the Thousand Buddhas of the Future Starry Aeon (recension a)*
+- [[KR6i0027]] 350 未來星宿劫千佛名經 Wèilái xīngxiù jié qiān fómíng jīng *Sūtra of the Names of the Thousand Buddhas of the Future Starry Aeon (recension b)*
+- [[KR6j0559]] 350 佛說呪目經 Fó shuō zhòu mù jīng *Sūtra of the Spell for the Eyes, Spoken by the Buddha*
+- [[KR6i0202]] 358 佛說賢首經 Fóshuō Xiánshǒu jīng *Sūtra of Lady Xiánshǒu (Bhadraśrī)*
+- [[KR6i0005]] 384 佛說八部佛名經 Fóshuō bā bù fómíng jīng *Sūtra of the Names of the Eight-Category Buddhas*
+- [[KR6a0157]] 385 四阿鋡暮抄解 Sìāhánmù chāo jiě *Exegesis of the Abstract from the Four Āgama-mātṛkās*
+- [[KR6i0078]] 385 注維摩詰經 Zhù Wéimójié jīng *Annotated Vimalakīrti Sūtra*
+- [[KR6k0045]] 385 鼻奈耶 Bínàiyē *The Vinaya*
+- [[KR6b0051]] 386 僧伽羅剎所集經 Sēngqiéluóchà suǒjí jīng *Sūtra Compiled by Saṃgharakṣa (Buddha-biography Avadāna-anthology)*
+- [[KR6r0034]] 387 阿育王息壞目因緣經 Āyùwáng xī huài mù yīnyuán jīng *Sūtra on the Cause and Conditions of King Aśoka's Son's Eyes Being Destroyed*
+- [[KR6j0609]] 388 佛說玄師颰陀所說神呪經 Fó shuō Xuánshī Bátuó suǒshuō shénzhòu jīng *Sūtra of the Divine Spell Pronounced by the Master Xuán-shī Bátuó*
+- [[KR6j0610]] 388 幻師颰陀神呪經 Huànshī Bátuó shénzhòu jīng *Sūtra of the Divine Spell of the Illusionist Bátuó*
+- [[KR6a0022]] 390 寂志果經 Jìzhì guǒ jīng *Sūtra on the Fruits of the Quietist Life*
+- [[KR6a0026]] 390 中阿含經 Zhōng Āhán jīng *The Middle-Length Discourses (Madhyama-āgama)*
+- [[KR6a0029]] 390 鹹水喻經 Xiánshuǐyù jīng *Sūtra of the Salt-Water Simile*
+- [[KR6a0042]] 390 鐵城泥犁經 Tiěchéng nílí jīng *Sūtra of the Iron-City Hells*
+- [[KR6a0053]] 390 苦陰經 Kǔyìn jīng *Sūtra of the Mass of Suffering*
+- [[KR6a0058]] 390 阿耨風經 Ānòufēng jīng *Sūtra of (the Town) Anupiya*
+- [[KR6a0062]] 390 新歲經 Xīnsuì jīng *Sūtra of the New Year*
+- [[KR6a0066]] 390 魔嬈亂經 Móráoluàn jīng *Sūtra of Māra's Disturbance*
+- [[KR6a0071]] 390 梵志頞波羅延問種尊經 Fànzhì Èbōluóyán wèn zhǒngzūn jīng *Sūtra in which the Brahmin Assalāyana Asked about the Superiority of Class*
+- [[KR6a0073]] 390 須達經 Xūdá jīng *Sūtra of Sudatta (Anāthapiṇḍika)*
+- [[KR6a0086]] 390 泥犁經 Nílí jīng *Sūtra of the Hells*
+- [[KR6a0106]] 390 佛說水沫所漂經 Fó shuō shuǐmò suǒpiāo jīng *Sūtra on What is Carried by the Foam*
+- [[KR6a0116]] 390 佛說戒德香經 Fó shuō jièdéxiāng jīng *Sūtra on the Fragrance of Moral Virtue*
+- [[KR6a0142]] 390 佛說四泥犁經 Fó shuō sì nílí jīng *Sūtra of the Four Hells*
+- [[KR6a0147]] 390 玉耶經 Yùyē jīng *Sūtra of Sujātā*
+- [[KR6a0152]] 390 國王不梨先泥十夢經 Guówáng Bùlíxiānní shímèng jīng *Sūtra of the Ten Dreams of King Pasenadi*
+- [[KR6a0158]] 390 三法度論 Sānfǎdù lùn *Treatise of the Three-Dharma Measure (Tridharmaka-śāstra)*
+- [[KR6b0073]] 390 大魚事經 Dàyú shì jīng *Sūtra on the Affair of the Great Fish*
+- [[KR6e0058]] 390 最勝問菩薩十住除垢斷結經 Zuì shèng wèn pútísà shízhù chú gòu duàn jié jīng *The Sūtra on Removing Defilements and Cutting Off Bonds [in Each of] the Bodhisattva's Ten Abodes Asked by the Most-Excellent [Bodhisattva]*
+- [[KR6g0030]] 390 菩薩從兜術天降神母胎說廣普經 Pútísà cóng dōu shù tiān jiàng shén mǔ tāi shuō guǎng pǔ jīng *The Sūtra of the Bodhisattva's Descent from Tuṣita and Entry into the Mother's Womb, with the Universal Discourse*
+- [[KR6g0031]] 390 中陰經 Zhōng yīn jīng *The Sūtra on the Intermediate State (Antarābhava)*
+- [[KR6g0034]] 390 大雲無想經卷第九 Dà yún wú xiǎng jīng juàn dì jiǔ *The Mahāmegha No-Conceptions Sūtra, Fascicle Nine*
+- [[KR6g0038]] 390 迦葉赴佛般涅槃經 Jiā yè fù fó bān niè pán jīng *The Sūtra of Mahākāśyapa Hastening to the Buddha's Parinirvāṇa*
+- [[KR6i0124]] 390 阿難七夢經 Ānán qī mèng jīng *Sūtra of Ānanda's Seven Dreams*
+- [[KR6i0134]] 390 比丘聽施經 Bǐqiū tīngshī jīng *Sūtra of the Monk Heard-of-Giving*
+- [[KR6i0140]] 390 採花違王上佛授決號妙花經 Cǎihuā wéi wáng shàngfó shòujué hào miàohuā jīng *Sūtra of the Flower-Picker Who Disobeyed the King and Offered Flowers to the Buddha, Receiving the Prediction of Buddhahood with the Title "Wonderful Flower"*
+- [[KR6i0168]] 390 佛說呵雕阿那鋡經 Fóshuō Hēdiāo Ānáhán jīng *Sūtra of Hēdiāo Ānáhán*
+- [[KR6i0294]] 390 菩薩瓔珞經 Púsà yīngluò jīng *Sūtra of the Bodhisattva's Necklace of Jewels*
+- [[KR6i0435]] 390 五苦章句經 Wǔkǔ zhāngjù jīng *Sūtra in Aphorisms on the Five Sufferings*
+- [[KR6i0436]] 390 佛說自愛經 Fó shuō zìài jīng *The Buddha's Sūtra on Self-Love*
+- [[KR6i0437]] 390 佛說忠心經 Fó shuō zhōngxīn jīng *The Buddha's Sūtra on Loyal-Heartedness*
+- [[KR6i0501]] 390 佛說見正經 Fó shuō jiànzhèng jīng *The Buddha Speaks -- The Sūtra of [the Bhikṣu] Jiànzhèng*
+- [[KR6j0557]] 390 佛說呪時氣病經 Fó shuō zhòu shíqìbìng jīng *Sūtra of the Spell for Seasonal-Pestilence Sickness, Spoken by the Buddha*
+- [[KR6j0558]] 390 佛說呪齒經 Fó shuō zhòu chǐ jīng *Sūtra of the Spell for Teeth, Spoken by the Buddha*
+- [[KR6j0560]] 390 佛說呪小兒經 Fó shuō zhòu xiǎo'ér jīng *Sūtra of the Spell for Children, Spoken by the Buddha*
+- [[KR6j0582]] 390 佛說陀隣尼鉢經 Fó shuō tuólínní bō jīng *Sūtra of the Dhāraṇī-Bowl*
+- [[KR6j0623]] 390 佛說檀特羅麻油述經 Fó shuō Tántèluómáyóushù jīng *Sūtra of the Daṇḍala / Sesame-Oil Spell*
+- [[KR6j0625]] 390 佛說摩尼羅亶經 Fó shuō Móníluódǎn jīng *Sūtra of the Maṇi-rāḍa Spell*
+- [[KR6k0010]] 390 四分律比丘戒本 Sìfēn lǜ bǐqiū jièběn *The Four-Part Vinaya Bhikṣu-Prātimokṣa*
+- [[KR6k0105]] 390 菩薩瓔珞本業經 Púsà yīngluò běnyè jīng *The Sūtra of the Bodhisattva's Necklace of Original Action*
+- [[KR6o0053]] 390 三彌底部論 Sān mí dǐ bù lùn *Treatise of the Sāṃmitīya School (Sammitīya-nikāya-śāstra)*
+- [[KR6r0001]] 390 撰集三藏及雜藏傳 Zhuànjí sānzàng jí zázàng zhuàn *Compiled Account of the Tripiṭaka and the Miscellaneous Collection*
+- [[KR6r0003]] 390 迦丁比丘說當來變經 Jiādīng bǐqiū shuō dāngláibiàn jīng *Sūtra of the Bhikṣu Kātyāyana(?) Speaking on the Coming Decline*
+- [[KR6r0004]] 390 佛使比丘迦旃延說法沒盡偈百二十章 Fóshǐ bǐqiū Jiāzhānyán shuō fǎ mòjìn jì bǎi'èrshí zhāng *One Hundred Twenty Verses on the Disappearance of the Dharma, Spoken by the Bhikṣu Kātyāyana, Envoy of the Buddha*
+- [[KR6r0033]] 390 天尊說阿育王譬喻經 Tiānzūn shuō Āyùwáng pìyù jīng *Sūtra of Parables on King Aśoka, Spoken by the Heavenly One*
+- [[KR6i0010]] 394 佛說稱揚諸佛功德經 Fóshuō chēngyáng zhū fó gōngdé jīng *Sūtra of Praising and Proclaiming the Merits of All Buddhas*
+- [[KR6a0123]] 397 佛說放牛經 Fó shuō fàngniú jīng *Sūtra of the Cowherd*
+- [[KR6a0126]] 397 增壹阿含經 Zēngyī Āhán jīng *The Numbered Discourses (Ekottara-āgama)*
+- [[KR6b0058]] 397 大莊嚴論經 Dàzhuāngyán lùn jīng *Sūtrālaṃkāra (Treatise of Great Adornment)*
+- [[KR6d0112]] 397 金剛三昧經 Jīngāng sānmèi jīng *The Vajrasamādhi-sūtra*
+- [[KR6b0069]] 399 出曜經 Chūyào jīng *Udānavarga (Sūtra of Dharma-Verses with Auto-Commentary)*
+- [[KR6c0045]] 399 金剛經註 Jīngāng jīng zhù *Annotated Diamond Sūtra*
+
+## 400 to 499 (464)
+
+### KR1 (13)
+
+- [[KR1d0121]] 400 周氏喪服注 Zhōu-shì sāngfú zhù *Master Zhōu's Annotation on Mourning Dress*
+- [[KR1g0039]] 400 五經疑問 Wǔjīng yíwèn *Questions on the Five Classics*
+- [[KR1c0070]] 411 毛詩序義 Máo Shī xù yì *The Significance of the Preface(s) to the Mao Recension of the Poetry*
+- [[KR1d0122]] 411 集注喪服經傳 Jízhù sāngfú jīngzhuàn *Collected Annotation on the Mourning-Dress Classic and Tradition*
+- [[KR1j0105]] 433 纂文 Zuǎn wén *Compiled Graphs*
+- [[KR1d0101]] 436 禮論 Lǐlùn *Discussions on Ritual*
+- [[KR1g0038]] 450 六經略注序 Liùjīng lüèzhù xù *Preface to the Abridged Commentary on the Six Classics*
+- [[KR1a0175]] 471 周易繫辭明氏注 Zhōu Yì xìcí Míng shì zhù *Mr Míng's Notes on the Xìcí of the Zhōu Yì*
+- [[KR1d0104]] 471 禮論鈔略 Lǐlùn chāolüè *Excerpt-Abridgement of the Discussions on Ritual*
+- [[KR1d0124]] 480 喪服古今集記 Sāngfú gǔjīn jíjì *Collected Records on Mourning Dress, Ancient and Modern*
+- [[KR1d0103]] 486 禮義答問 Lǐyì dáwèn *Question-and-Answer on Ritual Principles*
+- [[KR1d0125]] 487 喪服世行要記 Sāngfú shìxíng yàojì *Essential Notes on Mourning Dress in Contemporary Practice*
+- [[KR1d0136]] 499 明堂制度論 Míngtáng zhìdù lùn *Discussion of the Míngtáng [Cosmic-Hall] System*
+
+### KR2 (21)
+
+- [[KR2k0136]] 415 佛國記 Fóguó jì *Record of the Buddha-Lands*
+- [[KR2k0187]] 416 西征記 Xī zhēng jì *Record of the Western Campaign*
+- [[KR2k0157]] 419 闞駰十三州志 Kǎn Yīn shísān zhōu zhì *Kan Yin's Monograph on the Thirteen Provinces*
+- [[KR2k0179]] 420 湘州記 Xiāngzhōu jì *Records of Xiangzhou*
+- [[KR2k0194]] 420 鄱陽記 Póyáng jì *Records of Poyang*
+- [[KR2k0155]] 421 宋劉澂之永初山川記 Sòng Liú Chéngzhī Yǒngchū shānchuān jì *Liu Chengzhi's Yongchu Mountains-and-Rivers Record of the (Liu) Song*
+- [[KR2a0002]] 437 史記集解 Shǐjì jíjiě *Collected Commentaries on the Records of the Grand Scribe*
+- [[KR2a0009]] 438 後漢書 Hòu Hànshū *The Book of the Later Han*
+- [[KR2k0173]] 438 南康記 Nánkāng jì *Records of Nankang*
+- [[KR2k0171]] 442 會稽記 Kuàijī jì *Records of Kuaiji*
+- [[KR2k0192]] 442 會稽記 Kuàijī jì *Records of Kuaiji*
+- [[KR2k0168]] 449 梁州記 Liángzhōu jì *Records of Liangzhou*
+- [[KR2k0169]] 449 秦州記 Qínzhōu jì *Records of Qinzhou*
+- [[KR2k0193]] 449 永嘉郡記 Yǒngjiā jùn jì *Records of Yongjia Commandery*
+- [[KR2k0199]] 449 湘州記 Xiāngzhōu jì *Records of Xiangzhou*
+- [[KR2k0201]] 449 續晉陽秋 Xù Jìn yángqiū *Continuation of the Spring and Autumn Annals of Jin*
+- [[KR2k0160]] 451 丹陽記 Dānyáng jì *Records of Danyang*
+- [[KR2k0182]] 479 武陵記 Wǔlíng jì *Records of Wuling*
+- [[KR2k0189]] 479 陸澄地理書抄 Lù Chéng dìlǐ shū chāo *Lu Cheng's Geographical Excerpts*
+- [[KR2a0016]] 487 宋書 Sòngshū *The Book of [Liú-]Sòng*
+- [[KR2k0181]] 490 武陵記 Wǔlíng jì *Records of Wuling*
+
+### KR3 (28)
+
+- [[KR3f0036]] 400 五曹算經 Wǔcáo suànjīng *The Five Bureaus' Mathematical Classic*
+- [[KR3g0028]] 400 靈棋經 Língqí jīng **
+- [[KR3l0100]] 400 搜神後記 Sōushén hòujì *Later Records of an Inquest into the Spirit-Realm*
+- [[KR3l0155]] 400 郭子 Guō zǐ *Master Guō (Anecdotes Compiled by Guō Chéngzhī)*
+- [[KR3l0164]] 400 甄異記 Zhēnyì jì *Records of Notable Anomalies*
+- [[KR3l0166]] 400 太清記 Tàiqīng jì *Records of Grand Purity*
+- [[KR3l0133]] 414 古今善言 Gǔjīn shànyán *Good Sayings, Old and Modern*
+- [[KR3h0095]] 431 畫山水敘 Huà shānshuǐ xù *Preface on the Painting of Landscapes*
+- [[KR3l0002]] 437 世說新語 Shìshuō xīnyǔ *A New Account of Tales of the World*
+- [[KR3l0151]] 437 宣驗記 Xuānyàn jì *Records of Manifest Efficacy*
+- [[KR3l0169]] 437 幽明錄 Yōumíng lù *Records of the Hidden and the Visible*
+- [[KR3a0132]] 438 庭誥 Tíng gào *Courtyard Admonitions*
+- [[KR3l0101]] 441 異苑 Yìyuàn *A Garden of Wonders*
+- [[KR3a0157]] 443 鑒戒象讚 Jiànjiè xiàng zàn *Encomia on Pictures Offered as Mirror-Admonitions*
+- [[KR3i0040]] 445 竹譜 Zhúpǔ *Treatise on Bamboo*
+- [[KR3ec086]] 449 雷公炮炙論 Léigōng Pàozhì Lùn *Lord Léi's Treatise on Drug Processing*
+- [[KR3l0153]] 449 集異記 Jíyì jì *Collected Anomalies*
+- [[KR3l0168]] 449 齊諧記 Qíxié jì *Records of Qíxié (Records of the Strange)*
+- [[KR3ek040]] 459 劉涓子鬼遺方 Liú Juānzǐ guǐyí fāng *Liu Juanzi's Ghost-Bequeathed Prescriptions*
+- [[KR3a0139]] 461 少子 Shàozǐ *The Younger Master*
+- [[KR3ed006]] 463 小品方 Xiǎopǐn Fāng *Lesser Selection of Recipes*
+- [[KR3fc004]] 466 張丘建算經 Zhāng Qiūjiàn suànjīng *Mathematical Canon of Zhāng Qiūjiàn*
+- [[KR3f0039]] 477 張邱建算經 Zhāng Qiūjiàn suànjīng *Zhāng Qiūjiàn's Mathematical Classic*
+- [[KR3eq029]] 483 褚氏遺書 Chǔshì yíshū *The Remaining Book of Master Chǔ*
+- [[KR3i0051]] 491 禽獸決錄 Qínshòu juélù *Definitive Record of Birds and Beasts*
+- [[KR3l0132]] 493 冥祥記 Míngxiáng jì *Signs from the Unseen Realm*
+- [[KR3h0001]] 495 古畫品錄 Gǔhuà pǐnlù **
+- [[KR3ec003]] 496 本草經集註 Běncǎo Jīng Jízhù *Collected Notes on the Classic of Materia Medica*
+
+### KR4 (42)
+
+- [[KR4k0385]] 400 秦記 Qín Jì *Record of Qin*
+- [[KR4k0386]] 400 後秦記 Hòu Qín Jì *Record of Later Qin*
+- [[KR4k0382]] 404 南燕書 Nán Yàn Shū *Book of Southern Yan*
+- [[KR4k0383]] 404 南燕書 (王景暉) Nán Yàn Shū (Wáng Jǐnghuī) *Book of Southern Yan (Wang Jinghui)*
+- [[KR4k0398]] 407 孝子傳 (王韶之) Xiàozǐ Zhuàn (Wáng Sháozhī) *Biographies of Filial Sons (Wang Shaozhi)*
+- [[KR4b0040]] 410 傅亮集 Fù Liàng jí *Collected Works of Fu Liang (Reconstructed)*
+- [[KR4k0341]] 411 裴松之晉紀 Péi Sōngzhī Jìnjì *Péi Sōngzhī's Record of the Jin*
+- [[KR4b0041]] 417 謝晦集 Xiè Huì jí *Collected Works of Xie Hui (Reconstructed)*
+- [[KR4k0381]] 418 涼記 (段龜龍) Liáng Jì (Duàn Guīlóng) *Record of Liang (Duan Guilong)*
+- [[KR4k0387]] 418 西河記 Xīhé Jì *Record of the Western River*
+- [[KR4k0388]] 418 燉煌實錄 Dūnhuáng Shílù *Veritable Records of Dunhuang*
+- [[KR4b0043]] 419 謝靈運集 Xiè Língyùn jí *Collected Works of Xie Lingyun (Reconstructed)*
+- [[KR4i0066]] 420 佚名事對 Yìmíng Shìduì *Anonymous Handbook of Thematic Allusions*
+- [[KR4b0044]] 426 謝惠連集 Xiè Huìlián jí *Collected Works of Xie Huilian (Reconstructed)*
+- [[KR4k0362]] 426 晉書 (謝靈運) Jìn Shū (Xiè Língyùn) *History of the Jin (Xie Lingyun)*
+- [[KR4b0042]] 430 顏延之集 Yán Yánzhī jí *Collected Works of Yan Yanzhi (Reconstructed)*
+- [[KR4k0366]] 435 晉紀 Jìn Jì *Annals of the Jin*
+- [[KR4k0343]] 438 元嘉起居注 Yuánjia Qǐjūzhù *Court Diary of the Yuanjia Era*
+- [[KR4b0045]] 439 袁淑集 Yuán Shū jí *Collected Works of Yuan Shu (Reconstructed)*
+- [[KR4b0046]] 449 鮑照集 Bào Zhào jí *Collected Works of Bao Zhao (Reconstructed, Supplementary)*
+- [[KR4k0401]] 449 孝子傳 (師覺授) Xiàozǐ Zhuàn (Shī Juéshòu) *Biographies of Filial Sons (Shi Jueshou)*
+- [[KR4k0412]] 449 孝傳 Xiào Zhuàn *Biographies of Filial Piety*
+- [[KR4k0342]] 450 續晉陽秋 Xù Jìn Yángqiū *Continuation of the Jin Yangqiu*
+- [[KR4b0047]] 453 謝莊集 Xiè Zhuāng jí *Collected Works of Xie Zhuang (Reconstructed)*
+- [[KR4b0072]] 453 高允集 Gāo Yǔn Jí *Collected Works of Gao Yun*
+- [[KR4k0361]] 459 晉中興書 Jìn Zhōngxīng Shū *History of the Jin Restoration*
+- [[KR4k0402]] 461 孝子傳 (宋躬) Xiàozǐ Zhuàn (Sòng Gōng) *Biographies of Filial Sons (Song Gong)*
+- [[KR4b0048]] 479 張融集 Zhāng Róng jí *Collected Works of Zhang Rong (Reconstructed)*
+- [[KR4b0102]] 479 王儉集 Wáng Jiǎn jí *Collected Works of Wang Jian (Reconstructed)*
+- [[KR4k0389]] 480 三十國春秋 (武敏之) Sānshí Guó Chūnqiū (Wǔ Mǐnzhī) *Spring and Autumn of the Thirty States (Wu Minzhi)*
+- [[KR4k0380]] 481 燕志 Yàn Zhì *Gazette of Yan*
+- [[KR4b0049]] 484 孔稚珪集 Kǒng Zhìguī jí *Collected Works of Kong Zhigui (Reconstructed)*
+- [[KR4b0050]] 484 蕭子良集 Xiāo Zǐliáng jí *Collected Works of Xiao Ziliang (Reconstructed)*
+- [[KR4b0105]] 485 江淹集 Jiāng Yān jí *Collected Works of Jiang Yan (Reconstructed)*
+- [[KR4b0051]] 488 王融集 Wáng Róng jí *Collected Works of Wang Rong (Reconstructed)*
+- [[KR4k0347]] 490 齊春秋 Qí Chūnqiū *Spring and Autumn Annals of the Qi*
+- [[KR4b0011]] 491 鮑明遠集 Bào Míngyuǎn jí *Collected Works of Bào Míngyuǎn (Bào Zhào)*
+- [[KR4b0053]] 494 任昉集 Rèn Fǎng jí *Collected Works of Ren Fang (Reconstructed)*
+- [[KR4b0104]] 494 沈約集 Shěn Yuē jí *Collected Works of Shen Yue (Reconstructed)*
+- [[KR4b0055]] 496 丘遲集 Qiū Chí jí *Collected Works of Qiu Chi (Reconstructed)*
+- [[KR4k0363]] 496 晉書 (沈約) Jìn Shū (Shěn Yuē) *History of the Jin (Shen Yue)*
+- [[KR4i0001]] 499 文心雕龍 Wénxīn diāolóng *The Literary Mind and the Carving of Dragons*
+
+### KR5 (79)
+
+- [[KR5a0166]] 400 靈寶自然九天生神三寶大有金書 Língbǎo zìrán jiǔtiān shēngshén sānbǎo dàyǒu jīnshū *Golden Writing from the Dàyǒu [Palace] of the Three Treasures, on the Spontaneous Life-Spirits of the Nine Heavens of the Língbǎo Tradition*
+- [[KR5a0178]] 400 太上洞真智慧上品大誡 Tàishàng dòngzhēn zhìhuì shàngpǐn dàjiè *The Most-High Cavern-Perfection Wisdom Superior-Grade Great Precepts*
+- [[KR5a0255]] 400 大洞金華玉經 Dàdòng jīnhuá yùjīng *Jade Scripture of the Golden Flower of the Great Cavern*
+- [[KR5a0297]] 400 黃帝授三子玄女經 Huángdì shòu sān zǐ Xuánnǚ jīng *Book of the Dark Maiden, Transmitted by Huangdi to His Three Disciples*
+- [[KR5b0019]] 400 太上洞淵神咒經 Tàishàng dòngyuān shénzhòu jīng *Scripture of the Divine Incantations of the Abyssal Caverns, of the Most High*
+- [[KR5b0046]] 400 太上洞淵說請雨龍王經 Tàishàng dòngyuān shuō qǐngyǔ lóngwáng jīng *Scripture of the Dragon-Kings for Praying for Rain, Spoken by the Most High of the Abyssal Caverns*
+- [[KR5b0047]] 400 太上召諸龍神安鎮墳墓經 Tàishàng zhào zhū lóngshén ānzhèn fénmù jīng *Scripture of the Most High on Summoning the Various Dragon Deities to Secure and Protect Tombs*
+- [[KR5b0138]] 400 太上洞玄靈寶上品戒經 Tàishàng dòngxuán língbǎo shàngpǐn jiè jīng *Scripture of the Upper-Grade Precepts of the Most-High Cavern-Mystery Numinous Treasure*
+- [[KR5b0139]] 400 太上玄一真人說三途五苦勸戒經 Tàishàng xuányī zhēnrén shuō sāntú wǔkǔ quànjiè jīng *Scripture of the Most-High Mysterious-One Perfected on the Three Paths and Five Sufferings, an Exhortation*
+- [[KR5b0140]] 400 太上洞玄靈寶三元品戒功德輕重經 Tàishàng dòngxuán língbǎo sānyuán pǐnjiè gōngdé qīngzhòng jīng *Scripture of the Most-High Cavern-Mystery Numinous Treasure on the Three Primordials' Precept-Grades and the Weighing of Merit and Demerit*
+- [[KR5b0142]] 400 上清眾真教戒德行經 Shàngqīng zhòngzhēn jiào jiè déxíng jīng *Scripture of the Highest-Clarity Multitude of Perfected on Precepts, Virtue and Practice*
+- [[KR5b0143]] 400 洞玄靈寶天尊說十戒經 Dòngxuán língbǎo Tiānzūn shuō shíjiè jīng *Scripture in which the Heavenly Worthy of the Cavern-Mystery Numinous Treasure Expounds the Ten Precepts*
+- [[KR5b0303]] 400 十洲記 Shízhōu jì *Record of the Ten Continents*
+- [[KR5b0314]] 400 太上洞玄靈寶智慧禮讚 Tàishàng dòngxuán língbǎo zhìhuì lǐzàn *Ritual Eulogies of the Wisdom of the Most-High Cavernous-Mystery Numinous-Treasure*
+- [[KR5b0315]] 400 靈寶九幽長夜起尸度亡玄章 Língbǎo jiǔyōu chángyè qǐshī dùwáng xuánzhāng *Numinous-Treasure Mystery-Stanzas for Raising the Corpse and Saving the Dead from the Nine Dark Long-Nights*
+- [[KR5b0320]] 400 赤松子章曆 Chìsōngzǐ zhānglì *Master Chì-sōng's Almanac of Petitions*
+- [[KR5c0040]] 400 太上浩元經 Tàishàng hàoyuán jīng *Scripture of the Vast Origin, of the Most High*
+- [[KR5c0214]] 400 太清中黃真經 Tài qīng zhōng huáng zhēn jīng *True Scripture of the Central Yellow of the Great Clarity*
+- [[KR5c0215]] 400 太清導引養生經 Tài qīng dǎo yǐn yǎng shēng jīng *Scripture of Great-Clarity Gymnastic-Breathing and Life-Nourishing*
+- [[KR5c0216]] 400 太上養生胎息氣經 Tài shàng yǎng shēng tāi xí qì jīng *Scripture of Most High Life-Nourishing Embryonic-Breathing Pneumatic Cultivation*
+- [[KR5c0217]] 400 太清調氣經 Tài qīng tiáo qì jīng *Scripture of Great-Clarity Pneumatic-Regulation*
+- [[KR5c0218]] 400 太上老君養生訣 Tài shàng Lǎo jūn yǎng shēng jué *Life-Nourishing Instructions of the Most High Lord Lǎo*
+- [[KR5c0219]] 400 太清服氣口訣 Tài qīng fú qì kǒu jué *Oral Instructions on Pneumatic-Consumption of the Great Clarity*
+- [[KR5c0242]] 400 上清經真丹祕訣 Shàng qīng jīng zhēn dān mì jué *Secret Instructions on the True-Elixir of the Shàng qīng Scripture*
+- [[KR5c0243]] 400 太清經斷穀法 Tài qīng jīng duàn gǔ fǎ *Methods for Cutting Off Grain from the Tài qīng Scripture*
+- [[KR5c0253]] 400 三皇內文遺祕 Sān huáng nèi wén yí mì *Remnant Secrets of the Three Sovereigns' Inner Writings*
+- [[KR5c0255]] 400 太上洞神玄妙白猿真經 Tài shàng dòng shén xuán miào bái yuán zhēn jīng *Most High Cavern-Spirit Mysterious-Marvelous White-Ape True Scripture*
+- [[KR5c0256]] 400 太上通玄靈印經 Tài shàng tōng xuán líng yìn jīng *Most High Mystery-Communicating Numinous-Seal Scripture*
+- [[KR5c0258]] 400 太上六壬明鑑符陰經 Tài shàng liù rén míng jiàn fú yīn jīng *Most High Six-Rén Bright-Mirror Talisman-Shade Scripture*
+- [[KR5c0259]] 400 顯道經 Xiǎn dào jīng *Scripture of Manifest Way*
+- [[KR5c0260]] 400 神仙鍊丹點鑄三元寶照法 Shén xiān liàn dān diǎn zhù sān yuán bǎo zhào fǎ *Dharma of Divine Immortals' Refining, Founding, and Casting the Three Origins' Precious Mirrors*
+- [[KR5c0261]] 400 元陽子五假論 Yuán yáng zǐ wǔ jiǎ lùn *Master Yuán yáng's Treatise on the Five Falses*
+- [[KR5c0262]] 400 太清元極至妙神珠玉顆經 Tài qīng yuán jí zhì miào shén zhū yù kē jīng *Great-Clarity Primordial-Ultimate Supreme-Marvelous Divine-Pearl Jade-Kernel Scripture*
+- [[KR5c0267]] 400 北斗治法武威經 Běi dǒu zhì fǎ wǔ wēi jīng *Northern-Dipper Governing-Dharma and Martial-Awe Scripture*
+- [[KR5c0052]] 402 太上無極大道自然真一五稱符上經 Tài shàng wú jí dà dào zì rán zhēn yī wǔ chēng fú shàng jīng *Supreme Scripture of the Most High Boundless Great Tao and the Spontaneously [Created] True-and-One Symbols of the Five Correspondences*
+- [[KR5b0014]] 413 太上洞玄靈寶真文要解上經 Tàishàng dòngxuán língbǎo zhēnwén yàojiě shàngjīng *Superior Scripture with Essential Explanations on the True Writs, of the Most High Cavern-Mystery Numinous Treasure*
+- [[KR5b0028]] 413 太上洞玄靈寶智慧本願大戒上品經 Tàishàng dòngxuán língbǎo zhìhuì běnyuàn dàjiè shàngpǐn jīng *Upper-Grade Scripture on the Great Precepts and Original Vows of Wisdom, of the Most High Cavern-Mystery Numinous Treasure*
+- [[KR5b0030]] 413 太上洞玄靈寶真一勸誡法輪妙經 Tàishàng dòngxuán língbǎo zhēnyī quànjiè fǎlún miàojīng *Marvelous Scripture of the Wheel of the Law in Exhortation and Prohibition, of the Most High Cavern-Mystery Numinous Treasure*
+- [[KR5b0031]] 413 太上玄一真人說妙通轉神入定經 Tàishàng xuányī zhēnrén shuō miàotōng zhuǎnshén rùdìng jīng *Scripture of Entering Samādhi of Marvelous Perception and the Transformation of the Spirit, Spoken by the Perfected of the Most High Mysterious One*
+- [[KR5b0032]] 413 太上玄一真人說勸誡法輪妙經 Tàishàng xuányī zhēnrén shuō quànjiè fǎlún miàojīng *Marvelous Scripture of the Wheel of the Law in Exhortation and Prohibition, Spoken by the Perfected of the Most High Mysterious One*
+- [[KR5b0053]] 413 太上洞玄靈寶滅度五鍊生尸妙經 Tàishàng dòngxuán língbǎo mièdù wǔliàn shēngshī miàojīng *Marvelous Scripture on Nirvāṇa through the Fivefold Refinement of Living Beings and Corpses, of the Most High Cavern-Mystery Numinous Treasure*
+- [[KR5b0109]] 413 上清太極隱注玉經寶訣 Shàngqīng tàijí yǐnzhù yùjīng bǎojué *Precious Instructions on the Jade Scriptures, a Secret Commentary by the Zhēnrén of the Supreme Pole, of the Upper Clarity*
+- [[KR5b0118]] 413 玄寶人鳥山經圖 Xuánbǎo rénniǎo shān jīngtú *Scriptural Chart of the Man-Bird Mountain, of the Mysterious Treasure*
+- [[KR5a0037]] 420 元始天尊說變化空洞妙經 Yuánshǐ tiānzūn shuō biànhuà kōngdòng miàojīng *Marvellous Scripture of the Transformations in the Empty Cavern, Spoken by Yuánshǐ Tiānzūn*
+- [[KR5a0055]] 420 高上太霄琅書瓊文帝章經 Gāoshàng tàixiāo lángshū qióngwén dìzhāng jīng *Scripture of the Emperor's Stanzas in Precious Writing, Jewel Book of the High Heavens*
+- [[KR5a0060]] 420 元始天尊說玄微妙經 Yuánshǐ tiānzūn shuō xuánwēi miàojīng *Marvellous Scripture of Mysterious Subtlety, Spoken by Yuánshǐ Tiānzūn*
+- [[KR5a0082]] 420 上清洞真元經五籍符 Shàngqīng dòngzhēn xuánjīng wǔ jí fú *Five Register-Talismans of the Mysterious Book of the Dòngzhēn Canon*
+- [[KR5a0129]] 420 太上求仙定錄尺素真訣玉文 Tàishàng qiúxiān dìnglù chǐsù zhēnjué yùwén *Precious Writs and True Formulas on Silk-Lengths, Determining the Rank of Those Who Seek Immortality*
+- [[KR5a0130]] 420 太霄琅書瓊文帝章訣 Tàixiāo lángshū qióngwén dìzhāng jué *Formula of the Emperor's Stanzas in Precious Writing, Jewel Book of the High Heavens*
+- [[KR5a0134]] 420 太上洞房內經註 Tàishàng dòngfáng nèijīng zhù *Hymn to the Gods of the Cave-Chamber, with Commentary*
+- [[KR5a0167]] 420 元始上真眾仙記 Yuánshǐ shàngzhēn zhòngxiān jì *Register of [the Heavenly Prince of] Primordial Beginning, the Superior Zhēnrén, and the Hosts of Immortals*
+- [[KR5a0185]] 420 太真玉帝四極明科經 Tàizhēn yùdì sìjí míngkē jīng *Scripture of the Sworn Code of the Four Poles, [Promulgated by] the Jade Emperor of the Great-Perfection*
+- [[KR5a0188]] 420 太清五十八願文 Tàiqīng wǔshí bā yuàn wén *Text of the Fifty-Eight Vows from the Tàiqīng [Heaven]*
+- [[KR5b0006]] 420 太上靈寶天地運度自然妙經 Tàishàng língbǎo tiāndì yùndù zìrán miàojīng *Marvelous Scripture on the Spontaneous Laws of Motion of Heaven and Earth, of the Most High Numinous Treasure*
+- [[KR5b0008]] 420 上清五常變通萬化鬱冥經 Shàngqīng wǔcháng biàntōng wànhuà yùmíng jīng *Airy and Mysterious Scripture on the Universal Metamorphosis and Myriad Transformations of the Five Permanent Ones, of the Upper Clarity*
+- [[KR5b0018]] 420 太上靈寶元陽妙經 Tàishàng língbǎo yuányáng miàojīng *Marvelous Scripture of the Primordial Yang, of the Most High Numinous Treasure*
+- [[KR5b0029]] 420 太上洞玄靈寶誡業本行上品妙經 Tàishàng dòngxuán língbǎo jièyè běnxíng shàngpǐn miàojīng *Upper-Grade Marvelous Scripture on the Rules of Conduct, of the Most High Cavern-Mystery Numinous Treasure*
+- [[KR5b0040]] 420 洞玄靈寶上師說救護身命經 Dòngxuán língbǎo shàngshī shuō jiùhù shēnmìng jīng *Scripture of Salvation of Life and Person, Spoken by the Senior Master, of the Cavern-Mystery Numinous Treasure*
+- [[KR5b0045]] 420 太上洞玄靈寶八威召龍妙經 Tàishàng dòngxuán língbǎo bāwēi zhàolóng miàojīng *Marvelous Scripture on the Eight Daunters and the Summoning of Dragon Kings, of the Most High Cavern-Mystery Numinous Treasure*
+- [[KR5b0054]] 420 太上洞玄靈寶三元玉京玄都大獻經 Tàishàng dòngxuán língbǎo sānyuán yùjīng xuándū dàxiàn jīng *Scripture of the Great Offering in the Capital of Mystery on Jade Capital Mountain for the [Days of the] Three Primordials, of the Most High Cavern-Mystery Numinous Treasure*
+- [[KR5b0065]] 420 洞玄靈寶飛仙上品妙經 Dòngxuán língbǎo fēixiān shàngpǐn miàojīng *Upper-Grade Marvelous Scripture of the Flying Immortals, of the Cavern-Mystery Numinous Treasure*
+- [[KR5b0079]] 420 太上洞玄靈寶投簡符文要訣 Tàishàng dòngxuán língbǎo tóujiǎn fúwén yàojué *Essential Instructions on the Written Talismans for the Casting of Tablets, of the Most High Cavern-Mystery Numinous Treasure*
+- [[KR5b0101]] 420 太上大道三元品誡謝罪上法 Tàishàng dàdào sānyuán pǐnjiè xièzuì shàngfǎ *Superior Method of the Most High Great Dào for Seeking Pardon for Sins against the Classified Precepts of the Three Primordials*
+- [[KR5b0112]] 420 太上飛行九晨玉經 Tàishàng fēixíng jiǔchén yùjīng *Jade Scripture on the Flight to the Nine Stars, of the Most High*
+- [[KR5b0141]] 425 太上洞玄靈寶智慧罪根上品大戒經 Tàishàng dòngxuán língbǎo zhìhuì zuìgēn shàngpǐn dàjiè jīng *Scripture of the Most-High Cavern-Mystery Numinous Treasure on the Upper-Grade Great Precepts for the Wisdom-Root and Sin-Root*
+- [[KR5c0182]] 436 老君音誦戒經 Lǎo jūn yīn sòng jiè jīng *Recited Precepts Scripture of the Lord Lǎo*
+- [[KR5e0029]] 441 陸先生道門科略 Lù xiān sheng dào mén kē lüè *Master Lù's Summary of Regulations for the Daoist Gate*
+- [[KR5g0014]] 448 三天內解經 Sān tiān nèi jiě jīng *Inner Explanation of the Three Heavens*
+- [[KR5g0087]] 448 洞玄靈寶五感文 Dòng xuán Líng bǎo wǔ gǎn wén *Dòng-xuán Líng-bǎo Text of Five Responsive-Feelings*
+- [[KR5g0102]] 448 上清太微帝君結帶真文法 Shàng qīng Tài wēi dì jūn jié dài zhēn wén fǎ *Shàng-qīng Tài-wēi Thearch-Lord's Dharma of the Knotted-Sash Perfect-Script*
+- [[KR5b0033]] 457 太上洞玄靈寶法燭經 Tàishàng dòngxuán língbǎo fǎzhú jīng *Scripture of the Beacon of the Law, of the Most High Cavern-Mystery Numinous Treasure*
+- [[KR5b0094]] 457 太上洞玄靈寶眾簡文 Tàishàng dòngxuán língbǎo zhòngjiǎn wén *Compilation of the Tablet Formulae, of the Most High Cavern-Mystery Numinous Treasure*
+- [[KR5b0227]] 457 洞玄靈寶齋說光燭戒罰燈祝願儀 Dòngxuán língbǎo zhāishuō guāngzhú jièfá dēng zhùyuàn yí *Liturgy of the Discussion of the Fast, the Lamps and Candles, the Precepts and Penalties, and the Lamp-Vows of the Dòngxuán Língbǎo*
+- [[KR5b0231]] 457 太上洞玄靈寶授度儀 Tàishàng dòngxuán língbǎo shòudù yí *Liturgy of the Transmission and Salvation of the Great-High Dòngxuán Língbǎo*
+- [[KR5a0331]] 469 夷夏論 Yí Xià lùn *Discourse on Barbarians and the Chinese*
+- [[KR5b0294]] 492 太上赤文洞神三籙 Tàishàng chìwén dòngshén sānlù *Most-High Three Registers of the Red-Text Cavern-Spirit*
+- [[KR5c0235]] 496 養性延命錄 Yǎng xìng yán mìng lù *Record of Nourishing Nature and Extending Life*
+- [[KR5d0073]] 496 華陽陶隱居集 Huá yáng Táo yǐn jū jí *Collected Works of the Huá-yáng Recluse Táo*
+- [[KR5d0036]] 499 真誥 Zhēn gào *Declarations of the Perfected*
+
+### KR6 (281)
+
+- [[KR6b0023]] 400 太子須大拏經 Tàizǐ Sūdánà jīng *Sūtra of Prince Sudāna (Vessantara)*
+- [[KR6b0026]] 400 菩薩睒子經 Púsà Shǎnzǐ jīng *Sūtra of the Bodhisattva Śyāmaka*
+- [[KR6c0004]] 400 摩訶般若波羅蜜經 Móhē bōrě bōluómì jīng *Pañcaviṃśatisāhasrikā Prajñāpāramitā (Kumārajīva's Mahāprajñāpāramitā Sūtra)*
+- [[KR6e0043]] 400 佛說羅摩伽經 Fó shuō luó mó qié jīng *The Sūtra Spoken by the Buddha on the Rāmakas (Indic original uncertain — a partial Western Qín translation of the Gaṇḍavyūha)*
+- [[KR6f0095]] 400 阿彌陀佛說呪 Ā mí tuó fó shuō zhòu *The Spell Spoken by Amitābha Buddha*
+- [[KR6i0203]] 400 佛說婦人遇辜經 Fóshuō Fùrén yùgū jīng *Sūtra of the Woman Who Met with Misfortune*
+- [[KR6k0009]] 400 四分律 Sìfēn lǜ *The Four-Part Vinaya*
+- [[KR6l0019]] 400 入阿毘達磨論 Rù Āpídámó Lùn *Abhidharma-avatāra-śāstra -- Introduction to the Abhidharma*
+- [[KR6l0023]] 400 阿毘達磨俱舍論 Āpídámó Jùshě Lùn *Abhidharmakośa-bhāṣya -- Treasury of Higher Doctrine*
+- [[KR6l0028]] 400 阿毘達磨俱舍釋論 Āpídámó Jùshě Shìlùn *Abhidharmakośa-bhāṣya -- Commentary on the Treasury of Higher Doctrine*
+- [[KR6l0029]] 400 阿毘達磨俱舍論本頌 Āpídámó Jùshě Lùn Běn Sòng *Abhidharmakośa-kārikā -- Root Verses of the Treasury of Higher Doctrine*
+- [[KR6l0031]] 400 阿毘達磨順正理論 Āpídámó Shùnzhènglǐ Lùn *Abhidharmanyāyānusāra-śāstra -- Treatise Following Correct Principle in Abhidharma*
+- [[KR6l0032]] 400 阿毘達磨藏顯宗論 Āpídámó Zàng Xiǎnzōng Lùn *Abhidharmakośa-śāstra-kārikā-vibhāṣya -- Commentary Manifesting the Correct Teaching of the Abhidharma Treasury*
+- [[KR6m0036]] 400 鳩摩羅什法師大義 Jiūmóluóshí fǎshī dàyì *Major Doctrinal Discussions of the Dharma Master Kumārajīva*
+- [[KR6u0001]] 400 護身命經 Hùshēnmìng jīng *Sūtra for Protecting Body and Life*
+- [[KR6u0002]] 400 護身命經 Hùshēnmìng jīng **
+- [[KR6u0004]] 400 決罪福經 Jué zuìfú jīng *Sūtra Adjudicating Sin and Merit*
+- [[KR6v0028]] 400 諦義證得經 Dìyì zhèngdé jīng *Tattvārthādhigama-sūtra*
+- [[KR6a0001]] 401 長阿含經 Cháng Āhán jīng *The Long Discourses (Dīrgha-āgama)*
+- [[KR6o0084]] 401 釋摩訶衍論 Shì mó hē yǎn lùn *Commentary on the Mahāyāna [Awakening of Faith] (Mahāyāna-vyākhyā-śāstra)*
+- [[KR6i0021]] 403 佛說不思議功德諸佛所護念經 Fóshuō bùsīyì gōngdé zhū fó suǒ hùniàn jīng *Sūtra Spoken by the Buddha of Inconceivable Merit and the Mindfulness-Protection of All Buddhas*
+- [[KR6i0218]] 403 思益梵天所問經 Sīyì Fàntiān suǒwèn jīng *Sūtra of the Questions of Brahmā Viśeṣacintin*
+- [[KR6k0017]] 404 十誦比丘波羅提木叉戒本 Shísòng bǐqiū pōluótímùchā jièběn *The Sarvāstivāda Bhikṣu-Prātimokṣa*
+- [[KR6m0012]] 404 百論 Bǎi lùn *Treatise in a Hundred [Verses]*
+- [[KR6a0051]] 405 梵志計水淨經 Fànzhì jì shuǐjìng jīng *Sūtra of the Brahmin Who Reckoned Purity by Water*
+- [[KR6a0094]] 405 箭喻經 Jiànyù jīng *Sūtra of the Arrow Simile*
+- [[KR6b0064]] 405 雜譬喻經 Zá pìyù jīng *Sūtra of Miscellaneous Parables (Dàoluè's Compilation)*
+- [[KR6b0065]] 405 眾經撰雜譬喻 Zhòngjīng zhuànzá pìyù *Compendium of Miscellaneous Parables Compiled from Many Sūtras*
+- [[KR6c0005]] 405 大智度論 Dàzhìdù lùn *Mahāprajñāpāramitāśāstra (Treatise on the Great Perfection of Wisdom)*
+- [[KR6c0023]] 405 金剛般若波羅蜜經 Jīngāng bōrě bōluómì jīng *Vajracchedikā Prajñāpāramitā (Diamond Sūtra)*
+- [[KR6c0127]] 405 摩訶般若波羅蜜大明呪經 Móhē bānruò bōluómì dàmíng zhòu jīng *The Great Prajñāpāramitā Great-Brilliant-Mantra Sūtra*
+- [[KR6c0202]] 405 佛說仁王般若波羅蜜經 Fó shuō Rénwáng bōrě bōluómì jīng *Sūtra of the Humane King's Perfection of Wisdom, Spoken by the Buddha*
+- [[KR6e0056]] 405 佛說莊嚴菩提心經 Fó shuō zhuāngyán pútí xīn jīng *The Sūtra Spoken by the Buddha on Adorning the Mind of Awakening*
+- [[KR6f0082]] 405 佛說阿彌陀經 Fó shuō ā mí tuó jīng *The Sūtra Spoken by the Buddha on Amitābha (the Smaller Sukhāvatī-vyūha)*
+- [[KR6g0028]] 405 集一切福德三昧經 Jí yī qiè fú dé sānmèi jīng *The Sūtra on the Samādhi of Gathering All Merit (Sarvapuṇya-samuccaya-samādhi)*
+- [[KR6g0043]] 405 佛垂般涅槃略說教誡經 Fó chuí bān niè pán lüè shuō jiào jiè jīng *The Sūtra of the Buddha's Brief Teaching-Admonition Just Before Parinirvāṇa (Yí jiào jīng 遺教經)*
+- [[KR6h0029]] 405 自在王菩薩經 Zìzàiwáng púsà jīng *The Sūtra of the Bodhisattva Vikurvāṇa-rāja (Vikurvāṇa-rāja-paripṛcchā)*
+- [[KR6i0002]] 405 佛說千佛因緣經 Fóshuō qiān fó yīnyuán jīng *Sūtra on the Past-Life Causes of the Thousand Buddhas*
+- [[KR6i0033]] 405 佛說彌勒下生成佛經 Fóshuō Mílè xiàshēng chéngfó jīng *Sūtra Spoken by the Buddha on the Descent and Attainment of Buddhahood of Maitreya*
+- [[KR6i0035]] 405 佛說彌勒大成佛經 Fóshuō Mílè dà chéngfó jīng *Sūtra Spoken by the Buddha on Maitreya's Great Attainment of Buddhahood*
+- [[KR6i0065]] 405 文殊師利問菩提經 Wénshūshīlì wèn pútí jīng *Sūtra of Mañjuśrī's Questions on Awakening (a.k.a. Sūtra of Mount Gayāśīrṣa)*
+- [[KR6i0076]] 405 維摩詰所說經 Wéimójié suǒshuō jīng *Sūtra Spoken by Vimalakīrti*
+- [[KR6i0111]] 405 持世經 Chíshì jīng *Sūtra of the World-Holder*
+- [[KR6i0113]] 405 不思議光菩薩所說經 Bùsīyì guāng púsà suǒshuō jīng *Sūtra Spoken by the Bodhisattva Inconceivable Light*
+- [[KR6i0251]] 405 坐禪三昧經 Zuòchán sānmèi jīng *Sūtra on the Samādhi of Sitting Meditation*
+- [[KR6i0252]] 405 菩薩訶色欲法經 Púsà hē sèyù fǎ jīng *A Bodhisattva's Method for Reproaching the Desire of Sense-Forms*
+- [[KR6i0253]] 405 禪法要解 Chánfǎ yàojiě *Essential Explanations of the Methods of Meditation*
+- [[KR6i0254]] 405 思惟略要法 Sīwéi lüèyào fǎ *Brief Essentials of the Method of Contemplation*
+- [[KR6i0262]] 405 大樹緊那羅王所問經 Dàshù Jǐnnàluówáng suǒwèn jīng *Sūtra of the Inquiry of the Great-Tree Kinnara-King*
+- [[KR6i0288]] 405 諸法無行經 Zhūfǎ wúxíng jīng *Sūtra on the Non-Practice of All Dharmas*
+- [[KR6i0291]] 405 佛藏經 Fózàng jīng *Sūtra of the Buddha-Treasury*
+- [[KR6i0295]] 405 佛說華手經 Fóshuō huáshǒu jīng *Sūtra of the Flower-Hand as Spoken by the Buddha*
+- [[KR6i0395]] 405 燈指因緣經 Dēngzhǐ yīnyuán jīng *The Sūtra on the Karmic Connection of Lamp-Finger*
+- [[KR6j0175]] 405 孔雀王呪經 Kǒngquè wáng zhòu jīng *Sūtra of the Peacock-King Spell*
+- [[KR6k0016]] 405 十誦律 Shísòng lǜ *The Ten-Recitation Vinaya*
+- [[KR6k0019]] 405 大沙門百一羯磨法 Dà shāmén bǎiyī jiémófǎ *The Hundred-and-One Karma Procedures of the Great Śramaṇa*
+- [[KR6k0067]] 405 大愛道比丘尼經 Dààidào bǐqiūnī jīng *The Sūtra of the Bhikṣuṇī Mahāprajāpatī*
+- [[KR6k0076]] 405 梵網經 Fànwǎng jīng *The Brahmajāla Sūtra*
+- [[KR6k0111]] 405 清淨毘尼方廣經 Qīngjìng pínì fāngguǎng jīng *The Vaipulya Sūtra of the Pure Vinaya*
+- [[KR6k0113]] 405 菩薩藏經 Púsàzàng jīng *The Bodhisattva-Piṭaka Sūtra*
+- [[KR6m0008]] 405 十二門論 Shí'èrmén lùn *Treatise of the Twelve Gates*
+- [[KR6o0064]] 405 發菩提心經論 Fā pú tí xīn jīng lùn *Treatise on the Sūtra Concerning the Production of the Bodhi-Mind*
+- [[KR6e0034]] 407 十住經 Shí zhù jīng *The Sūtra on the Ten Abodes (Daśabhūmika-sūtra, Kumārajīva's translation)*
+- [[KR6e0059]] 407 十住毘婆沙論 Shí zhù pípóshā lùn *The Vibhāṣā Treatise on the Ten Abodes of the Bodhisattva*
+- [[KR6i0279]] 407 佛說首楞嚴三昧經 Fóshuō shǒuléngyán sānmèi jīng *Sūtra on the Heroic-March Samādhi as Spoken by the Buddha*
+- [[KR6m0001]] 407 中論 Zhōng lùn *Madhyamakaśāstra (Treatise on the Middle Way)*
+- [[KR6r0035]] 407 馬鳴菩薩傳 Mǎmíng púsà zhuàn *Biography of the Bodhisattva Aśvaghoṣa*
+- [[KR6r0036]] 407 龍樹菩薩傳 Lóngshù púsà zhuàn *Biography of the Bodhisattva Nāgārjuna*
+- [[KR6r0037]] 407 龍樹菩薩傳 Lóngshù púsà zhuàn *Biography of the Bodhisattva Nāgārjuna*
+- [[KR6r0038]] 407 提婆菩薩傳 Típó púsà zhuàn *Biography of the Bodhisattva Āryadeva*
+- [[KR6o0050]] 408 成實論 Chéng shí lùn *Treatise on the Establishment of Reality (Tattvasiddhi-śāstra)*
+- [[KR6b0027]] 409 睒子經 Shǎnzǐ jīng *Sūtra of Śyāmaka*
+- [[KR6b0028]] 409 佛說睒子經 Fóshuō Shǎnzǐ jīng *Sūtra of Śyāmaka, spoken by the Buddha (alternative recension)*
+- [[KR6b0029]] 409 佛說睒子經 Fóshuō Shǎnzǐ jīng *Sūtra of Śyāmaka, spoken by the Buddha (third recension)*
+- [[KR6c0013]] 410 小品般若波羅蜜經 Xiǎopǐn bōrě bōluómì jīng *Aṣṭasāhasrikā Prajñāpāramitā (Kumārajīva's Translation)*
+- [[KR6h0009]] 410 虛空藏菩薩經 Xūkōngzàng púsà jīng *The Sūtra of the Bodhisattva Ākāśagarbha*
+- [[KR6j0569]] 410 大方等陀羅尼經 Dà fāngděng tuóluóní jīng *Mahāvaipulya-Dhāraṇī Sūtra*
+- [[KR6k0011]] 410 四分僧戒本 Sìfēn sēngjièběn *The Four-Part Saṅgha-Prātimokṣa*
+- [[KR6k0012]] 410 四分比丘尼戒本 Sìfēn bǐqiūnī jièběn *The Four-Part Bhikṣuṇī-Prātimokṣa*
+- [[KR6m0037]] 410 寶藏論 Bǎozàng lùn *Treasury Treatise*
+- [[KR6m0038]] 410 肇論 Zhào lùn *Treatises of [Sēng-]Zhào*
+- [[KR6k0001]] 412 彌沙塞部和醯五分律 Míshāsāibù héxī wǔfēn lǜ *The Mahīśāsaka Five-Part Vinaya, Sect of the Mahīśāsakas*
+- [[KR6a0079]] 415 鸚鵡經 Yīngwǔ jīng *Sūtra of the Parrot*
+- [[KR6a0090]] 415 鞞摩肅經 Bǐmósù jīng *Sūtra of the Wandering Ascetic Vekhanassa*
+- [[KR6a0128]] 415 佛說四人出現世間經 Fó shuō sìrén chūxiàn shìjiān jīng *Sūtra of the Four Kinds of Person who Appear in the World*
+- [[KR6a0141]] 415 佛說十一想思念如來經 Fó shuō shíyīxiǎng sīniàn rúlái jīng *Sūtra of the Eleven Reflections in Recollection of the Tathāgata*
+- [[KR6e0001]] 415 大方廣佛華嚴經 Dà fāngguǎng fó huáyán jīng *The Sūtra on the Great, Vast Buddha-Flower-Garland (Buddhāvataṃsaka-mahāvaipulya-sūtra) — the "Sixty-fascicle Huáyán"*
+- [[KR6e0045]] 415 文殊師利發願經 Wénshūshīlì fā yuàn jīng *The Sūtra on Mañjuśrī's Aspiration*
+- [[KR6i0255]] 415 達摩多羅禪經 Dámóduōluó chán jīng *Sūtra of the Meditation of Dharmatrāta*
+- [[KR6i0280]] 415 佛說觀佛三昧海經 Fóshuō guānfó sānmèi hǎi jīng *Sūtra on the Ocean-like Samādhi of the Visualization of the Buddha*
+- [[KR6i0323]] 415 大方等如來藏經 Dàfāngděng rúláizàng jīng *Mahāvaipulya Tathāgatagarbhasūtra*
+- [[KR6i0439]] 415 佛說雜藏經 Fó shuō zázàng jīng *The Buddha's Sūtra on the Miscellaneous Storehouse*
+- [[KR6j0205]] 415 佛說出生無量門持經 Fóshuō chūshēng wúliàngmén chí jīng *Sūtra on the Origination of the Boundless-Gate Retention (Anantamukha-sādhaka-dhāraṇī)*
+- [[KR6k0006]] 415 摩訶僧祇律 Móhēsēngqí lǜ *The Mahāsāṃghika Vinaya*
+- [[KR6k0007]] 415 摩訶僧祇律大比丘戒本 Móhēsēngqí lǜ dà bǐqiū jièběn *The Mahāsāṃghika Bhikṣu-Prātimokṣa*
+- [[KR6k0008]] 415 摩訶僧祇比丘尼戒本 Móhēsēngqí bǐqiūnī jièběn *The Mahāsāṃghika Bhikṣuṇī-Prātimokṣa*
+- [[KR6b0052]] 416 佛說十二遊經 Fóshuō Shí'èryóu jīng *Sūtra of the Twelve-Year Wanderings of the Buddha*
+- [[KR6a0100]] 417 別譯雜阿含經 Biéyì Zá Āhán jīng *Variant Translation of the Connected Discourses*
+- [[KR6b0007]] 417 大乘悲分陀利經 Dàshèng bēifēntuólì jīng *Mahāyāna Karuṇā-puṇḍarīka-sūtra (Mahāyāna Lotus-of-Compassion Sūtra)*
+- [[KR6b0030]] 417 師子月佛本生經 Shīzǐyuè Fó běnshēng jīng *Sūtra of the Past-Life Birth of Buddha Lion-Moon*
+- [[KR6e0051]] 417 度諸佛境界智光嚴經 Dù zhū fó jìngjiè zhì guāng yán jīng *The Sūtra on the Wisdom-Light Adornment of Crossing Over to the Buddha-Realms*
+- [[KR6g0039]] 417 佛入涅槃密迹金剛力士哀戀經 Fó rù niè pán mì jì jīn gāng lì shì āi liàn jīng *The Sūtra on the Lamentation of the Vajrapāṇi Mighty One at the Buddha's Entry into Parinirvāṇa*
+- [[KR6i0008]] 417 佛說十吉祥經 Fóshuō shí jíxiáng jīng *Sūtra of the Ten Auspicious Ones*
+- [[KR6i0230]] 417 佛說天王太子辟羅經 Fóshuō Tiānwáng tàizǐ Bìluó jīng *Sūtra of the Heavenly King's Heir Apparent Bìluó*
+- [[KR6i0250]] 417 禪祕要法經 Chánmìyào fǎ jīng *Sūtra of the Secret Essential Methods of Meditation*
+- [[KR6i0414]] 417 無明羅剎集 Wúmíng luóchà jí *Compendium on the Rākṣasa of Ignorance*
+- [[KR6i0445]] 417 沙彌羅經 Shāmíluó jīng *Sūtra of Śāmilā*
+- [[KR6i0527]] 417 大方廣如來祕密藏經 Dà fāngguǎng rúlái mìmì zàng jīng *The Great-Extensive Sūtra of the Tathāgata's Secret Treasury*
+- [[KR6j0173]] 417 大金色孔雀王呪經 Dà jīnsè kǒngquè wáng zhòu jīng *Sūtra of the Great Golden-Hued Peacock-King Spell*
+- [[KR6j0174]] 417 佛說大金色孔雀王呪經 Fó shuō dà jīnsè kǒngquè wáng zhòu jīng *Buddha-Pronounced Sūtra of the Great Golden-Hued Peacock-King Spell*
+- [[KR6j0208]] 417 佛說阿難陀目佉尼呵離陀隣尼經 Fóshuō Ānántuómùqūníhēlítuólínní jīng *Anantamukha-nirhāra-dhāraṇī Sūtra*
+- [[KR6k0021]] 417 薩婆多毘尼毘婆沙 Sàpóduō pínì pípóshā *The Sarvāstivāda-Vinaya-Vibhāṣā*
+- [[KR6k0044]] 417 毘尼母經 Pínìmǔ jīng *The Vinaya-Mātṛkā Sūtra*
+- [[KR6k0116]] 417 佛說淨業障經 Fó shuō jìng yèzhàng jīng *The Sūtra on Purifying Karmic Obstructions*
+- [[KR6o0054]] 417 辟支佛因緣論 Pì zhī fó yīn yuán lùn *Treatise on the Causes-and-Conditions of [Becoming a] Pratyeka-Buddha*
+- [[KR6r0119]] 418 高僧法顯傳 Gāosēng Fǎxiǎn zhuàn *Travel Record of the Eminent Monk Fǎ-xiǎn (also -- A Record of the Buddha-Lands)*
+- [[KR6j0241]] 419 請觀世音菩薩消伏毒害陀羅尼呪經 Qǐng Guānshìyīn púsà xiāofú dúhài tuóluóní zhòu jīng *Sūtra of the Dhāraṇī-Spell for Inviting Avalokiteśvara to Eliminate Poison and Harm*
+- [[KR6k0060]] 419 沙彌十戒法并威儀 Shāmí shíjiè fǎ bìng wēiyí *The Ten Precepts and Decorums for Novice Monks*
+- [[KR6a0037]] 420 緣本致經 Yuánběnzhì jīng *Sūtra on the Conditioning-Cause of the Origin*
+- [[KR6a0044]] 420 古來世時經 Gǔlái shìshí jīng *Sūtra of the Times of Past and Future Ages*
+- [[KR6a0078]] 420 兜調經 Dōudiào jīng *Sūtra of Tudika*
+- [[KR6a0089]] 420 八關齋經 Bāguānzhāi jīng *Sūtra of the Eight Precepts of the Fast-Day*
+- [[KR6a0108]] 420 佛說滿願子經 Fó shuō Mǎnyuànzǐ jīng *Sūtra of the Son of Pūrṇa*
+- [[KR6b0004]] 420 菩薩本行經 Púsà běnxíng jīng *Sūtra of the Bodhisattva's Past Practice*
+- [[KR6e0032]] 420 佛說菩薩十住經 Fó shuō pútísà shízhù jīng *The Sūtra Spoken by the Buddha on the Bodhisattva's Ten Abodes*
+- [[KR6f0043]] 420 佛說摩訶衍寶嚴經 Fó shuō mó hē yǎn bǎo yán jīng *The Sūtra Spoken by the Buddha on the Mahāyāna Jewel-Adornment*
+- [[KR6i0036]] 420 佛說彌勒來時經 Fóshuō Mílè lái shí jīng *Sūtra Spoken by the Buddha at the Time of Maitreya's Coming*
+- [[KR6i0150]] 420 佛說薩羅國經 Fóshuō Sàluó guó jīng *Sūtra of the Kingdom of Sàluó*
+- [[KR6i0153]] 420 佛說五王經 Fóshuō wǔwáng jīng *Sūtra of the Five Kings*
+- [[KR6i0169]] 420 盧至長者因緣經 Lúzhì zhǎngzhě yīnyuán jīng *Sūtra of the Causes and Conditions of the Elder Lúzhì*
+- [[KR6i0183]] 420 佛說摩登女解形中六事經 Fóshuō Módēng nǚ jiěxíng zhōng liùshì jīng *Sūtra of the Mātaṅga Woman Resolving Six Matters in the Body*
+- [[KR6i0274]] 420 佛說寶如來三昧經 Fóshuō bǎorúlái sānmèi jīng *Sūtra on the Treasure-Tathāgata Samādhi as Spoken by the Buddha*
+- [[KR6i0286]] 420 淨度三昧經 Jìngdù sānmèi jīng *Sūtra on the Samādhi of Pure Salvation*
+- [[KR6i0376]] 420 佛說報恩奉盆經 Fó shuō bàoēn fèngpén jīng *The Buddha's Sūtra on Repaying Kindness by the Yúlánpén Offering*
+- [[KR6i0399]] 420 佛說出家功德經 Fó shuō chūjiā gōngdé jīng *The Buddha's Sūtra on the Merit of Going Forth (i.e., entering monastic life)*
+- [[KR6i0401]] 420 佛說稻芉經 Fó shuō dàogǎn jīng *The Buddha's Sūtra on the Stalk of Rice (Śālistamba-sūtra, anonymous Eastern-Jìn version)*
+- [[KR6i0440]] 420 餓鬼報應經 Èguǐ bàoyìng jīng *Sūtra on the Karmic Recompense [Leading to] Rebirth as a Hungry Ghost*
+- [[KR6i0443]] 420 佛說護淨經 Fó shuō hùjìng jīng *The Buddha's Sūtra on Guarding Purity*
+- [[KR6i0444]] 420 佛說因緣僧護經 Fó shuō yīnyuán sēnghù jīng *The Buddha's Sūtra on the Causes-and-Conditions of Saṃgharakṣita*
+- [[KR6i0489]] 420 得道梯橙錫杖經 Dédào tīdèng xízhàng jīng *The Sūtra of the Khakkhara as the Ladder to the Way*
+- [[KR6i0490]] 420 佛說木槵子經 Fó shuō mùhuànzǐ jīng *The Buddha Speaks: The Sūtra of the Aritha-Seed (Soapberry Seed)*
+- [[KR6i0506]] 420 佛說無上處經 Fó shuō wúshàngchù jīng *The Buddha Speaks -- The Sūtra of the Three Supreme Refuges*
+- [[KR6j0242]] 420 佛說六字呪王經 Fóshuō liùzì zhòuwáng jīng *Sūtra of the Six-Syllable Spell-King*
+- [[KR6j0353]] 420 佛說善法方便陀羅尼經 Fóshuō shànfǎ fāngbiàn tuóluóní jīng *Sūtra of the Dhāraṇī of Skilful Means in the Wholesome Dharma*
+- [[KR6j0562]] 420 七佛八菩薩所說大陀羅尼神呪經 Qī fó bā púsà suǒshuō dà tuóluóní shénzhòu jīng *Great Dhāraṇī-Spell Sūtra Spoken by the Seven Buddhas and Eight Bodhisattvas*
+- [[KR6j0572]] 420 佛說無崖際總持法門經 Fó shuō wúyájì zǒngchí fǎmén jīng *Sūtra on the Dharma-Gate of the Boundless Dhāraṇī*
+- [[KR6j0587]] 420 佛說師子奮迅菩薩所問經 Fó shuō shīzǐ fènxùn púsà suǒwèn jīng *Sūtra in answer to the questions of the Bodhisattva Siṃha-vikrīḍita (Lion-Sprung)*
+- [[KR6j0588]] 420 佛說花聚陀羅尼呪經 Fó shuō huājù tuóluóní zhòu jīng *Sūtra of the Flower-Heap Dhāraṇī Spell*
+- [[KR6k0053]] 420 舍利弗問經 Shèlìfú wèn jīng *The Sūtra of Śāriputra's Inquiry*
+- [[KR6u0010]] 420 小法滅盡經 Xiǎo fǎmièjìn jīng *Lesser Sūtra on the Extinction of the Dharma*
+- [[KR6v0011]] 420 最妙勝定經 Zuìmiào shèngdìng jīng *Sūtra of the Supreme Wonderful Victorious Concentration*
+- [[KR6a0060]] 423 瞿曇彌記果經 Qútánmí jìguǒ jīng *Sūtra of the Predicted Fruit of Mahāprajāpatī*
+- [[KR6a0137]] 423 佛說長者子六過出家經 Fó shuō zhǎngzhězǐ liùguò chūjiā jīng *Sūtra of the Householder's Son Who Renounced Six Times*
+- [[KR6d0058]] 423 法華經疏 Fǎhuá jīng shū *Subcommentary on the Lotus Sūtra*
+- [[KR6k0002]] 423 彌沙塞五分戒本 Míshāsāi wǔfēn jièběn *The Mahīśāsaka Five-Part Prātimokṣa for Monks*
+- [[KR6k0003]] 423 五分戒本 Wǔfēn jièběn *The Five-Part Prātimokṣa*
+- [[KR6a0075]] 425 佛為黃竹園老婆羅門說學經 Fó wèi Huángzhúyuán lǎo póluómén shuō xué jīng *Sūtra in which the Buddha Taught Practice to the Old Brahmin of the Yellow-Bamboo Park*
+- [[KR6a0007]] 427 大般涅槃經 Dà bānnièpán jīng *Sūtra of the Great Parinirvāṇa*
+- [[KR6d0107]] 427 佛說廣博嚴淨不退轉輪經 Fóshuō Guǎngbó yánjìng bùtuìzhuǎn lún jīng *Sūtra of the Vast and Pure Non-Backsliding Wheel (Taught by the Buddha)*
+- [[KR6g0022]] 427 佛說大般泥洹經 Fó shuō dà bān ní huán jīng *The Sūtra of the Great Parinirvāṇa (short / pre-MPNS recension)*
+- [[KR6k0109]] 427 佛說菩薩內戒經 Fó shuō púsà nèijiè jīng *The Sūtra on the Inner Bodhisattva Precepts*
+- [[KR6a0040]] 430 文陀竭王經 Wéntuójié wáng jīng *Sūtra of King Mandhātu*
+- [[KR6b0006]] 430 悲華經 Bēihuā jīng *Karuṇā-puṇḍarīka-sūtra (Sūtra of the Lotus of Compassion)*
+- [[KR6d0120]] 430 佛說觀普賢菩薩行法經 Fóshuō Guān Pǔxián púsà xíngfǎ jīng *Sūtra on the Practice of Contemplating Bodhisattva Samantabhadra (Taught by the Buddha)*
+- [[KR6f0002]] 430 大方廣三戒經 Dà fāng guǎng sān jiè jīng *The Great, Vast Sūtra on the Three Precepts (Trisaṃvara-nirdeśa)*
+- [[KR6f0071]] 430 佛說觀無量壽佛經 Fó shuō guān wú liàng shòu fó jīng *The Sūtra Spoken by the Buddha on the Visualization of Amitāyus*
+- [[KR6g0001]] 430 大般涅槃經 Dà bān niè pán jīng *The Sūtra of the Great Parinirvāṇa (Mahāparinirvāṇa-sūtra, 北本 / Northern Recension)*
+- [[KR6g0033]] 430 大方等無想經 Dà fāng děng wú xiǎng jīng *The Vaipulya Sūtra of No-Conceptions (also known as Dà yún jīng 大雲經)*
+- [[KR6h0011]] 430 虛空藏菩薩神呪經 Xūkōngzàng púsà shénzhòu jīng *The Spirit-Spell Sūtra of the Bodhisattva Ākāśagarbha (Liú-Sòng recension)*
+- [[KR6h0013]] 430 觀虛空藏菩薩經 Guān xūkōngzàng púsà jīng *The Sūtra of the Visualization of the Bodhisattva Ākāśagarbha*
+- [[KR6h0014]] 430 大方廣十輪經 Dàfāngguǎng shílún jīng *The Mahāvaipulya Daśacakra-kṣitigarbha-sūtra (older recension)*
+- [[KR6i0195]] 430 佛說腹中女聽經 Fóshuō fùzhōng nǚ tīng jīng *Sūtra of the Maiden Who Listened from the Womb*
+- [[KR6i0196]] 430 佛說轉女身經 Fóshuō zhuǎn nǚshēn jīng *Sūtra of Transforming the Female Body*
+- [[KR6i0204]] 430 佛說長者法志妻經 Fóshuō Zhǎngzhě Fǎzhì qī jīng *Sūtra of the Wife of Elder Fǎzhì*
+- [[KR6i0211]] 430 優婆夷淨行法門經 Yōupóyí jìngxíng fǎmén jīng *Sūtra of the Pure Practice Dharma-Gate for Upāsikās*
+- [[KR6i0256]] 430 五門禪經要用法 Wǔmén chánjīng yàoyòng fǎ *Essential Methods of Practice for the Five-Gate Meditation Sūtra*
+- [[KR6i0301]] 430 金光明經 Jīnguāngmíng jīng *Sūtra of Golden Light*
+- [[KR6i0465]] 430 三慧經 Sānhuì jīng *The Sūtra of the Three Wisdoms*
+- [[KR6i0520]] 430 佛說象腋經 Fó shuō xiàngyè jīng *The Buddha Speaks -- The Sūtra of the Elephant's Hide / Girth*
+- [[KR6i0528]] 430 佛說諸法勇王經 Fó shuō zhūfǎ yǒngwáng jīng *The Buddha Speaks -- The Sūtra of the Hero-King of All Dharmas*
+- [[KR6j0200]] 430 牟梨曼陀羅呪經 Móulí màntúluó zhòu jīng *Sūtra of the Mūla-Maṇḍala Spell*
+- [[KR6j0245]] 430 六字大陀羅尼呪經 Liùzì dà tuóluóní zhòu jīng *Sūtra of the Six-Syllable Great Dhāraṇī Spell*
+- [[KR6j0383]] 430 佛說觀藥王藥上二菩薩經 Fóshuō Guān Yàowáng Yàoshàng èr púsà jīng *Sūtra on Contemplating the Two Bodhisattvas Bhaiṣajyarāja and Bhaiṣajyasamudgata Spoken by the Buddha*
+- [[KR6k0015]] 430 四分比丘尼羯磨法 Sìfēn bǐqiūnī jiémófǎ *Karmavācanā for Bhikṣuṇīs of the Four-Part Vinaya*
+- [[KR6k0018]] 430 十誦比丘尼波羅提木叉戒本 Shísòng bǐqiūnī pōluótímùchā jièběn *The Sarvāstivāda Bhikṣuṇī-Prātimokṣa*
+- [[KR6k0061]] 430 沙彌威儀 Shāmí wēiyí *The Decorums of the Novice Monk*
+- [[KR6k0065]] 430 佛說優婆塞五戒相經 Fó shuō Yōupósè wǔjièxiāng jīng *The Sūtra on the Forms of the Five Precepts for Lay Followers*
+- [[KR6k0110]] 430 優婆塞戒經 Yōupósè jièjīng *The Upāsaka-Precept Sūtra*
+- [[KR6k0122]] 430 菩薩戒本 Púsàjièběn *The Bodhisattva Precept-Text (Yogācāra recension, Dharmakṣema)*
+- [[KR6k0125]] 430 優婆塞五戒威儀經 Yōupósè wǔjiè wēiyí jīng *The Sūtra on the Five Precepts and Decorums for Lay Followers*
+- [[KR6n0003]] 430 菩薩地持經 Púsà dìchí jīng *Sūtra on the Bodhisattva's Stage-Upholding (Bodhisattvabhūmi)*
+- [[KR6n0004]] 430 菩薩善戒經 Púsà shànjiè jīng *Sūtra on the Bodhisattva's Excellent Discipline*
+- [[KR6n0005]] 430 菩薩善戒經 Púsà shànjiè jīng *Sūtra on the Bodhisattva's Excellent Discipline (one-fascicle abridgment)*
+- [[KR6o0127]] 430 龍樹菩薩為禪陀迦王說法要偈 Lóngshù púsà wèi Chántuójiā wáng shuō fǎ yào jì *Bodhisattva Nāgārjuna's Essential Verses Explaining the Dharma to King Suhṛllekha (Cheng-tho-ka)*
+- [[KR6k0052]] 431 比丘尼羯磨經 Bǐqiūnī jiémó jīng *The Bhikṣuṇī Karmavācanā Sūtra*
+- [[KR6b0049]] 435 佛所行讚 Fó suǒxíng zàn *Buddhacarita (Hymn of the Buddha's Acts)*
+- [[KR6i0198]] 435 樂瓔珞莊嚴方便品經 Lè yīngluò zhuāngyán fāngbiàn pǐn jīng *Sūtra of the Chapter on Skillful Means in Adornment with the Necklace of Joy*
+- [[KR6i0417]] 435 分別業報略經 Fēnbié yèbào lüè jīng *Brief Sūtra Discriminating the Karmic Recompense*
+- [[KR6k0022]] 435 薩婆多部毘尼摩得勒伽 Sàpóduōbù pínì módélèjiā *The Sarvāstivāda-Vinaya-Mātṛkā*
+- [[KR6o0128]] 435 勸發諸王要偈 Quànfā zhūwáng yào jì *Essential Verses Encouraging the Kings*
+- [[KR6m0022]] 438 大丈夫論 Dàzhàngfū lùn *Treatise on the Great Man*
+- [[KR6o0038]] 438 入大乘論 Rù dà shèng lùn *Treatise on Entering the Great Vehicle (Mahāyānāvatāra-śāstra)*
+- [[KR6a0041]] 440 頻婆娑羅王經 Pínpósuōluó wáng jīng *Sūtra of King Bimbisāra*
+- [[KR6a0144]] 440 佛說阿遬達經 Fó shuō Āsùdá jīng *Sūtra of Asaka*
+- [[KR6b0031]] 440 大意經 Dàyì jīng *Sūtra of Mahāmati (Great-Mind)*
+- [[KR6c0022]] 440 佛說濡首菩薩無上清淨分衛經 Fóshuō Rǔshǒu púsà wúshàng qīngjìng fēnwèi jīng *Sūtra of the Bodhisattva Mañju-mūrdhan's Supreme Pure Alms-Round*
+- [[KR6d0110]] 440 佛說菩薩行方便境界神通變化經 Fóshuō Púsàxíng fāngbiàn jìngjiè shéntōng biànhuà jīng *Sūtra of the Bodhisattva-Practice's Skillful-Means Realm and Supernormal Transformations (Taught by the Buddha)*
+- [[KR6f0094]] 440 拔一切業障根本得生淨土神呪 Bá yī qiè yè zhàng gēn běn dé shēng jìng tǔ shén zhòu *The Spirit-Spell That Uproots All Karmic Obstructions and [Causes One] to Obtain Birth in the Pure Land*
+- [[KR6g0003]] 440 大般涅槃經 Dà bān niè pán jīng (Southern Recension) *The Sūtra of the Great Parinirvāṇa (Mahāparinirvāṇa-sūtra, 南本 / Southern Recension)*
+- [[KR6i0063]] 440 大方廣寶篋經 Dàfāngguǎng bǎoqiè jīng *Great Vaipulya Treasure-Box Sūtra*
+- [[KR6i0127]] 440 佛說摩訶迦葉度貧母經 Fóshuō Móhē Jiāyè dù pínmǔ jīng *Sūtra of Mahākāśyapa Liberating the Poor Old Woman*
+- [[KR6i0166]] 440 申日兒本經 Shēnrì ér běn jīng *Original Sūtra of the Son of Shēnrì*
+- [[KR6i0192]] 440 佛說老母女六英經 Fóshuō lǎomǔ nǚ liù yīng jīng *Sūtra of the Old-Woman's Six Heroes*
+- [[KR6i0277]] 440 佛說月燈三昧經 Fóshuō yuèdēng sānmèi jīng *Sūtra on the Moon-Lamp Samādhi as Spoken by the Buddha (one fascicle)*
+- [[KR6i0356]] 440 相續解脫地波羅蜜了義經 Xiāngxù jiětuō dìbōluómì liǎoyì jīng *The Definitive-Meaning Sūtra on the Continuum, Liberation, the Stages, and the Pāramitās (Saṃdhinirmocana-sūtra, partial)*
+- [[KR6i0449]] 440 十二品生死經 Shíèrpǐn shēngsǐ jīng *Sūtra on the Twelve Categories of Birth and Death*
+- [[KR6i0468]] 440 四品學法經 Sìpǐn xuéfǎ jīng *The Sūtra of the Four Grades of Studying the Dharma*
+- [[KR6k0112]] 440 寂調音所問經 Jìtiáoyīn suǒwèn jīng *The Sūtra of the Inquiry of [the Bodhisattva] Quiet-Harmonious-Voice*
+- [[KR6o0145]] 440 賓頭盧突羅闍為優陀延王說法經 Bīntóulú tūluóshé wèi Yōutuóyán wáng shuōfǎ jīng *Sūtra on Piṇḍola Bhāradvāja Expounding the Dharma to King Udayana*
+- [[KR6a0099]] 445 雜阿含經 Zá Āhán jīng *The Connected Discourses (Saṃyukta-āgama)*
+- [[KR6a0120]] 445 央掘魔羅經 Yāngjuémóluó jīng *Sūtra of Aṅgulimāla*
+- [[KR6b0045]] 445 過去現在因果經 Guòqù xiànzài yīnguǒ jīng *Sūtra on the Causes-and-Effects of the Past and the Present*
+- [[KR6b0059]] 445 賢愚經 Xiányú jīng *Damamūka-nidāna-sūtra (Sūtra of the Wise and the Foolish)*
+- [[KR6d0109]] 445 大法鼓經 Dà fǎgǔ jīng *The Great Dharma-Drum Sūtra*
+- [[KR6f0045]] 445 勝鬘師子吼一乘大方便方廣經 Shèng mán shī zǐ hǒu yī chéng dà fāng biàn fāng guǎng jīng *The Lion's-Roar Sūtra of Queen Śrīmālā on the One-Vehicle Great-Skillful-Means Vaipulya*
+- [[KR6i0327]] 445 楞伽阿跋多羅寶經 Léngqiéābáduōluó bǎo jīng *Treasure Sūtra of the Descent into Laṅkā*
+- [[KR6i0357]] 445 相續解脫如來所作隨順處了義經 Xiāngxù jiětuō rúlái suǒzuò suíshùnchù liǎoyì jīng *The Definitive-Meaning Sūtra on the Continuum, Liberation, and the Place where the Tathāgata Accomplishes his Conforming Activity (Saṃdhinirmocana-sūtra, partial)*
+- [[KR6i0482]] 445 佛說十二頭陀經 Fó shuō shíèr tóutuó jīng *The Buddha Speaks: The Sūtra of the Twelve Dhūtaṅgas*
+- [[KR6d0001]] 447 妙法蓮華經 Miàofǎ liánhuá jīng *Sūtra of the Lotus of the Wonderful Dharma (Saddharmapuṇḍarīka-sūtra)*
+- [[KR6f0097]] 447 觀世音菩薩授記經 Guān shì yīn pútísà shòu jì jīng *The Sūtra on Avalokiteśvara's Receiving the Prediction*
+- [[KR6m0041]] 449 肇論疏 Zhàolùn shū *Sub-commentary on the Treatises of [Sēng-]Zhào*
+- [[KR6i0031]] 450 佛說觀彌勒菩薩上生兜率天經 Fóshuō guān Mílè púsà shàngshēng Dōushuài tiān jīng *Sūtra Spoken by the Buddha on Contemplating the Bodhisattva Maitreya's Ascent to Tuṣita Heaven*
+- [[KR6i0144]] 450 佛說諫王經 Fóshuō jiànwáng jīng *Sūtra of Admonishing the King*
+- [[KR6i0147]] 450 佛說末羅王經 Fóshuō Mòluó wáng jīng *Sūtra of the Mallaka King*
+- [[KR6i0148]] 450 佛說旃陀越國王經 Fóshuō Zhāntuóyuè guówáng jīng *Sūtra of the King of Caṇḍrāvatī*
+- [[KR6i0149]] 450 佛說摩達國王經 Fóshuō Módá guówáng jīng *Sūtra of the King of Madra*
+- [[KR6i0172]] 450 佛說佛大僧大經 Fóshuō Fódà Sēngdà jīng *Sūtra of Buddha-the-Great and Saṅgha-the-Great*
+- [[KR6i0173]] 450 佛說耶祇經 Fóshuō Yéqí jīng *Sūtra of Yéqí*
+- [[KR6i0257]] 450 治禪病祕要法 Zhì chánbìng mìyào fǎ *Secret Essential Methods for the Cure of Meditation Maladies*
+- [[KR6i0448]] 450 佛說五無返復經 Fó shuō wǔwúfǎnfù jīng *The Buddha's Sūtra on the Five Without-Reciprocity*
+- [[KR6i0504]] 450 佛說進學經 Fó shuō jìnxué jīng *The Buddha Speaks -- The Sūtra on Advancing in Study*
+- [[KR6i0532]] 450 弟子死復生經 Dìzǐ sǐ fù shēng jīng *The Sūtra of the Disciple Who Died and Returned to Life*
+- [[KR6k0058]] 450 佛說迦葉禁戒經 Fó shuō Jiāyè jìnjiè jīng *The Sūtra of Kāśyapa's Restraint Precepts*
+- [[KR6k0070]] 450 佛說五恐怖世經 Fó shuō wǔ kǒngbù shì jīng *The Sūtra on the Five Fearful Conditions of the World*
+- [[KR6l0030]] 450 俱舍論實義疏 Jùshě Lùn Shíyì Shū *Abhidharmakośa-ṭīkā-tattvārtha -- Commentary on the True Meaning of the Abhidharmakośa*
+- [[KR6a0125]] 451 佛說恒水流樹經 Fó shuō héngshuǐ liúshù jīng *Sūtra of the Tree Floating in the Ganges*
+- [[KR6b0046]] 451 因果本起經 Yīnguǒ běnqǐ jīng *Sūtra of the Origin of Causes-and-Effects*
+- [[KR6i0170]] 451 佛說樹提伽經 Fóshuō Shùtíjiā jīng *Sūtra of Jyotiṣka*
+- [[KR6i0171]] 451 佛說樹提伽經 Fóshuō Shùtíjiā jīng *Sūtra of Jyotiṣka (Variant Recension)*
+- [[KR6i0441]] 451 佛說罪福報應經 Fó shuō zuìfú bàoyìng jīng *The Buddha's Sūtra on the Karmic Recompense for Sin and Merit*
+- [[KR6i0442]] 451 佛說輪轉五道罪福報應經 Fó shuō lúnzhuǎn wǔdào zuìfú bàoyìng jīng *The Buddha's Sūtra on the Karmic Recompense for Sin and Merit Across the Five Cycling Destinies*
+- [[KR6i0446]] 451 佛說五無反復經 Fó shuō wǔwúfǎnfù jīng *The Buddha's Sūtra on the Five Without-Reciprocity*
+- [[KR6i0447]] 451 佛說五無返復經 Fó shuō wǔwúfǎnfù jīng *The Buddha's Sūtra on the Five Without-Reciprocity*
+- [[KR6a0043]] 457 閻羅王五天使者經 Yánluówáng wǔ tiānshǐzhě jīng *Sūtra of the Five Divine Messengers of King Yama*
+- [[KR6a0072]] 457 三歸五戒慈心厭離功德經 Sānguī wǔjiè cíxīn yànlí gōngdé jīng *Sūtra of the Merits of the Three Refuges, the Five Precepts, Loving-Kindness and Renunciation*
+- [[KR6i0052]] 457 佛說灌頂章句拔除過罪生死得度經 Fóshuō guàndǐng zhāngjù báchú guòzuì shēngsǐ dé dù jīng *Sūtra of Consecration Verses for Eradicating Sins and Crossing over Birth-and-Death*
+- [[KR6i0533]] 457 佛說懈怠耕者經 Fó shuō xièdài gēngzhě jīng *The Buddha Speaks -- The Sūtra of the Lazy Ploughman*
+- [[KR6a0088]] 460 優陂夷墮舍迦經 Yōubēyí Duòshèjiā jīng *Sūtra of the Lay-Sister Visākhā*
+- [[KR6i0270]] 460 佛說如來智印經 Fóshuō rúlái zhìyìn jīng *Sūtra on the Wisdom-Seal of the Tathāgata as Spoken by the Buddha*
+- [[KR6i0502]] 460 佛說貧窮老公經 Fó shuō pínqióng lǎogōng jīng *The Buddha Speaks -- The Sūtra of the Destitute Old Man (recension a)*
+- [[KR6i0503]] 460 佛說貧窮老公經 Fó shuō pínqióng lǎogōng jīng *The Buddha Speaks -- The Sūtra of the Destitute Old Man (recension b)*
+- [[KR6i0531]] 460 佛說甚深大迴向經 Fó shuō shènshēn dà huíxiàng jīng *The Buddha Speaks -- The Sūtra of the Profound Great Transference [of Merit]*
+- [[KR6b0039]] 461 一切智光明仙人慈心因緣不食肉經 Yīqièzhì guāngmíng xiānrén cíxīn yīnyuán bùshíròu jīng *Sūtra on the Causal Conditions of the Compassionate Heart of the All-Knowing Light-Sage and his Renunciation of Meat-Eating*
+- [[KR6g0029]] 462 摩訶摩耶經 Mó hē mó yē jīng *The Mahāmāyā Sūtra*
+- [[KR6h0023]] 462 菩薩念佛三昧經 Púsà niànfó sānmèi jīng *The Sūtra of the Bodhisattva's Buddha-Recollection Samādhi (Bodhisattva-buddhānusmṛti-samādhi-sūtra)*
+- [[KR6k0020]] 463 十誦羯磨比丘要用 Shísòng jiémó bǐqiū yàoyòng *Essential Karmavācanā for Bhikṣus from the Ten-Recitation Vinaya*
+- [[KR6j0207]] 466 無量門破魔陀羅尼經 Wúliàngmén pòmó tuóluóní jīng *Sūtra of the Boundless-Gate Māra-Crushing Dhāraṇī (Anantamukha-sādhaka-dhāraṇī)*
+- [[KR6b0024]] 470 菩薩投身飴餓虎起塔因緣經 Púsà tóushēn yìèhǔ qǐtǎ yīnyuán jīng *Sūtra on the Stūpa-Origin of the Bodhisattva Throwing his Body to Feed the Hungry Tigress*
+- [[KR6d0106]] 470 不退轉法輪經 Bùtuìzhuǎn fǎlún jīng *Sūtra of the Non-Backsliding Dharma-Wheel*
+- [[KR6j0565]] 470 大吉義神呪經 Dà jíyì shénzhòu jīng *Sūtra of the Divine Spell of Great Auspiciousness*
+- [[KR6b0060]] 471 雜寶藏經 Zábǎozàng jīng *Saṃyukta-ratna-piṭaka-sūtra (Sūtra of the Miscellaneous Jewel-Treasury)*
+- [[KR6o0005]] 471 方便心論 Fāngbiàn xīn lùn *Treatise on the Heart of Means (Upāyahṛdaya / Prayogasāra)*
+- [[KR6e0057]] 472 佛說大方廣菩薩十地經 Fó shuō dà fāngguǎng pútísà shí dì jīng *The Great, Vast Sūtra Spoken by the Buddha on the Bodhisattva's Ten Stages*
+- [[KR6r0051]] 472 付法藏因緣傳 Fùfǎzàng yīnyuán zhuàn *Account of the Causes and Conditions of the Transmission of the Dharma-Treasury*
+- [[KR6d0118]] 481 無量義經 Wúliàngyì jīng *The Sūtra of Innumerable Meanings*
+- [[KR6v0076]] 481 淨度三昧經 Jìngdù sānmèi jīng *Sūtra of the Pure-Crossing Samādhi*
+- [[KR6i0378]] 485 佛說未曾有經 Fó shuō wèicéngyǒu jīng *The Buddha's Sūtra on the Unprecedented Marvels*
+- [[KR6i0450]] 485 佛說未曾有因緣經 Fó shuō wèicéngyǒu yīnyuán jīng *The Buddha's Sūtra on the Causes-and-Conditions of the Hitherto-Unknown*
+- [[KR6j0206]] 485 阿難陀目佉尼呵離陀經 Ānántuómùqūníhēlítuó jīng *Anantamukha-nirhāra-dhāraṇī Sūtra*
+- [[KR6k0043]] 488 善見律毘婆沙 Shànjiàn lǜ pípóshā *The Samantapāsādikā*
+- [[KR6b0066]] 495 百喻經 Bǎiyú jīng *Sūtra of the Hundred Parables*

@@ -1,0 +1,3757 @@
+---
+title: "Timeline 1500 to 1999"
+---
+# Timeline 1500 to 1999 (3663)
+
+[[Timeline|Timeline overview]]
+
+## 1500 to 1599 (556)
+
+### KR1 (48)
+
+- [[KR1a0094]] 1503 啟蒙意見 Qǐméng yìjiàn *Opinions on the *Qǐméng**
+- [[KR1g0016]] 1506 簡端錄 Jiǎn duān lù *Records from the Heads of the Slips*
+- [[KR1j0069]] 1523 古音叢目 Gǔyīn cóngmù *Anthology Index of Old Phonology*
+- [[KR1j0070]] 1523 古音略例 Gǔyīn lüèlì *Concise Examples of Old Phonology*
+- [[KR1j0071]] 1523 轉注古音略 Zhuǎnzhù gǔyīn lüè *A Concise Old-phonology Handbook on the Principle of Mutual Annotation*
+- [[KR1h0045]] 1526 四書因問 Sìshū yīnwèn *Glosses Drawn From Inquiry on the Four Books*
+- [[KR1i0008]] 1526 鐘律通考 Zhōnglǜ tōngkǎo *Comprehensive Examination of Bells and Pitch-Pipes*
+- [[KR1b0038]] 1532 尚書考異 Shàngshū kǎo yì *An Investigation of Variants in the Documents*
+- [[KR1e0076]] 1532 春秋正傳 Chūnqiū zhèngzhuàn *The Correct Tradition of the Spring and Autumn Annals*
+- [[KR1b0039]] 1536 尚書疑義 Shàngshū yí yì *Doubtful Meanings in the Documents*
+- [[KR1e0077]] 1538 左傳附注 Zuǒzhuàn fùzhù *Supplementary Notes on the Zuǒ-zhuàn*
+- [[KR1e0078]] 1538 春秋胡氏傳辨疑 Chūnqiū Húshì zhuàn biànyí *Resolving Doubts in Mr Hú's Tradition of the Spring and Autumn Annals*
+- [[KR1a0093]] 1540 讀易餘言 Dú Yì yú yán *Surplus Words on Reading the Changes*
+- [[KR1i0007]] 1540 苑洛志樂 Yuànluò zhì yuè *Yuàn-luò's Treatise on Music*
+- [[KR1a0095]] 1541 易經存疑 Yìjīng cún yí *Preserved Doubts on the Classic of Changes*
+- [[KR1e0079]] 1541 春秋明志錄 Chūnqiū míngzhì lù *Record of Clarifying Intent in the Spring and Autumn Annals*
+- [[KR1d0016]] 1542 周禮全經釋原 Zhōulǐ quánjīng shìyuán *The Complete Classic of the Rites of Zhōu, Explicating the Source*
+- [[KR1a0096]] 1543 周易辯錄 Zhōuyì biàn lù *Discriminative Notes on the Zhōu Changes*
+- [[KR1h0047]] 1544 論語類考 Lúnyǔ lèikǎo *Categorical Investigation of the Analects*
+- [[KR1h0048]] 1544 孟子雜記 Mèngzǐ zájì *Miscellaneous Records on the Mencius*
+- [[KR1j0044]] 1544 奇字韻 Qízì yùn *Recondite Characters Arranged by Rhyme*
+- [[KR1j0045]] 1544 古音駢字 Gǔyīn piánzì *Binomial Compounds in Ancient Sound*
+- [[KR1c0036]] 1546 詩說解頤 Shī shuō jiě yí *Smiles at the Discourse on the Classic of Poetry*
+- [[KR1d0015]] 1549 周禮傳 Zhōulǐ zhuàn *A Transmission of the Rites of Zhōu*
+- [[KR1a0098]] 1550 周易象旨決錄 Zhōuyì xiàngzhǐ juélù *Definitive Record of the Symbolic Import of the Zhōu Changes*
+- [[KR1d0090]] 1550 泰泉鄉禮 Tàiquán xiānglǐ *The Tàiquán Community-Ritual Handbook*
+- [[KR1a0102]] 1556 葉八白易傳 Yè Bābái yì zhuàn *Yè Bābái's Commentary on the Changes*
+- [[KR1e0085]] 1556 春秋胡傳考誤 Chūnqiū Húzhuàn kǎo wù *Investigation of Errors in Hú [Ānguó]'s Commentary on the Spring and Autumn Annals*
+- [[KR1b0041]] 1560 尚書砭蔡編 Shàngshū biān cài biān *Lancing Cài on the Documents*
+- [[KR1h0046]] 1561 問辨錄 Wènbiàn lù *Records of Questions and Discriminations*
+- [[KR1a0099]] 1562 易象鈎解 Yì xiàng gōu jiě *Hooks and Glosses on the Symbols of the Changes*
+- [[KR1a0101]] 1567 讀易紀聞 Dú yì jì wén *Recorded Hearings on Reading the Changes*
+- [[KR1e0080]] 1569 春秋正旨 Chūnqiū zhèngzhǐ *The True Purport of the Spring and Autumn Annals*
+- [[KR1c0037]] 1570 讀詩私記 Dú Shī sī jì *Personal Notes on Reading the Classic of Poetry*
+- [[KR1e0083]] 1576 春秋事義全考 Chūnqiū shì yì quán kǎo *A Comprehensive Investigation of the Events and Meanings in the Spring and Autumn Annals*
+- [[KR1e0081]] 1579 春秋輯傳 Chūnqiū jí zhuàn *Collected Commentaries on the Spring and Autumn Annals*
+- [[KR1e0082]] 1581 春秋億 Chūnqiū yì *Conjectures on the Spring and Autumn Annals*
+- [[KR1e0084]] 1582 春秋左傳屬事 Chūnqiū Zuǒzhuàn shǔ shì *The Affairs of the* Zuǒ Tradition *of the Spring and Autumn Annals, Arranged by Topic*
+- [[KR1a0100]] 1584 周易集註 Zhōuyì jí zhù *Collected Commentary on the Zhōu Changes*
+- [[KR1g0017]] 1584 五經稽疑 Wǔ jīng jī yí *Investigations of Doubts in the Five Classics*
+- [[KR1b0040]] 1587 尚書日記 Shàngshū rìjì *Daily Notes on the Documents*
+- [[KR1e0086]] 1590 左氏釋 Zuǒshì shì **
+- [[KR1a0104]] 1593 像象管見 Xiàng xiàng guǎn jiàn *Limited Views on Imaging the Symbols*
+- [[KR1a0103]] 1595 讀易述 Dú Yì shù *Recordings on Reading the Changes*
+- [[KR1e0087]] 1595 春秋質疑 Chūnqiū zhì yí *Putting Questions to the Spring and Autumn Annals*
+- [[KR1i0009]] 1595 樂律全書 Yuèlǜ quán shū *Complete Treatise on Music and Pitch*
+- [[KR1a0105]] 1598 周易劄記 Zhōuyì zhájì *Notebook on the Zhōu Changes*
+- [[KR1g0018]] 1598 經典稽疑 Jīng diǎn jī yí *Investigations of Doubts on the Canonical Texts*
+
+### KR2 (48)
+
+- [[KR2f0019]] 1500 馬端肅奏議 Mǎ Duānsù zòuyì *Memorials of Mǎ Duān-sù*
+- [[KR2k0148]] 1500 朝鮮志 Cháoxiān zhì *Treatise on Chosŏn (Korea)*
+- [[KR2f0024]] 1503 垂光集 Chuíguāng jí *Anthology of Bequeathed Light*
+- [[KR2m0010]] 1503 明會典 Míng Huìdiǎn *Collected Statutes of the Míng*
+- [[KR2k0029]] 1505 姑蘇志 Gūsū zhì *Gazetteer of Gūsū (Sūzhōu)*
+- [[KR2o0018]] 1509 學史 Xuéshǐ *Studying History*
+- [[KR2g0038]] 1510 明名臣琬琰錄 Míng míngchén wǎnyǎn lù *Anthology of Stelae and Biographies of the Great Ministers of the Míng*
+- [[KR2l0012]] 1510 土官底簿 Tǔguān dǐbù *Master Roster of Native Chieftain Posts*
+- [[KR2f0023]] 1512 何文簡疏議 Hé Wénjiǎn shūyì *Memorial Discussions of Hé Wén-jiǎn*
+- [[KR2n0030]] 1512 金薤琳琅 Jīnxiè línláng *Bronze Brilliance and Pearly Splendour*
+- [[KR2f0022]] 1516 楊文忠三錄 Yáng Wénzhōng sānlù *Three Records of Yáng Wén-zhōng*
+- [[KR2f0020]] 1517 關中奏議 Guānzhōng zòuyì *Memorials from the Guān-zhōng (Shǎn-xī)*
+- [[KR2f0021]] 1518 胡端敏奏議 Hú Duānmǐn zòuyì *Memorials of Hú Duān-mǐn*
+- [[KR2f0026]] 1519 玉坡奏議 Yùpō zòuyì *Memorials of Yù-pō*
+- [[KR2k0030]] 1519 武功縣志 Wǔgōng xiànzhì *Gazetteer of Wǔgōng County*
+- [[KR2k0031]] 1519 朝邑縣志 Cháoyì xiànzhì *Gazetteer of Cháoyì County*
+- [[KR2f0025]] 1520 孫毅菴奏議 Sūn Yìān zòuyì *Memorials of Sūn Yì-ān*
+- [[KR2k0086]] 1536 西湖遊覽志 Xīhú yóulǎn zhì *Records of Excursions on West Lake*
+- [[KR2k0144]] 1536 海語 Hǎi yǔ *Words of the Sea*
+- [[KR2g0036]] 1538 殿閣詞林記 Diàngé cílín jì *Records of the Hall-and-Pavilion Literati*
+- [[KR2f0027]] 1541 南宮奏稿 Nángōng zòugǎo *Memorial Drafts from the Southern Hall (Ministry of Rites)*
+- [[KR2k0032]] 1542 嶺海輿圖 Lǐnghǎi yútú *Maps and Geographical Treatise of the Lǐnghǎi Region*
+- [[KR2f0040]] 1545 名臣經濟錄 Míngchén jīngjì lù *Records of Statecraft by Famous Officials*
+- [[KR2l0009]] 1548 翰林記 Hànlín jì *Records of the Hànlín Academy*
+- [[KR2k0097]] 1550 汴京遺蹟志 Biànjīng yíjì zhì **
+- [[KR2f0028]] 1553 訥谿奏疏 Nèxī zòushū *Memorials of Nè-xī*
+- [[KR2c0006]] 1554 炎徼紀聞 Yánjiǎo jìwén *Records of Things Heard along the Burning Frontier*
+- [[KR2g0040]] 1554 百越先賢志 Bǎiyuè xiānxián zhì *Records of the Former Worthies of the Hundred Yuè*
+- [[KR2k0081]] 1561 籌海圖編 Chóuhǎi túbiān *Illustrated Compendium for Sea Defense*
+- [[KR2k0124]] 1562 江漢叢談 JiāngHàn cóngtán *Discussions on Jiāng-Hàn Affairs*
+- [[KR2k0082]] 1563 鄭開陽雜著 Zhèng Kāiyáng zázhù *Miscellaneous Writings of Zhèng Kāi-yáng*
+- [[KR2b0001]] 1565 竹書紀年 Zhúshū jìnián *Bamboo Annals*
+- [[KR2k0067]] 1565 三吳水利錄 SānWú shuǐlì lù *Records of the Hydraulic Works of the Three Wú*
+- [[KR2f0029]] 1566 譚襄敏奏議 Tán Xiāngmǐn zòuyì *Memorials of Tán Xiāng-mǐn*
+- [[KR2f0030]] 1570 潘司空奏疏 Pān Sīkōng zòushū *Memorials of Pān, Minister of Works*
+- [[KR2g0039]] 1570 今獻備遺 Jīnxiàn bèiyí *Worthies of Our Time, Set Down Lest They Be Forgotten*
+- [[KR2n0008]] 1573 授經圖義例 Shòujīngtú yìlì *Diagrams of the Transmission of the Classics, with General Principles*
+- [[KR2e0021]] 1576 革除逸史 Géchú yìshǐ *Surviving History of the Erasure-and-Removal*
+- [[KR2n0031]] 1577 法帖釋文考異 Fǎtiè shìwén kǎoyì *Critical Examination of Variants in the Calligraphic-Models' Transcriptions*
+- [[KR2f0031]] 1579 兩河經略 Liǎng Hé jīnglüè *Strategic Plan for the Two Rivers (Yellow River and Grand Canal)*
+- [[KR2d0015]] 1580 春秋別典 Chūnqiū bièdiǎn *Supplementary Records of the Spring and Autumn Period*
+- [[KR2e0020]] 1580 弇山堂別集 Yǎnshāntáng biéjí *Separate Collection of the Yǎnshān Hall*
+- [[KR2k0070]] 1581 三吳水考 SānWú shuǐkǎo *Examination of the Hydraulic Works of the Three Wú*
+- [[KR2g0037]] 1585 嘉靖以來首輔傳 Jiājìng yǐlái shǒufǔ zhuàn *Biographies of the Chief Grand Secretaries from the Jiā-jìng Period Onwards*
+- [[KR2k0066]] 1585 河防一覽 Héfáng yīlǎn *A Comprehensive Survey of Yellow River Defense*
+- [[KR2f0032]] 1592 兩垣奏議 Liǎng yuán zòuyì *Memorials from the Two Wards (Personnel and Military Boards)*
+- [[KR2i0005]] 1596 十六國春秋 Shíliùguó Chūnqiū **
+- [[KR2k0125]] 1596 閩中海錯疏 Mǐnzhōng hǎicuò shū *Treatise on the Diverse Marine Creatures of Fú-jiàn*
+
+### KR3 (213)
+
+- [[KR3e0069]] 1500 仁端錄 Rénduān lù *The Record of Benevolent-Beginnings*
+- [[KR3ed063]] 1500 儒醫心鏡 Rúyī Xīnjìng *The Confucian Physician's Mirror of the Mind*
+- [[KR3ei052]] 1500 錢氏秘傳產科方書名試驗錄 Qiánshì mìchuán chǎnkē fāngshū míng Shìyàn lù *The Secretly Transmitted Obstetrical Formulary of the Qián Family, Titled "Record of Tested Effects"*
+- [[KR3ej005]] 1500 保幼新編 Bǎoyòu xīnpiān *A New Compilation for Protecting the Young*
+- [[KR3em021]] 1500 尤氏喉症指南 Yóushì hóuzhèng zhǐnán *Mr. Yóu's Guide to Throat Disorders*
+- [[KR3en001]] 1500 祝由科諸符祕 Zhùyóu kē zhū fú mì *Secret Talismans of the Incantational Department*
+- [[KR3en002]] 1500 祝由科 Zhùyóu kē *The Incantational Department*
+- [[KR3en003]] 1500 資福等齊天醫十三科治病一宗 Zīfú děng Qítiānyī shísān kē zhìbìng yì zōng *The Heaven-Equalling Medicine of the Zīfú [Tradition] and Others — A Single Compendium for Treating Disease in the Thirteen Departments*
+- [[KR3fa016]] 1500 天文三十六全圖 Tiānwén sānshíliù quántú *Thirty-Six Complete Astronomical Diagrams*
+- [[KR3g0031]] 1500 六壬大全 Liùrén dàquán *Complete Compendium of the Six-Rén [Divinatory System]*
+- [[KR3g0035]] 1500 星命溯源 Xīngmìng sùyuán *Tracing the Source of Astrological-Fate*
+- [[KR3g0049]] 1500 禽星易見 Qínxīng yìjiàn *Easily-Visible Animal-Stars*
+- [[KR3ec021]] 1504 本草品彙精要 Běncǎo Pǐnhuì Jīngyào *Essence of the Materia Medica, Classified*
+- [[KR3h0044]] 1504 珊瑚木難 Shānhú mùnán *Coral and Difficult-Wood (a connoisseur's notebook)*
+- [[KR3ec016]] 1505 珍珠囊補遺藥性賦 Zhēnzhū Náng Bǔyí Yàoxìng Fù *Supplemented Pearl-Pouch Rhapsodies on Drug Properties*
+- [[KR3eo041]] 1505 保生心鑑 Bǎoshēng xīnjiàn *Heart-Mirror for Preserving Life*
+- [[KR3a0083]] 1509 東溪日談錄 Dōngxī rì tán lù *Daily Discussions at Dōng-xī*
+- [[KR3h0042]] 1510 寓意編 Yùyì biān *Compendium of Resting Intentions (a collection of connoisseur's notes)*
+- [[KR3eo023]] 1514 修真秘要 Xiūzhēn mìyào *Secret Essentials of Refining the True*
+- [[KR3eh006]] 1515 醫學正傳 Yīxué zhèngchuán *Orthodox Transmission of Medical Learning*
+- [[KR3er078]] 1515 蒼生司命 Cāngshēng sīmìng *Steward of Common Life*
+- [[KR3er126]] 1516 新刊醫學集成 Xīnkān yīxué jíchéng *A Newly-Printed Comprehensive Compilation of Medical Learning*
+- [[KR3j0153]] 1517 震澤長語 Zhènzé cháng yǔ *Lengthy Words from Zhèn-zé*
+- [[KR3ej014]] 1518 幼科類萃 Yòukē lèicuì *Distilled Categories of Paediatrics*
+- [[KR3ee028]] 1519 針灸節要 Zhēnjiǔ jiéyào *Essential Excerpts of Acupuncture and Moxibustion*
+- [[KR3ep089]] 1519 石山醫案 Shíshān yīàn *Medical Case Records of Stone Mountain*
+- [[KR3eq042]] 1519 醫學原理 Yīxué yuánlǐ *The Principles of Medical Learning*
+- [[KR3eu003]] 1519 內科摘要 Nèikē zhāi yào *Selected Essentials of Internal Medicine*
+- [[KR3j0155]] 1520 南園漫錄 Nányuán màn lù *Random Notes from the South Garden*
+- [[KR3er005]] 1522 韓氏醫通 Hánshì yī tōng *Master Hán's Penetrating Compendium of Medicine*
+- [[KR3j0188]] 1522 儼山外集 Yǎnshān wài jí *External Collection of the Yǎn-shān Studio*
+- [[KR3a0086]] 1523 士翼 Shì yì *Wings for the Scholar*
+- [[KR3el010]] 1523 跌損妙方 Diēsǔn miàofāng *Marvellous Prescriptions for Fall-Injuries*
+- [[KR3k0071]] 1523 中秘元本 Zhōngmì yuánběn *The Original Copy from the Imperial Library*
+- [[KR3a0087]] 1525 涇野子內篇 Jīngyězǐ nèi piān *Master Jīng-yě's Inner Chapters*
+- [[KR3eb048]] 1525 圖註王叔和脈訣 Tú Zhù Wáng Shū Hé Mài Jué *Wáng Shūhé's Pulse Songs, with Illustrations and Annotation*
+- [[KR3er040]] 1525 明醫雜著 Míng yī zá zhù *Miscellaneous Writings of an Illustrious Physician*
+- [[KR3j0171]] 1525 竹嶼山房雜部 Zhú yǔ shān fáng zá bù *Miscellaneous Sections from the Bamboo Island Mountain Lodge*
+- [[KR3a0085]] 1526 讀書劄記 Dú shū zhā jì *Reading Notes*
+- [[KR3a0094]] 1526 格物通 Gé wù tōng *A Comprehensive Account of Investigating Things*
+- [[KR3ek039]] 1528 立齋外科發揮 Lìzhāi wàikē fāhuī *Lizhai's Elaboration of External Medicine*
+- [[KR3a0084]] 1529 困知記 Kùnzhī jì *Records from the Difficulty of Knowing*
+- [[KR3ea050]] 1529 運氣易覽 Yùnqì yìlǎn *The Climatic-Cycle Doctrine, Easily Surveyed*
+- [[KR3ee014]] 1529 針灸聚英 Zhēnjiǔ jùyīng *Gathered Splendours of Acupuncture and Moxibustion*
+- [[KR3ej030]] 1529 保嬰金鏡錄 Bǎoyīng jīnjìng lù *Golden Mirror Record for the Protection of Infants*
+- [[KR3el018]] 1529 正體類要 Zhèngtǐ lèiyào *Categorised Essentials on Setting Bodies (Bone-Setting)*
+- [[KR3e0072]] 1530 針灸問對 Zhēnjiǔ wènduì *Acupuncture-and-Moxibustion -- Questions and Answers*
+- [[KR3ee016]] 1530 針灸問對 Zhēnjiǔ wènduì *Catechism on Acupuncture and Moxibustion*
+- [[KR3a0093]] 1531 中庸衍義 Zhōng yōng yǎn yì **
+- [[KR3e0073]] 1531 外料理例 Wàikē lǐlì *External Medicine -- Principles and Examples*
+- [[KR3ek045]] 1531 外科理例 Wàikē lǐlì *Principles and Examples of External Medicine*
+- [[KR3a0091]] 1533 二程子抄釋 ÈrChéngzǐ chāo shì *Selections from the Two Masters Chéng, Annotated*
+- [[KR3eq025]] 1533 續醫說 Xù yī shuō *Continuation of the Discourses on Medicine*
+- [[KR3e0070]] 1534 薛氏醫案 Xuēshì yīàn *The Medical Cases of Master Xuē*
+- [[KR3eu002]] 1534 薛氏醫案 Xuēshì yīàn *The Medical Cases of Master Xuē (reprint excerpt)*
+- [[KR3eu004]] 1534 保嬰粹要 Bǎo yīng cuì yào *Distilled Essentials for the Protection of Infants*
+- [[KR3eb033]] 1535 脈學類編 Mài Xué Lèi Biān *Pulse Studies, Classified*
+- [[KR3ej063]] 1535 痘治理辨 Dòuzhì lǐbiàn *Disquisition on the Principles of Smallpox Treatment*
+- [[KR3a0089]] 1536 周子抄釋 Zhōuzǐ chāo shì *Selections from Master Zhōu, Annotated*
+- [[KR3a0092]] 1536 朱子抄釋 Zhūzǐ chāo shì *Selections from Master Zhū, Annotated*
+- [[KR3a0095]] 1536 世緯 Shì wěi *The Weft of the Times*
+- [[KR3er019]] 1536 丹溪心法附餘 Dānxī xīn fǎ fù yú *Supplementary Additions to "The Heart-Methods of Dān-xī"*
+- [[KR3j0059]] 1536 丹鉛餘錄 Dān qiān yú lù *Surplus Notes from the Cinnabar-and-Lead [Manuscript-Marker]*
+- [[KR3ee021]] 1537 針灸素難要旨 Zhēnjiǔ Sù Nàn yàozhǐ *Essentials of the Sùwèn and Nànjīng on Acupuncture and Moxibustion*
+- [[KR3eh010]] 1537 內科摘要 Nèikē zhāiyào *Selected Essentials of Internal Medicine*
+- [[KR3eo015]] 1537 攝生要義 Shèshēng yàoyì *Essential Meanings of Regulating Life*
+- [[KR3eu008]] 1538 校註婦人良方 Jiàozhù Fùrén liáng fāng *Annotated Good-Prescriptions for Women*
+- [[KR3eu006]] 1539 正體類要 Zhèngtǐ lèi yào *Categorical Essentials of Bone-Setting*
+- [[KR3eb047]] 1540 新編診脈須知 Xīn Biān Zhěn Mài Xū Zhī *Newly Compiled Essentials of Pulse Examination*
+- [[KR3a0090]] 1541 張子抄釋 Zhāngzǐ chāo shì *Selections from Master Zhāng, Annotated*
+- [[KR3eu007]] 1541 癘瘍機要 Lìyáng jī yào *Mechanism-Essentials of Leprous Ulcers*
+- [[KR3j0060]] 1542 譚苑醍醐 Tányuàn tíhú *The Cream-of-Cream of the Discussion-Garden*
+- [[KR3j0189]] 1542 古今說海 Gǔ jīn shuō hǎi *Sea of Ancient and Modern Discourses*
+- [[KR3ed123]] 1543 外科經驗方 Wàikē Jīngyàn Fāng *Tested Formulas for External Medicine*
+- [[KR3ek024]] 1543 外科心法 Wàikē xīnfǎ *Heart-Methods of External Medicine*
+- [[KR3em039]] 1543 口齒類要 Kǒuchǐ lèiyào *Categorised Essentials of Oral and Dental Medicine*
+- [[KR3h0048]] 1543 書訣 Shūjué *Calligraphic Formulae*
+- [[KR3ek035]] 1544 解圍元藪 Jiěwéi yuánsǒu *A Marsh of Original Sources for Lifting the Siege [of Leprosy]*
+- [[KR3h0046]] 1544 墨池璅錄 Mòchí suǒlù *Trifling Records from the Ink-Pond*
+- [[KR3i0048]] 1544 異魚圖贊 Yìyú túzàn *Illustrated Encomia of Strange Fish*
+- [[KR3l0089]] 1545 語林 Yǔlín *Forest of Conversations (the Hé-clan Forest of Conversations)*
+- [[KR3ei039]] 1547 校註婦人良方 Jiàozhù Fùrén liángfāng *Annotated Edition of "Good Recipes for Women"*
+- [[KR3ec034]] 1548 食物本草 Shíwù Běncǎo *Foodstuffs as Materia Medica*
+- [[KR3ec035]] 1548 本草詳節 Běncǎo Xiángjié *Detailed Notes on the Materia Medica*
+- [[KR3ec036]] 1548 本草約言 Běncǎo Yuēyán *Brief Discussions of the Materia Medica*
+- [[KR3ei009]] 1548 女科撮要 Nǚkē cuōyào *Essential Excerpts of Women's Medicine*
+- [[KR3e0074]] 1549 石山醫案 Shíshān yīàn *The Stone-Mountain Medical Cases*
+- [[KR3e0075]] 1549 名醫類案 Míngyī lèiàn *Categorically-Arranged Case-Records of Famous Physicians*
+- [[KR3eo009]] 1549 厚生訓纂 Hòushēng xùnzuǎn *Anthology of Instructions for Enriching Life*
+- [[KR3b0016]] 1550 武編 Wǔ biān *Compendium of Military Affairs*
+- [[KR3ed034]] 1550 急救良方 Jíjiù Liángfāng *Good Recipes for Emergency Rescue*
+- [[KR3el002]] 1550 接骨手法 Jiēgǔ shǒufǎ *Bone-Setting Manual Manipulations*
+- [[KR3fa010]] 1551 天文略 Tiānwén lüè *Brief Treatise on Astronomy*
+- [[KR3f0043]] 1552 測圓海鏡分類釋術 Cèyuán hǎijìng fēnlèi shìshù *Categorically-Arranged Procedural-Explanation of the Sea-Mirror of Circle Measurements*
+- [[KR3f0045]] 1552 弧矢算術 Húshǐ suànshù **
+- [[KR3fc025]] 1552 勾股算術 Gōugǔ suànshù *Mathematical Methods of the Right Triangle*
+- [[KR3ek038]] 1554 癘瘍機要 Lìyáng jīyào *Crucial Essentials of Leprous Ulcers*
+- [[KR3er021]] 1554 醫方集宜 Yī fāng jí yí *A Collection of the Apposite Medical Formulae*
+- [[KR3ei071]] 1555 廣嗣要語 Guǎngsì yàoyǔ *Essential Words for Producing Heirs*
+- [[KR3ej015]] 1556 保嬰撮要 Bǎoyīng cuōyào *Distilled Essentials for Protecting Infants*
+- [[KR3er031]] 1556 古今醫統大全 Gǔjīn yītǒng dàquán *The Great Comprehensive Compendium of the Medical Tradition, Ancient and Modern*
+- [[KR3er122]] 1556 醫經大旨 Yījīng dàzhǐ *The Great Purport of the Medical Classics*
+- [[KR3k0042]] 1556 名疑 Míngyí *Doubtful Names*
+- [[KR3ej066]] 1558 痘疹心法 Dòuzhěn xīnfǎ *Heart-Method of Smallpox and Eruptive Fever*
+- [[KR3ek020]] 1558 萬氏秘傳外科心法 Wànshì mìchuán wàikē xīnfǎ *The Wan Family's Secretly Transmitted Heart-Methods of External Medicine*
+- [[KR3ek022]] 1558 外科樞要 Wàikē shūyào *Essentials [Pivot] of External Medicine*
+- [[KR3ep082]] 1559 薛案辨疏 Xuēàn biànshū *Discriminating Elucidation of Xuē's Medical Cases*
+- [[KR3ei074]] 1560 廣嗣紀要 Guǎngsì jìyào *Essential Record on Producing Heirs*
+- [[KR3k0049]] 1561 天中記 Tiānzhōng jì *Records of Tiān-zhōng*
+- [[KR3b0019]] 1563 紀效新書 Jì xiào xīn shū *New Book of Effective Discipline*
+- [[KR3ed045]] 1563 扶壽精方 Fúshòu Jīngfāng *Choice Recipes for Supporting Longevity*
+- [[KR3fb005]] 1563 神道大編曆宗通議 Shéndào dàbiān lìzōng tōngyì *Comprehensive Discussions of the Calendrical Tradition, from the Great Compilation on the Way of the Spirits*
+- [[KR3e0081]] 1564 瀕湖脉學 Bīnhú màixué *Bīnhú's Pulse-Learning*
+- [[KR3eb014]] 1564 瀕湖脈學 Bīn Hú Mài Xué *Lakeside Pulse Studies*
+- [[KR3eb015]] 1564 瀕湖脈學脈訣 Bīn Hú Mài Xué Mài Jué *Pulse Songs from the Lakeside Pulse Studies*
+- [[KR3ej001]] 1564 幼科發揮 Yòukē fāhuī *Elaboration on the Paediatric Branch*
+- [[KR3eo004]] 1564 養生類要 Yǎngshēng lèiyào *Classified Essentials for Nourishing Life*
+- [[KR3ec024]] 1565 本草蒙筌 Běncǎo Méngquán *Materia Medica Bamboo-Slip for Beginners*
+- [[KR3ef071]] 1565 傷寒摘錦 Shānghán zhāi jǐn *Selected Brocade of Cold Damage*
+- [[KR3ei040]] 1565 萬氏女科 Wànshì nǚkē *The Wàn Family's Gynecology*
+- [[KR3ej043]] 1565 育嬰家秘 Yùyīng jiāmì *Family Secrets for Nurturing Infants*
+- [[KR3ej044]] 1565 萬氏秘傳片玉心書 Wànshì mìchuán Piànyù xīnshū *The Wàn-Family Secretly Transmitted Heart-Book of the Jade Slip*
+- [[KR3eo025]] 1565 養生四要 Yǎngshēng sìyào *Four Essentials of Nourishing Life*
+- [[KR3eo026]] 1565 保命歌括 Bǎomìng gēkuò *Versified Compendium for Preserving Life*
+- [[KR3fc024]] 1566 神道大編歷宗算會 Shéndào dàbiān lìzōng suànhuì *Mathematical Compendium of the Calendrical Ancestral [Methods], from the Great Compilation on the Spirit-Way*
+- [[KR3k0044]] 1567 萬姓統譜 Wànxìng tǒngpǔ *Comprehensive Genealogy of the Ten Thousand Surnames*
+- [[KR3ei033]] 1569 薛氏濟陰萬金書 Xuēshì jìyīn wànjīn shū *The Xuē-Family's "Aiding-the-Yin Ten-Thousand-Gold Book" of Women's Medicine*
+- [[KR3j0062]] 1569 正楊 Zhèng Yáng *Correcting Yáng [Shèn]*
+- [[KR3b0018]] 1570 江南經畧 Jiāngnán jīng lüè *Strategic Survey of the Lower Yangzi*
+- [[KR3ep097]] 1570 推篷寤語 Tuīpéng wùyǔ *Push-Awning Awakened Discourses (Medical Extracts)*
+- [[KR3e0079]] 1571 本草綱目 Běncǎo gāngmù *The Principles-and-Categories of the Materia Medica*
+- [[KR3ed050]] 1572 醫方捷徑指南全書 Yīfāng Jiéjìng Zhǐnán Quánshū *Complete Quick-Path Pointer for Medical Recipes*
+- [[KR3b0020]] 1575 練兵實紀 Liàn bīng shí jì *Veritable Records of Troop Training*
+- [[KR3ed126]] 1575 濟世珍寶 Jǐshì Zhēnbǎo *A Treasured Compilation for Saving the World*
+- [[KR3ee001]] 1575 奇經八脈考 Qíjīng bāmài kǎo *Examination of the Eight Extraordinary Vessels*
+- [[KR3er072]] 1575 醫學入門 Yīxué rùmén *A Gateway to Medical Learning*
+- [[KR3g0041]] 1575 星學大成 Xīngxué dàchéng *Great Synthesis of Astrological Studies*
+- [[KR3g0042]] 1575 三命通會 Sānmìng tōnghuì *Comprehensive Synthesis of Three-Fates [Divination]*
+- [[KR3ee011]] 1576 經絡全書 Jīngluò quánshū *Complete Book of Channels and Collaterals*
+- [[KR3j0022]] 1576 本語 Běnyǔ *Words from the Root*
+- [[KR3ej065]] 1577 片玉痘疹 Piànyù dòuzhěn *Jade Fragments on Smallpox and Eruptive Fever*
+- [[KR3k0045]] 1577 喻林 Yùlín *Forest of Metaphors*
+- [[KR3eb019]] 1578 脈訣考證 Mài Jué Kǎo Zhèng *Critical Verification of the Pulse Songs*
+- [[KR3l0087]] 1578 先進遺風 Xiānjìn yífēng *Lingering Style of the Elder Worthies*
+- [[KR3b0017]] 1580 陣紀 Zhèn jì *Records of Battle Formations*
+- [[KR3ed141]] 1581 種杏仙方 Zhòngxìng Xiānfāng *Sown-Apricot Immortal Formulas*
+- [[KR3e0080]] 1582 奇經八脉攷 Qí jīng bā mài kǎo *An Investigation of the Eight Extraordinary Channels*
+- [[KR3ec076]] 1582 藥性能毒 Yàoxìng Néngdú *Drug Natures, Capabilities, and Poisons*
+- [[KR3er037]] 1582 古今醫鑑 Gǔjīn yī jiàn *The Medical Mirror, Ancient and Modern*
+- [[KR3er038]] 1582 古今醫鑑（初刊本） Gǔjīn yī jiàn (chūkān běn) *The Medical Mirror, Ancient and Modern (First-Print Edition)*
+- [[KR3ea035]] 1583 黃帝內經靈樞注證發微 Huángdì Nèijīng Língshū zhùzhèng fāwēi *Annotated Numinous Pivot of the Yellow Emperor's Inner Classic, with Critical Discussion Drawing Out the Subtle Points*
+- [[KR3j0064]] 1583 名義考 Míng yì kǎo *Investigation of Names and Their Meanings*
+- [[KR3eb040]] 1584 脈語 Mài Yǔ *Conversations on the Pulse*
+- [[KR3ed039]] 1584 醫方考 Yīfāng Kǎo *Investigations of Medical Recipes*
+- [[KR3ec025]] 1585 本草綱目 Běncǎo Gāngmù *Compendium of Materia Medica / Outline and Details of Roots and Plants*
+- [[KR3ed040]] 1585 仁術便覽 Rénshù Biànlǎn *A Convenient Survey of Humane Arts*
+- [[KR3l0088]] 1585 觚不觚錄 Gū bù gū lù *Record of "The Gū is No Longer a Gū"*
+- [[KR3eq028]] 1586 醫旨緒餘 Yīzhǐ xùyú *Remaining Threads of Medical Doctrine*
+- [[KR3ec087]] 1587 瀕湖炮炙法 Bīnhú Pàozhì Fǎ *Bīnhú's [Lǐ Shízhēn's] Methods of Drug Processing*
+- [[KR3er039]] 1587 萬病回春 Wàn bìng huí chūn *Restoring Spring to the Ten Thousand Diseases*
+- [[KR3k0047]] 1587 同姓名錄 Tóngxìngmíng lù *Record of Persons Sharing Surname and Given Name*
+- [[KR3ed043]] 1588 醫便 Yībiàn *Medicine at Hand*
+- [[KR3ep092]] 1589 孫氏醫案 Sūnshì yīàn *Medical Case Records of Sūn*
+- [[KR3e0076]] 1590 赤水元珠 Chìshuǐ yuánzhū *The Mysterious Pearl of the Cinnabar Stream*
+- [[KR3e0077]] 1590 醫旨緒餘 Yī zhǐ xùyú *Threads-and-Remainders of Medical Meaning*
+- [[KR3h0050]] 1590 書法雅言 Shūfǎ yǎyán *Refined Sayings on Calligraphic Method*
+- [[KR3j0156]] 1590 雨航雜錄 Yǔháng zálù *Miscellaneous Notes of the Rain-Voyage*
+- [[KR3k0046]] 1590 經濟類編 Jīngjì lèibiān *Categorized Compilation on Statecraft*
+- [[KR3e0082]] 1591 傷寒論條辦 Shānghán lùn tiáobiàn *Item-by-Item Discrimination of the Shānghán Lùn*
+- [[KR3ee009]] 1591 楊敬齋針灸全書 Yáng Jìngzhāi zhēnjiǔ quánshū *Yáng Jìngzhāi's Complete Book of Acupuncture and Moxibustion*
+- [[KR3ef015]] 1591 傷寒論條辨 Shānghán lùn tiáo biàn *Section-by-Section Discrimination of the Treatise on Cold Damage*
+- [[KR3er084]] 1591 雲林神彀 Yúnlín shéngòu *Yún-lín's Divine Bowsight*
+- [[KR3j0172]] 1591 遵生八牋 Zūn shēng bā jiān *Eight Discourses on Reverencing Life*
+- [[KR3fc027]] 1592 新編直指算法統宗 Xīnbiān zhízhǐ suànfǎ tǒngzōng *Newly-Edited Direct-Pointing Comprehensive Compendium of Mathematical Methods*
+- [[KR3fc028]] 1592 嘉量算經 Jiāliàng suànjīng *Mathematical Canon of the [Imperial] Measure*
+- [[KR3k0050]] 1592 圖書編 Túshū biān *Compilation of Charts and Writings*
+- [[KR3ec054]] 1593 本草綱目別名錄 Běncǎo Gāngmù Biémíng Lù *Index of Alternate Names from the Compendium of Materia Medica*
+- [[KR3fb007]] 1593 新編遵依司天臺經緯歷書 Xīnbiān zūnyī sītiāntái jīngwěi lìshū *New Recension, Following the Astronomical Bureau, of the Calendar Book of Longitude and Latitude*
+- [[KR3j0061]] 1593 藝彀 Yì gòu *The Arts Crossbow-Trigger*
+- [[KR3j0190]] 1593 少室山房筆叢 Shǎoshì shānfáng bǐ cóng *Brush-Forest from the Shǎo-shì Mountain Lodge*
+- [[KR3ea014]] 1594 素問吳注 Sùwèn Wú zhù *The Basic Questions with Wú [Kūn]'s Commentary*
+- [[KR3ed041]] 1594 魯府禁方 Lǔfǔ Jìnfāng *Secret Recipes of the Lǔ Princely House*
+- [[KR3j0157]] 1594 採芹錄 Cǎiqín lù *Record of Plucking Cress*
+- [[KR3eb032]] 1595 脈理集要 Mài Lǐ Jí Yào *A Concentrated Collection of Pulse Theory*
+- [[KR3eh031]] 1595 醫學要數 Yīxué yàoshù *Numerical Essentials of Medicine*
+- [[KR3ej040]] 1595 幼幼集 Yòuyòu jí *Collection of "Caring for the Young"*
+- [[KR3ep056]] 1595 王應震要訣 Wáng Yìngzhèn yàojué *Essential Mnemonic of Wáng Yìngzhèn*
+- [[KR3eq020]] 1595 上池雜說 Shàngchí záshuō *Miscellaneous Discussions from the Upper Pond*
+- [[KR3f0007]] 1595 聖壽萬年曆 Shèngshòu wànnián lì *The Sacred-Longevity Ten-Thousand-Year Calendar*
+- [[KR3eb045]] 1596 鍥王氏秘傳叔和圖注釋義脉訣評林捷徑統宗 Qiè Wáng Shì Mì Chuán Shū Hé Tú Zhù Shì Yì Mài Jué Píng Lín Jié Jìng Tǒng Zōng *A Newly Engraved Comprehensive Shortcut to the Wáng-Family Secretly Transmitted Illustrated-and-Glossed [Wáng] Shūhé Pulse Songs with Critical Notes*
+- [[KR3ee025]] 1596 經絡考 Jīngluò kǎo *Investigation of Channels and Collaterals*
+- [[KR3eo011]] 1596 類修要訣 Lèixiū yàojué *Classified Essential Formulae of Cultivation*
+- [[KR3eo014]] 1596 攝生集覽 Shèshēng jílǎn *Comprehensive Survey for Regulating Life*
+- [[KR3eo018]] 1596 太素脈訣秘書 Tàisù màijué mìshū *Secret Book of Pulse-Formulae in the Tradition of Grand Simplicity*
+- [[KR3eo019]] 1596 太素心要 Tàisù xīnyào *Heart-Essentials of the Tradition of Grand Simplicity*
+- [[KR3eo020]] 1596 香奩潤色 Xiānglián rùnsè *Polishing the Perfume Box [i.e. Cosmetic and Female-Health Manual]*
+- [[KR3eo027]] 1596 醫學權輿 Yīxué quányú *Beginnings of Medical Learning*
+- [[KR3eo034]] 1596 養生導引秘籍 Yǎngshēng dǎoyǐn mìjí *Secret Compendium of Nourishing Life through Daoyin*
+- [[KR3eo036]] 1596 養生導引法 Yǎngshēng dǎoyǐn fǎ *Methods of Daoyin for Nourishing Life*
+- [[KR3eo042]] 1596 養生食忌 Yǎngshēng shíjì *Dietary Avoidances for Nourishing Life*
+- [[KR3eo046]] 1596 食物輯要 Shíwù jíyào *Compiled Essentials of Foodstuffs*
+- [[KR3er013]] 1596 脈症治方 Mài zhèng zhì fāng *Pulse, Presentation, Treatment, and Formula*
+- [[KR3er087]] 1596 赤水玄珠 Chìshuǐ xuánzhū *The Mysterious Pearl of the Red River*
+- [[KR3ed148]] 1597 菉竹堂集驗方 Lùzhútáng Jíyàn Fāng *Tested Formulas of the Lùzhú Studio*
+- [[KR3ej031]] 1597 原幼心法 Yuányòu xīnfǎ *Heart-Method on the Origins of Paediatric Care*
+- [[KR3er026]] 1597 考證病源 Kǎo zhèng bìng yuán *Verifying-and-Documenting the Origins of Disease*
+- [[KR3j0173]] 1597 清祕藏 Qīng mì cáng *Pure-Secret Treasury*
+- [[KR3ea020]] 1598 素問心得 Sùwèn xīndé *Heart-Achievements from Reading the Basic Questions*
+- [[KR3ea028]] 1598 靈樞心得 Língshū xīndé *Heart-Achievements from Reading the Numinous Pivot*
+- [[KR3ea064]] 1598 鍥王氏秘傳圖註八十一難經評林捷徑統宗 Qiè Wángshì mìchuán túzhù bāshíyī Nànjīng pínglín jiéjìng tǒngzōng *Master Wáng's Secret Transmission Illustrated and Annotated Classic of the Eighty-One Difficulties, with Critical Apparatus, Shortcut Method, and Master Synthesis (Newly Block-Carved)*
+- [[KR3eb017]] 1598 訂正太素脈秘訣 Dìng Zhèng Tài Sù Mài Bì Jué *Corrected Secret Songs of the Primordial Pulse*
+- [[KR3eu012]] 1598 證治準繩·類方 Zhèngzhì zhǔnshéng · Lèifāng *Plumb-Line for Pattern-and-Treatment — Categorical Prescriptions*
+- [[KR3ei015]] 1599 內府秘傳經驗女科 Nèifǔ mìchuán jīngyàn nǚkē *Inner-Palace Secretly-Transmitted Clinical Experience in Gynecology*
+
+### KR4 (142)
+
+- [[KR4b0003]] 1500 孔北海集 Kǒng Běihǎi jí *Collected Works of Kǒng Róng, Director of Běihǎi*
+- [[KR4b0013]] 1500 昭明太子集 Zhāomíng tàizǐ jí *Collected Works of Crown Prince Zhāo-míng (Xiāo Tǒng)*
+- [[KR4c0036]] 1500 李遐叔文集 Lǐ Xiáshū wénjí *Collected Works of Lǐ Xiá-shū (Lǐ Huá)*
+- [[KR4h0017]] 1500 薛濤李冶詩集 Xuē Tāo Lǐ Yě shī jí *Combined Poems of Xuē Tāo and Lǐ Yě*
+- [[KR4e0134]] 1502 鬱洲遺稿 Yùzhōu yígǎo *Lush-Islet Surviving Manuscripts*
+- [[KR4e0135]] 1502 見素集 Jiànsù jí *Seeing-Plainness Collection*
+- [[KR4e0139]] 1503 圭峯集 Guīfēng jí *Jade-Tablet-Peak Collection*
+- [[KR4e0140]] 1503 吳文肅摘稿 Wú Wénsù zhāigǎo *Selected Manuscripts of Wú Wén-sù*
+- [[KR4e0138]] 1505 容春堂集 Róngchūntáng jí *Containing-Spring-Hall Collection*
+- [[KR4e0142]] 1507 熊峯集 Xióngfēng jí *Bear-Peak Collection*
+- [[KR4e0154]] 1507 東田遺稿 Dōngtián yígǎo *East-Field Surviving Manuscripts*
+- [[KR4e0145]] 1508 方簡肅文集 Fāng Jiǎnsù wénjí *Literary Collection of Fāng Jiǎn-sù*
+- [[KR4e0166]] 1508 迪功集 Dígōng jí *Promoter-of-Achievement Collection*
+- [[KR4i0051]] 1508 懷麓堂詩話 Huáilù táng shīhuà *Remarks on Poetry from the Hall of Embracing the Foothills*
+- [[KR4k0077]] 1508 野記 Yě Jì *Unofficial Records*
+- [[KR4e0147]] 1509 懷星堂集 Huáixīngtáng jí *Embracing-Star-Hall Collection*
+- [[KR4e0149]] 1510 東江家藏集 Dōngjiāng jiācáng jí *Dōng-jiāng Family-Treasured Collection*
+- [[KR4e0157]] 1510 王文成全書 Wáng Wénchéng quánshū *Complete Works of Wáng Wén-chéng*
+- [[KR4e0167]] 1510 太白山人漫藁 Tàibái shānrén màngǎo *Loose Manuscripts of the Mountain-Man of Tài-bái*
+- [[KR4e0150]] 1511 空同集 Kōngtóng jí *Empty-Same-Mountain Collection*
+- [[KR4e0162]] 1511 大復集 Dàfù jí *Great-Recreation Collection*
+- [[KR4e0153]] 1514 華泉集 Huáquán jí *Flowering-Spring Collection*
+- [[KR4e0168]] 1514 少谷集 Shǎogǔ jí *Lesser-Valley Collection*
+- [[KR4e0170]] 1514 東洲初稿 Dōngzhōu chūgǎo *Eastern-Islet First Manuscripts*
+- [[KR4e0151]] 1516 山齋文集 Shānzhāi wénjí *Mountain-Studio Literary Collection*
+- [[KR4b0014]] 1517 何水部集 Hé Shuǐbù jí *Collected Works of Hé [Xùn], Member of the Water Bureau*
+- [[KR4c0027]] 1517 次山集 Cìshān jí *Collected Works of Cì-shān (Yuán Jié)*
+- [[KR4e0161]] 1517 竹澗集 Zhújiàn jí *Bamboo-Channel Collection*
+- [[KR4e0132]] 1518 歸田稿 Guītián gǎo *Returning-to-the-Fields Manuscripts*
+- [[KR4e0148]] 1520 整菴存稿 Zhěngān cúngǎo *Zhěng-ān Surviving Manuscripts*
+- [[KR4e0159]] 1521 對山集 Duìshān jí *Facing-Mountain Collection*
+- [[KR4e0160]] 1522 柏齋集 Bǎizhāi jí *Cypress-Studio Collection*
+- [[KR4j0083]] 1522 渚山堂詞話 Zhūshāntáng cíhuà *Zhū-shān-táng's Discourses on Cí*
+- [[KR4e0156]] 1523 沙溪集 Shāxī jí *Sand-Brook Collection*
+- [[KR4e0174]] 1523 方齋存稿 Fāngzhāi cúngǎo *Square-Studio Surviving Manuscripts*
+- [[KR4e0164]] 1524 莊渠遺書 Zhuāngqú yíshū *Zhuāng-qú Surviving Writings*
+- [[KR4e0165]] 1524 儼山集 Yǎnshān jí *Stately-Mountain Collection*
+- [[KR4e0172]] 1524 東巖集 Dōngyán jí *Eastern-Cliff Collection*
+- [[KR4b0005]] 1525 嵇中散集 Xí Zhōngsǎn jí *Collected Works of Xí [Kāng], Gentleman of the Central Disposition*
+- [[KR4h0015]] 1525 二皇甫集 Èr Huángfǔ jí *Joint Collection of the Two Huángfǔ*
+- [[KR4e0175]] 1527 考功集 Kǎogōng jí *Collection of the Evaluator (Bureau Director of Merit Evaluations)*
+- [[KR4e0155]] 1528 清惠集 Qīnghuì jí *Pure-Kindness Collection*
+- [[KR4e0169]] 1528 苑洛集 Yuànluò jí *Garden-Brook Collection*
+- [[KR4i0052]] 1528 頤山詩話 Yíshān shīhuà *Remarks on Poetry from Mount Yí*
+- [[KR4e0179]] 1529 甫田集 Fǔtián jí *Fǔ-tián Collection*
+- [[KR4e0187]] 1529 念菴文集 Niànān wénjí *Niàn-ān Prose Collection*
+- [[KR4e0183]] 1530 蘇門集 Sūmén jí *Sū-mén Collection*
+- [[KR4j0068]] 1531 雍熙樂府 Yōngxī yuèfǔ *Music Bureau of Universal Harmony*
+- [[KR4e0181]] 1532 西村詩集 Xīcūn shījí *West Village Poetry Collection*
+- [[KR4e0177]] 1534 小山類稿 Xiǎoshān lèigǎo *Classified Manuscripts from Little Mountain*
+- [[KR4e0171]] 1535 升菴集 Shēngān jí *Ascending-Hermitage Collection*
+- [[KR4h0104]] 1535 海岱會集 Hǎidài huìjí *Collection of the Hǎi-Dài Society*
+- [[KR4e0173]] 1536 文簡集 Wénjiǎn jí *Wén-jiǎn Collection*
+- [[KR4e0189]] 1536 楊忠介集 Yáng Zhōngjiè jí *Collection of Yáng Zhōng-jiè*
+- [[KR4e0176]] 1537 雲村集 Yúncūn jí *Cloud Village Collection*
+- [[KR4e0182]] 1537 天馬山房遺稿 Tiānmǎ shānfáng yígǎo *Surviving Manuscripts from the Heaven-Horse Mountain Studio*
+- [[KR4e0178]] 1538 夢澤集 Mèngzé jí *Marsh-of-Dreams Collection*
+- [[KR4e0186]] 1538 陸子餘集 Lùzǐyú jí *Lù Zǐ-yú Collection*
+- [[KR4k0044]] 1539 大同紀事 Dàtóng Jìshì *Record of Events at Datong*
+- [[KR4e0215]] 1540 震川集 Zhènchuān jí *Thunder-Stream Collection*
+- [[KR4c0040]] 1541 權文公集 Quán Wéngōng jí *Collected Works of Quán Wén-gōng (Quán Dé-yú)*
+- [[KR4e0196]] 1541 具茨詩集 Jùcí shījí *Jù-cí Poetry Collection*
+- [[KR4i0053]] 1541 詩話補遺 Shīhuà bǔyí *Supplementary Remarks on Poetry (to the Shēng'ān shī-huà)*
+- [[KR4h0109]] 1542 全蜀藝文志 QuánShǔ yìwén zhì *Documentary Treatise of All Shǔ (Sì-chuān)*
+- [[KR4h0111]] 1542 唐宋元名表 TángSòngYuán míngbiǎo *Famous Memorial-Tablets of the Táng, Sòng, and Yuán*
+- [[KR4e0180]] 1543 泰泉集 Tàiquán jí *Tài-quán Collection*
+- [[KR4i0065]] 1543 申培詩說 Shēn Péi Shī Shuō *Master Shen Pei's Explanations of the Odes*
+- [[KR4c0009]] 1544 張燕公集 Zhāng Yāngōng jí *Collected Works of Duke Yān of Zhāng (Zhāng Shuō)*
+- [[KR4k0060]] 1544 清平山堂話本 Qīngpíng Shāntáng Huàběn *Huaben Stories from the Qingping Shantang Studio*
+- [[KR4e0197]] 1547 青霞集 Qīngxiá jí *Blue-Mist Collection*
+- [[KR4h0105]] 1547 經義模範 Jīngyì mófàn *Model Examination-Essays on the Classics*
+- [[KR4e0185]] 1548 遵巖集 Zūnyán jí *Zūn-yán Collection*
+- [[KR4e0194]] 1550 張莊僖文集 Zhāng Zhuāngxǐ wénjí *Prose Collection of Zhāng Zhuāng-xǐ*
+- [[KR4h0107]] 1550 古詩紀 Gǔshī jì *Records of Ancient Poetry*
+- [[KR4k0005]] 1550 春柳鶯 Chūnliǔ Yīng *The Oriole of Spring Willows*
+- [[KR4k0079]] 1550 續英烈傳 Xù Yīngliè Zhuàn *Continuation of Biographies of the Heroic and Loyal*
+- [[KR4k0082]] 1550 雲中紀變 Yúnzhōng Jìbiàn *Record of Upheavals at Yunzhong*
+- [[KR4e0190]] 1551 荊川集 Jīngchuān jí *Jīng-chuān Collection*
+- [[KR4e0199]] 1551 山海漫談 Shānhǎi màntán *Mountain-Sea Casual Talks*
+- [[KR4e0200]] 1551 楊忠愍集 Yáng Zhōngmǐn jí *Collection of Yáng Zhōng-mǐn*
+- [[KR4e0217]] 1551 蠛蠓集 Mièměng jí *Vinegar-Fly Collection*
+- [[KR4k0052]] 1552 會仙女志 Huì Xiānnǚ Zhì *Record of an Encounter with a Fairy Woman*
+- [[KR4k0053]] 1553 薑氏秘史 Jiāng Shì Mìshǐ *The Secret History of the Jiǎnwén Emperor*
+- [[KR4e0188]] 1555 皇甫司勳集 Huángfǔ sīxūn jí *Collection of Huáng-fǔ, Bureau Director of Merit Awards*
+- [[KR4e0209]] 1555 宗子相集 Zōng Zǐxiàng jí *Collection of Zōng Zǐ-xiàng*
+- [[KR4h0106]] 1556 文編 Wén biān *Compilation of Prose*
+- [[KR4e0195]] 1557 洞麓堂集 Dònglùtáng jí *Cavern-Foothills Hall Collection*
+- [[KR4e0198]] 1557 滄溟集 Cāngmíng jí *Vast-Ocean Collection*
+- [[KR4e0184]] 1561 愚谷集 Yúgǔ jí *Fool's Valley Collection*
+- [[KR4e0192]] 1561 瑤石山人稿 Yáoshí shānrén gǎo *Manuscripts of the Yáo-shí Mountain Man*
+- [[KR4k0083]] 1562 雲中事記 Yúnzhōng Shìjì *Record of Events at Yunzhong*
+- [[KR4e0221]] 1563 臨臯文集 Língāo wénjí *Lín-gāo Prose Collection*
+- [[KR4e0213]] 1565 亦玉堂稿 Yìyùtáng gǎo *Likewise Jade-Hall Manuscripts*
+- [[KR4e0238]] 1565 宋布衣集 Sòng bùyī jí *Collected Works of the Plebeian Sòng*
+- [[KR4h0116]] 1566 吳都文粹續集 Wúdū wéncuì xùjí *Continued Anthology of Wú-dū Prose Essence*
+- [[KR4j0073]] 1566 花草稡編 Huācǎo cuìbiān *Huā-and-Cǎo Compiled Edition*
+- [[KR4h0110]] 1567 古今詩刪 Gǔjīn shī shān *Selections from Ancient and Modern Poetry*
+- [[KR4h0113]] 1567 宋藝圃集 Sòng yìpǔ jí *Garden of Arts -- Sòng Collection*
+- [[KR4e0201]] 1568 弇州四部稿 Yǎnzhōu sìbù gǎo *Yǎn-zhōu Manuscripts in Four Divisions*
+- [[KR4e0202]] 1568 讀書後 Dúshū hòu *After-Readings*
+- [[KR4c0004]] 1569 盈川集 Yíngchuān jí *Collected Works of Yáng of Yíngchuān (Yáng Jiǒng)*
+- [[KR4k0066]] 1569 水滸全傳 Shuǐhǔ Quánzhuàn *The Water Margin (Complete Transmission)*
+- [[KR4e0207]] 1570 備忘集 Bèiwàng jí *Memorandum Collection*
+- [[KR4e0210]] 1570 衡廬精舍藏稿 Hénglú jīngshè cánggǎo *Manuscripts Stored at the Héng-Lú Disciplined Lodge*
+- [[KR4k0045]] 1570 東漢秘史 Dōnghàn Mìshǐ *Secret History of the Eastern Han*
+- [[KR4e0212]] 1571 鯤溟詩集 Kūnmíng shījí *Kūn-míng Poetry Collection*
+- [[KR4e0216]] 1571 四溟集 Sìmíng jí *Four-Seas Collection*
+- [[KR4e0203]] 1573 方麓集 Fānglù jí *Square-Foothills Collection*
+- [[KR4e0208]] 1573 石洞集 Shídòng jí *Stone-Cavern Collection*
+- [[KR4k0078]] 1575 英烈傳 Yīngliè Zhuàn *Biographies of the Heroic and Loyal*
+- [[KR4h0098]] 1576 閩中十子詩 Mǐnzhōng shízǐ shī *Poems of the Ten Masters of Mǐnzhōng*
+- [[KR4e0204]] 1577 存家詩稿 Cúnjiā shīgǎo *Family-Preserved Poetry Manuscripts*
+- [[KR4e0205]] 1577 海壑吟稿 Hǎihè yíngǎo *Sea-Valley Chanting Manuscripts*
+- [[KR4e0211]] 1579 薜荔園詩集 Bìlìyuán shījí *Bì-lì Garden Poetry Collection*
+- [[KR4h0115]] 1579 唐宋八大家文鈔 TángSòng bā dà jiā wén chāo *Selected Prose of the Eight Great Masters of Táng and Sòng*
+- [[KR4e0206]] 1580 伐檀齋集 Fátánzhāi jí *Felling-the-Tán-tree Studio Collection*
+- [[KR4i0054]] 1580 秇圃擷餘 Yìpǔ xiéyú *Gleanings from the Garden of the Arts*
+- [[KR4k0051]] 1580 皇明奇事述 Huángmíng Qíshì Shù *Accounts of Remarkable Events of the August Ming*
+- [[KR4k0059]] 1580 清暑筆談 Qīngshǔ Bǐtán *Brush Jottings to Cool the Summer Heat*
+- [[KR4k0085]] 1580 周朝秘史 Zhōucháo Mìshǐ *Secret History of the Zhou Dynasty*
+- [[KR4h0114]] 1582 元藝圃集 Yuán yìpǔ jí *Garden of Arts -- Yuán Collection*
+- [[KR4e0214]] 1586 溫恭毅集 Wēn Gōngyì jí *Collection of Wēn Gōng-yì*
+- [[KR4e0219]] 1587 穀城山館詩集 Gǔchéng shānguǎn shījí *Gǔ-chéng Mountain Lodge Poetry Collection*
+- [[KR4k0121]] 1587 國色天香 Guósè Tiānxiāng *National Beauty and Heavenly Fragrance*
+- [[KR4e0222]] 1588 淡然軒集 Dànránxuān jí *Tranquil Studio Collection*
+- [[KR4e0220]] 1592 宗伯集 Zōngbó jí *Collection of the Grand Master of Rites*
+- [[KR4k0040]] 1592 菜根譚 Càigēn Tán *Discussions on Vegetable Roots*
+- [[KR4k0074]] 1592 西遊記 Xīyóu Jì *Journey to the West*
+- [[KR4k0049]] 1593 封神演義 Fēngshén Yǎnyì *Romance of the Investiture of the Gods*
+- [[KR4b0001]] 1595 揚子雲集 Yáng Zǐyún jí *Collected Works of Yáng Zǐyún (Yáng Xióng)*
+- [[KR4k0046]] 1595 東游記 Dōngyóu Jì *Journey to the East*
+- [[KR4k0065]] 1595 蜀王本紀 Shǔ Wáng Běnjì *Basic Annals of the Kings of Shu*
+- [[KR4b0010]] 1596 璇璣圖詩讀法 Xuánjī tú shī dú fǎ *Method for Reading the Poems of the Armillary Diagram*
+- [[KR4c0006]] 1596 駱丞集 Luò chéng jí *Collected Works of Magistrate Luò (Luò Bīn-wáng)*
+- [[KR4e0223]] 1596 涇臯藏稿 Jīnggāo cánggǎo *Jīng-gāo Stored Manuscripts*
+- [[KR4e0224]] 1596 小辨齋偶存 Xiǎobiànzhāi ǒucún *Casual-Preservation from the Small-Discrimination Studio*
+- [[KR4e0218]] 1597 少室山房集 Shǎoshì shānfáng jí *Shǎo-shì Mountain Studio Collection*
+- [[KR4e0237]] 1597 集玉山房稿 Jíyùshānfáng gǎo *Drafts from the Jíyù Mountain Studio*
+- [[KR4h0119]] 1597 古樂苑 Gǔ yuèyuàn *Garden of Ancient Music-Bureau Songs*
+- [[KR4h0130]] 1597 隋文紀 Suí wén jì *Chronicle of Suí Prose*
+- [[KR4k0062]] 1597 三寶太監 Sānbǎo Tàijiān Xīyáng Jì Tōngsú Yǎnyì *The Sanbao Eunuch's Journey to the Western Oceans*
+- [[KR4e0229]] 1598 願學集 Yuànxué jí *The Collection of Aspiring-to-Learn*
+
+### KR5 (12)
+
+- [[KR5h0041]] 1500 岱史 Dài shǐ *History of Mount Dài (Tài-shān)*
+- [[KR5i0028]] 1500 浮黎鼻祖金華祕訣 Fú lí bí zǔ jīn huá mì jué *Secret Formula of the Golden Flower of the Fú-lí Patriarch*
+- [[KR5i0064]] 1500 孫不二元君傳述丹道祕書三卷 Sūn Bùèr yuán jūn chuán shù dān dào mì shū sān juàn *The Three-Juàn Secret Book of the Elixir-Way as Transmitted-and-Narrated by the Primal Lady Sūn Bù-èr*
+- [[KR5i0092]] 1500 靈寶文檢 Líng bǎo wén jiǎn *Numinous-Treasure Document-Examination*
+- [[KR5i0093]] 1506 心香妙語 Xīn xiāng miào yǔ *Wonderful Sayings of Heart-Incense*
+- [[KR5h0033]] 1532 弘道錄 Hóng dào lù *Record of Spreading the Way*
+- [[KR5h0042]] 1576 易因上下經 Yì yīn shàng xià jīng *Upper-and-Lower Classics of the Yì-yīn*
+- [[KR5h0034]] 1593 消搖墟經 Xiāo yáo xū jīng *Scripture of the Carefree Ruins*
+- [[KR5i0007]] 1594 道德經釋辭 Dào dé jīng shì cí *Glossing the Wording of the Way-and-Power Scripture*
+- [[KR5i0060]] 1594 瓊琯白真人集 Qióng guǎn Bái zhēn rén jí *The Collected Works of Master Bái of Qióng-guǎn*
+- [[KR5i0029]] 1599 金碧古文龍虎上經 Jīn bì gǔ wén lóng hǔ shàng jīng *The Ancient-Text Golden-Jasper Dragon-Tiger Upper Scripture*
+- [[KR5i0040]] 1599 銅符鐵券 Tóng fú tiě quàn *The Bronze Tally and Iron Charter*
+
+### KR6 (93)
+
+- [[KR6e0141]] 1500 華嚴大意 Huáyán dà yì *The Main Idea of the Huáyán [Sūtra]*
+- [[KR6e0158]] 1500 依楞嚴究竟事懺 Yī Lèngyán jiūjìng shìchàn *Ultimate Phenomenal Repentance Following the Śūraṅgama [Sūtra]*
+- [[KR6i0058]] 1500 慈悲藥師寶懺 Cíbēi Yàoshī bǎochàn *Compassionate Medicine Master Treasure-Repentance Liturgy*
+- [[KR6i0317]] 1500 金光明經科註 Jīnguāngmíng jīng kēzhù *Topical Annotation of the Sūtra of Golden Light*
+- [[KR6i0586]] 1500 化珠保命真經 Huàzhū bǎomìng zhēnjīng *True Scripture for Life-Preservation through the Transformative Pearl*
+- [[KR6j0758]] 1500 佛母孔雀尊經科式 Fómǔ kǒngquè zūnjīng kēshì *Outline-Liturgy of the Buddha-Mother Mahāmāyūrī-vidyārājñī Sūtra*
+- [[KR6q0153]] 1500 禪林寶訓音義 Chánlín bǎoxùn yīn yì *Sound and Meaning Glosses on the Chánlín bǎoxùn*
+- [[KR6r0024]] 1500 東國僧尼錄 Dōngguó sēngní lù *Record of the Monks and Nuns of the Eastern Country [Korea]*
+- [[KR6t0275]] 1500 景川和尚語録 Jǐngchuān Héshàng yǔlù *Recorded Sayings of Reverend Keisen*
+- [[KR6t0276]] 1500 虎穴録 Hǔxué lù *Tiger-Cave Record*
+- [[KR6t0345]] 1500 淨土法門大圖名目 Jìngtǔ fǎmén dàtú míngmù *Topical-Headings to the Great Chart of the Doctrinal Gates of the Pure Land*
+- [[KR6t0277]] 1504 少林無孔笛 Shǎolín wúkǒng dí *Holeless Flute of Shaolin*
+- [[KR6t0279]] 1506 西源徳芳和尚語録 Xīyuán Défāng Héshàng yǔlù *Recorded Sayings of Reverend Tokuhō of Saigen[-in]*
+- [[KR6l0044]] 1519 倶舍論頌疏抄 Jùshě Lùn Sòngshū Chāo *Sub-commentary on the Versified Commentary on the Abhidharmakośa-bhāṣya*
+- [[KR6t0380]] 1524 蓮如上人御一代記聞書 Liánrú shàngrén yùyīdàijì wénshū *Record of Things Heard Concerning the Life of Master Rennyo*
+- [[KR6n0097]] 1525 大乘百法明門論解 Dàshèng bǎifǎ míngmén lùn jiě *Explanation of the Mahāyāna Treatise on the Bright Door of the Hundred Dharmas*
+- [[KR6m0002]] 1527 中觀論二十七品別釋 Zhōngguān lùn èrshíqī pǐn biéshì *Separate Exegesis of the Twenty-Seven Chapters of the Madhyamaka Treatise*
+- [[KR6s0017]] 1532 北京五大部直音會韻 Běijīng wǔ dà bù zhíyīn huìyùn *Direct Phonological Glosses and Rime-Concordance to the Five Great Sutras of the Beijing Canon*
+- [[KR6c0154]] 1533 般若心經解義節要 Bōrě xīnjīng jiěyì jiéyào *Selected Essentials of Exegesis on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6n0131]] 1536 八識規矩補註 Bā shí guījǔ bǔzhù *Supplementary Annotations on the Verses on the Standards of the Eight Consciousnesses*
+- [[KR6q0238]] 1540 天寧法舟濟禪師剩語 Tiānníng Fǎzhōu Jì chánshī shèng yǔ *Remaining Words of Chán Master Fǎzhōu Jì of Tiānníng*
+- [[KR6t0122]] 1540 眞迢上人法語 Zhēntiáo shàngrén fǎyǔ *Dharma-Discourse of Master Shinchō*
+- [[KR6t0123]] 1540 眞荷上人法語 Zhēnhè shàngrén fǎyǔ *Dharma-Discourse of Master Shinka*
+- [[KR6t0124]] 1540 眞朗上人法語 Zhēnlǎng shàngrén fǎyǔ *Dharma-Discourse of Master Shinrō*
+- [[KR6t0278]] 1549 見桃録 Jiàntáo lù *Peach-Sight Record*
+- [[KR6t0284]] 1565 諸廻向清規 Zhū huíxiàng qīngguī *Pure Rules of the Various Dedication-Rites*
+- [[KR6c0064]] 1574 金剛經統論 Jīngāng jīng tǒnglùn *Comprehensive Discourse on the Diamond Sūtra*
+- [[KR6i0310]] 1574 金光明經玄義科 Jīnguāngmíng jīng xuányì kē *Topical Outline of the Profound Meaning of the Sūtra of Golden Light*
+- [[KR6i0311]] 1574 金光明經玄義拾遺記會本 Jīnguāngmíng jīng xuányì shíyí jì huìběn *Combined Edition of the Profound Meaning of the Sūtra of Golden Light with the Notes Gathering Remnant Meaning*
+- [[KR6i0312]] 1574 金光明經文句科 Jīnguāngmíng jīng wénjù kē *Topical Outline of the Phrase-and-Sentence Commentary on the Sūtra of Golden Light*
+- [[KR6i0313]] 1574 金光明經文句文句記會本 Jīnguāngmíng jīng wénjù wénjùjì huìběn *Combined Edition of the Phrase-and-Sentence Commentary on the Sūtra of Golden Light with the Notes on the Phrase-and-Sentence Commentary*
+- [[KR6k0086]] 1575 梵網菩薩戒經義疏發隱 Fànwǎng púsàjièjīng yìshū fāyǐn *Bringing Forth the Hidden -- Sub-Commentary on the Yìshū Commentary on the Brahmajāla Sūtra*
+- [[KR6k0087]] 1575 梵網菩薩戒經義疏發隱事義 Fànwǎng púsàjièjīng yìshū fāyǐn shìyì *Auxiliary Notes on the Fā-yǐn Sub-Commentary*
+- [[KR6k0088]] 1575 梵網菩薩戒經義疏發隱問辯 Fànwǎng púsàjièjīng yìshū fāyǐn wènbiàn *Polemical Q&A on the Fā-yǐn Sub-Commentary*
+- [[KR6r0015]] 1576 釋鑑稽古略續集 Shìjiàn jīgǔ lüè xùjí *Continuation to the Mirror of the Śākyans' Brief Examination of Antiquity*
+- [[KR6q0146]] 1577 禪家龜鑑 Chán jiā guī jiàn *Mirror of the Chán School*
+- [[KR6c0163]] 1579 般若心經釋略 Bōrě xīnjīng shìlüè *Brief Glosses on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6c0164]] 1579 般若心經概論 Bōrě xīnjīng gàilùn *General Treatise on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6i0336]] 1580 楞伽阿跋多羅寶經會譯 Léngqiéābáduōluó bǎo jīng huìyì *Triple-Translation Collation of the Treasure Sūtra of the Descent into Laṅkā*
+- [[KR6p0019]] 1584 阿彌陀經疏鈔 Ēmítuó jīng shūchāo *Commentary and Sub-commentary on the Smaller Amitābha-sūtra*
+- [[KR6r0076]] 1584 往生集 Wǎngshēng jí *Anthology of Rebirth [in the Pure Land]*
+- [[KR6n0134]] 1586 八識規矩頌解 Bā shí guījǔ sòng jiě *Explication of the Eight-Consciousnesses Verses*
+- [[KR6c0159]] 1587 般若心經釋義 Bōrě xīnjīng shìyì *Glossing-Out the Meaning of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6c0160]] 1587 般若心經釋疑 Bōrě xīnjīng shìyí *Resolving Doubts on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6q0394]] 1588 無趣老人語錄 Wúqù lǎorén yǔlù *Recorded Sayings of the Old Man of No Interest*
+- [[KR6c0155]] 1591 般若心經注解 Bōrě xīnjīng zhùjiě *Annotated Explication of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6c0156]] 1591 般若心經直談 Bōrě xīnjīng zhítán *Direct Talk on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6c0157]] 1591 般若心經要論 Bōrě xīnjīng yàolùn *Essential Discourse on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6c0158]] 1591 般若心經說 Bōrě xīnjīng shuō *Discourse on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6c0162]] 1591 般若心經提綱 Bōrě xīnjīng tígāng *Synoptic Outline of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6e0067]] 1591 華嚴經合論簡要 Huáyán jīng hé lùn jiǎn yào *Concise Essentials of the Combined Edition of the Huáyán Scripture and the [Lǐ Tōngxuán] Treatise*
+- [[KR6c0061]] 1592 金剛經釋 Jīngāng jīng shì *Explanation of the Diamond Sūtra*
+- [[KR6d0079]] 1593 法華經意語 Fǎhuá jīng yìyǔ *Intent-Words on the Lotus Sūtra*
+- [[KR6i0219]] 1593 思益梵天所問經簡註 Sīyì Fàntiān suǒwèn jīng jiǎnzhù *Concise Notes on the Sūtra of the Questions of Brahmā Viśeṣacintin*
+- [[KR6j0684]] 1593 楞嚴經摸象記 Lèngyán jīng móxiàng jì *Records of Groping the Elephant on the Śūraṃgama-sūtra*
+- [[KR6j0702]] 1593 楞嚴經說約 Lèngyán jīng shuōyuē *Concise Statement on the Śūraṃgama-sūtra*
+- [[KR6j0703]] 1593 楞嚴經述旨 Lèngyán jīng shùzhǐ *Stating the Purport of the Śūraṃgama-sūtra*
+- [[KR6s0006]] 1593 大藏一覽 Dàzàng yīlǎn *The Whole Canon at a Glance*
+- [[KR6c0165]] 1594 般若心經說 Bōrě xīnjīng shuō *Discourse on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6i0103]] 1595 維摩經評註 Wéimó jīng píng zhù *Critical Annotated Edition of the Vimalakīrti Sūtra*
+- [[KR6n0143]] 1595 相宗八要 Xiàngzōng bā yào *The Eight Essential [Texts] of the Characteristics-School*
+- [[KR6p0065]] 1595 淨土資糧全集 Jìngtǔ zīliáng quánjí *Complete Anthology of Provisions for the Pure Land*
+- [[KR6q0189]] 1595 密藏開禪師遺稿 Mìzàng Kāi chánshī yí gǎo *The Surviving Manuscripts of Chán Master Mìzàng Kāi*
+- [[KR6q0382]] 1595 紫柏尊者全集 Zǐbǎi zūnzhě quánjí **
+- [[KR6d0074]] 1596 法華經知音 Fǎhuá jīng zhīyīn *The Knower-of-the-Sound of the Lotus Sūtra*
+- [[KR6d0075]] 1596 法華經大意 Fǎhuá jīng dàyì *The Great Purport of the Lotus Sūtra*
+- [[KR6j0681]] 1596 楞嚴經正脉疏科 Lèngyán jīng zhèngmài shū kē *Sectional Outline of the Commentary on the Correct Pulse of the Śūraṃgama-sūtra*
+- [[KR6j0682]] 1596 楞嚴經正脉疏懸示 Lèngyán jīng zhèngmài shū xuánshì *Prolegomena to the Commentary on the Correct Pulse of the Śūraṃgama-sūtra*
+- [[KR6j0683]] 1596 楞嚴經正脉疏 Lèngyán jīng zhèngmài shū *Commentary on the Correct Pulse of the Śūraṃgama-sūtra*
+- [[KR6j0691]] 1596 楞嚴經秘錄 Lèngyán jīng mìlù *Secret Records on the Śūraṃgama-sūtra*
+- [[KR6j0700]] 1596 楞嚴經擊節 Lèngyán jīng jíjié *Striking the Beat on the Śūraṃgama-sūtra*
+- [[KR6j0708]] 1596 楞嚴經纂註 Lèngyán jīng zuǎnzhù *Compiled Annotations on the Śūraṃgama-sūtra*
+- [[KR6n0046]] 1596 成唯識論自攷 Chéng wéishí lùn zìkǎo *Self-Examined Records on the Demonstration of Consciousness-Only*
+- [[KR6p0062]] 1596 淨土決 Jìngtǔ jué *Settling [the Doubts about] the Pure Land*
+- [[KR6s0103]] 1596 大明重刊三藏聖教目錄 Dà Míng chóngkān sānzàng shèngjiào mùlù *The Great Míng Recutting Catalog of the Sacred Tripiṭaka*
+- [[KR6j0685]] 1597 楞嚴經懸鏡 Lèngyán jīng xuánjìng *The Hanging Mirror on the Śūraṃgama-sūtra*
+- [[KR6j0690]] 1597 楞嚴經玄義 Lèngyán jīng xuányì *Profound Significance of the Śūraṃgama-sūtra*
+- [[KR6j0753]] 1597 瑜伽集要施食儀軌 Yúqié jíyào shīshí yíguǐ *Yoga-Compendium Food-Bestowal Ritual Procedure*
+- [[KR6j0754]] 1597 修設瑜伽集要施食壇儀 Xiūshè yúqié jíyào shīshí tányí *Cultivating-and-Setting-Up Yoga-Compendium Food-Bestowal Altar-Ritual*
+- [[KR6k0261]] 1597 經律戒相布薩軌儀 Jīnglǜ jièxiàng bùsà guǐyí *Procedural Liturgy for the [Reading of the] Precept-Marks from the Sūtras and Vinaya at the Poṣadha*
+- [[KR6p0058]] 1597 淨土疑辨 Jìngtǔ yíbiàn *Resolving the Doubts about the Pure Land*
+- [[KR6p0063]] 1597 答四十八問 Dá sìshíbā wèn *Answers to the Forty-Eight Questions*
+- [[KR6p0064]] 1597 西方願文 Xīfāng yuànwén *The Vow-Text for [Rebirth in] the Western [Pure Land]*
+- [[KR6q0043]] 1597 皇明名僧輯略 HuángMíng míngsēng jí lüè *Brief Compilation of Famous Monks of the Imperial Míng*
+- [[KR6q0214]] 1597 雲棲法彙（選錄） Yúnqī fǎ huì (xuǎn lù) *Yúnqī Dharma-Collection (Selection)*
+- [[KR6q0395]] 1597 無幻禪師語錄 Wúhuàn chánshī yǔlù *Recorded Sayings of Chán Master Wú-huàn*
+- [[KR6r0065]] 1597 續武林西湖高僧事略 Xù Wǔlín Xīhú gāosēng shìlüè *Continued Brief Sketches of the Lives of Eminent Monks of the West Lake at Wǔlín*
+- [[KR6r0087]] 1597 華嚴經感應略記 Huáyánjīng gǎnyìng lüèjì *Brief Records of Efficacious Responses to the Avataṃsaka Sūtra*
+- [[KR6o0027]] 1598 因明入正理論集解 Yīnmíng rù zhèng lǐ lùn jí jiě *Collected Explanations of the Treatise on Entering Correct Reasoning of Hetuvidyā*
+- [[KR6q0023]] 1598 指月錄 Zhǐyuè lù *Record of the Finger Pointing at the Moon*
+- [[KR6p0020]] 1599 阿彌陀經疏鈔事義 Ēmítuó jīng shūchāo shìyì *Glossary of Terms in the* Shū-chāo *on the Smaller Amitābha-sūtra*
+- [[KR6p0021]] 1599 阿彌陀經疏鈔問辯 Ēmítuó jīng shūchāo wènbiàn *Discussion of Objections to the* Shū-chāo *on the Smaller Amitābha-sūtra*
+- [[KR6p0057]] 1599 西方合論 Xīfāng hélùn *Comprehensive Treatise on the Western [Pure Land]*
+
+## 1600 to 1699 (1397)
+
+### KR1 (115)
+
+- [[KR1b0042]] 1600 尚書注考 Shàngshū zhù kǎo *Notes Investigating the Documents Commentary*
+- [[KR1c0038]] 1602 詩故 Shī gù *Old Readings on the Classic of Poetry*
+- [[KR1c0039]] 1602 六家詩名物疏 Liù jiā Shī míngwù shū *Six-Schools Catalogue of Names and Things in the Classic of Poetry*
+- [[KR1b0043]] 1603 尚書疏衍 Shàngshū shū yǎn *Subcommentary and Elaborations on the Documents*
+- [[KR1a0005]] 1605 陸氏易解 Lùshì Yìjiě *Master Lù's Explanations of the Yì*
+- [[KR1j0013]] 1605 駢雅 Piányǎ **
+- [[KR1a0106]] 1607 周易易簡說 Zhōuyì yìjiǎn shuō *Discourse on the Easy and Simple of the Zhōu Changes*
+- [[KR1j0046]] 1607 俗書刋誤 Súshū kānwù *Correcting the Errors of Vulgar Writing*
+- [[KR1a0107]] 1612 易義古象通 Yì yì gǔ xiàng tōng *Penetration of the Ancient Symbols of the Meanings of the Changes*
+- [[KR1h0049]] 1612 學庸正說 XuéYōng zhèngshuō *Right Discussions of the Greater Learning and the Doctrine of the Mean*
+- [[KR1e0088]] 1613 春秋孔義 Chūnqiū Kǒng yì *Confucius' Meaning of the Spring and Autumn Annals*
+- [[KR1j0073]] 1613 屈宋古音義 QūSòng gǔyīn yì *Old-phonology and Meaning of Qū Yuán and Sòng Yù*
+- [[KR1j0047]] 1615 字㝈 Zìluán *Twin Characters*
+- [[KR1a0108]] 1617 周易像象述 Zhōuyì xiàng xiàng shù *Recital of Imaging the Symbols of the Zhōu Changes*
+- [[KR1h0050]] 1617 論語商 Lúnyǔ shāng *Discussions on the Analects*
+- [[KR1c0040]] 1619 重訂詩經疑問 Chóngdìng Shī jīng yíwèn *Revised Questions on the Classic of Poetry*
+- [[KR1a0109]] 1620 易用 Yì yòng *The Application of the Changes*
+- [[KR1d0017]] 1624 周禮註疏刪翼 Zhōulǐ zhùshū shānyì *The Annotation-and-Sub-Commentary of the Rites of Zhōu, Trimmed and Winged*
+- [[KR1g0032]] 1625 古微書 Gǔ wēi shū *The Subtle Books of Antiquity*
+- [[KR1e0089]] 1632 春秋辯義 Chūnqiū biàn yì *Discriminating the Meanings of the Spring and Autumn Annals*
+- [[KR1h0051]] 1632 論語學案 Lúnyǔ xué'àn *Records of the Schools of Analects-Learning*
+- [[KR1a0113]] 1633 古周易訂詁 Gǔ Zhōuyì dìng gǔ *Settled Glosses on the Ancient Zhōuyì*
+- [[KR1h0052]] 1635 四書留書 Sìshū liúshū *Bequeathed Notes on the Four Books*
+- [[KR1b0044]] 1636 洪範明義 Hóng fàn míng yì *The Manifest Meanings of the "Great Plan"*
+- [[KR1e0092]] 1636 左傳杜林合注 Zuǒzhuàn DùLín hé zhù *The Combined Dù-Lín Annotations on the Zuǒ Commentary*
+- [[KR1d0062]] 1638 月令明義 Yuèlìng míngyì *The Clarified Meaning of the Monthly Ordinances*
+- [[KR1d0063]] 1638 表記集傳 Biǎojì jízhuàn *Collected Tradition on the Record of Markers*
+- [[KR1d0064]] 1638 坊記集傳 Fāngjì jízhuàn *Collected Tradition on the Record of Embankments*
+- [[KR1d0065]] 1638 緇衣集傳 Zīyī jízhuàn *Collected Tradition on the Black Robes*
+- [[KR1d0066]] 1638 儒行集傳 Rúxíng jízhuàn *Collected Tradition on the Conduct of Confucians*
+- [[KR1a0111]] 1639 兒易內儀以 Ér yì nèi yí yǐ *Childlike Changes -- Inner Standard, the "By"*
+- [[KR1c0006]] 1639 陸氏詩疏廣要 Lùshì shī shū guǎngyào *Mr. Lu's Sub-Commentary on the Classic of Poetry, Expanded with Essentials*
+- [[KR1f0010]] 1640 孝經集傳 Xiàojīng jízhuàn *Collected Tradition on the Classic of Filial Piety*
+- [[KR1c0041]] 1641 詩經世本古義 Shī jīng shìběn gǔyì *The Generations-Based Old Reading of the Classic of Poetry*
+- [[KR1a0110]] 1643 易象正 Yì xiàng zhèng *Rectifying the Symbols of the Changes*
+- [[KR1a0112]] 1643 卦變考略 Guà biàn kǎo lüè *A Brief Examination of Hexagram-Variation*
+- [[KR1a0114]] 1655 周易玩辭困學記 Zhōuyì wàn cí kùn xué jì *Records of Savoring the Words and Studying-in-Straits the Zhōu Changes*
+- [[KR1c0043]] 1655 讀詩略記 Dú Shī lüè jì *Brief Notes on Reading the Classic of Poetry*
+- [[KR1e0090]] 1655 讀春秋略記 Dú Chūnqiū lüè jì *A Brief Record from Reading the Spring and Autumn Annals*
+- [[KR1j0078]] 1655 音論 Yīn lùn *Discourse on Phonology*
+- [[KR1j0079]] 1655 詩本音 Shī běnyīn *The Native Phonology of the Shī*
+- [[KR1j0080]] 1655 易音 Yì yīn *The Phonology of the Yì*
+- [[KR1j0081]] 1655 唐韻正 Tángyùn zhèng *Corrections to the Táng Rhyme-book*
+- [[KR1j0082]] 1655 古音表 Gǔyīn biǎo *Tabular Schema of Old Phonology*
+- [[KR1a0115]] 1656 易經通注 Yìjīng tōngzhù *Comprehensive Commentary on the Classic of Changes*
+- [[KR1f0011]] 1656 御定孝經注 Yùdìng Xiàojīng zhù *Imperially Determined Commentary on the Classic of Filial Piety*
+- [[KR1a0121]] 1657 易酌 Yì zhuó *Pondering the Changes*
+- [[KR1c0042]] 1658 待軒詩記 Dài xuān Shī jì *Notes on the Classic of Poetry from the Hall of Waiting*
+- [[KR1h0054]] 1659 四書近指 Sìshū jìnzhǐ *Near-At-Hand Pointers on the Four Books*
+- [[KR1a0119]] 1660 讀易大旨 Dú Yì dà zhǐ *The Great Import of Reading the Changes*
+- [[KR1j0083]] 1662 韻補正 Yùn bǔ zhèng **
+- [[KR1e0091]] 1665 春秋四傳質 Chūnqiū sì zhuàn zhì *Critical Weighing of the Four Commentaries on the Spring and Autumn Annals*
+- [[KR1e0101]] 1666 左傳事緯 Zuǒzhuàn shìwěi *Topical Threading of the Zuǒ Tradition*
+- [[KR1h0055]] 1670 孟子師說 Mèngzǐ shīshuō *The Master's Sayings on Mencius*
+- [[KR1a0120]] 1671 周易稗疏 Zhōuyì bài shū *Stalk-Glosses on the Zhōuyì*
+- [[KR1a0122]] 1671 田間易學 Tián jiān yì xué *Field-Side Yì Learning*
+- [[KR1b0051]] 1671 尚書埤傳 Shàngshū bì zhuàn *Supplementary Commentary on the Documents*
+- [[KR1c0047]] 1671 詩經稗疏 Shī jīng bài shū *Weed-pulling Notes on the Classic of Poetry*
+- [[KR1c0048]] 1671 詩經通義 Shī jīng tōng yì *General Meaning of the Classic of Poetry*
+- [[KR1d0080]] 1671 學禮質疑 Xuélǐ zhíyí *Doubts and Questions on the Study of Ritual*
+- [[KR1e0096]] 1671 左傳杜解補正 Zuǒzhuàn Dù jiě bǔ zhèng *Supplements and Corrections to Dù Yù's Annotation of the Zuǒ Commentary*
+- [[KR1e0097]] 1671 春秋稗疏 Chūnqiū bài shū *Subordinate Glosses on the Spring and Autumn Annals*
+- [[KR1g0021]] 1671 九經誤字 Jiǔ jīng wù zì *Errata of the Nine Classics*
+- [[KR1i0014]] 1671 古樂書 Gǔ yuè shū *Treatise on Ancient Music*
+- [[KR1a0123]] 1672 易學象數論 Yì xué xiàng shù lùn *Discussions on the Symbols and Numbers of Yì-Learning*
+- [[KR1e0100]] 1672 讀左日鈔 Dú Zuǒ rì chāo *Daily Excerpts from Reading the Zuǒ Commentary*
+- [[KR1a0124]] 1673 周易象辭 Zhōuyì xiàng cí *Symbol-and-Word on the Zhōuyì*
+- [[KR1d0038]] 1673 儀禮鄭註句讀 Yílǐ Zhèngzhù jùdòu *The Yílǐ with Zhèng's Annotation, Punctuated*
+- [[KR1b0052]] 1674 禹貢長箋 Yǔ gòng cháng jiān *Long Notes on the "Tribute of Yǔ"*
+- [[KR1h0057]] 1675 四書講義困勉錄 Sìshū jiǎngyì kùnmiǎn lù *Records of Toilsome-and-Diligent Lectures on the Four Books*
+- [[KR1d0039]] 1676 儀禮商 Yílǐ shāng *Discussions on the Yílǐ*
+- [[KR1e0098]] 1676 春秋四傳糾正 Chūnqiū sì zhuàn jiū zhèng *Corrections to the Four Commentaries on the Spring and Autumn Annals*
+- [[KR1e0099]] 1676 春秋平議 Chūnqiū píng yì *Balanced Discussions on the Spring and Autumn Annals*
+- [[KR1a0131]] 1677 讀易日鈔 Dú Yì rì chāo *Daily Transcribed Notes on Reading the Yì*
+- [[KR1a0135]] 1677 易原就正 Yì yuán jiù zhèng *Approaching Correctness on the Origin of the Yì*
+- [[KR1h0053]] 1677 日講四書解義 Rìjiǎng Sìshū jiěyì *Imperial Daily-Lectures -- Explication of the Four Books*
+- [[KR1j0014]] 1678 字詁 Zìgǔ *Glosses on Characters*
+- [[KR1b0045]] 1679 日講書經解義 Rì jiǎng Shū jīng jiě yì *Daily-Lecture Exposition of the Documents Classic*
+- [[KR1d0081]] 1679 讀禮志疑 Dúlǐ zhìyí *Notes on Doubts While Reading the Ritual Classics*
+- [[KR1a0139]] 1680 合訂刪補大易集義粹言 Hé dìng shān bǔ Dà Yì jí yì cuì yán *Combined-and-Edited, Pruned-and-Supplemented Collected-Meanings and Distilled-Words on the Great Yì*
+- [[KR1d0070]] 1680 陳氏禮記集說補正 Chénshì Lǐjì jíshuō bǔzhèng *Supplements and Corrections to Mr Chén's Lǐjì jíshuō*
+- [[KR1b0047]] 1681 尚書稗疏 Shàngshū bài shū *Tares-and-Weeds Subcommentary on the Documents*
+- [[KR1b0056]] 1681 書經衷論 Shū jīng zhōng lùn *Heart-Felt Discourses on the Documents Classic*
+- [[KR1a0116]] 1682 日講易經解義 Rì jiǎng Yìjīng jiěyì *Daily-Lecture Explication of the Yìjīng*
+- [[KR1a0130]] 1682 易俟 Yì sì *Awaiting [Future Verification of] the Yì*
+- [[KR1d0069]] 1682 深衣考 Shēnyī kǎo *An Investigation of the Shēn-yī Robe*
+- [[KR1h0058]] 1683 松陽講義 Sōngyáng jiǎngyì *Pine-Sun Lectures [on the Four Books]*
+- [[KR1a0125]] 1685 周易筮述 Zhōuyì shì shù *Recital of Milfoil-Divination on the Zhōuyì*
+- [[KR1e0105]] 1686 春秋地名考略 Chūnqiū dìmíng kǎo lüè *A Brief Investigation of the Toponymy of the Spring and Autumn Annals*
+- [[KR1b0048]] 1687 尚書古文疏證 Shàngshū gǔwén shū zhèng *Sub-commentary and Verification of the Old-Text Documents*
+- [[KR1c0049]] 1687 毛詩稽古編 Máo Shī jī gǔ biān *A Compendium Investigating Antiquity in the Mao Recension of the Poetry*
+- [[KR1c0051]] 1688 毛詩寫官記 Máo Shī xiě guān jì *Notes by the Transcriber-Official on the Mao Recension of the Poetry*
+- [[KR1c0052]] 1688 詩札 Shī zhá *Letters on the Poetry*
+- [[KR1c0053]] 1688 詩傳詩說駁義 Shī zhuàn Shī shuō bó yì **
+- [[KR1c0054]] 1688 續詩傳鳥名卷 Xù Shī zhuàn niǎo míng juǎn *Continuation Volume on the Bird Names in the Tradition on the Poetry*
+- [[KR1d0051]] 1688 讀禮通考 Dúlǐ tōngkǎo *A Comprehensive Investigation Read While Mourning*
+- [[KR1a0137]] 1689 易經衷論 Yìjīng zhōng lùn *Heart-Discussions on the Yìjīng*
+- [[KR1c0046]] 1689 田間詩學 Tiánjiān Shī xué *Field-side Studies on the Classic of Poetry*
+- [[KR1h0063]] 1691 四書釋地 Sìshū shìdì *Geographical Glosses on the Four Books*
+- [[KR1a0126]] 1692 仲氏易 Zhòngshì Yì *The Yì of the Second-Eldest [Brother]*
+- [[KR1c0057]] 1693 詩說 Shī shuō *An Account of the Classic of Poetry*
+- [[KR1j0053]] 1693 篆隸考異 Zhuànlì kǎoyì *Examination of Differences between Seal- and Clerical-Script Characters*
+- [[KR1a0134]] 1694 周易淺述 Zhōuyì qiǎn shù *A Plain Account of the Zhōuyì*
+- [[KR1b0053]] 1695 禹貢錐指 Yǔ gòng zhuīzhǐ *Pierce-the-Pointer Investigation of the "Tribute of Yǔ"*
+- [[KR1i0015]] 1695 聖諭樂本解說 Shèngyù yuèběn jiěshuō *Exposition of the Sacred Edict on the Foundations of Music*
+- [[KR1i0016]] 1695 皇言定聲錄 Huángyán dìngshēng lù *Record of Tones Settled by the Imperial Word*
+- [[KR1i0017]] 1695 竟山樂錄 Jìngshān yuèlù *Jìng-shān's Music Record*
+- [[KR1h0060]] 1697 論語稽求篇 Lúnyǔ jīqiú piān *Inquiry-and-Verification Pieces on the Analects*
+- [[KR1h0061]] 1697 四書賸言 Sìshū shèngyán *Surplus Sayings on the Four Books*
+- [[KR1h0062]] 1697 大學證文 Dàxué zhèngwén *Textual Verifications of the Great Learning*
+- [[KR1e0102]] 1698 春秋毛氏傳 Chūnqiū Máoshì zhuàn *Mr. Máo's Commentary on the Spring and Autumn Annals*
+- [[KR1e0103]] 1698 春秋簡書刋誤 Chūnqiū jiǎnshū kān wù *Corrections to the Slip-Records of the Spring and Autumn Annals*
+- [[KR1e0104]] 1698 春秋屬辭比事記 Chūnqiū shǔcí bǐshì jì *Records on the Linking of Words and Coordination of Events in the Spring and Autumn Annals*
+- [[KR1g0022]] 1698 經問 Jīng wèn *Questions on the Classics*
+- [[KR1d0020]] 1699 周禮纂訓 Zhōulǐ zuǎnxùn *A Compiled-and-Glossed Rites of Zhōu*
+
+### KR2 (89)
+
+- [[KR2m0030]] 1602 明臣謚考 Míngchén Shì Kǎo *Investigation of Posthumous Names Conferred on Míng Officials*
+- [[KR2m0052]] 1602 馬政紀 Mǎ Zhèng Jì *Records of Horse Administration*
+- [[KR2n0033]] 1602 石墨鐫華 Shímò juānhuā *Stone-Ink Engravings' Splendour*
+- [[KR2c0007]] 1605 宋史紀事本末 Sòngshǐ jìshì běnmò *The* Sòng History *Topically Arranged*
+- [[KR2c0008]] 1606 元史紀事本末 Yuánshǐ jìshì běnmò *The* Yuán History *Topically Arranged*
+- [[KR2k0068]] 1607 北河紀 Běihé jì **
+- [[KR2k0069]] 1607 敬止集 Jìngzhǐ jí **
+- [[KR2g0041]] 1610 元儒考略 Yuánrú kǎolüè *A Survey of the Yuán-Period Confucian Scholars*
+- [[KR2k0127]] 1610 益部談資 Yìbù tánzī **
+- [[KR2k0126]] 1612 蜀中廣記 Shǔzhōng guǎngjì *Comprehensive Record of Sìchuān*
+- [[KR2k0087]] 1613 桂勝 Guìshèng **
+- [[KR2k0098]] 1614 武林梵志 Wǔlín fànzhì **
+- [[KR2f0033]] 1615 周忠愍奏疏 Zhōu Zhōngmǐn zòushū *Memorials of Zhōu Zhōng-mǐn*
+- [[KR2g0014]] 1615 諸葛忠武書 Zhūgě zhōngwǔ shū *The Book of [Zhū-gě] Zhōng-wǔ*
+- [[KR2k0033]] 1615 滇略 Diān lüè *A Compendium of Yúnnán*
+- [[KR2m0029]] 1615 頖宮禮樂疏 Pàngōng Lǐyuè Shū *Annotated Manual of the Confucius-Temple Music and Ritual*
+- [[KR2k0145]] 1617 東西洋考 Dōngxī yáng kǎo *Treatise on the Eastern and Western Oceans*
+- [[KR2k0034]] 1619 吳興備志 Wúxīng bèizhì *Supplementary Records of Wúxīng*
+- [[KR2l0010]] 1620 禮部志稿 Lǐbù zhìgǎo *Draft Gazetteer of the Ministry of Rites*
+- [[KR2k0146]] 1623 職方外紀 Zhífāng wàijì **
+- [[KR2k0135]] 1626 徐霞客遊記 Xú Xiákè yóujì *Travel Records of Xú Xiá-kè*
+- [[KR2m0031]] 1627 明謚紀彙編 Míng Shì Jì Huìbiān *Compendium of Míng-Period Posthumous-Name Records*
+- [[KR2g0013]] 1630 忠貞錄 Zhōngzhēn lù *Record of the Loyal and Steadfast*
+- [[KR2n0032]] 1630 金石林時地考 Jīnshílín shídì kǎo *Investigation of Periods and Places in the Forest of Inscriptions*
+- [[KR2m0046]] 1632 錢通 Qián Tōng *Comprehensive Treatise on Money*
+- [[KR2n0034]] 1635 金石史 Jīnshí shǐ *A History of Bronze and Stone [Inscriptions]*
+- [[KR2l0011]] 1636 太常續考 Tàicháng xùkǎo *Continuation of the Studies on the Court of Imperial Sacrifices*
+- [[KR2k0071]] 1637 吳中水利全書 Wúzhōng shuǐlì quánshū *Complete Compendium of the Hydraulic Works of Wú*
+- [[KR2k0147]] 1637 赤雅 Chìyǎ *The Red-Earth Classic*
+- [[KR2k0120]] 1639 增補武林舊事 Zēngbǔ Wǔlín jiùshì *Supplemented Wǔlín jiùshì*
+- [[KR2b0020]] 1643 綱目續麟 Gāngmù xù lín *The Continuing Unicorn of the Outline-and-Detail Mirror*
+- [[KR2o0019]] 1643 史糾 Shǐjiū *Correcting the Histories*
+- [[KR2k0037]] 1650 天下郡國利病書 Tiānxià jùnguó lìbìng shū *Book of the Benefits and Ills of the Commanderies and States Under Heaven*
+- [[KR2m0032]] 1652 明宮史 Míng Gōng Shǐ *Records of the Míng Palace*
+- [[KR2k0099]] 1654 江城名蹟 Jiāngchéng míngjì **
+- [[KR2l0022]] 1655 御定人臣儆心錄 Yùdìng rénchén jǐngxīn lù *Imperially Approved Record of Vigilance for the Heart of the Servant*
+- [[KR2c0020]] 1656 明史紀事本末 Míngshǐ jìshì běnmò *The* Míng History *Topically Arranged*
+- [[KR2d0016]] 1658 明史鈔略殘 Míngshǐ chāolüè cán *Surviving Fragments of the Abridged History of the Míng*
+- [[KR2g0047]] 1659 中州人物考 Zhōngzhōu rénwù kǎo *Investigation of the Persons of Zhōng-zhōu*
+- [[KR2d0017]] 1660 罪惟錄 Zuìwéi lù *Record of Crimes Reserved [for Heaven's Judgement]*
+- [[KR2m0019]] 1660 元朝典故編年考 Yuáncháo Diǎngù Biānnián Kǎo *Chronological Investigation of Yuán Institutional Precedents*
+- [[KR2c0018]] 1662 綏寇紀略 Suíkòu jìlüè *An Account of the Pacification of the Bandits*
+- [[KR2d0018]] 1662 東山國語 Dōngshān guóyǔ *Discourses of the States, by [Zhā] Dōngshān*
+- [[KR2e0022]] 1662 欽定蒙古源流 Qīndìng Měnggǔ yuánliú *Imperially Commissioned [Translation of the] Origins and Transmission of the Mongols*
+- [[KR2m0011]] 1663 七國考 Qīguó Kǎo *Investigation of the Seven Kingdoms*
+- [[KR2c0019]] 1665 滇考 Diāncháo *Examinations of Yúnnán*
+- [[KR2f0034]] 1666 張襄壯奏疏 Zhāng Xiāngzhuàng zòushū *Memorials of Zhāng Xiāng-zhuàng*
+- [[KR2k0128]] 1666 顏山雜記 Yánshān zájì *Miscellaneous Notes on Mount Yán*
+- [[KR2b0021]] 1667 綱目分註拾遺 Gāngmù fēnzhù shí yí *Gleanings from the Sub-Commentary to the Outline-and-Detail Mirror*
+- [[KR2k0074]] 1670 兩河清彙 Liǎnghé qīnghuì **
+- [[KR2k0057]] 1671 歷代帝王宅京記 Lìdài dìwáng zháijīng jì *Records of the Capitals of Successive Dynasties' Sovereigns*
+- [[KR2k0100]] 1671 營平二州地名記 YíngPíng èrzhōu dìmíng jì *Records of the Place-Names of the Two Prefectures of Yíng and Píng*
+- [[KR2n0036]] 1671 求古錄 Qiúgǔ lù *A Search for Antiquity*
+- [[KR2n0037]] 1671 金石文字記 Jīnshí wénzì jì *Notes on Inscriptions in Bronze and Stone*
+- [[KR2n0038]] 1671 石經考 Shíjīng kǎo *Investigation of the Stone Classics*
+- [[KR2c0021]] 1672 繹史 Yì shǐ *The Continuous History*
+- [[KR2k0150]] 1672 坤輿圖說 Kūnyú túshuō *Illustrated Explanation of the Earth*
+- [[KR2i0021]] 1676 十國春秋 Shíguó Chūnqiū *Spring and Autumn Annals of the Ten Kingdoms*
+- [[KR2m0041]] 1680 歷代建元考 Lìdài Jiànyuán Kǎo *Investigation of Reign-Title Establishments through the Ages*
+- [[KR2m0047]] 1680 捕蝗考 Bǔ Huáng Kǎo *Investigation of Locust-Catching*
+- [[KR2n0010]] 1680 千頃堂書目 Qiānqǐngtáng shūmù *Catalogue of the Qiānqǐng Studio*
+- [[KR2n0041]] 1680 崇陽石刻集記 Sōngyáng shíkè jíjì *Compiled Records of the Stone Inscriptions of the South Slope of Mount Sōng*
+- [[KR2k0073]] 1681 崑崙河源考 Kūnlún Héyuán kǎo *Examination of the Kūn-lún and the Yellow River Source*
+- [[KR2f0035]] 1682 靳文襄奏疏 Jìn Wénxiāng zòushū *Memorials of Jìn Wén-xiāng*
+- [[KR2k0129]] 1682 嶺南風物記 Lǐngnán fēngwù jì *Record of the Customs and Products of Lǐng-nán*
+- [[KR2g0060]] 1683 松亭行紀 Sōngtíng xíng jì *Travel Record of the Pine-Pavilion Pass*
+- [[KR2c0009]] 1684 平定三逆方略 Píngdìng sānnì fānglüè *Campaign History by Imperial Command of the Pacification of the Three Feudatories*
+- [[KR2g0061]] 1684 扈從西巡日錄 Hùcóng xīxún rìlù *Daily Record of Attending the Imperial Tour to the West*
+- [[KR2k0076]] 1684 治河奏績書 Zhìhé zòujì shū *Record of the Achievement of Yellow River Management*
+- [[KR2k0101]] 1684 金鰲退食筆記 Jīnáo tuìshí bǐjì **
+- [[KR2d0021]] 1685 補歷代史表 Bǔ lìdài shǐbiǎo *Supplementary Tables for the Historical Dynasties*
+- [[KR2g0046]] 1685 明儒學案 Míngrú xuéàn *Cases of the Schools of Míng-Period Confucian Scholars*
+- [[KR2m0042]] 1685 北郊配位尊西向議 Běijiāo Pèiwèi Zūn Xīxiàng Yì *A Discussion of the Westward-Facing Co-Sacrificial Placement at the Northern Suburban Altar*
+- [[KR2f0001]] 1686 太祖高皇帝聖訓 Tàizǔ Gāohuángdì shèngxùn *Imperial Instructions of Tàizǔ, the Lofty Emperor*
+- [[KR2m0043]] 1686 廟制圖考 Miàozhì Tú Kǎo *Investigation of Ancestral-Temple Plans, with Diagrams*
+- [[KR2n0039]] 1686 萬氏石經考 Wànshì Shíjīng kǎo *Mr. Wàn's Investigation of the Stone Classics*
+- [[KR2f0002]] 1687 太宗文皇帝聖訓 Tàizōng Wénhuángdì shèngxùn *Imperial Instructions of Tàizōng, the Cultured Emperor*
+- [[KR2f0004]] 1687 世祖章皇帝聖訓 Shìzǔ Zhānghuángdì shèngxùn *Imperial Instructions of Shìzǔ, the Splendid Emperor*
+- [[KR2g0015]] 1687 寧海將軍固山貝子功績錄 Nínghǎi jiāngjūn gùshān bèizǐ gōngjī lù *Record of the Achievements of the Pacification-of-the-Sea General, Banner Bèizǐ*
+- [[KR2g0048]] 1687 東林列傳 Dōnglín lièzhuàn *Sequential Biographies of the Dōng-lín*
+- [[KR2g0059]] 1687 粵閩巡視紀略 YuèMǐn xúnshì jìlüè *Brief Account of an Inspection Tour through Guǎngdōng and Fújiàn*
+- [[KR2c0022]] 1690 左傳紀事本末 Zuǒzhuàn jìshì běnmò *The* Zuǒ Tradition *Topically Arranged*
+- [[KR2h0003]] 1690 南史識小錄 Nán shǐ shíxiǎo lù *A Record of Small Things Worth Knowing from the Southern History*
+- [[KR2m0048]] 1690 荒政叢書 Huāngzhèng Cóngshū *Compendium of Famine-Relief Administration*
+- [[KR2b0040]] 1692 資治通鑑後編 Zī zhì tōng jiàn hòu biān *Posterior Annals to the Comprehensive Mirror in Aid of Governance*
+- [[KR2f0036]] 1695 華野疏稿 Huáyě shūgǎo *Memorial Drafts of Huá-yě*
+- [[KR2g0049]] 1696 儒林宗派 Rúlín zōngpài *Lineages and Schools of the Confucian Forest*
+- [[KR2m0033]] 1696 幸魯盛典 Xìnglǔ Shèngdiǎn *Grand Record of the Imperial Visit to Lǔ*
+- [[KR2n0040]] 1697 來齋金石刻考略 Láizhāi jīnshí kè kǎolüè *Brief Investigations of Inscriptions in Bronze and Stone, from the Studio of Future-Reflection*
+
+### KR3 (341)
+
+- [[KR3ec070]] 1600 藥症忌宜 Yào Zhèng Jìyí *Drug Use Contraindicated and Appropriate by Syndrome*
+- [[KR3ed135]] 1600 怪證奇方 Guàizhèng Qífāng *Strange Symptoms and Extraordinary Formulas*
+- [[KR3ei011]] 1600 家傳女科經驗摘奇 Jiāchuán nǚkē jīngyàn zhāiqí *Family-Transmitted Gynecology -- Wondrous Excerpts of Clinical Experience*
+- [[KR3ei045]] 1600 鄭氏家傳女科萬金方 Zhèngshì jiāchuán nǚkē wànjīn fāng *The Zhèng Family's Transmitted "Ten-Thousand-Gold" Gynecological Formulary*
+- [[KR3ej028]] 1600 陳氏幼科秘訣 Chénshì yòukē mìjué *Chén-Family Paediatric Secret Discussions*
+- [[KR3ej033]] 1600 大醫馬氏小兒脈珍科 Dàyī Mǎshì xiǎo'ér màizhēn kē *Master Physician Mǎ's Treasured-Pulse Paediatrics*
+- [[KR3ej052]] 1600 經驗麻科 Jīngyàn máke *Experiential Materials of the Measles Specialty*
+- [[KR3el004]] 1600 跌打秘方 Diēdǎ mìfāng *Secret Prescriptions for Fall-and-Blow Injuries*
+- [[KR3el009]] 1600 金瘡跌打接骨藥性秘書 Jīnchuāng diēdǎ jiēgǔ yàoxìng mìshū *Secret Treatise on Drug-Properties for Sword-Wounds, Fall-Blow Injuries, and Bone-Setting*
+- [[KR3em013]] 1600 異授眼科 Yìshòu yǎnkē *Ophthalmology by Extraordinary Transmission*
+- [[KR3em023]] 1600 焦氏喉科枕秘 Jiāoshì hóukē zhěnmì *Master Jiāo's Pillow-Secret Laryngology*
+- [[KR3ep016]] 1600 孫文垣醫案 Sūn Wényuán yīàn *Medical Case Records of Sūn Wényuán*
+- [[KR3eq031]] 1600 西池集 Xīchí jí *The Western-Pond Collection*
+- [[KR3eq035]] 1600 醫家心法 Yījiā xīnfǎ *Heart-Methods of the Medical House*
+- [[KR3er119]] 1600 玄門脈訣內照圖 Xuánmén màijué nèizhào tú *Diagrams of the Inner Reflection -- Pulse Mnemonics of the Mysterious Gate*
+- [[KR3ed137]] 1601 應急良方 Yìngjí Liángfāng *Good Formulas for Emergency Response*
+- [[KR3ee027]] 1601 針灸大成 Zhēnjiǔ dàchéng *Great Compendium of Acupuncture and Moxibustion*
+- [[KR3h0047]] 1601 書畫跋跋 Shūhuà bábá *Colophons upon Colophons (on Calligraphy and Painting)*
+- [[KR3e0078]] 1602 證治準繩 Zhèngzhì zhǔnshéng *The Standard Compass for Symptom-Pattern and Treatment*
+- [[KR3ed049]] 1602 萬氏家抄濟世良方 Wànshì Jiāchāo Jìshì Liángfāng *Wàn-Family Hand-Copied World-Relieving Good Recipes*
+- [[KR3eh011]] 1602 證治準繩·雜病 Zhèngzhì zhǔnshéng · Zábìng *Standards for Diagnosis and Treatment · Miscellaneous Diseases*
+- [[KR3eq045]] 1602 鬱岡齋醫學筆麈 Yùgāngzhāi yīxué bǐzhǔ *Medical Talking-Whisk from the Yù-Crag Studio*
+- [[KR3eu011]] 1602 證治準繩 Zhèngzhì zhǔnshéng *The Plumb-Line for Pattern-and-Treatment*
+- [[KR3er125]] 1603 新刻華佗內照圖 Xīnkè Huà Tuó nèizhào tú *A Newly-Cut Edition of Huà Tuó's Inner-Reflection Diagrams*
+- [[KR3f0008]] 1603 古今律歷考 Gǔjīn lǜlì kǎo *Examination of the Ancient and Modern Pitch-Pipes and Calendar*
+- [[KR3fb010]] 1603 萬年曆備考 Wànnián lì bèikǎo *Reference Materials for the Perpetual Calendar*
+- [[KR3j0063]] 1603 疑耀 Yí yào *Doubting the Bright*
+- [[KR3k0048]] 1603 說畧 Shuōlüè *Summary of Discourses*
+- [[KR3a0096]] 1604 呻吟語摘 Shēn yín yǔ zhāi *Selected Groanings*
+- [[KR3ed044]] 1604 證治準繩·類方 Zhèngzhì Zhǔnshéng · Lèifāng *Standards of Treatment by Syndrome -- Classified Recipes*
+- [[KR3eh052]] 1604 證治準繩·傷寒 Zhèngzhì zhǔnshéng · Shānghán *Standards of Diagnosis and Treatment — Cold Damage*
+- [[KR3ej069]] 1604 小兒推拿方脈活嬰秘旨全書 Xiǎo'ér tuīná fāngmài huóyīng mìzhǐ quánshū *Complete Secret Pointers on Paediatric Massage, Prescriptions, and Pulse-Taking for Saving Infants*
+- [[KR3ek021]] 1604 外科啟玄 Wàikē qǐxuán *Unveiling the Mysteries of External Medicine*
+- [[KR3eu013]] 1604 證治準繩·傷寒 Zhèngzhì zhǔnshéng · Shānghán *Plumb-Line for Pattern-and-Treatment — Cold Damage*
+- [[KR3ec030]] 1605 藥鑑 Yào Jiàn *The Mirror of Drugs*
+- [[KR3ed151]] 1605 虺後方 Huīhòu Fāng *Formulas Following [the Master's Cure of] the Viper-Bite*
+- [[KR3ek027]] 1605 證治準繩·瘍醫 Zhèngzhì zhǔnshéng · Yángyī *Standards for Diagnosis and Treatment -- Ulcer Medicine*
+- [[KR3ei063]] 1606 胤產全書 Yìnchǎn quánshū *Complete Book on Procreation and Childbirth*
+- [[KR3f0047]] 1606 幾何原本 Jǐhé yuánběn *Euclid's Elements (Books I–VI)*
+- [[KR3k0051]] 1606 駢志 Pián zhì *Records of Paired Phenomena*
+- [[KR3ed145]] 1607 傅氏驗方秘方 Fùshì Yànfāng Mìfāng *Fù Family Tested and Secret Formulas*
+- [[KR3eh014]] 1607 重訂靈蘭要覽 Chóngdìng Línglán yàolǎn *Revised Essentials from the Spirit-Orchid [Library]*
+- [[KR3ei030]] 1607 證治準繩·女科 Zhèngzhì zhǔnshéng·Nǚkē *Standard for Diagnosis and Therapy -- Women's Section*
+- [[KR3ej037]] 1607 證治準繩·幼科 Zhèngzhì zhǔnshéng · Yòukē *Standards of Diagnosis and Treatment — Paediatric Section*
+- [[KR3eq008]] 1607 肯堂醫論 Kěntáng yīlùn *Kěntáng's Medical Discussions*
+- [[KR3eu014]] 1607 證治準繩·女科 Zhèngzhì zhǔnshéng · Nǚkē *Plumb-Line for Pattern-and-Treatment — Women's Medicine*
+- [[KR3eu015]] 1607 證治準繩·幼科 Zhèngzhì zhǔnshéng · Yòukē *Plumb-Line for Pattern-and-Treatment — Paediatrics*
+- [[KR3f0009]] 1607 乾坤體義 Qiánkūn tǐyì **
+- [[KR3f0014]] 1607 測量法義 Cèliáng fǎyì *The Meaning of the Measurement Methods*
+- [[KR3f0015]] 1607 渾蓋通憲圖說 Húngài tōngxiàn túshuō *Diagrammatic Treatise on the Comprehensive [Astrolabic] Standard Combining Sphere-Heaven and Cover-Heaven [Cosmologies]*
+- [[KR3fc026]] 1607 勾股義 Gōugǔ yì *Meaning of the Right Triangle*
+- [[KR3k0052]] 1607 山堂肆考 Shāntáng sìkǎo *Wide-Ranging Inquiries from the Mountain Hall*
+- [[KR3k0054]] 1607 廣博物志 Guǎng bówù zhì *Expanded Treatise on Wide-Ranging Matters*
+- [[KR3er118]] 1608 臟腑證治圖說人鏡經 Zàngfǔ zhèngzhì túshuō Rénjìng jīng *The "Human Mirror" Canon -- Illustrated Explanation of Visceral Pattern-Diagnosis and Treatment*
+- [[KR3eg038]] 1609 瘴瘧指南 Zhàngnüè zhǐnán *A Guide to Miasma-Malaria*
+- [[KR3fb012]] 1609 戊申立春考證 Wùshēn lìchūn kǎozhèng *A Verification of the Lichun of the Wushen Year*
+- [[KR3h0045]] 1610 趙氏鐵網珊瑚 Zhàoshì Tiěwǎng shānhú *Mr. Zhào's Iron-Net Coral*
+- [[KR3eq046]] 1611 醫學窮源集 Yīxué qióngyuán jí *A Collection Tracing the Sources of Medical Learning*
+- [[KR3f0011]] 1611 簡平儀說 Jiǎnpíng yí shuō *Treatise on the Simplified Planispheric [Astrolabe]*
+- [[KR3f0016]] 1611 圜容較義 Yuánróng jiàoyì *Comparative Meaning of [Areas Inscribed in] the Circle*
+- [[KR3d0008]] 1612 秦西水法 Tàixī shuǐ fǎ *Hydraulic Methods of the Greater West*
+- [[KR3f0017]] 1612 歷體畧 Lìtǐ lüè **
+- [[KR3g0048]] 1612 遁甲演義 Dùnjiǎ yǎnyì *Elaborated Meaning of the Hidden-Trunk [Divinatory System]*
+- [[KR3h0051]] 1612 寒山帚談 Hánshān zhǒután *Hánshān's Broom-Talks (on Calligraphy)*
+- [[KR3j0158]] 1612 畫禪室隨筆 Huàchán shì suíbǐ *Random Notes from the Painting-Chán Studio*
+- [[KR3eq034]] 1613 先醒齋醫學廣筆記 Xiānxǐngzhāi yīxué guǎng bǐjì *Broad Notes on Medical Studies from the Awakening-Ahead Studio*
+- [[KR3f0010]] 1614 表度說 Biǎo dù shuō *Treatise on Gnomon Measurements*
+- [[KR3f0046]] 1614 同文算指 Tóngwén suànzhǐ *Common-Language Computational Pointers*
+- [[KR3er029]] 1615 壽世保元 Shòu shì bǎo yuán *Preserving the Primordium to Prolong Life*
+- [[KR3f0012]] 1615 天問畧 Tiānwèn lüè **
+- [[KR3h0055]] 1615 清河書畫舫 Qīnghé shūhuà fǎng *The Calligraphy-and-Painting Boat of Qīnghé*
+- [[KR3er085]] 1616 濟世全書 Jìshì quánshū *The Complete Book for Saving the World*
+- [[KR3h0059]] 1616 南陽書畫集 Nányáng shūhuà jí *The Nányáng Calligraphy-and-Painting Compendium*
+- [[KR3ek014]] 1617 外科正宗 Wàikē zhèngzōng *Orthodox Lineage of External Medicine*
+- [[KR3ep100]] 1617 醫驗大成 Yīyàn dàchéng *Grand Compendium of Verified Cases*
+- [[KR3er001]] 1617 醫貫 Yī guàn *Penetrating the Heart of Medicine*
+- [[KR3ee041]] 1618 針方六集 Zhēnfāng liùjí *Six Collections of Needle-Formulas*
+- [[KR3ei050]] 1618 產鑑 Chǎnjiàn *The Mirror of Childbirth*
+- [[KR3ej071]] 1618 仁端錄 Rénduān lù *Record of the Foundations of Humaneness*
+- [[KR3eq043]] 1619 醫鏡 Yī jìng *The Medical Mirror*
+- [[KR3fc029]] 1619 定法平方算術 Dìngfǎ píngfāng suànshù *Mathematical Method for Fixed-Procedure Square-Root Extraction*
+- [[KR3eh042]] 1620 理虛元鑑 Lǐxū yuánjiàn *The Original Mirror for Treating Depletion*
+- [[KR3ei006]] 1620 濟陰綱目 Jìyīn gāngmù *The Outline-and-Detail of Aiding the Yin (Women's Medicine)*
+- [[KR3ej034]] 1620 幼科折衷秘傳真本 Yòukē zhézhōng mìchuán zhēnběn *True Secret-Transmission Recension of the Eclectic Synthesis of Paediatrics*
+- [[KR3er042]] 1620 丹溪手鏡 Dānxī shǒu jìng *The Hand-Mirror of Dān-xī*
+- [[KR3er127]] 1620 奇效醫述 Qíxiào yīshù *Records of Remarkable-Effect Medical Cases*
+- [[KR3ei073]] 1621 孕育玄機 Yùnyù xuánjī *The Mysterious Mechanism of Pregnancy and Childbirth*
+- [[KR3eo030]] 1621 福壽丹書 Fúshòu dānshū *Cinnabar Book of Felicity and Long Life*
+- [[KR3j0065]] 1621 徐氏筆精 Xúshì bǐ jīng *The Xú Family's Brush-Refinement*
+- [[KR3d0009]] 1622 野菜博錄 Yě cài bó lù *Comprehensive Records of Wild Vegetables*
+- [[KR3e0083]] 1622 先醒齋廣筆記 Xiānxǐngzhāi guǎng bǐjì *The Expanded Notes of the Studio of Awakened-First*
+- [[KR3e0084]] 1622 神農本草經疏 Shénnóng běncǎo jīng shū *An Annotated Commentary on the Divine Farmer's Materia Medica Classic*
+- [[KR3ej026]] 1622 嬰童類萃 Yīngtóng lèicuì *Distilled Categories on Infants and Children*
+- [[KR3ek032]] 1622 新刻圖形枕藏外科 Xīnkè túxíng zhěncáng wàikē *Newly Cut and Illustrated Pillow-Stored External Medicine*
+- [[KR3ep048]] 1622 幼科醫驗 Yòukē yīyàn *Verified Cases of Paediatric Medicine*
+- [[KR3er053]] 1622 明醫指掌 Míngyī zhǐzhǎng *A Compass-in-the-Palm for the Discerning Physician*
+- [[KR3i0050]] 1622 異魚圖贊補 Yìyú túzàn bǔ *Supplement to the Illustrated Encomia of Strange Fish*
+- [[KR3j0068]] 1622 拾遺錄 Shí yí lù *Record of Gathered Remnants*
+- [[KR3j0159]] 1622 六研齋筆記 Liùyánzhāi bǐjì *Notes from the Studio of Six Inkstones*
+- [[KR3ec019]] 1623 神農本草經疏 Shénnóng Běncǎo Jīng Shū *Exegesis on the Shennong Materia Medica*
+- [[KR3eg005]] 1623 增訂葉評傷暑全書 Zēngdìng Yèpíng Shāngshǔ quánshū *Expanded and Revised Complete Book on Summer-Heat Disorders with Yè Tiānshì's Annotations*
+- [[KR3eh024]] 1623 濟陽綱目 Jǐyáng gāngmù *Outline and Detail for Male/General Medicine*
+- [[KR3e0085]] 1624 類經 Lèijīng *Categorically Re-Organized [Inner] Classic*
+- [[KR3ea036]] 1624 類經 Lèijīng *The Inner Classic by Categories*
+- [[KR3ec088]] 1624 炮炙大法 Pàozhì Dàfǎ *The Great Method of Drug Processing*
+- [[KR3ee031]] 1624 類經圖翼 Lèijīng túyì *Wings of Illustration to the Classified Canon*
+- [[KR3ei025]] 1625 邯鄲遺稿 Hándān yígǎo *Hándān Posthumous Drafts*
+- [[KR3ej062]] 1625 疹科類編 Zhěnkē lèibiān *Categorised Compilation of the Measles Specialty*
+- [[KR3h0057]] 1625 清河書畫表 Qīnghé shūhuà biǎo *Tabular Register of the Qīnghé Calligraphy-and-Painting Collection*
+- [[KR3h0058]] 1625 書畫見聞表 Shūhuà jiànwén biǎo *Tabular Register of Calligraphies and Paintings Eyewitnessed and Heard-of*
+- [[KR3ec033]] 1626 本草彙言 Běncǎo Huì Yán *Compiled Discourses on Materia Medica*
+- [[KR3er096]] 1626 醫學研悅 Yīxué yányuè *Researches in Medicine, Delighted in*
+- [[KR3ed142]] 1627 本草單方 Běncǎo Dānfāng *Single-Drug Formulas from the Materia Medica*
+- [[KR3h0056]] 1627 真蹟日錄 Zhēnjī rìlù *Daily Register of Authentic Pieces*
+- [[KR3i0001]] 1627 奇器圖說 Qíqì túshuō *Illustrated Explanations of Marvellous Devices*
+- [[KR3eh037]] 1628 慎柔五書 Shènróu wǔ shū *The Five Books of Shènróu*
+- [[KR3j0186]] 1628 玉芝堂談薈 Yùzhī táng tán huì *Talk-Gatherings from the Jade-Fungus Hall*
+- [[KR3d0007]] 1629 農政全書 Nóng zhèng quán shū *Complete Treatise on Agricultural Administration*
+- [[KR3er056]] 1629 簡明醫彀 Jiǎnmíng yī gòu *A Concise Medical Compass*
+- [[KR3i0017]] 1629 香乘 Xiāngshèng *The Incense Vehicle (Comprehensive Treatise on Incense)*
+- [[KR3eh040]] 1630 痰火點雪 Tánhuǒ diǎnxuě *Snow Falling on Phlegm-Fire*
+- [[KR3ej018]] 1630 幼科折衷 Yòukē zhézhōng *Eclectic Synthesis of Paediatrics*
+- [[KR3eq016]] 1630 質疑錄 Zhìyí lù *Records of Raising Doubts*
+- [[KR3eq067]] 1630 折肱漫錄 Zhégōng mànlù *Casual Records of the Broken Arm [Becoming-a-Physician]*
+- [[KR3er044]] 1630 丹臺玉案 Dāntái yù àn *The Jade-Tablet Cases of the Cinnabar Terrace*
+- [[KR3h0049]] 1630 繪事微言 Huìshì wēiyán *Subtle Words on the Affair of Painting*
+- [[KR3h0052]] 1630 書法離鉤 Shūfǎ líguō *Calligraphic Method beyond the Hook*
+- [[KR3i0049]] 1630 異魚圖贊箋 Yìyú túzàn jiān *Annotated Edition of the Illustrated Encomia of Strange Fish*
+- [[KR3fb011]] 1631 曆測 Lì cè *Calendrical Probings*
+- [[KR3h0053]] 1631 畫史會要 Huàshǐ huìyào *Essentials of the History of Painting*
+- [[KR3a0100]] 1632 溫氏母訓 Wēnshì mǔ xùn *The Maternal Instructions of the Wēn Family*
+- [[KR3e0086]] 1632 景岳全書 Jǐngyuè quánshū *The Complete Works of Jǐng-yuè*
+- [[KR3e0088]] 1632 痎瘧論疏 Jiēnüè lùn shū *An Annotated Discourse on the Periodic Malaria Diseases*
+- [[KR3ec031]] 1632 本草正 Běncǎo Zhèng *Correcting the Materia Medica*
+- [[KR3eh057]] 1632 痎瘧論疏 Jiēnüè lùn shū *An Annotated Discourse on the Periodic Malaria Diseases*
+- [[KR3ei028]] 1632 婦人規 Fùrén guī *Compass of Women's Medicine*
+- [[KR3j0174]] 1632 長物志 Cháng wù zhì *Treatise on Superfluous Things*
+- [[KR3k0053]] 1632 古儷府 Gǔ lì fǔ *Repository of Ancient Parallel Prose*
+- [[KR3er121]] 1633 醫經會解 Yījīng huìjiě *An Integrative Explication of the Medical Classics*
+- [[KR3g0016]] 1633 三易洞璣 Sānyì dòngjī *Penetrating-Pivot of the Three *Yì*-Traditions*
+- [[KR3h0090]] 1633 園冶 Yuányě *The Craft of Gardens*
+- [[KR3h0103]] 1634 籟紀 Lài Jì *Chronicles of Sounds*
+- [[KR3a0097]] 1635 劉子遺書 Liúzǐ yíshū *The Bequeathed Writings of Master Liú*
+- [[KR3a0099]] 1635 榕壇問業 Róng tán wèn yè *Inquiries at the Banyan Altar*
+- [[KR3e0089]] 1635 本草乘雅半偈 Běncǎo chéngyǎ bàn jì *The Materia-Medica Quad-Multiplied Half-Verses*
+- [[KR3fc030]] 1635 度測 Dùcè *Surveying-and-Measurement*
+- [[KR3fc031]] 1635 度算解 Dùsuàn jiě *Exposition of Surveying Calculations*
+- [[KR3fc032]] 1635 開平方說 Kāipíngfāng shuō *Exposition of Square-Root Extraction*
+- [[KR3fc033]] 1635 開立方說 Kāilìfāng shuō *Exposition of Cube-Root Extraction*
+- [[KR3ec026]] 1636 本草乘雅半偈 Běncǎo Chéngyǎ Bànjì *Vehicle of Elegance for the Materia Medica — Half-Verses*
+- [[KR3ee010]] 1636 經絡彙編 Jīngluò huìbiān *Compendium of Channels and Collaterals*
+- [[KR3ej032]] 1636 小兒諸證補遺 Xiǎo'ér zhūzhèng bǔyí *Supplements on the Various Symptoms of Children*
+- [[KR3ep081]] 1637 里中醫案 Lǐzhōng yīàn *Local Medical Case Records*
+- [[KR3er083]] 1637 醫宗必讀 Yīzōng bìdú *The Indispensable Reading of the Medical Tradition*
+- [[KR3f0013]] 1637 新法算書 Xīnfǎ suànshū **
+- [[KR3fb008]] 1637 歷誌 Lì zhì *Calendar Treatise*
+- [[KR3a0098]] 1638 人譜 Rén pǔ *Genealogy of the Human*
+- [[KR3ec029]] 1638 雷公炮製藥性解 Léi Gōng Páozhì Yàoxìng Jiě *Léi Gōng's Drug-Processing Methods, with an Explanation of Drug Properties*
+- [[KR3ec032]] 1638 本草通玄 Běncǎo Tōngxuán *Penetrating the Mystery of the Materia Medica*
+- [[KR3fa019]] 1638 格致草 Gézhì cǎo *A Draft of the Investigation of Things and Extension of Knowledge*
+- [[KR3h0054]] 1639 書畫題跋記 Shūhuà tíbá jì *Records of Inscriptions and Colophons on Calligraphies and Paintings*
+- [[KR3ed042]] 1640 祖劑 Zǔjì *Ancestral Prescriptions*
+- [[KR3er073]] 1640 景岳全書 Jǐngyuè quánshū *The Complete Writings of Master Jǐng-yuè*
+- [[KR3er014]] 1641 症因脈治 Zhèng yīn mài zhì *Presentation, Aetiology, Pulse, and Treatment*
+- [[KR3j0066]] 1641 通雅 Tōng yǎ *Comprehensive Approach to Refined Glosses*
+- [[KR3e0087]] 1642 瘟疫論 Wēnyì lùn *A Discourse on Warm-Epidemic*
+- [[KR3ea038]] 1642 內經知要 Nèijīng zhīyào *Essentials Worth Knowing in the Inner Classic*
+- [[KR3eb020]] 1642 診家正眼 Zhěn Jiā Zhèng Yǎn *The Diagnostician's True Eye*
+- [[KR3eg004]] 1642 溫疫論 Wēnyì lùn *Treatise on Warm-Epidemic Disorders*
+- [[KR3er079]] 1642 刪補頤生微論 Shānbǔ yíshēng wēilùn *Discourses on the Subtleties of Nurturing Life, Selected and Supplemented*
+- [[KR3j0067]] 1642 巵林 Zhī lín *A Forest of Cup-Filled Words*
+- [[KR3eb010]] 1643 證治心傳 Zhèng Zhì Xīn Chuán *Mind-Transmission on Patterns and Treatments*
+- [[KR3eh023]] 1643 病機沙篆 Bìngjī shāzhuàn *Sand-Seal of Pathomechanism*
+- [[KR3h0060]] 1643 珊瑚網 Shānhú wǎng *The Coral Net*
+- [[KR3ed055]] 1644 太醫院秘藏膏丹丸散方劑 Tàiyīyuàn Mìcáng Gāo Dān Wán Sǎn Fāngjì *The Imperial Medical Academy's Privately-Held Recipes for Plasters, Elixirs, Pills and Powders*
+- [[KR3ee003]] 1644 凌門傳授銅人指穴 Língmén chuánshòu tóngrén zhǐxué *Língmén Transmission of Bronze-Man Acupoint Localization*
+- [[KR3ee051]] 1644 楊成博先生遺留穴道秘書 Yáng Chéngbó xiānshēng yíliú xuédào mìshū *Master Yáng Chéngbó's Bequeathed Secret Book of the Vital-Point Pathways*
+- [[KR3ef035]] 1644 傷寒捷訣 Shānghán jié jué *Quick Mnemonic of Cold Damage*
+- [[KR3el012]] 1644 跌打損傷方 Diēdǎ sǔnshāng fāng *Prescriptions for Fall-Blow Injuries*
+- [[KR3em010]] 1644 審視瑤函 Shěnshì yáohán *A Precious Casket of Examined-Vision (Ophthalmology)*
+- [[KR3em035]] 1644 集喉症諸方 Jí hóuzhèng zhūfāng *A Collection of Prescriptions for Throat Diseases*
+- [[KR3eq044]] 1644 醫辨 Yī biàn *Medical Disputations*
+- [[KR3eq079]] 1644 醫學傳心錄 Yīxué chuánxīn lù *Records of the Heart-Transmitted Teachings of Medicine*
+- [[KR3er054]] 1644 軒岐救正論 XuānQí jiùzhèng lùn *Discourses on Restoring Correctness to the Medicine of Xuānyuán and Qíbó*
+- [[KR3fa012]] 1644 天官圖 Tiānguān tú *Diagrams of the Celestial Offices*
+- [[KR3fa026]] 1644 周天星位經緯宿度考 Zhōutiān xīngwèi jīngwěi xiùdù kǎo *Investigation of the Ecliptic Longitude, Latitude, and Lodge-Degree of the Star-Positions across the Whole Heaven*
+- [[KR3fa027]] 1644 三才實義天集 Sāncái shíyì tiānjí *The Heaven Collection of the True Meaning of the Three Powers*
+- [[KR3fa038]] 1644 天文秘旨 Tiānwén mìzhǐ *The Secret Doctrine of Astronomy*
+- [[KR3fb020]] 1644 囂囂子曆鏡 Xiāoxiāozǐ lì jìng *Master Xiaoxiao's Mirror of Calendars*
+- [[KR3fb018]] 1645 七政臺曆 Qīzhèng tái lì *Calendar of the Seven Governors for the (Astronomical Bureau) Platform*
+- [[KR3fb019]] 1645 算七政交食凌犯法 Suàn qīzhèng jiāoshí língfàn fǎ *Method for Computing the Syzygies and Conjunctions of the Seven Governors*
+- [[KR3fb022]] 1645 大清時憲書箋釋 DàQīng Shíxiànshū jiānshì *Annotated Commentary on the Great Qing Shixian Calendar*
+- [[KR3j0160]] 1647 物理小識 Wùlǐ xiǎozhì *Petty Notes on the Principles of Things*
+- [[KR3e0091]] 1648 尚論篇 Shànglùn piān *The Promoting-Discussion Chapters*
+- [[KR3ec027]] 1648 本草徵要 Běncǎo Zhēngyào *Materia Medica with Verification-of-Essentials*
+- [[KR3ef026]] 1648 尚論篇 Shàng lùn piān *Esteemed-Discourse Chapters (on the Cold-Damage Treatise)*
+- [[KR3ef041]] 1649 傷寒括要 Shānghán kuò yào *Concise Essentials of Cold Damage*
+- [[KR3eq072]] 1650 裴子言醫 Péizǐ yányī *Master Pei's Words on Medicine*
+- [[KR3eb001]] 1652 醫燈續焰 Yī Dēng Xù Yàn *The Medical Lamp Continued in Flame*
+- [[KR3ep012]] 1653 寓意草 Yùyì cǎo *Random Notes on My Intentions*
+- [[KR3ef006]] 1654 張卿子傷寒論 Zhāng Qīngzǐ Shānghán lùn *Zhāng Qīngzǐ's [Annotated] Treatise on Cold Damage Disorders*
+- [[KR3f0024]] 1654 天步眞原 Tiānbù zhēnyuán *The True Origin of the Heavens' Motion*
+- [[KR3a0101]] 1655 御定資政要覽 Yù dìng zī zhèng yào lǎn *Imperial-Approved Essentials for Aiding Government*
+- [[KR3ed032]] 1655 絳雪丹書 Jiàngxuě Dānshū *Crimson-Snow Cinnabar Book*
+- [[KR3fb013]] 1655 民歷鋪註解惑 Mínlì pùzhù jiěhuò *Resolving Doubts on the Annotations of the Civil Calendar*
+- [[KR3a0106]] 1656 御定內則衍義 Yù dìng nèizé yǎn yì **
+- [[KR3ef027]] 1656 尚論後篇 Shàng lùn hòu piān *Later Esteemed-Discourse Chapters*
+- [[KR3eq040]] 1657 言醫選評 Yányī xuǎnpíng *The "On Medicine" — Selected with Commentary*
+- [[KR3e0092]] 1658 醫門法律 Yī mén fǎlǜ *The Methods-and-Laws of the Medical Gate*
+- [[KR3er007]] 1658 醫門法律 Yīmén fǎlǜ *Rules and Regulations for the Gate of Medicine*
+- [[KR3ed067]] 1660 靈藥秘方 Língyào Mìfāng *Secret Recipes for Numinous Medicines*
+- [[KR3em022]] 1660 尤氏喉科秘書 Yóushì hóukē mìshū *The Yóu Family's Secret Book on Laryngology*
+- [[KR3fc020]] 1660 新編算學啟蒙/總括 Xīnbiān suànxué qǐméng / Zǒngkuò *Newly-Edited Introduction to Mathematical Studies, with Summary Tables*
+- [[KR3h0064]] 1660 庚子銷夏記 Gēngzǐ xiāoxià jì *A Record for Whiling Away the Summer of the Gēng-zǐ Year*
+- [[KR3er103]] 1662 醫津一筏 Yījīn yī fá *A Single Raft on the Ferry of Medicine*
+- [[KR3er105]] 1662 醫經秘旨 Yījīng mìzhǐ *The Hidden Purport of the Medical Classics*
+- [[KR3er081]] 1663 醫宗說約 Yīzōng shuōyuē *A Concise Statement of the Medical Tradition*
+- [[KR3f0021]] 1663 曉菴新法 Xiǎo'ān xīnfǎ **
+- [[KR3ed047]] 1664 傅氏雜方 Fùshì Záfāng *Miscellaneous Recipes of Mr Fù*
+- [[KR3f0025]] 1664 天學會通 Tiānxué huìtōng *Comprehensive Synthesis of the Study of the Heavens*
+- [[KR3fa028]] 1664 不得已 Bùdé yǐ *I Could Do No Other*
+- [[KR3k0065]] 1664 宋稗類鈔 Sòng bài lèi chāo *Classified Excerpts from Song Unofficial Sources*
+- [[KR3eb018]] 1665 脈訣彙辨 Mài Jué Huì Biàn *Compendium of Discriminations on the Pulse Songs*
+- [[KR3ek011]] 1665 外科大成 Wàikē dà chéng *The Great Achievement of External Medicine*
+- [[KR3eq018]] 1665 侶山堂類辯 Lǚshāntáng lèibiàn *Categorical Disputations from the Lǚ-Mountain Lecture Hall*
+- [[KR3j0176]] 1665 七頌堂識小錄 Qī sòng táng zhì xiǎo lù *Recording the Small from the Hall of Seven Hymns*
+- [[KR3j0070]] 1666 日知錄 Rì zhī lù *Records of Daily Knowledge*
+- [[KR3ef020]] 1667 傷寒纘論 Shānghán zuǎn lùn *Compiled Discourse on Cold Damage*
+- [[KR3ef021]] 1667 傷寒纘論_傷寒緒論 Shānghán zuǎn lùn / Shānghán xù lùn *Compiled Discourse / Threads of Discourse on Cold Damage*
+- [[KR3f0023]] 1667 天經惑問 Tiānjīng huòwèn **
+- [[KR3l0091]] 1667 山海經廣注 Shānhǎijīng guǎngzhù *Expanded Commentary on the Classic of Mountains and Seas*
+- [[KR3e0093]] 1668 傷寒舌鑑 Shānghán shé jiàn *The Mirror of Cold-Damage Tongue-Diagnostics*
+- [[KR3e0094]] 1668 傷寒兼證析義 Shānghán jiānzhèng xīyì *Analysis of the Comorbid-Syndrome Significances of Cold-Damage*
+- [[KR3eb054]] 1668 傷寒舌鑑 Shānghán Shé Jiàn *Tongue Mirror for Cold-Damage Disorders*
+- [[KR3j0161]] 1668 春明夢餘錄 Chūnmíng mèngyú lù *Lingering Dreams of Spring Brightness*
+- [[KR3a0105]] 1669 御定孝經衍義 Yù dìng xiào jīng yǎn yì **
+- [[KR3ec057]] 1669 本草擇要綱目 Běncǎo Zéyào Gāngmù *Selected Essentials from the Compendium of Materia Medica*
+- [[KR3f0022]] 1669 中星譜 Zhōngxīng pǔ *Catalog of the Meridian-Crossing Stars*
+- [[KR3fb014]] 1669 授時曆故 Shòushí lì gù *The Reasoning Behind the Granting-the-Seasons Calendar*
+- [[KR3fb015]] 1669 曆學假如 Lìxué jiǎrú *Worked Examples for Calendrical Studies*
+- [[KR3j0175]] 1669 韻石齋筆談 Yùn shí zhāi bǐ tán *Brush-Talks from the Rhyme-Stone Studio*
+- [[KR3ej016]] 1670 幼科指南 Yòukē zhǐnán *Compass for Paediatrics*
+- [[KR3ej064]] 1670 （痘疹）生民切要 (Dòuzhěn) Shēngmín qièyào *Essential Concerns of the People's Lives (on Smallpox and Eruptive Fever)*
+- [[KR3er067]] 1670 醫宗己任編 Yīzōng jǐrèn biān *Compilation of "Taking Medicine as One's Personal Charge"*
+- [[KR3e0006]] 1671 金匱要略論註 Jīnguì yàoluè lùnzhù *The Golden-Coffer Essential Discourse, with Commentary*
+- [[KR3ea005]] 1671 素問經注節解 Sùwèn jīngzhù jiéjiě *An Abridged Exposition of the Commentary on the Basic Questions*
+- [[KR3ea008]] 1671 黃帝內經素問集註 Huángdì Nèijīng Sùwèn jízhù *A Collected Commentary on the Yellow Emperor's Inner Classic, Basic Questions*
+- [[KR3ef007]] 1671 傷寒論翼 Shānghán lùn yì *Wings to the Treatise on Cold Damage Disorders*
+- [[KR3ef013]] 1671 傷寒來蘇集 Shānghán lái sū jí *Collection of Reviving from Cold Damage*
+- [[KR3ef014]] 1671 傷寒論註來蘇集 Shānghán lùn zhù lái sū jí *Annotated Cold-Damage Treatise, Lái-sū Collection*
+- [[KR3ef092]] 1671 金匱要畧論註 Jīnguì yào lüè lùn zhù *Discursive Annotation of the Jīnguì yào lüè*
+- [[KR3j0071]] 1671 藝林彙考 Yì lín huì kǎo *Gathered Investigations of the Garden of Arts*
+- [[KR3ea025]] 1672 黃帝內經靈樞集註 Huángdì Nèijīng Língshū jízhù *A Collected Commentary on the Yellow Emperor's Inner Classic, Numinous Pivot*
+- [[KR3fb017]] 1672 曆象本要 Lìxiàng běnyào *Essentials of the Calendar and Celestial Phenomena*
+- [[KR3j0191]] 1672 鈍吟雜錄 Dùn yín zá lù *Dull-Chanter Miscellaneous Records*
+- [[KR3a0111]] 1673 思辨錄輯要 Sī biàn lù jí yào *The Essential Selection from the Records of Thought-and-Discrimination*
+- [[KR3fa021]] 1673 新制靈臺儀象志 Xīnzhì línɡtái yíxiàng zhì *Treatise on the Newly Constructed Instruments of the Imperial Observatory*
+- [[KR3ed013]] 1674 聖濟總錄纂要 Shèngjì Zǒnglù Zuǎnyào *Distilled Essentials of the General Record of Sagely Relief*
+- [[KR3ea046]] 1675 內經博議 Nèijīng bóyì *Wide-Ranging Discussions on the Inner Classic*
+- [[KR3ed075]] 1675 古今名醫方論 Gǔjīn Míngyī Fānglùn *Recipe Discourses of Famous Physicians of Antiquity and the Present*
+- [[KR3eg006]] 1675 重訂廣溫熱論 Chóngdìng Guǎng wēnrè lùn *Revised "Expanded Treatise on Warm-Heat Disorders"*
+- [[KR3eg023]] 1675 廣瘟疫論 Guǎng wēnyì lùn *Expanded Treatise on Warm-Epidemic Disorders*
+- [[KR3ej022]] 1675 慈幼新書 Cíyòu xīnshū *A New Book of Compassionate Childcare*
+- [[KR3es002]] 1675 古今名醫彙粹 Gǔjīn míngyī huìcuì *Distillation of Famous Physicians, Ancient and Modern*
+- [[KR3ef033]] 1676 傷寒附翼 Shānghán fù yì *Supplementary Wings to [the Treatise on] Cold Damage*
+- [[KR3eg037]] 1676 痧脹玉衡 Shāzhàng yùhéng *Jade Balance of Sha-Distension Disorders*
+- [[KR3ej067]] 1676 小兒推拿廣意 Xiǎo'ér tuīná guǎngyì *Expanded Meaning of Paediatric Massage*
+- [[KR3eo006]] 1678 壽世青編 Shòushì qīngbiān *The Green Compendium for Prolonging the Generations*
+- [[KR3j0069]] 1678 義府 Yì fǔ *The Storehouse of Meanings*
+- [[KR3ec028]] 1679 本草易讀 Běncǎo Yìdú *Easy-to-Read Materia Medica*
+- [[KR3eg032]] 1679 溫熱暑疫全書 Wēnrè shǔyì quánshū *Complete Book on Warm, Heat, Summer-heat, and Epidemic Disorders*
+- [[KR3fa022]] 1679 天官考異 Tiānguān kǎoyì *Critical Study of Discrepancies in the Celestial Offices*
+- [[KR3ef045]] 1680 傷寒論辯證廣註 Shānghán lùn biànzhèng guǎng zhù *Discriminating-Syndrome Extensive Commentary on the Treatise on Cold Damage*
+- [[KR3em004]] 1680 眼科秘訣 Yǎnkē mìjué *Secret Instructions of Ophthalmology*
+- [[KR3em009]] 1680 一草亭目科全書 Yīcǎotíng mùkē quánshū *The Complete Ophthalmology Book of the One-Grass Pavilion*
+- [[KR3a0115]] 1681 讀朱隨筆 Dú Zhū suí bǐ *Random Notes on Reading Zhū-zǐ*
+- [[KR3ed076]] 1682 醫方集解 Yīfāng Jíjiě *A Collected Commentary on Medical Formulas*
+- [[KR3ed077]] 1682 醫方集解 Yīfāng Jíjiě *A Collected Commentary on Medical Formulas — Taishō-format reprint edition*
+- [[KR3ee044]] 1682 身經通考 Shēnjīng tōngkǎo *Comprehensive Investigation of the Body-Channel System*
+- [[KR3ee052]] 1682 選針三要集 Xuǎnzhēn sānyào jí *Collected Three Essentials for Selecting the Needle*
+- [[KR3ef087]] 1682 金匱要略廣註 Jīnguì yào lüè guǎng zhù *Extensive Annotation of the Jīnguì yào lüè*
+- [[KR3h0068]] 1682 書畫彙考 Shìgǔtáng shūhuà huìkǎo *A Compendious Investigation of Calligraphy and Painting (of the Shìgǔ Studio)*
+- [[KR3j0072]] 1682 潛邱劄記 Qián qiū zhá jì *Notes from Qián-qiū*
+- [[KR3a0117]] 1683 松陽鈔存 Sōngyáng chāo cún *Selections from Sōng-yáng, Preserved*
+- [[KR3ee033]] 1683 資生集 Zīshēng jí *Life-Nourishing Collection*
+- [[KR3eq032]] 1683 心醫集 Xīnyī jí *The Heart-Medicine Collection*
+- [[KR3fb016]] 1683 交食曆書 Jiāoshí lìshū *Calendar Book on Syzygies and Eclipses*
+- [[KR3ef046]] 1684 中寒論辯證廣註 Zhōnghán lùn biànzhèng guǎng zhù *Discriminating-Syndrome Extensive Commentary on the Treatise on Central Cold*
+- [[KR3j0073]] 1684 湛園札記 Zhàn yuán zhá jì *Notes from the Zhàn Garden*
+- [[KR3a0116]] 1685 三魚堂賸言 Sānyútáng shèng yán *Surplus Words from the Three-Fish Hall*
+- [[KR3fa029]] 1685 璇璣遺述 Xuánjī yíshù *Bequeathed Discourses on the Jade-Mechanism*
+- [[KR3j0163]] 1685 池北偶談 Chí běi ǒu tán *Casual Talks North of the Pond*
+- [[KR3eq088]] 1686 醫暇卮言 Yīxiá zhīyán *Casual Sayings in Medical Leisure*
+- [[KR3fa024]] 1686 天元歷理全書 Tiānyuán lìlǐ quánshū *Complete Book of the Algebra and Theory of the Calendar*
+- [[KR3eb039]] 1687 脈訣闡微 Mài Jué Chǎn Wēi *Subtleties Elucidated in the Pulse Songs*
+- [[KR3ec050]] 1687 本草崇原 Běncǎo Chóngyuán *Revering the Origin in the Materia Medica*
+- [[KR3ef083]] 1687 金匱玉函經二註 Jīnguì yùhán jīng èr zhù *The Two Annotators on the Jīnguì yùhán jīng*
+- [[KR3er057]] 1687 石室秘錄 Shíshì mìlù *Secret Records from the Stone Chamber*
+- [[KR3er077]] 1687 辨證錄 Biànzhèng lù *Records of Pattern-Discrimination*
+- [[KR3eu060]] 1687 選針三要集 Xuǎnzhēn sānyào jí *Selected Essentials of the Three Aspects of Acupuncture*
+- [[KR3ec038]] 1688 本草備要 Běncǎo Bèiyào *Essentials of the Materia Medica, Prepared for Use*
+- [[KR3ec039]] 1688 本草備要 Běncǎo Bèiyào (variant edition) *Essentials of the Materia Medica, Prepared for Use*
+- [[KR3ec042]] 1688 本草新編 Běncǎo Xīn Biān *A New Compilation of Materia Medica*
+- [[KR3ep090]] 1688 辨證奇聞 Biànzhèng qíwén *Strange Reports for Syndrome Discrimination*
+- [[KR3ea039]] 1689 素問靈樞類纂約注 Sùwèn Língshū lèizuǎn yuēzhù *A Topically-Organized Abridged Commentary on the Basic Questions and Numinous Pivot*
+- [[KR3eb022]] 1689 診宗三昧 Zhěn Zōng Sān Mèi *The Three Treasures of Diagnostic Mastery*
+- [[KR3er015]] 1689 證治彙補 Zhèng zhì huì bǔ *A Collected Supplement to Pattern-and-Treatment Medicine*
+- [[KR3f0029]] 1689 中西經星同異考 ZhōngXī jīngxīng tóngyì kǎo *Investigation of the Same-and-Different of the Chinese and Western Longitudinal-Stars*
+- [[KR3ec037]] 1690 食物本草會纂 Shíwù Běncǎo Huì Zuǎn *Compiled Materia Medica of Foodstuffs*
+- [[KR3ek029]] 1690 洞天奧旨 Dòngtiān àozhǐ *Profound Principles from the Grotto-Heaven*
+- [[KR3eq062]] 1690 客窗偶談 Kèchuāng ǒután *Casual Conversations at the Guest-Window*
+- [[KR3f0050]] 1690 數學鑰 Shùxué yào *Key to Mathematics*
+- [[KR3ej068]] 1691 幼科推拿秘書 Yòukē tuīná mìshū *Secret Book of Paediatric Massage*
+- [[KR3ek031]] 1691 傅氏外科 Fùshì wàikē *Mr Fu's External Medicine*
+- [[KR3h0065]] 1691 繪事備考 Huìshì bèikǎo *A Compendious Reference for Painting Matters*
+- [[KR3ei029]] 1692 女科經綸 Nǚkē jīnglún *The Warp and Woof of Women's Medicine*
+- [[KR3l0130]] 1692 聊齋誌異 Liáozhāi zhìyì *Strange Tales from the Studio of Idle Chat (Liáozhāi)*
+- [[KR3ef057]] 1693 傷寒兼證析義 Shānghán jiān zhèng xī yì *Analytical Treatise on Cold Damage with Comorbid Syndromes*
+- [[KR3f0027]] 1693 大統歷志 Dàtǒng lìzhì **
+- [[KR3h0067]] 1693 江村銷夏錄 Jiāngcūn xiāoxià lù *A Record from Jiāngcūn for Whiling Away the Summer*
+- [[KR3a0028]] 1694 注解正蒙 Zhù jiě Zhèng méng **
+- [[KR3ec040]] 1694 增訂圖註本草備要 Zēngdìng Tú Zhù Běncǎo Bèiyào *Expanded and Illustrated Annotated Essentials of the Materia Medica*
+- [[KR3ed083]] 1694 湯頭歌訣 Tāngtóu Gējué *Mnemonic Verses on the Heads of Decoctions*
+- [[KR3er070]] 1694 馮氏錦囊秘錄 Féngshì jǐnnáng mìlù *Master Féng's Secret Records in a Brocade Pouch*
+- [[KR3ea007]] 1695 黃帝素問直解 Huángdì Sùwèn zhíjiě *A Direct Exposition of the Yellow Emperor's Basic Questions*
+- [[KR3ec043]] 1695 本經逢原 Běn Jīng Féng Yuán *Returning to the Source of the Original Canon*
+- [[KR3ed060]] 1695 醫通祖方 Yītōng Zǔfāng *Ancestral Formulas of the Yītōng*
+- [[KR3ed080]] 1695 大小諸證方論 Dàxiǎo Zhūzhèng Fānglùn *Recipe-Discourses on Various Adult and Paediatric Conditions*
+- [[KR3ed147]] 1695 良朋彙集經驗神方 Liángpéng Huìjí Jīngyàn Shénfāng *A Worthy-Friend Compendium of Tested Divine Formulas*
+- [[KR3ej011]] 1695 幼科鐵鏡 Yòukē tiějìng *Iron Mirror of Paediatrics*
+- [[KR3er043]] 1695 張氏醫通 Zhāngshì yī tōng *The Penetrating Compendium of Medicine of Master Zhāng*
+- [[KR3f0026]] 1695 歷算全書 Lìsuàn quánshū *Complete Book of Calendrical Computation*
+- [[KR3j0162]] 1695 居易錄 Jūyì lù *Record of Easy Dwelling*
+- [[KR3ek019]] 1696 青囊秘訣 Qīngnáng mìjué *Secret Instructions of the Green-Bag [Surgical Tradition]*
+- [[KR3ea051]] 1697 外經微言 Wàijīng wēiyán *Subtle Words of the Outer Classic*
+- [[KR3eh016]] 1697 辨症玉函 Biànzhèng yùhán *Jade-Casket of Syndrome Differentiation*
+- [[KR3ep032]] 1698 素圃醫案 Sùpǔ yīàn *Medical Case Records of [Zhèng] Sùpǔ*
+- [[KR3g0050]] 1698 御定星歷考原 Yùdìng Xīnglì kǎoyuán *Imperially Determined Examination of the Origins of Astrological-Calendrical [Selection]*
+- [[KR3er060]] 1699 醫學真傳 Yīxué zhēnchuán *The True Transmission of Medical Learning*
+- [[KR3fb021]] 1699 定歷玉衡 Dìnglì yùhéng *Jade Balance for Fixing the Calendar*
+- [[KR3fc036]] 1699 籌算 Chóusuàn *Counting-Rod Calculation (Napier's Bones)*
+
+### KR4 (158)
+
+- [[KR4h0135]] 1600 古今禪藻集 Gǔjīn chánzǎo jí *Chán-Poetry Anthology from Antiquity to the Present*
+- [[KR4k0100]] 1600 東坡詩話 Dōngpō Shīhuà *Poetic Talks on Dongpo*
+- [[KR4e0235]] 1601 幔亭集 Màntíng jí *Collected Works of (Master) Màntíng*
+- [[KR4k0216]] 1603 金瓶梅 Jīnpíngméi *Gold Vase Plum (The Plum in the Golden Vase)*
+- [[KR4e0231]] 1608 學古緒言 Xuégǔ xùyán *Vestige-Words from Studying-the-Ancient*
+- [[KR4e0228]] 1611 仰節堂集 Yǎngjiétáng jí *The Collection of the Hall of Looking-Up to Integrity*
+- [[KR4h0121]] 1611 西漢文紀 XīHàn wénjì *Records of Western-Hàn Prose*
+- [[KR4h0122]] 1611 東漢文紀 DōngHàn wénjì *Records of Eastern-Hàn Prose*
+- [[KR4h0123]] 1611 西晉文紀 XīJìn wénjì *Records of Western-Jìn Prose*
+- [[KR4k0068]] 1612 萬曆野獲編 Wànlì Yěhuò Biān *Gleanings from the Wanli Era*
+- [[KR4k0071]] 1612 夏商野史 Xiàshāng Yěshǐ *Unofficial History of the Xia and Shang Dynasties*
+- [[KR4e0227]] 1615 石隱園藏稿 Shíyǐnyuán cánggǎo *Manuscripts Stored at the Stone-Hidden Garden*
+- [[KR4h0131]] 1615 釋文紀 Shì wén jì *Chronicle of Buddhist Prose*
+- [[KR4j0088]] 1615 顧曲雜言 Gùqǔ záyán *Miscellaneous Sayings on Qǔ-Connoisseurship*
+- [[KR4e0232]] 1617 檀園集 Tányuán jí *The Sandalwood-Garden Collection*
+- [[KR4e0243]] 1617 茅簷集 Máoyán jí *Collected Works of the Thatched-Eaves Studio*
+- [[KR4e0226]] 1619 少墟集 Shǎoxū jí *The Collection from Lesser-Ruins*
+- [[KR4e0233]] 1619 忠介燼餘集 Zhōngjiè jìnyú jí *The Ash-Remnant Collection of [Zhōu] Zhōng-jiè*
+- [[KR4k0047]] 1619 杜騙新書 Dù Piàn Xīnshū *New Book for Foiling Swindlers*
+- [[KR4k0080]] 1620 喻世明言 Yùshì Míng-yán *Illustrious Words to Instruct the World*
+- [[KR4k0098]] 1620 東度記 Dōng Dù Jì *Record of the Eastern Crossing*
+- [[KR4f0010]] 1621 牧齋初學集 Mùzhāi chū xué jí *First Learning Collection of (Qián Qiānyì) Mùzhāi*
+- [[KR4h0118]] 1621 四六法海 Sìliù fǎhǎi *Sea of Parallel-Prose Method*
+- [[KR4c0003]] 1622 王子安集 Wáng Zǐ'ān jí *Collected Works of Wáng Zǐ-ān (Wáng Bó)*
+- [[KR4c0005]] 1622 盧昇之集 Lú Shēngzhī jí *Collected Works of Lú Shēng-zhī (Lú Zhào-lín)*
+- [[KR4k0081]] 1622 鴛鴦針 Yuānyāng Zhēn *Mandarin Duck Needles*
+- [[KR4e0230]] 1623 劉蕺山集 Liú Jíshān jí *The Collected Writings of Liú Jí-shān*
+- [[KR4k0084]] 1623 喻世明言 Yùshì Míngyán *Illustrious Words to Instruct the World*
+- [[KR4k0054]] 1624 警世通言 Jǐngshì Tōngyán *Stories to Caution the World*
+- [[KR4k0041]] 1625 禪真逸史 Chánzhēn Yìshǐ *Unofficial History of the True Chan*
+- [[KR4k0056]] 1627 兩晉秘史 Liǎng Jìn Mìshǐ *Secret History of the Two Jin Dynasties*
+- [[KR4k0072]] 1627 醒世恆言 Xǐngshì Héngyán *Stories to Awaken the World*
+- [[KR4e0225]] 1628 高子遺書 Gāozǐ yíshū *Bequeathed Writings of Master Gāo*
+- [[KR4h0124]] 1628 宋文紀 Sòng wénjì *Records of Sòng (Liú-Sòng) Prose*
+- [[KR4h0125]] 1628 南齊文紀 NánQí wénjì *Records of Southern-Qí Prose*
+- [[KR4h0126]] 1628 梁文紀 Liáng wénjì *Records of Liáng Prose*
+- [[KR4h0127]] 1628 陳文紀 Chén wénjì *Records of Chén Prose*
+- [[KR4h0129]] 1628 後周文紀 HòuZhōu wénjì *Records of Later-Zhōu (Northern-Zhōu) Prose*
+- [[KR4k0043]] 1628 初刻拍案驚奇 Chūkè Pāi'àn Jīngqí *Slapping the Table in Amazement, First Collection*
+- [[KR4h0134]] 1630 漢魏六朝百三家集 HànWèi Liùcháo bǎisānjiā jí *Collected Works of 103 Hàn, Wèi, and Six-Dynasties Authors*
+- [[KR4k0331]] 1630 平妖傳 Píngyāo Zhuàn *Quelling the Demons' Revolt*
+- [[KR4h0117]] 1632 石倉歷代詩選 Shícāng lìdài shī xuǎn *Stone-Storehouse Anthology of Poetry through the Ages*
+- [[KR4h0132]] 1632 文章辨體彙選 Wénzhāng biàntǐ huìxuǎn *Comprehensive Genre-by-Genre Anthology of Prose*
+- [[KR4i0055]] 1632 唐音癸籤 Tángyīn guǐ qiān *The "Guǐ" Volume of the Compendium of Táng Poetic Sounds*
+- [[KR4k0048]] 1632 二刻拍案驚奇 Èrkè Pāi'àn Jīngqí *Slapping the Table in Amazement, Second Collection*
+- [[KR4k0064]] 1632 石點頭 Shí Diǎntóu *The Rocks Nod Their Heads*
+- [[KR4c0019]] 1633 杜詩攟 Dù shī jūn *Gleanings on Dù Fǔ's Poetry*
+- [[KR4e0240]] 1633 倪文貞集 Ní Wénzhēn jí *Collected Works of Ní Wén-zhēn*
+- [[KR4e0241]] 1634 凌忠介公集 Líng Zhōngjiègōng jí *Collected Works of Lord Líng Zhōng-jiè (Líng Yì-qú)*
+- [[KR4h0108]] 1634 詩紀匡謬 Shījì kuāngmiù *Correcting Errors in the Records of Ancient Poetry*
+- [[KR4e0244]] 1635 陶菴全集 Táoān quánjí *Complete Works of (Master) Táo-ān (Huáng Chún-yào)*
+- [[KR4j0069]] 1636 白雪齋選訂樂府吳騷合編 Báixuězhāi xuǎndìng yuèfǔ Wúsāo hébiān *White-Snow Studio's Edited and Compiled Music Bureau Wú-sāo Combined Edition*
+- [[KR4e0242]] 1637 申忠愍詩集 Shēn Zhōngmǐn shījí *Poetry of Shēn Zhōng-mǐn (Shēn Jiā-yìn)*
+- [[KR4k0055]] 1637 今古奇觀 Jīngǔ Qíguān *Wonders Old and New*
+- [[KR4e0245]] 1638 陽明先生集要 Yángmíng xiānshēng jí yào *Essentials of Master Yáng-míng's Writings*
+- [[KR4h0128]] 1638 北齊文紀 BěiQí wénjì *Records of Northern-Qí Prose*
+- [[KR4e0236]] 1639 白谷集 Báigǔ jí *Collected Works of (Master) Báigǔ*
+- [[KR4h0136]] 1639 三家宮詞 Sānjiā gōngcí *Palace Verse of Three Houses*
+- [[KR4c0010]] 1640 李北海集 Lǐ Běihǎi jí *Collected Works of Lǐ of Běi-hǎi (Lǐ Yōng)*
+- [[KR4k0042]] 1640 禪真後史 Chánzhēn Hòushǐ *Latter History of the True Chan*
+- [[KR4k0076]] 1642 續歡喜冤家 Xù Huānxǐ Yuānjiā *Continuation of the Happy Adversaries*
+- [[KR4h0137]] 1643 二家宮詞 Èrjiā gōngcí *Palace Verse of Two Houses*
+- [[KR4k0102]] 1644 都是幻 Dōu Shì Huàn *All is Illusion*
+- [[KR4k0198]] 1644 祁生天緣奇遇 Qí Shēng Tiānyuán Qíyù *The Extraordinary Heaven-Destined Encounters of Scholar Qi*
+- [[KR4k0200]] 1644 巧聯珠 Qiǎo Liánzhū *The Clever Linked Pearls*
+- [[KR4k0243]] 1644 蕉葉帕 Jiāo Yè Pà *The Banana-Leaf Handkerchief*
+- [[KR4k0050]] 1650 歡喜冤家 Huānxǐ Yuānjiā *Joyful Foes*
+- [[KR4k0091]] 1650 醋葫蘆 Cù Húlu *The Vinegar Gourd*
+- [[KR4k0096]] 1650 定情人 Dìng Qíngrén *The One Who Fixes My Heart*
+- [[KR4k0138]] 1650 後水滸傳 Hòu Shuǐhǔ Zhuàn *Later Water Margin*
+- [[KR4k0182]] 1650 夢花想 Mènghuā Xiǎng *Dreaming of Flowers*
+- [[KR4f0012]] 1651 梅村集 Méicūn jí *The Méicūn Collection*
+- [[KR4f0013]] 1651 梅村家藏藁 Méicūn jiā cáng gǎo *Drafts Preserved in the Méicūn Family Library*
+- [[KR4f0011]] 1654 牧齋有學集 Mùzhāi yǒu xué jí *Continuing Learning Collection of (Qián Qiānyì) Mùzhāi*
+- [[KR4f0069]] 1654 茗齋集 Míngzhāi jí *The Míng-zhāi Collection*
+- [[KR4e0003]] 1655 宋景濂未刻集 Sòng Jǐnglián wèikè jí *The Uncut Pieces of Sòng Jǐng-lián [Sòng Lián]*
+- [[KR4k0213]] 1655 肉蒲團 Ròu Pútuan *The Carnal Prayer Mat*
+- [[KR4k0070]] 1657 無聲戲 Wúshēng Xì *Silent Operas*
+- [[KR4k0174]] 1659 連城璧 Liánchéng Bì *A Jade of Incomparable Value*
+- [[KR4k0175]] 1659 連城璧外編 Liánchéng Bì Wàibiān *A Jade of Incomparable Value — Supplementary Volume*
+- [[KR4k0280]] 1660 玉嬌梨 Yù Jiāo Lí *The Jade Beauty Pear*
+- [[KR4f0027]] 1661 愚菴小集 Yúān xiǎo jí *Small Collection from the Foolish-Hermitage*
+- [[KR4k0223]] 1661 十二樓 Shí'èr Lóu *The Twelve Towers*
+- [[KR4k0218]] 1662 續金瓶梅 Xù Jīnpíngméi *Continuation of the Gold Vase Plum*
+- [[KR4f0006]] 1663 亭林詩集 Tínglín shījí *Poetry Collection of (Gù Yánwǔ) Tínglín*
+- [[KR4f0007]] 1663 亭林餘集 Tínglín yújí *Supplementary Collection of (Gù Yánwǔ) Tínglín*
+- [[KR4f0032]] 1663 陳迦陵文集 Chén Jiālíng wénjí *The Chén Jiālíng (Wéisōng) Prose Collection*
+- [[KR4c0075]] 1664 李義山詩集注 Lǐ Yìshān shī jí zhù *Annotation of the Verse Collection of Lǐ Yì-shān [Lǐ Shāng-yǐn]*
+- [[KR4k0236]] 1664 檮杌閑評 (上) Táowù Xiánpíng (Shàng) *Idle Commentary of the Taowu Chronicle, Upper Volume*
+- [[KR4f0015]] 1666 兼濟堂文集 Jiānjìtáng wénjí *Collected Prose from the Hall of Joint Salvation*
+- [[KR4c0078]] 1667 溫飛卿詩集箋注 Wēn Fēiqīng shī jí jiānzhù *Annotated Verse Collection of Wēn Fēi-qīng [Wēn Tíng-yún]*
+- [[KR4f0028]] 1668 抱犢山房集 Bàodú shānfáng jí *Collection from the Mountain-Hut at Bàodú*
+- [[KR4k0127]] 1668 合錦回文傳 Hé Jǐn Huíwén Zhuàn *The Brocade Palindrome: A Biography*
+- [[KR4f0008]] 1669 南雷文案 Nánléi wén àn *The Nánléi File of Prose*
+- [[KR4f0014]] 1669 湯子遺書 Tāngzǐ yí shū *Posthumous Writings of Master Tāng*
+- [[KR4f0018]] 1669 林蕙堂全集 Línhuìtáng quánjí *Complete Collection of the Hall of the Forest-Beauty*
+- [[KR4f0021]] 1669 居易堂集 Jūyìtáng jí *The Easy-Dwelling Hall Collection*
+- [[KR4k0109]] 1669 飛花艷想 Fēihuā Yàn Xiǎng *Flying Flowers and Amorous Imaginings*
+- [[KR4f0009]] 1670 薑齋詩文集 Jiāngzhāi shī wénjí *Poetry and Prose Collection of (Wáng Fūzhī) Jiāngzhāi*
+- [[KR4f0017]] 1670 范忠貞集 Fàn Zhōngzhēn jí *The Collected Works of Fàn (Chéngmó) the Loyal-Faithful*
+- [[KR4f0023]] 1670 讀書齋偶存稿 Dúshūzhāi ǒu cún gǎo *Casually-Preserved Drafts from the Reading-Studio*
+- [[KR4j0076]] 1670 十五家詞 Shíwǔ jiā cí *Fifteen Masters' Lyrics*
+- [[KR4k0073]] 1670 醒世姻緣傳 Xǐngshì Yīnyuán Zhuàn *Marriage Destinies to Awaken the World*
+- [[KR4k0075]] 1670 後西游記 Hòu Xīyóu Jì *Later Journey to the West*
+- [[KR4k0101]] 1670 豆棚閒話 Dòupéng Xiánhuà *Idle Talk Under the Bean Arbor*
+- [[KR4k0194]] 1670 平山冷燕 Píngshān Lěngyàn *Pingshan and Lengyan*
+- [[KR4f0031]] 1671 陳檢討四六 Chén Jiǎntǎo sìliù *The Parallel-Prose of Chén the Hànlín Compiler*
+- [[KR4h0157]] 1671 宋詩鈔 Sòng shī chāo *Selected Transcripts of Sòng Poetry*
+- [[KR4f0020]] 1672 堯峯文鈔 Yáofēng wénchāo *Prose Selections from Yáofēng (i.e., Wāng Wǎn's Yáofēng Hermitage)*
+- [[KR4f0026]] 1672 于清端政書 Yú Qīngduān zhèngshū *Administrative Documents of Yú (Chénglóng) the Pure-and-Upright*
+- [[KR4i0056]] 1672 歷代詩話 Lìdài shīhuà *Remarks on Poetry across the Ages*
+- [[KR4k0244]] 1672 吳江雪 Wú Jiāng Xuě *Snow on the Wu River*
+- [[KR4k0285]] 1672 雲仙笑 Yún Xiān Xiào *Laughter of Cloud Immortals*
+- [[KR4k0290]] 1672 珍珠舶 Zhēnzhū Bó *The Pearl Vessel*
+- [[KR4f0037]] 1674 湛園集 Zhànyuán jí *The Pure-Garden Collection*
+- [[KR4k0156]] 1675 金雲翹傳 Jīn Yún Qiào Zhuàn *The Story of Jin, Yun, and Qiao*
+- [[KR4k0281]] 1675 玉支璣 Yù Zhī Jī *The Jade Lute-Peg*
+- [[KR4f0040]] 1676 三魚堂文集 Sānyútáng wénjí *Collected Prose from the Three-Fish Hall*
+- [[KR4f0025]] 1677 曝書亭集 Pùshūtíng jí *The Sun-Drying-Books Pavilion Collection*
+- [[KR4i0057]] 1677 金石要例 Jīnshí yào lì *Essential Examples of Epitaph and Inscription Composition*
+- [[KR4f0019]] 1679 精華錄 Jīng huá lù *Quintessential Selection (Selected Poems of Wáng Shìzhēn)*
+- [[KR4f0024]] 1679 松桂堂全集 Sōngguìtáng quánjí *Complete Collection from the Hall of Pine and Cassia*
+- [[KR4j0061]] 1679 珂雪詞 Kēxuě cí *Bridle-Bell Snow Lyrics*
+- [[KR4f0033]] 1682 蓮洋詩鈔 Liányáng shī chāo *Selected Poems of (Wú Wén) Liányáng*
+- [[KR4h0158]] 1682 宋元詩會 Sòng Yuán shī huì *Comprehensive Anthology of Sòng-Yuán Poetry*
+- [[KR4k0128]] 1682 合浦珠 Hépǔ Zhū *The Pearl of Hépu*
+- [[KR4k0260]] 1682 醒夢駢言 Xǐng Mèng Pián Yán *Parallel Words to Awaken from Dreams*
+- [[KR4b0016]] 1683 梁江文通文集 Liáng Jiāng Wéntōng wén jí *Liáng-period Collected Works of Jiāng Wéntōng (Jiāng Yān), Edited and Restored*
+- [[KR4f0029]] 1683 文端集 Wénduān jí *The Collection of (Zhāng Yīng) Wénduān*
+- [[KR4j0087]] 1683 詞律 Cílǜ *The Prosodic Laws of Cí*
+- [[KR4f0035]] 1684 西陂類稿 Xīpí lèigǎo *Classified Drafts from the Western Bank (Hermitage)*
+- [[KR4f0038]] 1684 古歡堂集 Gǔhuāntáng jí *The Collection from the Hall of Ancient Joy*
+- [[KR4j0075]] 1684 詞綜 Cízōng *Complete Anthology of Cí*
+- [[KR4j0085]] 1684 詞苑叢談 Cíyuàn cóngtán *Garden-of-Cí Collected Discourses*
+- [[KR4f0022]] 1685 午亭文編 Wǔtíng wénbiān *Compiled Prose from the Wǔtíng (Studio)*
+- [[KR4h0138]] 1685 御選古文淵鑒 Yùxuǎn gǔwén yuānjiàn *Imperially Selected Mirror-of-the-Abyss of Ancient Prose*
+- [[KR4h0152]] 1685 明文海 Míng wén hǎi *Sea of Míng Prose*
+- [[KR4k0233]] 1685 隋唐演義 (第一部) Suí Táng Yǎnyì (Dì-yī Bù) *Romance of the Sui and Tang Dynasties, Part One*
+- [[KR4f0034]] 1686 張文貞集 Zhāng Wénzhēn jí *The Collection of (Zhāng Yùshū) Wénzhēn*
+- [[KR4f0030]] 1687 西河集 Xīhé jí *The Xī-hé Collection (of Máo Qí-líng)*
+- [[KR4j0084]] 1688 西河詞話 Xīhé cíhuà *Xī-hé Discourses on Cí*
+- [[KR4b0018]] 1689 庾子山集 Yǔ Zǐshān jí *Annotated Collected Works of Yǔ [Xìn] Zǐ-shān*
+- [[KR4h0163]] 1689 檇李詩繫 Zuìlǐ shī xì *Genealogy of Zuì-lǐ (Jiā-xīng) Poetry*
+- [[KR4h0162]] 1690 甬上耆舊詩 Yǒngshàng qíjiù shī *Poetry of the Elder Worthies of Yǒng-shàng (Níng-bō)*
+- [[KR4b0017]] 1692 庾開府集箋註 Yǔ Kāifǔ jí jiānzhù *Annotated Edition of the Collected Works of Yǔ [Xìn], Director of Headquarters*
+- [[KR4c0020]] 1693 杜詩詳註 Dù shī xiángzhù *Detailed Annotated Edition of Dù Fǔ's Poetry*
+- [[KR4b0019]] 1694 徐孝穆集箋注 Xú Xiàomù jí jiānzhù *Annotated Edition of the Collected Works of Xú [Líng] Xiào-mù*
+- [[KR4f0039]] 1694 榕村集 Róngcūn jí *The Banyan-Village Collection*
+- [[KR4k0237]] 1694 天豹圖 Tiānbào Tú *Portrait of the Heavenly Leopard*
+- [[KR4c0076]] 1695 李義山文集箋註 Lǐ Yìshān wénjí jiānzhù *Annotation and Commentary on the Prose Collection of Lǐ Yì-shān [Lǐ Shāng-yǐn]*
+- [[KR4k0099]] 1695 東南紀事 Dōngnán Jìshì *Record of Events in the Southeast*
+- [[KR4j0074]] 1696 御選歷代詩餘 Yùxuǎn lìdài shīyú *Imperially Selected Verse-Remainder of the Successive Dynasties*
+- [[KR4k0253]] 1697 俠義風月傳 Xiáyì Fēngyuè Zhuàn *A Tale of Chivalry and Love*
+- [[KR4f0044]] 1699 敬業堂詩集 Jìngyètáng shī jí *The Diligence-Hall Poetry Collection*
+- [[KR4h0153]] 1699 唐賢三昧集 Tángxián sānmèi jí *Anthology of the Tang Worthies' Samādhi*
+- [[KR4h0154]] 1699 二家詩選 Èrjiā shī xuǎn *Selected Poetry of Two Houses*
+- [[KR4h0156]] 1699 明詩綜 Míng shī zōng *Comprehensive Anthology of Míng Poetry*
+- [[KR4k0235]] 1699 桃花扇 Táohuā Shàn *The Peach Blossom Fan*
+
+### KR5 (30)
+
+- [[KR5h0056]] 1600 老子翼 Lǎo zǐ yì *Wings to the Lǎo zǐ*
+- [[KR5h0057]] 1600 莊子翼 Zhuāng zǐ yì *Wings to the Zhuāng zǐ*
+- [[KR5i0001]] 1600 元始大洞玉經 Yuán shǐ dà dòng yù jīng *Yuán-shǐ Great-Cavern Jade Scripture*
+- [[KR5i0002]] 1600 洞經示讀 Dòng jīng shì dú *Cavern-Scripture Reading Guide*
+- [[KR5i0004]] 1600 元始上帝毘盧遮耶說大洞救劫尊經 Yuán shǐ shàng dì Pí lú zhē yē shuō dà dòng jiù jié zūn jīng *The Honoured Scripture of the Great Cavern's Salvation from Calamities, Spoken by the Yuán-shǐ Supreme Deity Vairocana*
+- [[KR5i0009]] 1600 太上道德大天尊說道元一氣經 Tài shàng dào dé dà tiān zūn shuō dào yuán yī qì jīng *The Most-High Way-and-Power Great Heavenly Worthy's Spoken Scripture of the Way's Origin in the Single Pneuma*
+- [[KR5i0019]] 1600 高上玉皇心印經 Gāo shàng yù huáng xīn yìn jīng *The Lofty-Highest Jade Emperor's Mind-Seal Scripture*
+- [[KR5i0032]] 1600 黃帝陰符經 Huáng dì yīn fú jīng **
+- [[KR5i0034]] 1600 五百靈官爵位姓氏總錄 Wǔ bǎi líng guān jué wèi xìng shì zǒng lù *Master Catalogue of the Five-Hundred Numinous Officers' Titles, Ranks, and Surnames*
+- [[KR5i0061]] 1600 太公陰符經 Tài gōng yīn fú jīng *The Tài-gōng's Yīn-Fú Scripture*
+- [[KR5g0244]] 1607 續道藏經目錄 Xù Dào zàng jīng mù lù *Catalogue of the Supplementary Dào zàng*
+- [[KR5h0032]] 1609 漢天師世家 Hàn tiān shī shì jiā *Hereditary-House of the Hàn Celestial Master*
+- [[KR5i0088]] 1614 三界伏魔關聖帝君忠孝忠義真經 Sān jiè fú mó Guān shèng dì jūn zhōng xiào zhōng yì zhēn jīng *True Scripture of the Three-Realm Demon-Subduing Holy-Imperial Lord Guān on Loyalty-Filiality-Loyalty-Righteousness*
+- [[KR5g0239]] 1626 道藏目錄詳註 Dào zàng mù lù xiáng zhù *Detailed Annotated Catalogue of the Dào zàng*
+- [[KR5i0066]] 1630 仙佛合宗語錄 Xiān fó hé zōng yǔ lù *Recorded Sayings on the Confluence of Immortal-and-Buddha Lineages*
+- [[KR5i0067]] 1630 天仙正理直論 Tiān xiān zhèng lǐ zhí lùn *Direct Discussion of the Orthodox Principle of the Heavenly Immortals*
+- [[KR5i0068]] 1630 天仙正理直論淺說 Tiān xiān zhèng lǐ zhí lùn qiǎn shuō *Plain Exposition of the Tiān-xiān Zhèng-lǐ Zhí-lùn*
+- [[KR5i0078]] 1632 漢丞相諸葛忠武侯集 Hàn chéng xiàng Zhūgě Zhōngwǔhóu jí *Collected Works of the Hàn Prime Minister Zhū-gě, the Marquis Zhōng-wǔ*
+- [[KR5i0070]] 1640 伍真人丹道九篇 Wǔ zhēn rén dān dào jiǔ piān *Master Wǔ's Nine Chapters on the Elixir-Way*
+- [[KR5c0384]] 1656 御定道德經註 Yù dìng Dào dé jīng zhù *Imperially-Commissioned Commentary on the Dào dé jīng*
+- [[KR5i0098]] 1656 初真戒律 Chū zhēn jiè lǜ *The Initial-Perfected Precept-Statutes*
+- [[KR5i0037]] 1663 參同契闡幽 Cān tóng qì chǎn yōu *Bringing Out the Hidden Meaning of the Cān-tóng-qì*
+- [[KR5i0059]] 1665 悟真篇闡幽 Wù zhēn piān chǎn yōu *Bringing Out the Hidden Meaning of the Wù-zhēn-piān*
+- [[KR5i0074]] 1665 真詮 Zhēn quán *The True Articulation*
+- [[KR5i0101]] 1667 青羊宮碑記 Qīng yáng gōng bēi jì *Stele-Inscription of the Qīng-yáng Belvedere*
+- [[KR5c0385]] 1669 老子說略 Lǎo zǐ shuō lüè *Brief Explanation of Lǎo zǐ*
+- [[KR5i0014]] 1688 太上感應篇集注 Tài shàng gǎn yìng piān jí zhù *Collected Annotations on the Most-High's Stimulus-Response Tract*
+- [[KR5i0006]] 1695 太上道德寶章翼 Tài shàng dào dé bǎo zhāng yì *Wings to the Most-High Dào-dé Treasure-Sections*
+- [[KR5i0036]] 1696 南華真經註疏 Nán huá zhēn jīng zhù shū *Annotations and Sub-commentary on the Perfected Scripture of Southern Florescence*
+- [[KR5i0100]] 1697 二仙菴碑記 Èr xiān ān bēi jì *Stele-Inscription of the Èr-xiān Belvedere*
+
+### KR6 (664)
+
+- [[KR6c0168]] 1600 般若心經正眼 Bōrě xīnjīng zhèngyǎn *True Eye of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6i0105]] 1600 維摩經疏科 Wéimó jīng shū kē *Outline of the Commentary on the Vimalakīrti Sūtra*
+- [[KR6i0588]] 1600 諸經日誦集要 Zhūjīng rìsòng jíyào *Anthology of Daily-Recitation Essentials from the Various Sūtras*
+- [[KR6o0026]] 1600 因明入正理論解 Yīnmíng rù zhèng lǐ lùn jiě *Explanation of the Treatise on Entering Correct Reasoning of Hetuvidyā*
+- [[KR6o0114]] 1600 起信論纂註 Qǐxìn lùn zuǎnzhù *Compiled Annotations on the Awakening of Faith*
+- [[KR6p0066]] 1600 西方直指 Xīfāng zhízhǐ *Direct Pointing to the Western [Pure Land]*
+- [[KR6q0101]] 1600 禪關策進 Chán guān cè jìn *Whipping Through the Chán Gates*
+- [[KR6q0160]] 1600 十牛圖頌 Shí niú tú sòng *Newly-Engraved Chán-School Ten-Ox Pictures*
+- [[KR6q0389]] 1600 憨山老人夢遊全集 Hānshān lǎorén mèngyóu quánjí *Complete Dream-Journey of the Old Man Hānshān (Jiāxīng Canon edition)*
+- [[KR6q0601]] 1600 幻有傳禪師語錄 Huànyǒu Chuán chánshī yǔlù *Recorded Sayings of Chán Master Huàn-yǒu Chuán*
+- [[KR6r0160]] 1600 緇門崇行錄 Zīmén chóngxíng lù *Records of Exalted Conduct in the Black-Robed [Monastic] Gate*
+- [[KR6r0172]] 1600 佛祖心燈 Fózǔ xīndēng *The Mind-Lamp of the Buddhas and Patriarchs*
+- [[KR6c0161]] 1601 般若心經直說 Bōrě xīnjīng zhíshuō *Direct Exposition of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6i0350]] 1601 楞伽經精解評林 Léngqié jīng jīngjiě pínglín *Forest of Critical Evaluations on the Detailed Explication of the Sūtra of Laṅkā*
+- [[KR6n0043]] 1601 成唯識論俗詮 Chéng wéishí lùn súquán *Vernacular Exposition of the Demonstration of Consciousness-Only*
+- [[KR6n0050]] 1601 唯識三十論約意 Wéishí sānshí lùn yuēyì *Concise Meaning of the Thirty Verses on Consciousness-Only*
+- [[KR6d0114]] 1603 金剛三昧經注解 Jīngāng sānmèi jīng zhùjiě *Annotated Interpretation of the Vajrasamādhi-Sūtra*
+- [[KR6j0688]] 1603 楞嚴經臆說 Lèngyán jīng yìshuō *Personal Surmises on the Śūraṃgama-sūtra*
+- [[KR6m0047]] 1603 物不遷正量證 Wù bù qiān zhèngliàng zhèng *Vindication of the Right Reading of "Things Do Not Shift"*
+- [[KR6m0048]] 1603 物不遷正量論 Wù bù qiān zhèngliàng lùn *Treatise on the Right Standard for Reading "Things Do Not Shift"*
+- [[KR6m0049]] 1603 物不遷論辯解 Wù bù qiān lùn biànjiě *Disputational Exposition of "Things Do Not Shift"*
+- [[KR6q0186]] 1603 黃蘗無念禪師復問 Huángbò Wúniàn chánshī fù wèn *The Repeated Questions of Chán Master Wúniàn of Huángbò*
+- [[KR6q0365]] 1603 無異元來禪師廣錄 Wúyì Yuánlái chánshī guǎnglù **
+- [[KR6d0011]] 1604 法華經玄義輯略 Fǎhuá jīng xuányì jílüè *Compiled Outline of the Profound Meaning of the Lotus Sūtra*
+- [[KR6d0078]] 1604 法華經精解評林 Fǎhuá jīng jīngjiě pínglín *Fine Interpretations and Critical Forest on the Lotus Sūtra*
+- [[KR6d0245]] 1604 天台傳佛心印記註 Tiāntái chuán Fó xīnyìn jì zhù *Annotation on the Record of the Tiāntái Transmission of the Buddha's Heart-Seal*
+- [[KR6d0246]] 1604 性善惡論 Xìng shàn'è lùn *Treatise on the Good-and-Evil of [Buddha-]Nature*
+- [[KR6i0572]] 1604 圓覺經精解評林 Yuánjué jīng jīngjiě pínglín *Forest of Critical Evaluations and Refined Explications of the Sūtra of Perfect Enlightenment*
+- [[KR6j0709]] 1604 楞嚴經精解評林 Lèngyán jīng jīngjiě pínglín *Critical-Evaluation Forest of Refined Explanations on the Śūraṃgama-sūtra*
+- [[KR6c0211]] 1605 仁王經科疏科文 Rénwáng jīng kēshū kēwén *"Outline-Text" Structural-Outline of the Rénwáng-jīng Subcommentary*
+- [[KR6c0212]] 1605 仁王經科疏懸談 Rénwáng jīng kēshū xuántán *"Suspended Discourse" Introduction to the Rénwáng-jīng Outline-Subcommentary*
+- [[KR6c0213]] 1605 仁王經科疏 Rénwáng jīng kēshū *Outline-and-Subcommentary on the Rénwáng-jīng*
+- [[KR6n0045]] 1605 成唯識論證義 Chéng wéishí lùn zhèngyì *Verified Meaning of the Demonstration of Consciousness-Only*
+- [[KR6n0102]] 1605 性相通說（選錄序文） Xìngxiàng tōngshuō (xuǎnlù xùwén) *Comprehensive Exposition of the Nature-school and Characteristic-school*
+- [[KR6n0105]] 1605 百法明門論贅言 Bǎifǎ míngmén lùn zhuìyán *Supplementary Words on the Hundred-Dharmas Treatise*
+- [[KR6n0114]] 1605 觀所緣緣論會釋 Guān suǒyuányuán lùn huìshì *Synthetic Commentary on the Investigation into the Object-Condition*
+- [[KR6n0116]] 1605 觀所緣緣論釋記 Guān suǒyuányuán lùn shì jì *Notes on the Commentary on the Investigation into the Object-Condition*
+- [[KR6n0132]] 1605 八識規矩補註證義 Bā shí guījǔ bǔzhù zhèngyì *Doctrinal Verification of the Supplementary Annotations on the Eight-Consciousnesses Verses*
+- [[KR6n0144]] 1605 相宗八要解 Xiàngzōng bā yào jiě *Explication of the Eight Essential [Texts] of the Characteristics-School*
+- [[KR6p0018]] 1605 阿彌陀經略解圓中鈔 Ēmítuó jīng lüèjiě yuánzhōngchāo *The* Lüè-jiě *(Concise Exegesis) on the Smaller Amitābha-sūtra, with the* Yuán-zhōng-chāo *(Sub-commentary on the Perfect Middle)*
+- [[KR6d0076]] 1606 法華經擊節 Fǎhuá jīng jījié *Beating-Time Notes on the Lotus Sūtra*
+- [[KR6d0077]] 1606 法華經通義 Fǎhuá jīng tōngyì *Comprehensive-Meaning Commentary on the Lotus Sūtra*
+- [[KR6o0117]] 1606 大乘起信論疏略 Dàshèng qǐxìn lùn shūlüè *Abridged Commentary on the Mahāyāna Awakening of Faith*
+- [[KR6o0118]] 1606 起信論直解 Qǐxìn lùn zhíjiě *Direct Explanation of the Awakening of Faith*
+- [[KR6r0109]] 1606 永明道蹟 Yǒngmíng dàojì *Traces of the Way of the Yǒng-míng Master (i.e., Yǒng-míng Yán-shòu)*
+- [[KR6d0080]] 1607 法華經大窾 Fǎhuá jīng dàkuǎn *The Great Cavity of the Lotus Sūtra*
+- [[KR6i0570]] 1607 圓覺經近釋 Yuánjué jīng jìnshì *Recent Explication of the Sūtra of Perfect Enlightenment*
+- [[KR6k0200]] 1607 吳中石佛相好懺儀 Wúzhōng shífó xiànghǎo chànyí *A Repentance Liturgy for the Marks-and-Auspicious-Signs of the Stone Buddha in Wú*
+- [[KR6q0026]] 1607 教外別傳 Jiàowài biéchuán *Transmission Outside the Teaching*
+- [[KR6q0147]] 1607 宗門玄鑑圖 Zōngmén xuán jiàn tú *Diagrams of the School's Dark-Mirror*
+- [[KR6q0171]] 1607 慨古錄 Kǎi gǔ lù *Record of Lamentation for Antiquity*
+- [[KR6c0062]] 1608 金剛經決疑 Jīngāng jīng juéyí *The Diamond Sūtra -- Resolving the Doubts*
+- [[KR6c0071]] 1608 金剛經音釋直解 Jīngāng jīng yīnshì zhíjiě *The Diamond Sūtra Directly Explained with Phonetic Glosses*
+- [[KR6d0203]] 1608 得遇龍華修證懺儀 Déyù Lónghuá xiūzhèng chànyí *Repentance Liturgy for Cultivating-and-Verifying the Encounter with the Dragon-Flower [Maitreya]*
+- [[KR6d0248]] 1608 法界安立圖 Fǎjiè ānlì tú *Diagrams of the Establishment of the Dharma-Realm*
+- [[KR6j0706]] 1608 楞嚴經直解 Lèngyán jīng zhíjiě *Direct Explanation of the Śūraṃgama-sūtra*
+- [[KR6k0074]] 1608 佛說目連五百問經略解 Fó shuō Mùlián wǔbǎiwèn jīng lüèjiě *Concise Commentary on the Maudgalyāyana Five-Hundred Questions Sūtra*
+- [[KR6k0075]] 1608 佛說目連五百問戒律中輕重事經釋 Fó shuō Mùlián wǔbǎiwèn jièlǜzhōng qīngzhòngshì jīngshì *Commentary on the Maudgalyāyana Five-Hundred Questions Sūtra*
+- [[KR6k0148]] 1608 四分戒本緣起事義 Sìfēn jièběn yuánqǐ shìyì *Origin-Narratives and Explanatory Notes for the Sìfēn Prātimokṣa*
+- [[KR6q0187]] 1608 護法錄 Hù fǎ lù *Record of Defending the Dharma*
+- [[KR6q0362]] 1608 無明慧經禪師語錄 Wúmíng Huìjīng chánshī yǔlù **
+- [[KR6s0075]] 1608 莊子內篇註 Zhuāngzǐ nèipiān zhù *Commentary on the Inner Chapters of the Zhuāng-zǐ*
+- [[KR6j0726]] 1609 楞嚴經宗通 Lèngyán jīng zōngtōng *"Penetrating-the-School" Commentary on the Śūraṃgama-sūtra*
+- [[KR6q0134]] 1609 永嘉禪宗集註 Yǒngjiā chánzōng jí zhù *Annotated Chánzōng Yǒngjiā jí*
+- [[KR6c0058]] 1610 金剛經註解鐵鋑錎 Jīngāng jīng zhùjiě tiězǎnxián *The Iron-Borer Annotated Diamond Sūtra*
+- [[KR6c0059]] 1610 金剛經宗通 Jīngāng jīng zōngtōng *The Diamond Sūtra -- Penetrating the Tradition*
+- [[KR6c0060]] 1610 金剛經偈釋 Jīngāng jīng jiēshì *Verse-Explanation of the Diamond Sūtra*
+- [[KR6j0686]] 1610 楞嚴經通議略科 Lèngyán jīng tōngyì lüèkē *Abridged Sectional Outline of the Comprehensive Discussion of the Śūraṃgama-sūtra*
+- [[KR6j0687]] 1610 楞嚴經通議 Lèngyán jīng tōngyì *Comprehensive Discussion of the Śūraṃgama-sūtra*
+- [[KR6j0704]] 1610 楞嚴經截流 Lèngyán jīng jiéliú *Cutting-Off the Stream on the Śūraṃgama-sūtra*
+- [[KR6n0103]] 1610 百法明門論論義 Bǎifǎ míngmén lùn lùnyì *Doctrinal Exposition of the Hundred-Dharmas Treatise*
+- [[KR6n0135]] 1610 八識規矩通說 Bā shí guījǔ tōngshuō *Comprehensive Exposition of the Eight-Consciousnesses Verses*
+- [[KR6q0383]] 1610 紫柏尊者別集 Zǐbǎi zūnzhě biéjí **
+- [[KR6r0169]] 1610 名公法喜志 Mínggōng fǎxǐ zhì *Records of the Famous Gentlemen Who Took Joy in the Dharma*
+- [[KR6e0068]] 1612 華嚴經合論纂要 Huáyán jīng hé lùn zuǎn yào *Compilation of Essentials from the Combined Edition of the Huáyán Scripture and the [Lǐ Tōngxuán] Treatise*
+- [[KR6i0348]] 1612 楞伽經合轍 Léngqié jīng hézhé *Aligning-the-Tracks Commentary on the Sūtra of Laṅkā*
+- [[KR6i0349]] 1612 楞伽經參訂疏 Léngqié jīng cāndìng shū *Comparative-Collation Commentary on the Sūtra of Laṅkā*
+- [[KR6j0697]] 1612 楞嚴經合轍 Lèngyán jīng héchè *Joint-Track Commentary on the Śūraṃgama-sūtra*
+- [[KR6j0751]] 1612 準提心要 Zhǔntí xīnyào *Heart-Essentials of the Cuṇḍā Practice*
+- [[KR6k0100]] 1612 梵網經直解 Fànwǎngjīng zhíjiě *Direct Exposition of the Brahmajāla Sūtra*
+- [[KR6k0101]] 1612 梵網經直解事義 Fànwǎngjīng zhíjiě shìyì *Auxiliary Notes on the Direct Exposition of the Brahmajāla Sūtra*
+- [[KR6o0116]] 1612 起信論續疏 Qǐxìn lùn xùshū *Continued Commentary on the Awakening of Faith*
+- [[KR6q0049]] 1612 先覺集 Xiānjué jí *Collected Records of the Formerly-Awakened*
+- [[KR6q0197]] 1613 浮山法句 Fúshān fǎ jù *Dharma-Verses of Fúshān*
+- [[KR6c0063]] 1614 金剛經鎞 Jīngāng jīng bēi *The Diamond Sūtra Comb*
+- [[KR6d0230]] 1614 三千有門頌略解 Sānqiān yǒumén sòng lüèjiě *Brief Interpretation of the Three-Thousand-Existence-Gates Verses*
+- [[KR6i0104]] 1614 維摩經無我疏 Wéimó jīng wúwǒ shū *No-Self Commentary on the Vimalakīrti Sūtra*
+- [[KR6i0343]] 1614 觀楞伽經記 Guān Léngqié jīng jì *Notes on Contemplating the Sūtra of Laṅkā*
+- [[KR6i0344]] 1614 楞伽補遺 Léngqié bǔyí *Supplementary Notes to [the Commentary on] the Sūtra of Laṅkā*
+- [[KR6i0569]] 1614 圓覺經直解 Yuánjué jīng zhíjiě *Direct Explication of the Sūtra of Perfect Enlightenment*
+- [[KR6j0705]] 1614 楞嚴經圓通疏前茅 Lèngyán jīng yuántōng shū qiánmáo *Vanguard to the Commentary on Perfect Penetration in the Śūraṃgama-sūtra*
+- [[KR6k0143]] 1614 毗尼珍敬錄 Pínì zhēnjìng lù *Records of the Vinaya Treasured and Revered*
+- [[KR6m0046]] 1614 肇論略註 Zhàolùn lüèzhù *Brief Annotations on the Treatises of [Sēng-]Zhào*
+- [[KR6n0044]] 1614 成唯識論集解 Chéng wéishí lùn jíjiě *Compiled Explanations of the Demonstration of Consciousness-Only*
+- [[KR6n0133]] 1614 八識規矩略說 Bā shí guījǔ lüèshuō *Brief Discussion of the Eight-Consciousnesses Verses*
+- [[KR6i0347]] 1615 楞伽經宗通 Léngqié jīng zōngtōng *Penetrating-the-School Commentary on the Sūtra of Laṅkā*
+- [[KR6o0035]] 1615 三支比量義鈔 Sān zhī bǐ liàng yì chāo *Excerpts on the Three-Member Syllogism's Doctrine*
+- [[KR6p0011]] 1615 觀無量壽佛經圖頌 Guānwúliángshòu fó jīng túsòng *Illustrated Verses on the Sūtra on the Contemplation of Amitāyus*
+- [[KR6p0056]] 1615 淨土生無生論 Jìngtǔ shēng wúshēng lùn *Treatise on Birth-as-Non-Birth in the Pure Land*
+- [[KR6p0072]] 1615 蓮邦詩選 Liánbāng shīxuǎn *Selected Poems of the Lotus Land*
+- [[KR6q0148]] 1615 博山禪警語 Bóshān chán jǐng yǔ *Chán Warning-Words of Bóshān*
+- [[KR6q0217]] 1615 擬寒山詩 Nǐ Hánshān shī *Imitations of Hánshān's Poems*
+- [[KR6q0386]] 1615 憨山老人夢遊集 Hānshān lǎorén mèngyóu jí *Collected Dream Journey of the Old Man Hānshān*
+- [[KR6k0258]] 1616 毗尼日用錄 Píní rìyòng lù *A Record of Vinaya for Daily Use*
+- [[KR6q0045]] 1616 八十八祖道影傳贊 Bāshíbā zǔ dàoyǐng zhuàn zàn *Biographies and Encomia for the Portrait-Images of the Eighty-Eight Patriarchs*
+- [[KR6c0166]] 1617 般若心經註解 Bōrě xīnjīng zhùjiě *Annotated Explication of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6i0571]] 1617 圓覺經要解 Yuánjué jīng yàojiě *Essential Explication of the Sūtra of Perfect Enlightenment*
+- [[KR6j0694]] 1617 楞嚴經如說 Lèngyán jīng rúshuō *The Śūraṃgama-sūtra As-Spoken*
+- [[KR6k0150]] 1617 四分戒本約義 Sìfēn jièběn yuēyì *The Essential Meaning of the Sìfēn Prātimokṣa*
+- [[KR6o0115]] 1617 起信論捷要 Qǐxìn lùn jiéyào *Essential Digest of the Awakening of Faith*
+- [[KR6q0173]] 1617 千松筆記 Qiān sōng bǐ jì *Brush-Notes of Thousand-Pines*
+- [[KR6r0055]] 1617 大明高僧傳 DàMíng gāosēng zhuàn *Great Míng Lives of Eminent Monks*
+- [[KR6r0103]] 1618 佛祖綱目 Fózǔ gāngmù *Outline and Particulars of the Buddhas and Patriarchs*
+- [[KR6c0065]] 1620 金剛經正眼 Jīngāng jīng zhèngyǎn *The Correct Eye on the Diamond Sūtra*
+- [[KR6c0167]] 1620 般若心經斲輪解 Bōrě xīnjīng zhuólún jiě *"Wheelwright's" Explication of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6j0750]] 1620 準提淨業 Zhǔntí jìngyè *Pure Karma of the Cuṇḍā Practice*
+- [[KR6p0068]] 1620 西方合論標註 Xīfāng hélùn biāozhù *Annotated [Edition of the] Comprehensive Treatise on the Western Pure Land*
+- [[KR6q0374]] 1620 湛然圓澄禪師語錄 Zhànrán Yuánchéng chánshī yǔlù **
+- [[KR6q0387]] 1620 雲門麥浪懷禪師宗門設難 Yúnmén Màilàng Huái chánshī zōngmén shènàn *Posed Objections on the Chán School by Chán Master Mài-làng Huái of Yún-mén*
+- [[KR6j0696]] 1621 楞嚴經證疏廣解 Lèngyán jīng zhèngshū guǎngjiě *Punctuated Broad Explanation of the Verifying Commentary on the Śūraṃgama-sūtra*
+- [[KR6k0246]] 1622 弘戒法儀 Hóngjiè fǎyí *A Code for Promoting the Precepts*
+- [[KR6n0104]] 1622 百法明門論纂 Bǎifǎ míngmén lùn zuǎn *Compiled-and-Explicated Edition of the Hundred-Dharmas Treatise*
+- [[KR6n0136]] 1622 八識規矩纂釋 Bā shí guījǔ zuǎnshì *Compiled-and-Explicated Edition of the Eight-Consciousnesses Verses*
+- [[KR6q0047]] 1622 正宗心印後續聯芳 Zhèngzōng xīnyìn hòuxù liánfāng *Linked Fragrance Continuing the Orthodox Mind-Seal*
+- [[KR6q0271]] 1622 雪峰義存禪師語錄（真覺禪師語錄） Xuěfēng Yìcún chánshī yǔlù (Zhēnjué chánshī yǔlù) *Sayings-Record of Chán Master Xuěfēng Yìcún (Sayings-Record of Chán Master Zhēnjué)*
+- [[KR6o0028]] 1623 因明入正理論直疏 Yīnmíng rù zhèng lǐ lùn zhí shū *Direct Commentary on the Treatise on Entering Correct Reasoning of Hetuvidyā*
+- [[KR6q0417]] 1623 博山無異大師語錄集要 Bóshān Wúyì dàshī yǔlù jíyào *Selected Recorded Sayings of Great Master Wú-yì of Bó-shān*
+- [[KR6r0063]] 1625 補續高僧傳 Bǔxù gāosēng zhuàn *Supplementary Continued Lives of Eminent Monks*
+- [[KR6c0057]] 1626 金剛經補註 Jīngāng jīng bǔzhù *Supplemented Annotation of the Diamond Sūtra*
+- [[KR6q0390]] 1626 密雲禪師語錄 Mìyún chánshī yǔlù *Recorded Sayings of the Chán Master Mìyún*
+- [[KR6q0461]] 1626 興善南明廣禪師語錄 Xīngshàn Nánmíng Guǎng chánshī yǔlù *Recorded Sayings of Chán Master Nán-míng Guǎng of Xīng-shàn*
+- [[KR6i0236]] 1627 十善業道經節要 Shíshàn yèdào jīng jiéyào *Essentials of the Sūtra of the Path of the Ten Wholesome Actions*
+- [[KR6i0477]] 1627 八大人覺經略解 Bā dàrén jué jīng lüèjiě *A Concise Explanation of the Sūtra of the Eight Great-Person Awakenings*
+- [[KR6i0486]] 1627 四十二章經解 Sìshíèrzhāng jīng jiě *An Explanation of the Sūtra in Forty-Two Sections*
+- [[KR6i0548]] 1627 占察善惡業報經玄義 Zhànchá shànè yèbào jīng xuányì *The Profound Meaning of the Sūtra of Divining the Karmic Retribution of Good and Evil Acts*
+- [[KR6i0549]] 1627 占察善惡業報經義疏 Zhànchá shànè yèbào jīng yìshū *The Doctrinal Commentary on the Sūtra of Divining the Karmic Retribution of Good and Evil Acts*
+- [[KR6i0550]] 1627 占察善惡業報經行法 Zhànchá shànè yèbào jīng xíngfǎ *The Practice-Method of the Sūtra of Divining the Karmic Retribution of Good and Evil Acts*
+- [[KR6j0755]] 1627 於密滲施食旨槩 Yúmìshèn shīshí zhǐgài *Permeating-the-Esoteric Cardinal Outline of the Food-Bestowal Liturgy*
+- [[KR6j0756]] 1627 修習瑜伽集要施食壇儀 Xiūxí yúqié jíyào shīshí tányí *Practiced-and-Cultivated Yoga-Compendium Food-Bestowal Altar-Ritual*
+- [[KR6k0096]] 1627 梵網經玄義 Fànwǎngjīng xuányì *The Profound Meaning of the Brahmajāla Sūtra*
+- [[KR6k0097]] 1627 梵網經合註 Fànwǎngjīng hézhù *Combined Annotations on the Brahmajāla Sūtra*
+- [[KR6p0022]] 1627 阿彌陀經疏鈔演義 Ēmítuó jīng shūchāo yǎnyì *Explanatory Amplification of the* Shū-chāo *on the Smaller Amitābha-sūtra*
+- [[KR6c0069]] 1628 金剛經略談 Jīngāng jīng lüètán *Brief Discussion of the Diamond Sūtra*
+- [[KR6c0175]] 1628 般若心經小談 Bōrě xīnjīng xiǎotán *Small Talk on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6d0052]] 1628 觀音經玄義記會本 Guānyīn jīng xuányì jì huìběn *Combined Edition of the Guānyīn Sūtra Profound-Meaning Subcommentary*
+- [[KR6d0055]] 1628 觀音經義疏記會本 Guānyīn jīng yìshū jì huìběn *Combined Edition of the Guānyīn Sūtra Doctrinal Subcommentary*
+- [[KR6j0701]] 1628 楞嚴經懸談 Lèngyán jīng xuántán *Hovering Discussion on the Śūraṃgama-sūtra*
+- [[KR6q0167]] 1628 五宗原 Wǔ zōng yuán *Origins of the Five Schools*
+- [[KR6q0363]] 1628 晦臺元鏡禪師語錄 Huìtái Yuánjìng chánshī yǔlù **
+- [[KR6q0602]] 1628 雪嶠信禪師語錄 Xuějiāo Xìn chánshī yǔlù *Recorded Sayings of Chán Master Xuě-jiāo Xìn*
+- [[KR6r0110]] 1628 禪燈世譜 Chándēng shìpǔ *Generational Genealogy of the Lamp of Chán*
+- [[KR6q0235]] 1629 一貫別傳 Yī guàn bié chuán *Separate Transmission of the One Thread*
+- [[KR6q0236]] 1629 古音王傳 Gǔ yīn wáng zhuàn *Biography of the Ancient-Sound King*
+- [[KR6q0473]] 1629 三峰藏和尚語錄 Sānfēng Zàng héshàng yǔlù *Recorded Sayings of Reverend Sān-fēng Zàng*
+- [[KR6t0215]] 1629 僞書論 Wěishū lùn *Treatise on Spurious Works*
+- [[KR6i0057]] 1630 藥師三昧行法 Yàoshī sānmèi xíngfǎ *Practice Method for the Medicine Master Samādhi*
+- [[KR6p0070]] 1630 淨土生無生論註 Jìngtǔ shēng wúshēng lùn zhù *Annotated [Commentary on the] Treatise on Birth-as-Non-Birth in the Pure Land*
+- [[KR6p0071]] 1630 淨土生無生論親聞記 Jìngtǔ shēng wúshēng lùn qīnwén jì *Personally-Heard Record of [the Lectures on the] Treatise on Birth-as-Non-Birth in the Pure Land*
+- [[KR6q0448]] 1630 聚雲吹萬真禪師語錄 Jùyún Chuīwàn Zhēn chánshī yǔlù *Recorded Sayings of Chán Master Jù-yún Chuī-wàn Zhēn*
+- [[KR6q0449]] 1630 吹萬禪師語錄 Chuīwàn chánshī yǔlù *Recorded Sayings of Chán Master Chuī-wàn*
+- [[KR6j0710]] 1631 楞嚴經略疏 Lèngyán jīng lüèshū *Abridged Commentary on the Śūraṃgama-sūtra*
+- [[KR6q0039]] 1631 居士分燈錄 Jūshì fēndēng lù *Branch-Lamp Record of Householders*
+- [[KR6q0185]] 1631 天樂鳴空集 Tiān yuè míng kōng jí *Heaven-Music Sounding-Emptiness Collection*
+- [[KR6h0020]] 1632 讚禮地藏菩薩懺願儀 Zànlǐ dìzàng púsà chànyuàn yí *The Ritual of Praise, Salutation, Repentance, and Vow before the Bodhisattva Kṣitigarbha*
+- [[KR6p0023]] 1632 阿彌陀經疏鈔擷 Ēmítuó jīng shūchāo xié *Selected Excerpts from the* Shū-chāo *on the Smaller Amitābha-sūtra*
+- [[KR6q0270]] 1632 五家語錄（序） Wǔjiā yǔlù (xù) *Prefaces for the Five-House Sayings-Records*
+- [[KR6j0707]] 1633 楞嚴經講錄 Lèngyán jīng jiǎnglù *Lecture-Record on the Śūraṃgama-sūtra*
+- [[KR6q0198]] 1633 徹庸和尚谷響集 Chèyōng héshàng gǔ xiǎng jí *Valley-Echo Collection of Chèyōng héshàng*
+- [[KR6q0364]] 1633 見如元謐禪師語錄 Jiànrú Yuánmì chánshī yǔlù **
+- [[KR6q0180]] 1634 溈山警策註 Guīshān jǐng cè zhù *Annotated Commentary on the Admonitions of Guīshān*
+- [[KR6c0170]] 1635 般若心經發隱 Bōrě xīnjīng fāyǐn *Drawing-Out-the-Hidden Explication of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6j0718]] 1635 楞嚴經勢至圓通章科解 Lèngyán jīng shìzhì yuántōng zhāng kējiě *Outline-Commentary on the "Mahāsthāmaprāpta Universal-Penetration Chapter" of the Śūraṃgama-sūtra*
+- [[KR6q0161]] 1635 十牛圖和頌 Shí niú tú hé sòng *Ten Ox-Herding Pictures with Harmonizing Verses*
+- [[KR6q0436]] 1635 夔州臥龍字水禪師語錄 Kuízhōu Wòlóng Zìshuǐ chánshī yǔlù *Recorded Sayings of Chán Master Zì-shuǐ of Kuí-zhōu Wò-lóng*
+- [[KR6q0603]] 1635 天隱修禪師語錄 Tiānyǐn Xiū chánshī yǔlù *Recorded Sayings of Chán Master Tiān-yǐn Xiū*
+- [[KR6q0604]] 1635 密雲怡禪師語錄 Mìyún Yí chánshī yǔlù *Recorded Sayings of Chán Master Mì-yún Yí*
+- [[KR6q0195]] 1636 曹溪一滴 Cáoxī yī dī *One Drop from Cáoxī*
+- [[KR6q0205]] 1636 絕餘編 Jué yú biān *Collection of Terminal Remnants*
+- [[KR6q0226]] 1636 靈峰蕅益大師宗論 Língfēng Ǒuyì dàshī zōng lùn *The Sectarian Discourses of the Great Master Ǒuyì of Língfēng*
+- [[KR6q0366]] 1636 博山無異大禪語錄集要 Bóshān Wúyì dàchán yǔlù jíyào **
+- [[KR6c0066]] 1637 金剛經筆記 Jīngāng jīng bǐjì *Notebook on the Diamond Sūtra*
+- [[KR6c0174]] 1637 般若心經釋要 Bōrě xīnjīng shìyào *Essential Glosses on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6f0093]] 1637 阿彌陀經要解 Ā mí tuó jīng yào jiě *Essential Explication of the Amitābha Sūtra*
+- [[KR6g0048]] 1637 遺教經解 Yí jiào jīng jiě *Explication of the Bequeathed Teaching Sūtra*
+- [[KR6k0241]] 1637 佛說齋經科註 Fóshuō zhāi jīng kēzhù *A Sub-Section Commentary on the Sūtra of Fasting Spoken by the Buddha*
+- [[KR6k0242]] 1637 沙彌十戒威儀錄要 Shāmí shíjiè wēiyí lùyào *A Recorded Outline of the Ten Novice-Precepts and Their Deportment Code*
+- [[KR6k0244]] 1637 律要後集 Lǜyào hòují *A Sequel-Anthology of Vinaya Essentials*
+- [[KR6k0245]] 1637 梵網經懺悔行法 Fànwǎng jīng chànhuǐ xíngfǎ *A Method of Repentance Practice Based on the Brahmā-Net Sūtra*
+- [[KR6q0172]] 1637 祖庭鉗鎚錄 Zǔ tíng qián chuí lù *Record of the Pincers-and-Hammer of the Ancestral Courtyard*
+- [[KR6q0398]] 1637 壽昌無明和尚語錄 Shòuchāng Wúmíng héshàng yǔlù *Recorded Sayings of Venerable Wú-míng of Shòu-chāng*
+- [[KR6r0163]] 1637 見聞錄 Jiànwén lù *Records of What I Have Seen and Heard*
+- [[KR6c0171]] 1638 般若心經際決 Bōrě xīnjīng jìjué *Boundary-Resolving Explication of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6q0143]] 1638 禪林疏語考證 Chánlín shū yǔ kǎo zhèng *Verification of Shū Yǔ (Ritual-Petition Language) of the Chán Forest*
+- [[KR6q0168]] 1638 闢妄救略說 Pì wàng jiù lüè shuō *A Brief Rebuttal Rescuing the True Teaching from the Delusions of the Wǔzōng jiù*
+- [[KR6q0396]] 1638 古庭禪師語錄輯略 Gǔtíng chánshī yǔlù jílüè *Digest of the Recorded Sayings of Chán Patriarch Gǔtíng*
+- [[KR6q0397]] 1638 天隱和尚語錄 Tiānyǐn héshàng yǔlù *Recorded Sayings of Venerable Tiānyǐn*
+- [[KR6q0410]] 1638 入就瑞白禪師語錄 Rùjiù Ruìbái chánshī yǔlù *Recorded Sayings of Chán Master Rù-jiù Ruì-bái*
+- [[KR6q0418]] 1638 雪關禪師語錄 Xuěguān chánshī yǔlù *Recorded Sayings of Chán Master Xuě-guān*
+- [[KR6p0024]] 1639 阿彌陀經已決 Ēmítuó jīng yǐjué *Already-Resolved [Doubts] on the Smaller Amitābha-sūtra*
+- [[KR6q0474]] 1639 朝宗禪師語錄 Cháozōng chánshī yǔlù *Recorded Sayings of Chán Master Cháo-zōng*
+- [[KR6j0695]] 1640 楞嚴經疏解蒙鈔 Lèngyán jīng shūjiě méngchāo *Sub-commentary for the Unenlightened on the Commentaries and Explanations of the Śūraṃgama-sūtra*
+- [[KR6p0089]] 1640 雲棲淨土彙語 Yúnqī jìngtǔ huìyǔ *Anthology of [Yúnqī Zhūhóng's] Sayings on the Pure Land*
+- [[KR6q0029]] 1640 續燈存稿目錄 Xùdēng cúngǎo mùlù *Table of Contents to the Preserved Drafts of the Continuing Lamp*
+- [[KR6q0030]] 1640 續燈存稿 Xùdēng cúngǎo *Preserved Drafts of the Continuing Lamp*
+- [[KR6q0067]] 1640 瑞州洞山良价禪師語錄 Ruìzhōu Dòngshān Liángjiè chánshī yǔlù *Recorded Sayings of Chán Master Liángjiè of Dòngshān in Ruìzhōu*
+- [[KR6q0075]] 1640 潭州溈山靈祐禪師語錄 Tánzhōu Wéishān Língyòu chánshī yǔlù *Recorded Sayings of Chán Master Língyòu of Wéishān in Tánzhōu*
+- [[KR6q0076]] 1640 袁州仰山慧寂禪師語錄 Yuánzhōu Yǎngshān Huìjì chánshī yǔlù *Recorded Sayings of Chán Master Huìjì of Yǎngshān in Yuánzhōu*
+- [[KR6q0077]] 1640 金陵清涼院文益禪師語錄 Jīnlíng Qīngliáng yuàn Wényì chánshī yǔlù *Recorded Sayings of Chán Master Wényì of the Qīngliáng Cloister in Jīnlíng*
+- [[KR6q0201]] 1640 石雨禪師法檀 Shíyǔ chánshī fǎ tán *Dharma-Altar of Chán Master Shíyǔ*
+- [[KR6q0203]] 1640 蕅益大師佛學十種（選錄「性學開蒙」．「梵室偶談」兩種） Ǒuyì dàshī fóxué shí zhǒng (xuǎnlù Xìng xué kāi méng, Fàn shì ǒu tán liǎng zhǒng) *Ten-Kind Buddhist Studies of Master Ǒuyì (Selected: Xìng xué kāi méng and Fàn shì ǒu tán)*
+- [[KR6q0450]] 1640 慶忠鐵壁機禪師語錄 Qìngzhōng Tiěbì Jī chánshī yǔlù *Recorded Sayings of Chán Master Qìng-zhōng Tiě-bì Jī*
+- [[KR6q0608]] 1640 山茨際禪師語錄 Shāncí Jì chánshī yǔlù *Recorded Sayings of Chán Master Shān-cí Jì*
+- [[KR6c0070]] 1641 金剛經略疏 Jīngāng jīng lüèshū *Concise Commentary on the Diamond Sūtra*
+- [[KR6k0151]] 1641 重治毗尼事義集要 Chóngzhì píní shìyì jíyào *Re-edited Compendium of Vinaya Affairs and Meanings*
+- [[KR6q0184]] 1641 周易禪解 Zhōu yì chán jiě *A Chán Explication of the Zhōuyì (Book of Changes)*
+- [[KR6c0172]] 1642 般若心經添足 Bōrě xīnjīng tiānzú *Adding-the-Feet to the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6n0106]] 1642 百法明門論直解 Bǎifǎ míngmén lùn zhíjiě *Direct Explanation of the Hundred-Dharmas Treatise*
+- [[KR6n0115]] 1642 觀所緣緣論直解 Guān suǒyuányuán lùn zhíjiě *Direct Explanation of the Investigation into the Object-Condition*
+- [[KR6n0117]] 1642 觀所緣緣論釋直解 Guān suǒyuányuán lùn shì zhíjiě *Direct Explanation of the Commentary on the Investigation into the Object-Condition*
+- [[KR6n0137]] 1642 八識規矩直解 Bā shí guījǔ zhíjiě *Direct Explanation of the Eight-Consciousnesses Verses*
+- [[KR6n0145]] 1642 相宗八要直解 Xiàngzōng bā yào zhíjiě *Direct Explanation of the Eight Essential [Texts] of the Characteristics-School*
+- [[KR6q0419]] 1642 雪關和尚語錄 Xuěguān héshàng yǔlù *Recorded Sayings of Venerable Xuě-guān*
+- [[KR6i0372]] 1643 盂蘭盆經新疏 Yúlánpén jīng xīnshū *New Commentary on the Yúlánpén Sūtra*
+- [[KR6k0174]] 1643 四分律藏大小持戒犍度略釋 Sìfēnlǜzàng dàxiǎo chíjiè jiēdù lüèshì *Brief Commentary on the Skandhaka of Greater and Lesser Precept-keeping in the Sìfēnlǜ-piṭaka*
+- [[KR6k0195]] 1643 菩薩戒本經箋要 Púsà jièběn jīng jiānyào *Essential Annotations on the Bodhisattva-Vinaya Sūtra*
+- [[KR6k0196]] 1643 菩薩戒羯磨文釋 Púsà jiè jiémó wén shì *Commentary on the Karman-text of the Bodhisattva Precepts*
+- [[KR6n0051]] 1643 唯識三十論直解 Wéishí sānshí lùn zhíjiě *Direct Exposition of the Thirty Verses on Consciousness-Only*
+- [[KR6p0110]] 1643 西方確指 Xīfāng quèzhǐ *Definite Indications of the Western [Pure Land]*
+- [[KR6q0038]] 1643 繼燈錄 Jìdēng lù *Continuing-Lamp Record*
+- [[KR6q0367]] 1643 永覺元賢禪師廣錄 Yǒngjué Yuánxián chánshī guǎnglù **
+- [[KR6d0012]] 1644 法華經釋籤緣起序指明 Fǎhuá jīng shìqiān yuánqǐxù zhǐmíng *Clarification on the Origin-Preface of the Annotations to the Lotus Sūtra*
+- [[KR6d0125]] 1644 高王觀音經註釋 Gāowáng Guānyīn jīng zhùshì *Annotated Interpretation of the Gāowáng Avalokiteśvara Sūtra*
+- [[KR6d0173]] 1644 四教儀集註節義 Sìjiào yí jízhù jiéyì *Selected-Meanings of the Compiled-Annotations on the Four-Doctrines Manual*
+- [[KR6d0249]] 1644 隨緣集 Suíyuán jí *The Following-Conditions Collection*
+- [[KR6h0021]] 1644 慈悲地藏菩薩懺法 Cíbēi dìzàng púsà chànfǎ *The Compassionate Repentance Liturgy of the Bodhisattva Kṣitigarbha*
+- [[KR6n0048]] 1644 成唯識論音響補遺科 Chéng wéishí lùn yīnxiǎng bǔyí kē *Structural Outline of the Phonetic-and-Resonance Supplement to the Demonstration of Consciousness-Only*
+- [[KR6n0049]] 1644 成唯識論音響補遺 Chéng wéishí lùn yīnxiǎng bǔyí *Phonetic-and-Resonance Supplement to the Demonstration of Consciousness-Only*
+- [[KR6q0013]] 1644 五燈會元續略 Wǔdēng huìyuán xùlüè *Continued Epitome of the Compendium of the Five Lamps*
+- [[KR6q0200]] 1644 布水臺集 Bù shuǐ tái jí *Puddle-Waters Terrace Collection*
+- [[KR6q0228]] 1644 錦屏破石卓禪師雜著 Jǐnpíng Pòshí Zhuó chánshī zá zhù *Miscellaneous Writings of Chán Master Pòshí Zhuó of Jǐnpíng*
+- [[KR6q0476]] 1644 燮雲璣禪師國清無畏堂語錄 Xièyún Jī chánshī Guóqīng Wúwèitáng yǔlù *Recorded Sayings of Chán Master Xiè-yún Jī at the Wú-wèi-táng of Guó-qīng-sì*
+- [[KR6c0067]] 1645 金剛經破空論 Jīngāng jīng pòkōng lùn *Treatise Smashing False Emptiness on the Diamond Sūtra*
+- [[KR6c0068]] 1645 金剛經觀心釋 Jīngāng jīng guānxīn shì *Contemplation-of-Mind Explanation of the Diamond Sūtra*
+- [[KR6i0345]] 1645 楞伽經玄義 Léngqié jīng xuányì *Profound Meaning of the Sūtra of Laṅkā*
+- [[KR6i0346]] 1645 楞伽經義疏 Léngqié jīng yìshū *Doctrinal Commentary on the Sūtra of Laṅkā*
+- [[KR6j0692]] 1645 楞嚴經玄義 Lèngyán jīng xuányì *Profound Significance of the Śūraṃgama-sūtra (Zhìxù's recension)*
+- [[KR6j0693]] 1645 楞嚴經文句 Lèngyán jīng wénjù *Phrase-by-Phrase Commentary on the Śūraṃgama-sūtra*
+- [[KR6o0029]] 1645 因明入正理論直解 Yīnmíng rù zhèng lǐ lùn zhí jiě *Direct Explanation of the Treatise on Entering Correct Reasoning of Hetuvidyā*
+- [[KR6o0036]] 1645 真唯識量略解 Zhēn wéishí liàng lüè jiě *Brief Explanation of the True Consciousness-Only Syllogism*
+- [[KR6q0142]] 1645 叢林兩序須知 Cónglín liǎng xù xū zhī *Required Knowledge on the Two Ranks of the Cónglín*
+- [[KR6q0221]] 1645 天界覺浪盛禪師全錄 Tiānjiè Juélàng Shèng chánshī quán lù *Complete Record of Chán Master Juélàng Shèng of Tiānjiè*
+- [[KR6q0479]] 1645 象崖珽禪師語錄 Xiàngyái Tǐng chánshī yǔlù *Recorded Sayings of Chán Master Xiàng-yái Tǐng*
+- [[KR6k0260]] 1646 律學發軔 Lǜxué fārèn *Setting Off in Vinaya Studies*
+- [[KR6q0044]] 1646 建州弘釋錄 Jiànzhōu hóng shì lù *Record of Glorifying the Dharma in Jiànzhōu*
+- [[KR6q0414]] 1646 隱元禪師語錄 Yǐnyuán chánshī yǔlù *Recorded Sayings of Chán Master Yǐn-yuán*
+- [[KR6d0010]] 1647 法華經玄義節要 Fǎhuá jīng xuányì jiéyào *Abridgement of the Profound Meaning of the Lotus Sūtra*
+- [[KR6k0095]] 1647 菩薩戒疏隨見錄 Púsàjiè shū suíjiàn lù *Records of Casual Observations on the Bodhisattva Precept Commentary*
+- [[KR6n0047]] 1647 成唯識論觀心法要 Chéng wéishí lùn guānxīn fǎyào *Essential Method for Mind-Contemplation in the Demonstration of Consciousness-Only*
+- [[KR6q0048]] 1647 祖庭指南 Zǔtíng zhǐnán *A Guide to the Patriarchs' Courtyard*
+- [[KR6q0190]] 1647 闢邪集 Pì xié jí *A Collection on Refuting Heresy*
+- [[KR6q0212]] 1647 牧雲和尚嬾齋別集 Mùyún héshàng Lǎnzhāi bié jí *Idler-Studio Supplementary Collection of Chán Master Mùyún*
+- [[KR6q0416]] 1647 鴛湖用禪師語錄 Yuānhú Yòng chánshī yǔlù *Recorded Sayings of Chán Master Yuān-hú Yòng*
+- [[KR6q0482]] 1647 天界覺浪盛禪師嘉禾語錄 Tiānjiè Juélàng Shèng chánshī Jiāhé yǔlù *Jiā-hé-region Recorded Sayings of Tiān-jiè Chán Master Jué-làng Shèng*
+- [[KR6c0176]] 1648 般若心經一貫疏 Bōrě xīnjīng yīguàn shū *"Single-Thread" Subcommentary on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6d0081]] 1648 法華經綸貫 Fǎhuá jīng lúnguàn *Threading-Through Notes on the Lotus Sūtra*
+- [[KR6d0082]] 1648 法華經會義 Fǎhuá jīng huìyì *Synthetic-Meaning Commentary on the Lotus Sūtra*
+- [[KR6d0154]] 1648 大乘止觀法門釋要 Dàshèng zhǐguān fǎmén shìyào *Essential-Explanation of the Mahāyāna Cessation-and-Contemplation Dharma-Gates*
+- [[KR6d0188]] 1648 教觀綱宗 Jiàoguān gāngzōng *The Outline-Guideline of Doctrine and Contemplation*
+- [[KR6d0189]] 1648 教觀綱宗釋義 Jiàoguān gāngzōng shìyì *Interpretive Notes on the Outline-Guideline of Doctrine and Contemplation*
+- [[KR6k0051]] 1648 式叉摩那尼戒本 Shìchāmónánī jièběn *The Śikṣamāṇā Prātimokṣa*
+- [[KR6k0098]] 1648 梵網經菩薩戒略疏 Fànwǎngjīng púsàjiè lüèshū *Concise Commentary on the Bodhisattva Precepts of the Brahmajāla Sūtra*
+- [[KR6k0099]] 1648 半月誦菩薩戒儀式註 Bànyuè sòng púsàjiè yíshì zhù *Annotated Liturgy for the Bi-monthly Bodhisattva-Precept Recitation*
+- [[KR6k0149]] 1648 四分戒本如釋 Sìfēn jièběn rúshì *The Sìfēn Prātimokṣa, Thus Explained*
+- [[KR6p0069]] 1648 淨慈要語 Jìngcí yàoyǔ *Essential Sayings on Pure Compassion*
+- [[KR6q0433]] 1648 紫竹林顓愚衡和尚語錄 Zǐzhúlín Zhuānyú Héng héshàng yǔlù *Recorded Sayings of Venerable Zhuān-yú Héng of Zǐ-zhú-lín*
+- [[KR6q0452]] 1648 鐵眉三巴掌禪師語錄 Tiěméi Sānbāzhǎng chánshī yǔlù *Recorded Sayings of Chán Master Tiě-méi Sān-bā-zhǎng (Iron-Brow Three-Slap)*
+- [[KR6k0223]] 1649 毗尼止持會集 Píní zhǐchí huìjí *A Convergent Collection on Vinaya Restraint-Upholding*
+- [[KR6q0400]] 1649 大溈五峰學禪師語錄 Dàwéi Wǔfēng Xué chánshī yǔlù *Recorded Sayings of Chán Master Wǔ-fēng Xué of Dà-wéi*
+- [[KR6q0412]] 1649 象田即念禪師語錄 Xiàngtián Jíniàn chánshī yǔlù *Recorded Sayings of Chán Master Jí-niàn of Xiàng-tián*
+- [[KR6c0073]] 1650 金剛經如是解 Jīngāng jīng rúshì jiě *The Diamond Sūtra -- Explained as "Thus"*
+- [[KR6k0202]] 1650 慈悲道場水懺法隨聞錄 Cíbēi dàochǎng shuǐchànfǎ suíwén lù *A Listener's Record of the Compassion-Site Water-Repentance Liturgy*
+- [[KR6o0109]] 1650 大乘起信論裂網疏 Dàshèng qǐxìn lùn lièwǎng shū *Net-Rending Commentary on the Mahāyāna Awakening of Faith*
+- [[KR6q0408]] 1650 林野奇禪師語錄 Línyě Qí chánshī yǔlù *Recorded Sayings of Chán Master Lín-yě Qí*
+- [[KR6r0178]] 1650 金剛經新異錄 Jīngāngjīng xīnyì lù **
+- [[KR6q0183]] 1651 蕅益三頌 Ǒuyì sān sòng *Three Song-Verse Compositions of Ǒuyì*
+- [[KR6q0407]] 1651 浮石禪師語錄 Fúshí chánshī yǔlù *Recorded Sayings of Chán Master Fú-shí*
+- [[KR6q0421]] 1651 百癡禪師語錄 Bǎichī chánshī yǔlù *Recorded Sayings of Chán Master Bǎi-chī*
+- [[KR6q0428]] 1651 伏獅祇園禪師語錄 Fúshī Qíyuán chánshī yǔlù *Recorded Sayings of Chán Master Qí-yuán of Fú-shī*
+- [[KR6q0477]] 1651 國清大庾韜禪師語錄 Guóqīng Dàyǔ Tāo chánshī yǔlù *Recorded Sayings of Chán Master Dà-yǔ Tāo of Guó-qīng-sì*
+- [[KR6k0226]] 1652 傳戒正範 Chuánjiè zhèngfàn *The Authoritative Code for Transmitting the Precepts*
+- [[KR6q0052]] 1652 先覺宗乘（選錄「帝王問道錄」） Xiānjué zōngshèng (xuǎnlù "Dìwáng wèndào lù") *Lineage Vehicle of the Formerly-Awakened (Selection: Record of Emperors Inquiring after the Way)*
+- [[KR6q0191]] 1652 醒世錄 Xǐng shì lù *Record of Awakening the World*
+- [[KR6q0413]] 1652 大休珠禪師語錄 Dàxiū Zhū chánshī yǔlù *Recorded Sayings of Chán Master Dà-xiū Zhū*
+- [[KR6q0426]] 1652 古雪哲禪師語錄 Gǔxuě Zhé chánshī yǔlù *Recorded Sayings of Chán Master Gǔ-xuě Zhé*
+- [[KR6q0468]] 1652 攖寧靜禪師語錄 Yīngníng Jìng chánshī yǔlù *Recorded Sayings of Chán Master Yīng-níng Jìng*
+- [[KR6q0498]] 1652 百愚禪師語錄 Bǎiyú chánshī yǔlù *Recorded Sayings of Chán Master Bǎi-yú*
+- [[KR6t0004]] 1652 三論宗初心初學鈔 Sānlùnzōng chūxīn chūxué chāo *Beginner's Manual for the Sanron School*
+- [[KR6j0711]] 1653 楞嚴經貫攝 Lèngyán jīng guànshè *Threading-Together and Encompassing Commentary on the Śūraṃgama-sūtra*
+- [[KR6q0018]] 1653 五燈嚴統目錄 Wǔdēng yántǒng mùlù *Table of Contents to the Strict Orthodoxy of the Five Lamps*
+- [[KR6q0019]] 1653 五燈嚴統 Wǔdēng yántǒng *Strict Orthodoxy of the Five Lamps*
+- [[KR6q0213]] 1653 牧雲和尚宗本投機頌 Mùyún héshàng zōng běn tóu jī sòng *Root-Origin Opportunity-Hitting Verses of Chán Master Mùyún*
+- [[KR6c0177]] 1654 般若心經指掌 Bōrě xīnjīng zhǐzhǎng *"Pointing to the Palm" Heart of the Perfection of Wisdom Sūtra Commentary*
+- [[KR6d0013]] 1654 法華經玄籤證釋 Fǎhuá jīng xuánqiān zhèngshì *Verifying Annotations on the Profound-Annotations of the Lotus Sūtra*
+- [[KR6j0760]] 1654 准提焚修悉地懺悔玄文 Zhǔntí fénxiū xīdì chànhuǐ xuánwén *Profound Text of Repentance for the Burnt-Offering Cultivation and Siddhi-Attainment of Cuṇḍā*
+- [[KR6q0020]] 1654 五燈嚴統解惑編 Wǔdēng yántǒng jiěhuò biān *Resolution of Doubts about the Strict Orthodoxy of the Five Lamps*
+- [[KR6q0042]] 1654 南宋元明禪林僧寶傳 NánSòng YuánMíng chánlín sēngbǎo zhuàn *Biographies of the Treasure of the Saṅgha of the Chán Forest from the Southern Sòng through the Yuán and Míng*
+- [[KR6q0401]] 1654 大溈密印寺養拙明禪師語錄 Dàwéi Mìyìnsì Yǎngzhuō Míng chánshī yǔlù *Recorded Sayings of Chán Master Yǎng-zhuō Míng of Dà-wéi Mì-yìn-sì*
+- [[KR6q0453]] 1654 耳庵嵩禪師語錄 Ěrān Sōng chánshī yǔlù *Recorded Sayings of Chán Master Ěr-ān Sōng*
+- [[KR6r0159]] 1654 高僧摘要 Gāosēng zhāiyào *Selected Essentials of the Eminent-Monk [Biographies]*
+- [[KR6s0104]] 1654 閱藏知津 Yuèzàng zhījīn *Knowing the Ferry-Crossings for Reading the Canon*
+- [[KR6c0072]] 1655 金剛經大意 Jīngāng jīng dàyì *Main Idea of the Diamond Sūtra*
+- [[KR6c0181]] 1655 般若心經解 Bōrě xīnjīng jiě *Heart of the Perfection of Wisdom Sūtra Explication*
+- [[KR6q0050]] 1655 先覺宗乘 Xiānjué zōngshèng *Lineage Vehicle of the Formerly-Awakened*
+- [[KR6q0051]] 1655 優婆夷志 Yōupóyí zhì *Record of Female Lay Buddhists*
+- [[KR6q0206]] 1655 鄂州龍光達夫禪師雞肋集 Èzhōu Lóngguāng Dáfū chánshī jī lèi jí *Chicken-Ribs Collection of Chán Master Dáfū of Lóngguāng in Èzhōu*
+- [[KR6q0207]] 1655 頌古鉤鉅 Sòng gǔ gōu jù *Hook-and-Cudgel Verses on Ancient Cases*
+- [[KR6q0231]] 1655 即非禪師全錄 Jífēi chánshī quán lù *Complete Record of Chán Master Jífēi*
+- [[KR6q0373]] 1655 宗寶道獨禪師語錄 Zōngbǎo Dàodú chánshī yǔlù **
+- [[KR6q0411]] 1655 三宜盂禪師語錄 Sānyí Yú chánshī yǔlù *Recorded Sayings of Chán Master Sān-yí Yú*
+- [[KR6q0415]] 1655 昭覺丈雪醉禪師語錄 Zhāojué Zhàngxuě Zuì chánshī yǔlù *Recorded Sayings of Chán Master Zhàng-xuě Zuì of Zhāo-jué*
+- [[KR6q0429]] 1655 季總徹禪師語錄 Jìzǒng Chè chánshī yǔlù *Recorded Sayings of Chán Master Jì-zǒng Chè*
+- [[KR6q0501]] 1655 佛古聞禪師語錄 Fógǔ Wén chánshī yǔlù *Recorded Sayings of Chán Master Fó-gǔ Wén*
+- [[KR6r0088]] 1655 華嚴感應緣起傳 Huáyán gǎnyìng yuánqǐ zhuàn *Records of the Origins and Conditions of Efficacious Responses [Connected with] the Avataṃsaka*
+- [[KR6r0164]] 1655 現果隨錄 Xiànguǒ suílù *Casual Records of Karmic Fruition Manifest in This Life*
+- [[KR6q0130]] 1656 寶鏡三昧原宗辨謬說 Bǎo jìng sānmèi yuán zōng biàn miù shuō *Original-Lineage Correction-of-Errors Explanation of the Precious-Mirror Samādhi*
+- [[KR6q0420]] 1656 石霜爾瞻尊禪師語錄 Shíshuāng Ěrzhān Zūn chánshī yǔlù *Recorded Sayings of Chán Master Ěr-zhān Zūn of Shí-shuāng*
+- [[KR6q0422]] 1656 雲峨喜禪師語錄 Yúné Xǐ chánshī yǔlù *Recorded Sayings of Chán Master Yún-é Xǐ*
+- [[KR6q0451]] 1656 慶忠鐵壁機禪師語錄 Qìngzhōng Tiěbì Jī chánshī yǔlù *Recorded Sayings of Chán Master Qìng-zhōng Tiě-bì Jī*
+- [[KR6q0463]] 1656 神鼎雲外澤禪師語錄 Shéndǐng Yúnwài Zé chánshī yǔlù *Recorded Sayings of Chán Master Shén-dǐng Yún-wài Zé*
+- [[KR6q0469]] 1656 自閒覺禪師語錄 Zìxián Jué chánshī yǔlù *Recorded Sayings of Chán Master Zì-xián Jué*
+- [[KR6q0475]] 1656 南嶽繼起和尚語錄 Nányuè Jìqǐ héshàng yǔlù *Recorded Sayings of Reverend Nán-yuè Jì-qǐ*
+- [[KR6q0526]] 1656 廬山天然禪師語錄 Lúshān Tiānrán chánshī yǔlù *Recorded Sayings of Chán Master Tiān-rán of Lú-shān*
+- [[KR6q0169]] 1657 五家宗旨纂要 Wǔ jiā zōng zhǐ zuǎn yào *Collected Essentials of the Doctrinal Meanings of the Five Houses*
+- [[KR6q0432]] 1657 懶石聆禪師語錄 Lǎnshí Líng chánshī yǔlù *Recorded Sayings of Chán Master Lǎn-shí Líng*
+- [[KR6q0438]] 1657 嵩山野竹禪師錄 Sōngshān Yězhú chánshī lù *Record of Chán Master Yě-zhú of Sōng-shān*
+- [[KR6q0470]] 1657 憨予暹禪師語錄 Hānyú Xiān chánshī yǔlù *Recorded Sayings of Chán Master Hān-yú Xiān*
+- [[KR6q0605]] 1657 大覺普濟能仁琇國師語錄 Dàjué Pǔjì Néngrén Xiù Guóshī yǔlù *Recorded Sayings of the State Preceptor Xiù, Greatly-Awakened, Universally Saving, Bestower of Benevolence*
+- [[KR6q0607]] 1657 弘覺忞禪師語錄 Hóngjué Mín chánshī yǔlù *Recorded Sayings of the "Vastly-Awakened" Chán Master Mín*
+- [[KR6i0488]] 1658 佛祖三經指南 Fózǔ sānjīng zhǐnán *A Compass to the Three Sūtras of the Buddha-Patriarchs*
+- [[KR6q0368]] 1658 為霖道霈禪師秉拂語錄 Wèilín Dàopèi chánshī bǐngfú yǔlù **
+- [[KR6q0404]] 1658 萬如禪師語錄 Wànrú chánshī yǔlù *Recorded Sayings of Chán Master Wàn-rú*
+- [[KR6c0074]] 1659 金剛經會解了義 Jīngāng jīng huìjiě liǎoyì *The Diamond Sūtra -- Combined Explanation of Definitive Meaning*
+- [[KR6c0151]] 1659 般若心經略疏小鈔 Bōrě xīnjīng lüèshū xiǎochāo *Small Notes on the Brief Subcommentary on the Heart Sūtra*
+- [[KR6q0199]] 1659 天童弘覺忞禪師北遊集 Tiāntóng Hóngjué Mín chánshī běi yóu jí *North-Travel Collection of Chán Master Hóngjué Mín of Tiāntóng*
+- [[KR6q0204]] 1659 頌古合響集 Sòng gǔ hé xiǎng jí *Collection of Harmonizing-Response Verses on Ancient Cases*
+- [[KR6q0385]] 1659 聖箭堂述古 Shèngjiàntáng shùgǔ *Narrating the Ancients from the Sacred-Arrow Hall*
+- [[KR6q0530]] 1659 蓮峰禪師語錄 Liánfēng chánshī yǔlù *Recorded Sayings of Chán Master Lián-fēng*
+- [[KR6r0106]] 1659 南嶽單傳記 Nányuè dānchuán jì *A Record of the Single-Line Transmission of the Nán-yuè (Línjì) Lineage*
+- [[KR6c0169]] 1660 般若心經開度 Bōrě xīnjīng kāidù *Opening-and-Crossing Explication of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6d0091]] 1660 法華經演義 Fǎhuá jīng yǎnyì *Expounded-Meaning Commentary on the Lotus Sūtra*
+- [[KR6i0573]] 1660 圓覺經句釋正白 Yuánjué jīng jùshì zhèngbái *Phrase-by-Phrase Explication and Plain Reading of the Sūtra of Perfect Enlightenment*
+- [[KR6q0155]] 1660 禪林寶訓拈頌 Chánlín bǎoxùn niān sòng *Niānsòng (Raised-Verse) Commentary on the Chánlín bǎoxùn*
+- [[KR6q0424]] 1660 介為舟禪師語錄 Jièwéi Zhōu chánshī yǔlù *Recorded Sayings of Chán Master Jiè-wéi Zhōu*
+- [[KR6q0425]] 1660 笑堂和尚語錄 Xiàotáng héshàng yǔlù *Recorded Sayings of Venerable Xiào-táng*
+- [[KR6q0437]] 1660 山暉禪師語錄 Shānhuī chánshī yǔlù *Recorded Sayings of Chán Master Shān-huī*
+- [[KR6q0447]] 1660 月幢了禪師語錄 Yuèchuáng Liǎo chánshī yǔlù *Recorded Sayings of Chán Master Yuè-chuáng Liǎo*
+- [[KR6q0503]] 1660 大方禪師語錄 Dàfāng chánshī yǔlù *Recorded Sayings of Chán Master Dà-fāng*
+- [[KR6q0533]] 1660 黃蓮東巖禪師語錄 Huánglián Dōngyán chánshī yǔlù *Recorded Sayings of Chán Master Dōng-yán of Huáng-lián [-sì]*
+- [[KR6r0111]] 1660 佛祖宗派世譜 Fózǔ zōngpài shìpǔ *Generational Genealogy of the Buddhas-and-Patriarchs Lineage-Branches*
+- [[KR6q0150]] 1661 禪門鍛鍊說 Chán mén duànliàn shuō *Smelting-and-Refining Discourse for the Chán Gate*
+- [[KR6q0215]] 1661 虛舟禪師註八識規矩頌 Xūzhōu chánshī zhù Bā shí guī jǔ sòng *Chán Master Xūzhōu's Commentary on the Verses on the Patterns of the Eight Consciousnesses*
+- [[KR6q0427]] 1661 永濟融禪師語錄 Yǒngjì Róng chánshī yǔlù *Recorded Sayings of Chán Master Yǒng-jì Róng*
+- [[KR6q0454]] 1661 三山來禪師語錄 Sānshān Lái chánshī yǔlù *Recorded Sayings of Chán Master Sān-shān Lái*
+- [[KR6q0480]] 1661 雲腹智禪師語錄 Yúnfù Zhì chánshī yǔlù *Recorded Sayings of Chán Master Yún-fù Zhì*
+- [[KR6q0590]] 1661 雲山燕居申禪師語錄 Yúnshān Yànjū Shēn chánshī yǔlù *Recorded Sayings of Chán Master Yàn-jū Shēn of Yún[-tiān]-shān*
+- [[KR6c0184]] 1662 般若心經論 Bōrě xīnjīng lùn *Treatise on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6i0351]] 1662 楞伽經心印 Léngqié jīng xīnyìn *Mind-Seal of the Laṅkāvatāra Sūtra*
+- [[KR6j0698]] 1662 楞嚴經直指科文 Lèngyán jīng zhízhǐ kēwén *Sectional Outline of the Direct-Pointing Commentary on the Śūraṃgama-sūtra*
+- [[KR6j0699]] 1662 楞嚴經直指 Lèngyán jīng zhízhǐ *Direct Pointing on the Śūraṃgama-sūtra*
+- [[KR6j0759]] 1662 准提三昧行法 Zhǔntí sānmèi xíngfǎ *Cuṇḍā-Samādhi Practice Method*
+- [[KR6j0761]] 1662 瑜伽集要燄口施食儀 Yújiā jíyào yànkǒu shīshí yí *Yoga Essentials Flaming-Mouth Food-Bestowing Ritual*
+- [[KR6k0224]] 1662 毗尼日用切要 Píní rìyòng qièyào *Crucial Essentials of Vinaya for Daily Use*
+- [[KR6k0225]] 1662 沙彌尼律儀要略 Shāmíní lǜyí yàolüè *Essential Outline of the Vinaya Code for Novice Nuns*
+- [[KR6q0163]] 1662 普明禪師牧牛圖頌 Pǔmíng chánshī mùniú tú sòng *Chán Master Pǔmíng's Ox-Herding Pictures with Verses*
+- [[KR6q0409]] 1662 天岸昇禪師語錄 Tiānàn Shēng chánshī yǔlù *Recorded Sayings of Chán Master Tiān-àn Shēng*
+- [[KR6q0455]] 1662 嘉興退菴斷愚智禪師語錄 Jiāxīng Tuìān Duànyú Zhì chánshī yǔlù *Recorded Sayings of Chán Master Tuì-ān Duàn-yú Zhì of Jiā-xīng*
+- [[KR6q0465]] 1662 虛舟省禪師語錄 Xūzhōu Shěng chánshī yǔlù *Recorded Sayings of Chán Master Xū-zhōu Shěng*
+- [[KR6q0483]] 1662 青原愚者智禪師語錄 Qīngyuán Yúzhě Zhì chánshī yǔlù *Recorded Sayings of Chán Master Yú-zhě Zhì of Qīng-yuán*
+- [[KR6q0584]] 1662 大博乾禪師語錄 Dàbó Qián chánshī yǔlù *Recorded Sayings of Chán Master Dà-bó Qián*
+- [[KR6q0609]] 1662 明覺聰禪師語錄 Míngjué Cōng chánshī yǔlù *Recorded Sayings of the "Bright-Awakened" Chán Master Cōng*
+- [[KR6c0173]] 1663 般若心經貫義 Bōrě xīnjīng guànyì *Threading-Through-the-Meaning of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6c0209]] 1663 仁王經合疏 Rénwáng jīng héshū *Combined Subcommentary on the Rénwáng-jīng*
+- [[KR6k0233]] 1663 歸戒要集 Guījiè yàojí *Essential Anthology on the Three Refuges and the Five Precepts*
+- [[KR6q0406]] 1663 牧雲和尚七會餘錄 Mùyún héshàng Qīhuì yúlù *Supplementary Record of the Seven Assemblies of Chán Master Mù-yún*
+- [[KR6q0430]] 1663 二隱謐禪師語錄 Èryǐn Mì chánshī yǔlù *Recorded Sayings of Chán Master Èr-yǐn Mì*
+- [[KR6q0567]] 1663 元潔瑩禪師語錄 Yuánjié Yíng chánshī yǔlù *Recorded Sayings of Chán Master Yuán-jié Yíng*
+- [[KR6r0165]] 1663 兜率龜鏡集 Dōushuài guījìng jí *Anthology [Forming a] Tortoise-Shell-Mirror [Oracle] for the Tuṣita-Heaven [Devotional Tradition]*
+- [[KR6r0166]] 1663 觀音慈林集 Guānyīn cílín jí *Anthology of the Compassionate Forest of Avalokiteśvara*
+- [[KR6r0167]] 1663 六道集 Liùdào jí *Anthology of the Six Realms [of Rebirth]*
+- [[KR6t0311]] 1663 普照國師語録 Pǔzhào Guóshī yǔlù *Recorded Sayings of the Universal-Illumination National Master*
+- [[KR6t0312]] 1663 普照國師法語 Pǔzhào Guóshī fǎyǔ *Dharma-Talks of the Universal-Illumination National Master*
+- [[KR6d0050]] 1664 觀音經玄義記會本科 Guānyīn jīng xuányì jì huìběn kē *Sectional Analysis of the Combined Edition of the Guānyīn Sūtra Xuányì Subcommentary*
+- [[KR6d0051]] 1664 觀音經玄義記條箇 Guānyīn jīng xuányì jì tiáogè *Outline-by-Headings of the Guānyīn Sūtra Xuányì Subcommentary*
+- [[KR6d0053]] 1664 觀音經義疏記會本科 Guānyīn jīng yìshū jì huìběn kē *Sectional Analysis of the Combined Edition of the Guānyīn Sūtra Yìshū Subcommentary*
+- [[KR6d0054]] 1664 觀音經義疏記條箇 Guānyīn jīng yìshū jì tiáogè *Outline-by-Headings of the Guānyīn Sūtra Yìshū Subcommentary*
+- [[KR6q0399]] 1664 天界覺浪盛禪師語錄 Tiānjiè Juélàng Shèng chánshī yǔlù *Recorded Sayings of Tiān-jiè Chán Master Jué-làng Shèng*
+- [[KR6q0445]] 1664 蓮月禪師語錄 Liányuè chánshī yǔlù *Recorded Sayings of Chán Master Liányuè*
+- [[KR6q0471]] 1664 雲溪俍亭挺禪師語錄 Yúnxī Liángtíng Tǐng chánshī yǔlù *Recorded Sayings of Chán Master Liáng-tíng Tǐng of Yún-xī*
+- [[KR6r0072]] 1664 法華經持驗記 Fǎhuájīng chíyàn jì *Records of Efficacious Responses [Resulting from] Maintaining the Lotus Sūtra*
+- [[KR6r0073]] 1664 觀音經持驗記 Guānyīnjīng chíyàn jì *Records of Efficacious Responses [Resulting from] Maintaining the Avalokiteśvara Sūtra*
+- [[KR6r0089]] 1664 華嚴經持驗記 Huáyánjīng chíyàn jì *Records of Efficacious Responses [Resulting from] Maintaining the Avataṃsaka Sūtra*
+- [[KR6c0186]] 1665 般若心經如是經義 Bōrě xīnjīng rúshì jīngyì *"Suchness Sūtra-Meaning" Reading of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6c0187]] 1665 般若心經註講 Bōrě xīnjīng zhùjiǎng *"Annotated Lecture" on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6k0160]] 1665 毗尼作持續釋 Píní zuòchí xùshì *A Continued Commentary on the Vinaya Rules of Doing*
+- [[KR6k0173]] 1665 四分律名義標釋 Sìfēnlǜ míngyì biāoshì *Glosses on the Names and Meanings in the Sìfēnlǜ*
+- [[KR6k0231]] 1665 沙門日用 Shāmén rìyòng *The Daily Use of the Śramaṇa*
+- [[KR6q0202]] 1665 古瓶山牧道者究心錄 Gǔpíngshān Mùdàozhě jiū xīn lù *Investigation-of-Mind Record of the Herdsman-Daoist of Old-Bottle Mountain*
+- [[KR6q0369]] 1665 為霖道霈禪師餐香錄 Wèilín Dàopèi chánshī cānxiāng lù **
+- [[KR6q0405]] 1665 雪竇石奇禪師語錄 Xuědòu Shíqí chánshī yǔlù *Recorded Sayings of Chán Master Shí-qí of Xuě-dòu*
+- [[KR6q0441]] 1665 天王水鑑海和尚五會錄 Tiānwáng Shuǐjiàn Hǎi héshàng wǔhuì lù *Five-Assembly Record of Venerable Shuǐ-jiàn Hǎi of Tiān-wáng[-sì]*
+- [[KR6q0458]] 1665 方融璽禪師語錄 Fāngróng Xǐ chánshī yǔlù *Recorded Sayings of Chán Master Fāng-róng Xǐ*
+- [[KR6q0464]] 1665 壇溪梓舟船禪師語錄 Tánxī Zǐzhōu Chuán chánshī yǔlù *Recorded Sayings of Chán Master Tán-xī Zǐ-zhōu Chuán*
+- [[KR6q0478]] 1665 內紹種禪師語錄 Nèishào Zhǒng chánshī yǔlù *Recorded Sayings of Chán Master Nèi-shào Zhǒng*
+- [[KR6q0486]] 1665 慧覺衣禪師語錄 Huìjué Yī chánshī yǔlù *Recorded Sayings of Chán Master Huì-jué Yī*
+- [[KR6q0493]] 1665 雲幻宸禪師語錄 Yúnhuàn Chén chánshī yǔlù *Recorded Sayings of Chán Master Yún-huàn Chén*
+- [[KR6q0527]] 1665 千山剩人禪師語錄 Qiānshān Shèngrén chánshī yǔlù *Recorded Sayings of the Survivor Chán Master of Qiān-shān*
+- [[KR6p0067]] 1666 淨土十要 Jìngtǔ shíyào *Ten Essentials of the Pure Land*
+- [[KR6q0129]] 1666 寶鏡三昧本義 Bǎo jìng sānmèi běn yì *Original Meaning of the Precious-Mirror Samādhi*
+- [[KR6q0192]] 1666 無依道人錄 Wúyī dàorén lù *Record of the Daoist-of-No-Dependence*
+- [[KR6q0403]] 1666 費隱禪師語錄 Fèiyǐn chánshī yǔlù *Recorded Sayings of Chán Master Fèi-yǐn*
+- [[KR6q0444]] 1666 一初元禪師語錄 Yīchū Yuán chánshī yǔlù *Recorded Sayings of Chán Master Yī-chū Yuán*
+- [[KR6q0499]] 1666 觀濤奇禪師語錄 Guāntāo Qí chánshī yǔlù *Recorded Sayings of Chán Master Guān-tāo Qí*
+- [[KR6q0524]] 1666 浦峰長明炅禪師語錄 Pǔfēng Chángmíng Jiǒng chánshī yǔlù *Recorded Sayings of Chán Master Cháng-míng Jiǒng of Pǔ-fēng*
+- [[KR6q0532]] 1666 三塔主峰禪師語錄 Sāntǎ Zhǔfēng chánshī yǔlù *Recorded Sayings of Chán Master Zhǔ-fēng of Sān-tǎ [-sì]*
+- [[KR6q0552]] 1666 伏獅義公禪師語錄 Fúshī Yìgōng chánshī yǔlù *Recorded Sayings of Chán Master Yì-gōng of Fú-shī [-yuàn]*
+- [[KR6q0553]] 1666 參同一揆禪師語錄 Cāntóng Yīkuí chánshī yǔlù *Recorded Sayings of Chán Master Yī-kuí of Cān-tóng [-ān]*
+- [[KR6q0564]] 1666 敏樹禪師語錄 Mǐnshù chánshī yǔlù *Recorded Sayings of Chán Master Mǐn-shù*
+- [[KR6q0606]] 1666 明道正覺森禪師語錄 Míngdào Zhèngjué Sēn chánshī yǔlù *Recorded Sayings of the "Bright-Path Right-Awakened" Chán Master Sēn*
+- [[KR6r0104]] 1666 佛祖正傳古今捷錄 Fózǔ zhèngzhuàn gǔjīn jiélù *A Concise Record of the Orthodox Transmission of the Buddhas and Patriarchs, Past and Present*
+- [[KR6t0246]] 1666 大疏談義 Dàshū tányì *Discussions on the Great Commentary*
+- [[KR6q0218]] 1667 學佛考訓 Xué fó kǎo xùn *Instructional-Investigations for Buddhist Study*
+- [[KR6q0457]] 1667 達變權禪師語錄 Dábiàn Quán chánshī yǔlù *Recorded Sayings of Chán Master Dá-biàn Quán*
+- [[KR6q0485]] 1667 寶持總禪師語錄 Bǎochí Zǒng chánshī yǔlù *Recorded Sayings of Chán Master Bǎo-chí Zǒng*
+- [[KR6q0504]] 1667 寂光豁禪師語錄 Jìguāng Huò chánshī yǔlù *Recorded Sayings of Chán Master Jì-guāng Huò*
+- [[KR6q0514]] 1667 洪山俞昭允汾禪師語錄 Hóngshān Yúzhāo Yǔnfén chánshī yǔlù *Recorded Sayings of Chán Master Yú-zhāo Yǔn-fén of Hóng-shān*
+- [[KR6q0542]] 1667 石關禪師語錄 Shíguān chánshī yǔlù *Recorded Sayings of Chán Master Shí-guān*
+- [[KR6q0555]] 1667 高峰喬松億禪師語錄 Gāofēng Qiáosōng Yì chánshī yǔlù *Recorded Sayings of Chán Master Qiáo-sōng Yì of Gāo-fēng [-yuàn]*
+- [[KR6r0113]] 1667 法門鋤宄 Fǎmén chúguǐ *Hoeing Out the Brigands from the Dharma Gate*
+- [[KR6p0109]] 1668 念佛三昧 Niànfó sānmèi *The* Niàn-fó *Samādhi*
+- [[KR6q0208]] 1668 集文字禪 Jí wénzì chán *Collected Literary-Chán*
+- [[KR6q0219]] 1668 漆園指通 Qīyuán zhǐ tōng *Pointing to the Penetrating-Understanding of the Lacquer-Garden Master*
+- [[KR6q0222]] 1668 解惑篇 Jiě huò piān *Chapters for Dispelling Delusions*
+- [[KR6q0481]] 1668 雲叟住禪師語錄 Yúnsǒu Zhù chánshī yǔlù *Recorded Sayings of Chán Master Yún-sǒu Zhù*
+- [[KR6q0484]] 1668 南海寶象林慧弓詗禪師語錄 Nánhǎi Bǎoxiànglín Huìgōng Xiòng chánshī yǔlù *Recorded Sayings of Chán Master Huì-gōng Xiòng of Bǎo-xiàng-lín, Nán-hǎi*
+- [[KR6q0534]] 1668 山鐸真在禪師語錄 Shānduó Zhēnzài chánshī yǔlù *Recorded Sayings of Chán Master Shān-duó Zhēn-zài*
+- [[KR6t0011]] 1668 略述法相義 Lüèshù fǎxiāng yì *A Brief Exposition of Hossō Doctrine*
+- [[KR6c0083]] 1669 金剛經演古 Jīngāng jīng yǎngǔ *The Diamond Sūtra -- Expounding the Ancients*
+- [[KR6q0434]] 1669 法璽印禪師語錄 Fǎxǐyìn chánshī yǔlù *Recorded Sayings of Chán Master Fǎ-xǐ-yìn*
+- [[KR6q0443]] 1669 介菴進禪師語錄 Jièān Jìn chánshī yǔlù *Recorded Sayings of Chán Master Jiè-ān Jìn*
+- [[KR6q0466]] 1669 益州嵩山野竹禪師後錄 Yìzhōu Sōngshān Yězhú chánshī hòulù *Supplementary Recorded Sayings of Chán Master Yě-zhú of Sōng-shān, Yì-zhōu*
+- [[KR6q0467]] 1669 兜率不磷堅禪師語錄 Dōushuài Bùlín Jiān chánshī yǔlù *Recorded Sayings of Chán Master Bù-lín Jiān of Dōu-shuài*
+- [[KR6q0487]] 1669 佛語御禪師語錄 Fóyǔ Yù chánshī yǔlù *Recorded Sayings of Chán Master Fó-yǔ Yù*
+- [[KR6q0500]] 1669 文穆念禪師語錄 Wénmù Niàn chánshī yǔlù *Recorded Sayings of Chán Master Wén-mù Niàn*
+- [[KR6q0550]] 1669 純備德禪師語錄 Chúnbèi Dé chánshī yǔlù *Recorded Sayings of Chán Master Chún-bèi Dé*
+- [[KR6r0180]] 1669 金剛經持驗記 Jīngāngjīng chíyàn jì **
+- [[KR6c0182]] 1670 般若心經請益說 Bōrě xīnjīng qǐngyì shuō *"Begging-Benefit" Discourse on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6c0228]] 1670 大般若經綱要 Dà bōrě jīng gāngyào *Synoptic Outline of the Great Prajñā Sūtra*
+- [[KR6k0232]] 1670 沙彌律儀要略增註 Shāmí lǜyí yàolüè zēngzhù *An Augmented Annotation of the Essential Outline of the Vinaya Code for Novices*
+- [[KR6q0456]] 1670 普光坦菴禪師語錄 Pǔguāng Tǎnān chánshī yǔlù *Recorded Sayings of Chán Master Pǔ-guāng Tǎn-ān*
+- [[KR6q0462]] 1670 不會禪師語錄 Bùhuì chánshī yǔlù *Recorded Sayings of Chán Master Bù-huì*
+- [[KR6q0489]] 1670 廣福山勝覺寺密印禪師語錄 Guǎngfúshān Shèngjuésì Mìyìn chánshī yǔlù *Recorded Sayings of Chán Master Mì-yìn at Shèng-jué-sì of Guǎng-fú-shān*
+- [[KR6q0490]] 1670 蘇州竹庵衍禪師語錄 Sūzhōu Zhúān Yǎn chánshī yǔlù *Recorded Sayings of Chán Master Zhú-ān Yǎn of Sū-zhōu*
+- [[KR6q0505]] 1670 天台通玄寺獨朗禪師語錄 Tiāntái Tōngxuánsì Dúlǎng chánshī yǔlù *Recorded Sayings of Chán Master Dú-lǎng of Tōng-xuán-sì on Tiān-tái-shān*
+- [[KR6q0587]] 1670 逕庭宗禪師語錄 Jìngtíng Zōng chánshī yǔlù *Recorded Sayings of Chán Master Jìng-tíng Zōng*
+- [[KR6c0080]] 1671 金剛經疏記會編 Jīngāng jīng shū jì huìbiān *Combined Edition of the Diamond Sūtra Commentary and Sub-Commentary*
+- [[KR6k0259]] 1671 沙彌律儀毗尼日用合參 Shāmí lǜyí píní rìyòng hécān *Combined Notes on the Novice's Vinaya-Decorum and the Daily-Use Vinaya*
+- [[KR6p0093]] 1671 淨土警語 Jìngtǔ jǐngyǔ *Admonitory Sayings on the Pure Land*
+- [[KR6p0094]] 1671 起一心精進念佛七期規式 Qǐ yīxīn jīngjìn niànfó qīqī guīshì *Liturgical Norm for the Intensive Single-Mind Niànfó Forty-Nine-Day Retreat*
+- [[KR6q0423]] 1671 斌雅禪師語錄 Bīnyǎ chánshī yǔlù *Recorded Sayings of Chán Master Bīn-yǎ*
+- [[KR6q0439]] 1671 法瀾澂禪師語錄 Fǎlán Chéng chánshī yǔlù *Recorded Sayings of Chán Master Fǎ-lán Chéng*
+- [[KR6q0511]] 1671 遠菴僼禪師語錄 Yuǎnān Tǎn chánshī yǔlù *Recorded Sayings of Chán Master Yuǎn-ān Tǎn*
+- [[KR6q0536]] 1671 天則能禪師語錄 Tiānzé Néng chánshī yǔlù *Recorded Sayings of Chán Master Tiān-zé Néng*
+- [[KR6d0083]] 1672 法華經卓解 Fǎhuá jīng zhuójiě *Distinguished Interpretation of the Lotus Sūtra*
+- [[KR6d0142]] 1672 摩訶止觀貫義科 Móhē zhǐguān guànyì kē *Section-Threading-Meaning Analysis of Mahā-Cessation-and-Contemplation*
+- [[KR6i0373]] 1672 盂蘭盆經疏折中疏 Yúlánpén jīng shū zhézhōng shū *Mediating Commentary on the Commentary on the Yúlánpén Sūtra*
+- [[KR6i0587]] 1672 閱經十二種 Yuèjīng shí'èrzhǒng *Twelve Sūtra-Reading [Essays]*
+- [[KR6j0720]] 1672 楞嚴經勢至圓通章解 Lèngyán jīng shìzhì yuántōng zhāng jiě *Commentary on the "Mahāsthāmaprāpta Universal-Penetration Chapter" of the Śūraṃgama-sūtra*
+- [[KR6n0138]] 1672 八識規矩淺說 Bā shí guījǔ qiǎnshuō *Easy Discussion of the Eight-Consciousnesses Verses*
+- [[KR6n0139]] 1672 八識規矩頌注 Bā shí guījǔ sòng zhù *Annotations on the Eight-Consciousnesses Verses*
+- [[KR6q0034]] 1672 錦江禪燈目錄 Jǐnjiāng chándēng mùlù *Table of Contents to the Chán Lamp of the Brocade River*
+- [[KR6q0035]] 1672 錦江禪燈 Jǐnjiāng chándēng *Chán Lamp of the Brocade River*
+- [[KR6q0151]] 1672 列祖提綱錄 Lièzǔ tígāng lù *Record of the Sequential Patriarchs' Essentials*
+- [[KR6q0156]] 1672 禪林寶訓順硃 Chánlín bǎoxùn shùn zhū *Shùnzhū (Red-Marked) Commentary on the Chánlín bǎoxùn*
+- [[KR6q0472]] 1672 屾峰憲禪師語錄 Shēnfēng Xiàn chánshī yǔlù *Recorded Sayings of Chán Master Shēn-fēng Xiàn*
+- [[KR6q0495]] 1672 奇然智禪師語錄 Qírán Zhì chánshī yǔlù *Recorded Sayings of Chán Master Qí-rán Zhì*
+- [[KR6q0556]] 1672 萬峰童真禪師語錄 Wànfēng Tóngzhēn chánshī yǔlù *Recorded Sayings of Chán Master Tóng-zhēn of Wàn-fēng*
+- [[KR6q0581]] 1672 善權位禪師語錄 Shànquán Wèi chánshī yǔlù *Recorded Sayings of Chán Master Shàn-quán Wèi*
+- [[KR6t0313]] 1672 黄檗清規 Huángbò qīngguī *Pure Rules of Ōbaku*
+- [[KR6c0076]] 1673 金剛經郢說 Jīngāng jīng yǐng shuō *The Diamond Sūtra -- A Discourse from Yǐng*
+- [[KR6i0056]] 1673 藥師經直解 Yàoshī jīng zhíjiě *Direct Explanation of the Medicine Master Sūtra*
+- [[KR6j0736]] 1673 七俱胝佛母所說準提陀羅尼經會釋 Qījùzhī fómǔ suǒshuō Zhǔntí tuóluóní jīng huìshì *"Collected Explications" of the Seven-Koṭi Buddha-Mother Cuṇḍā-dhāraṇī Sūtra*
+- [[KR6j0752]] 1673 持誦準提真言法要 Chísòng zhǔntí zhēnyán fǎyào *Essential Method for Holding-and-Reciting the Cuṇḍā Mantra*
+- [[KR6k0234]] 1673 八關齋法 Bāguān zhāifǎ *The Method of the Eight-Preceptsand-Fast*
+- [[KR6k0235]] 1673 比丘受戒錄 Bǐqiū shòujiè lù *A Record of Bhikṣu Ordinations*
+- [[KR6k0236]] 1673 比丘尼受戒錄 Bǐqiūní shòujiè lù *A Record of Bhikṣuṇī Ordinations*
+- [[KR6k0237]] 1673 沙彌學戒儀軌頌註 Shāmí xuéjiè yíguǐ sòng zhù *An Annotated Hymn-Code for Novices Studying the Precepts*
+- [[KR6k0238]] 1673 禮舍利塔儀式 Lǐ shèlìtǎ yíshì *The Ritual Code for the Veneration of Relic-Stūpas*
+- [[KR6k0239]] 1673 禮佛儀式 Lǐ Fó yíshì *The Ritual Code for the Veneration of the Buddha*
+- [[KR6k0240]] 1673 供諸天科儀 Gòng zhūtiān kēyí *The Procedural Code for Offering to the Devas*
+- [[KR6q0036]] 1673 黔南會燈錄 Qiánnán huìdēng lù *Combined Lamp Record of Southern Qián*
+- [[KR6q0132]] 1673 溈山警策句釋記 Wéishān jǐngcè jù shì jì *Annotated Sentence-Exposition Record of Wéishān's Jǐngcè*
+- [[KR6q0223]] 1673 木人剩稿 Mù rén shèng gǎo *Leftover Manuscripts of the Wood-Man*
+- [[KR6q0402]] 1673 破山禪師語錄 Pòshān chánshī yǔlù *Recorded Sayings of Chán Master Pòshān*
+- [[KR6q0431]] 1673 芝巖秀禪師語錄 Zhīyán Xiù chánshī yǔlù *Recorded Sayings of Chán Master Zhī-yán Xiù*
+- [[KR6q0506]] 1673 蔗菴範禪師語錄 Zhèān Fàn chánshī yǔlù *Recorded Sayings of Chán Master Zhè-ān Fàn*
+- [[KR6q0507]] 1673 草堂耨雲實禪師語錄 Cǎotáng Nòuyún Shí chánshī yǔlù *Recorded Sayings of Chán Master Cǎo-táng Nòu-yún Shí*
+- [[KR6q0531]] 1673 德風禪師般若語錄 Défēng chánshī Bōrě yǔlù *Recorded Sayings of Chán Master Dé-fēng of Bō-rě [-sì]*
+- [[KR6q0548]] 1673 雲峰體宗寧禪師語錄 Yúnfēng Tǐzōng Níng chánshī yǔlù *Recorded Sayings of Chán Master Tǐ-zōng Níng of Yún-fēng [-sì]*
+- [[KR6q0440]] 1674 天王水鑑海和尚六會錄 Tiānwáng Shuǐjiàn Hǎi héshàng liùhuì lù *Six-Assembly Record of Venerable Shuǐ-jiàn Hǎi of Tiān-wáng[-sì]*
+- [[KR6q0554]] 1674 衡山禪師語錄 Héngshān chánshī yǔlù *Recorded Sayings of Chán Master Héng-shān*
+- [[KR6c0183]] 1675 般若心經註疏 Bōrě xīnjīng zhùshū *Annotated Subcommentary on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6q0237]] 1675 野雲映禪師宗統頌 Yěyún Yìng chánshī zōng tǒng sòng *Lineage-Genealogy Verses of Chán Master Yěyún Yìng*
+- [[KR6q0370]] 1675 為霖道霈禪師還山錄 Wèilín Dàopèi chánshī huánshān lù **
+- [[KR6q0492]] 1675 東山破峰重禪師語錄 Dōngshān Pòfēng Zhòng chánshī yǔlù *Recorded Sayings of Chán Master Pò-fēng Zhòng of Dōng-shān*
+- [[KR6q0512]] 1675 古宿尊禪師語錄 Gǔsù Zūn chánshī yǔlù *Recorded Sayings of Chán Master Gǔ-sù Zūn*
+- [[KR6q0522]] 1675 鶴林天樹植禪師語錄 Hèlín Tiānshù Zhí chánshī yǔlù *Recorded Sayings of Chán Master Tiān-shù Zhí of Hè-lín*
+- [[KR6q0545]] 1675 密行忍禪師語錄 Mìxíng Rěn chánshī yǔlù *Recorded Sayings of Chán Master Mì-xíng Rěn*
+- [[KR6q0547]] 1675 玉泉其白富禪師語錄 Yùquán Qíbái Fù chánshī yǔlù *Recorded Sayings of Chán Master Qí-bái Fù of Yù-quán [-sì]*
+- [[KR6q0174]] 1676 萬法歸心錄 Wàn fǎ guī xīn lù *Record of the Ten Thousand Dharmas Returning to the Mind*
+- [[KR6q0517]] 1676 寒松操禪師語錄 Hánsōng Cāo chánshī yǔlù *Recorded Sayings of Chán Master Hán-sōng Cāo*
+- [[KR6q0528]] 1676 海幢阿字無禪師語錄 Hǎizhuàng Āzì Wú chánshī yǔlù *Recorded Sayings of Chán Master Ā-zì Wú of Hǎi-zhuàng*
+- [[KR6q0529]] 1676 丹霞澹歸禪師語錄 Dānxiá Dànguī chánshī yǔlù *Recorded Sayings of Chán Master Dàn-guī of Dān-xiá*
+- [[KR6i0478]] 1677 八大人覺經疏 Bā dàrén jué jīng shū *A Subcommentary on the Sūtra of the Eight Great-Person Awakenings*
+- [[KR6q0446]] 1677 玉泉蓮月正禪師語錄 Yùquán Liányuè Zhèng chánshī yǔlù *Recorded Sayings of Chán Master Liányuè Zhèng at Yùquán*
+- [[KR6q0494]] 1677 綠蘿恒秀林禪師語錄 Lǜluó Héngxiù Lín chánshī yǔlù *Recorded Sayings of Chán Master Héng-xiù Lín of Lǜ-luó*
+- [[KR6q0502]] 1677 石璞質禪師語錄 Shípú Zhì chánshī yǔlù *Recorded Sayings of Chán Master Shí-pú Zhì*
+- [[KR6q0516]] 1677 長目電禪師語錄 Chángmù Diàn chánshī yǔlù *Recorded Sayings of Chán Master Cháng-mù Diàn*
+- [[KR6q0549]] 1677 幻住明禪師語錄 Huànzhù Míng chánshī yǔlù *Recorded Sayings of Chán Master Huàn-zhù Míng*
+- [[KR6q0562]] 1677 靈機禪師語錄 Língjī chánshī yǔlù *Recorded Sayings of Chán Master Líng-jī*
+- [[KR6q0571]] 1677 白雲象林本真禪師語錄 Báiyún Xiànglín Běnzhēn chánshī yǔlù *Recorded Sayings of Chán Master Xiàng-lín Běn-zhēn of Bái-yún [-sì]*
+- [[KR6q0539]] 1678 三峰半水元禪師語錄 Sānfēng Bànshuǐ Yuán chánshī yǔlù *Recorded Sayings of Chán Master Bàn-shuǐ Yuán of Sān-fēng [-sì]*
+- [[KR6q0541]] 1678 林我禪師語錄 Línwǒ chánshī yǔlù *Recorded Sayings of Chán Master Lín-wǒ*
+- [[KR6c0180]] 1679 般若心經大意 Bōrě xīnjīng dàyì *General Meaning of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6k0203]] 1679 慈悲道場水懺法科註 Cíbēi dàochǎng shuǐchànfǎ kēzhù *A Sub-Section Commentary on the Compassion-Site Water-Repentance Liturgy*
+- [[KR6q0024]] 1679 續指月錄 Xù zhǐyuè lù *Continuation of the Record of the Finger Pointing at the Moon*
+- [[KR6q0388]] 1679 宗門寶積錄（序．凡例．目錄） Zōngmén bǎojī lù (xù, fánlì, mùlù) *Record of the Treasury-Accumulation of the [Chán] School (prefaces, guidelines, table of contents only)*
+- [[KR6q0558]] 1679 玉眉亮禪師語錄 Yùméi Liàng chánshī yǔlù *Recorded Sayings of Chán Master Yù-méi Liàng*
+- [[KR6q0560]] 1679 靈隱文禪師語錄 Língyǐn Wén chánshī yǔlù *Recorded Sayings of Chán Master Líng-yǐn Wén*
+- [[KR6q0565]] 1679 赤松領禪師語錄 Chìsōng Lǐng chánshī yǔlù *Recorded Sayings of Chán Master Chì-sōng Lǐng*
+- [[KR6q0574]] 1679 性空臻禪師語錄 Xìngkōng Zhēn chánshī yǔlù *Recorded Sayings of Chán Master Xìng-kōng Zhēn*
+- [[KR6q0583]] 1679 空谷道澄禪師語錄 Kōnggǔ Dàochéng chánshī yǔlù *Recorded Sayings of Chán Master Kōng-gǔ Dào-chéng*
+- [[KR6q0600]] 1679 雨山和尚語錄 Yǔshān héshàng yǔlù *Recorded Sayings of Master Yǔ-shān*
+- [[KR6t0271]] 1679 佛頂國師語録 Fódǐng Guóshī yǔlù *Recorded Sayings of the Buddha-Crown National Master*
+- [[KR6c0089]] 1680 金剛經如是經義 Jīngāng jīng rúshì jīngyì *The Diamond Sūtra -- Sūtra-Meaning as Thus*
+- [[KR6c0090]] 1680 金剛經註講 Jīngāng jīng zhùjiǎng *The Diamond Sūtra -- Annotated Discourse*
+- [[KR6j0757]] 1680 瑜伽燄口註集纂要儀軌 Yúqié yànkǒu zhùjí zuǎnyào yíguǐ *Annotated-Collected and Essential-Compiled Ritual Procedure of the Yoga Food-Bestowal Liturgy*
+- [[KR6k0247]] 1680 傳授三壇弘戒法儀 Chuánshòu sāntán hóngjiè fǎyí *A Code for the Transmission of the Three-Tier Promotion of the Precepts*
+- [[KR6q0154]] 1680 禪林寶訓合註 Chánlín bǎoxùn hé zhù *Combined Commentary on the Chánlín bǎoxùn*
+- [[KR6q0220]] 1680 靈樹遠禪師雲嵒集 Língshù Yuǎn chánshī Yúnyán jí *Cloud-Cliff Collection of Chán Master Língshù Yuǎn*
+- [[KR6q0224]] 1680 靈瑞尼祖揆符禪師妙湛錄 Língruì ní Zǔkuí Fú chánshī Miàozhàn lù *Wondrous-Deep Record of Chán Nun Zǔkuí Fú of Língruì*
+- [[KR6q0225]] 1680 靈瑞禪師嵒華集 Língruì chánshī Yánhuá jí *Cliff-Flower Collection of Chán Master Língruì*
+- [[KR6q0230]] 1680 調實居士證源錄 Tiáoshí jūshì zhèng yuán lù *Testifying-the-Source Record of the Tuning-Reality Layman*
+- [[KR6q0239]] 1680 天然居士懷淨土詩 Tiānrán jūshì huái jìng tǔ shī *Pure-Land-Yearning Poems of the Natural-As-It-Is Layman*
+- [[KR6q0372]] 1680 為霖禪師旅泊菴稿 Wèilín chánshī lǚbóān gǎo **
+- [[KR6q0435]] 1680 楞嚴法璽印禪師語錄 Léngyán Fǎxǐyìn chánshī yǔlù *Recorded Sayings of Chán Master Fǎ-xǐ-yìn at Léng-yán[-sì]*
+- [[KR6q0488]] 1680 華嚴聖可禪師語錄 Huáyán Shèngkě chánshī yǔlù *Recorded Sayings of Chán Master Huá-yán Shèng-kě*
+- [[KR6q0491]] 1680 古林如禪師語錄 Gǔlín Rú chánshī yǔlù *Recorded Sayings of Chán Master Gǔ-lín Rú*
+- [[KR6q0508]] 1680 佛冤禪師語錄 Fóyuān chánshī yǔlù *Recorded Sayings of Chán Master Fó-yuān*
+- [[KR6q0521]] 1680 終南山蟠龍子肅禪師語錄 Zhōngnánshān Pánlóng Zǐsù chánshī yǔlù *Recorded Sayings of Chán Master Zǐ-sù of Pán-lóng-sì on Zhōng-nán-shān*
+- [[KR6q0523]] 1680 知空蘊禪師語錄 Zhīkōng Yùn chánshī yǔlù *Recorded Sayings of Chán Master Zhī-kōng Yùn*
+- [[KR6q0566]] 1680 侶巖荷禪師語錄 Lǚyán Hé chánshī yǔlù *Recorded Sayings of Chán Master Lǚ-yán Hé*
+- [[KR6q0569]] 1680 通天逸叟高禪師語錄 Tōngtiān Yìsǒu Gāo chánshī yǔlù *Recorded Sayings of Chán Master Yì-sǒu Gāo of Tōng-tiān [-sì]*
+- [[KR6c0078]] 1681 金剛經淺解 Jīngāng jīng qiǎnjiě *Shallow Explanation of the Diamond Sūtra*
+- [[KR6d0022]] 1681 法華經文句纂要 Fǎhuá jīng wénjù zuǎnyào *Compiled Essentials of the Phrase-by-Phrase Commentary on the Lotus Sūtra*
+- [[KR6q0525]] 1681 浦峰法柱棟禪師語錄 Pǔfēng Fǎzhù Dòng chánshī yǔlù *Recorded Sayings of Chán Master Fǎ-zhù Dòng of Pǔ-fēng*
+- [[KR6q0586]] 1681 盤山了宗禪師語錄 Pánshān Liǎozōng chánshī yǔlù *Recorded Sayings of Chán Master Liǎo-zōng of Pán-shān*
+- [[KR6q0157]] 1682 禪林寶訓筆說 Chánlín bǎoxùn bǐ shuō *Bǐshuō (Brush-Talk) Commentary on the Chánlín bǎoxùn*
+- [[KR6q0496]] 1682 秀野林禪師語錄 Xiùyě Lín chánshī yǔlù *Recorded Sayings of Chán Master Xiù-yě Lín*
+- [[KR6q0540]] 1682 鶴峰禪師語錄 Hèfēng chánshī yǔlù *Recorded Sayings of Chán Master Hè-fēng*
+- [[KR6c0081]] 1683 金剛經部旨 Jīngāng jīng bùzhǐ *The Diamond Sūtra -- Categorical Outline of the Tendency*
+- [[KR6d0090]] 1683 法華經演義科 Fǎhuá jīng yǎnyì kē *Sectional Analysis of the Lotus Sūtra Expounded-Meaning Commentary*
+- [[KR6h0017]] 1683 地藏本願經科文 Dìzàng běnyuàn jīng kēwén *Topical Outline of the Sūtra of the Original Vows of Kṣitigarbha*
+- [[KR6h0018]] 1683 地藏本願經綸貫 Dìzàng běnyuàn jīng lúnguàn *General Synthesis on the Sūtra of the Original Vows of Kṣitigarbha*
+- [[KR6h0019]] 1683 地藏本願經科註 Dìzàng běnyuàn jīng kēzhù *Sectioned Commentary on the Sūtra of the Original Vows of Kṣitigarbha*
+- [[KR6k0102]] 1683 梵網經順硃 Fànwǎngjīng shùnzhū *The Vermilion-Marked Brahmajāla Sūtra*
+- [[KR6k0103]] 1683 梵網經菩薩戒初津 Fànwǎngjīng púsàjiè chūjīn *The First Ford to the Bodhisattva Precepts of the Brahmajāla Sūtra*
+- [[KR6n0140]] 1683 八識規矩論義 Bā shí guījǔ lùnyì *Doctrinal Exposition of the Eight-Consciousnesses Verses*
+- [[KR6q0442]] 1683 天王水鑑海和尚住金粟語錄 Tiānwáng Shuǐjiàn Hǎi héshàng zhù Jīnsù yǔlù *Record of Venerable Shuǐ-jiàn Hǎi of Tiān-wáng[-sì] during his Jīn-sù abbacy*
+- [[KR6q0513]] 1683 神鼎一揆禪師語錄 Shéndǐng Yīkuí chánshī yǔlù *Recorded Sayings of Chán Master Shén-dǐng Yī-kuí*
+- [[KR6q0546]] 1683 盛京奉天般若古林禪師語錄 Shèngjīng Fèngtiān Bōrě Gǔlín chánshī yǔlù *Recorded Sayings of Chán Master Gǔ-lín of Bō-rě [-sì] in Fèng-tiān, Shèng-jīng*
+- [[KR6q0551]] 1683 法幢遠禪師語錄 Fǎchuáng Yuǎn chánshī yǔlù *Recorded Sayings of Chán Master Fǎ-chuáng Yuǎn*
+- [[KR6q0557]] 1683 大笑崇禪師語錄 Dàxiào Chóng chánshī yǔlù *Recorded Sayings of Chán Master Dà-xiào Chóng*
+- [[KR6t0303]] 1683 獨菴獨語 Dúān dúyǔ *Solitary-Hermit's Solitary Speech*
+- [[KR6i0487]] 1684 四十二章經疏鈔 Sìshíèrzhāng jīng shūchāo *A Subcommentary and Notes on the Sūtra in Forty-Two Sections*
+- [[KR6q0538]] 1684 華嚴不厭樂禪師語錄 Huáyán BùyànLè chánshī yǔlù *Recorded Sayings of Chán Master Bù-yàn-Lè of Huá-yán [-yuàn]*
+- [[KR6q0561]] 1684 東山梅溪度禪師語錄 Dōngshān Méixī Dù chánshī yǔlù *Recorded Sayings of Chán Master Méi-xī Dù of Dōng-shān*
+- [[KR6q0570]] 1684 通天澹崖原禪師語錄 Tōngtiān Dànyá Yuán chánshī yǔlù *Recorded Sayings of Chán Master Dàn-yá Yuán of Tōng-tiān [-sì]*
+- [[KR6q0576]] 1684 溈山古梅冽禪師語錄 Wéishān Gǔméi Liè chánshī yǔlù *Recorded Sayings of Chán Master Gǔ-méi Liè of Wéi-shān*
+- [[KR6q0593]] 1684 普門顯禪師語錄 Pǔmén Xiǎn chánshī yǔlù *Recorded Sayings of Chán Master Pǔ-mén Xiǎn*
+- [[KR6t0058]] 1684 大乘圓戒顯正論 Dàshèng yuánjiè xiǎnzhèng lùn *Treatise Revealing the Correct Doctrine of the Mahāyāna Perfect-Precepts*
+- [[KR6t0285]] 1684 小叢林清規 Xiǎo cónglín qīngguī *Brief Pure Rules for Small Monasteries*
+- [[KR6j0712]] 1685 楞嚴經觀心定解科 Lèngyán jīng guānxīn dìngjiě kē *Outline of the "Mind-Contemplation Settled Explanation" of the Śūraṃgama-sūtra*
+- [[KR6j0713]] 1685 楞嚴經觀心定解大綱 Lèngyán jīng guānxīn dìngjiě dàgāng *Main Outline of the "Mind-Contemplation Settled Explanation" of the Śūraṃgama-sūtra*
+- [[KR6j0714]] 1685 楞嚴經觀心定解 Lèngyán jīng guānxīn dìngjiě *"Mind-Contemplation Settled Explanation" of the Śūraṃgama-sūtra*
+- [[KR6k0152]] 1685 毗尼關要 Píní guānyào *The Essentials of Vinaya*
+- [[KR6k0153]] 1685 毗尼關要事義 Píní guānyào shìyì *The Essentials of Vinaya -- Glosses on Affairs and Meanings*
+- [[KR6q0166]] 1685 禪宗雜毒海 Chán zōng zá dú hǎi *The Miscellaneous Poison-Sea of the Chán School*
+- [[KR6q0227]] 1685 道德經順硃 Dào dé jīng shùn zhū *Vermilion-Following Annotations on the Dao De Jing*
+- [[KR6q0234]] 1685 正覺潤光澤禪師澡雪集 Zhèngjué Rùnguāng Zé chánshī zǎo xuě jí *Bathing-in-Snow Collection of Chán Master Rùnguāng Zé of Zhèngjué*
+- [[KR6q0245]] 1685 宗門拈古彙集 Zōngmén niāngǔ huìjí *Complete Collection of Sectarian-Gate Comments-on-Ancient-Cases*
+- [[KR6q0371]] 1685 為霖禪師雲山法會錄 Wèilín chánshī yúnshān fǎhuì lù **
+- [[KR6q0519]] 1685 翼菴禪師語錄 Yìān chánshī yǔlù *Recorded Sayings of Chán Master Yì-ān*
+- [[KR6q0520]] 1685 荊南內護國寺啟真誠禪師語錄 Jīngnán Nèi Hùguósì Qǐzhēn Chéng chánshī yǔlù *Recorded Sayings of Chán Master Qǐ-zhēn Chéng of Nèi Hù-guó-sì in Jīng-nán*
+- [[KR6m0030]] 1686 三論玄義誘蒙 Sānlùn xuányì yòuméng *A Guide for the Untutored to the Three-Treatise Profundity-Treatise*
+- [[KR6q0510]] 1686 憨休禪師語錄 Hānxiū chánshī yǔlù *Recorded Sayings of Chán Master Hān-xiū*
+- [[KR6q0579]] 1686 山西柏山楷禪師語錄 Shānxī Bǎishān Kǎi chánshī yǔlù *Recorded Sayings of Chán Master Bǎi-shān Kǎi of Shān-xī*
+- [[KR6e0142]] 1687 賢首五教儀 Xiánshǒu wǔ jiào yí *The Doctrinal Procedures of Xiánshǒu's Five Teachings*
+- [[KR6e0143]] 1687 賢首五教儀開蒙 Xiánshǒu wǔ jiào yí kāi méng *Introductory Manual to the Doctrinal Procedures of Xiánshǒu's Five Teachings*
+- [[KR6e0144]] 1687 賢首五教斷證三覺揀濫圖 Xiánshǒu wǔ jiào duàn zhèng sān jué jiǎn làn tú *Diagram for Selecting the Genuine from the Confused -- The Cutting-Off-and-Verifying Three Awakenings of Xiánshǒu's Five Teachings*
+- [[KR6e0145]] 1687 法界宗蓮花章 Fǎ jiè zōng lián huā zhāng *The Lotus Treatise of the Dharma-Realm Lineage*
+- [[KR6e0146]] 1687 華嚴鏡燈章 Huáyán jìng dēng zhāng *Treatise on the Mirror-Lamp of the Huáyán*
+- [[KR6q0544]] 1687 青城竹浪生禪師語錄 Qīngchéng Zhúlàng Shēng chánshī yǔlù *Recorded Sayings of Chán Master Zhú-làng Shēng of Qīng-chéng [-shān]*
+- [[KR6q0573]] 1687 灤州萬善暉州昊禪師語錄 Luánzhōu Wànshàn Huīzhōu Hào chánshī yǔlù *Recorded Sayings of Chán Master Huī-zhōu Hào of Wàn-shàn [-sì] in Luán-zhōu*
+- [[KR6q0588]] 1687 別牧純禪師語錄 Biémù Chún chánshī yǔlù *Recorded Sayings of Chán Master Bié-mù Chún*
+- [[KR6q0592]] 1687 竺峰敏禪師語錄 Zhúfēng Mǐn chánshī yǔlù *Recorded Sayings of Chán Master Zhú-fēng Mǐn*
+- [[KR6q0597]] 1687 博山粟如瀚禪師語錄 Bóshān Sùrú Hàn chánshī yǔlù *Recorded Sayings of Chán Master Sù-rú Hàn of Bó-shān*
+- [[KR6r0105]] 1687 宗統編年 Zōngtǒng biānnián *Annal-Chronicle of the Lineage Tradition*
+- [[KR6q0559]] 1688 卓峰玨禪師語錄 Zhuófēng Jué chánshī yǔlù *Recorded Sayings of Chán Master Zhuó-fēng Jué*
+- [[KR6r0179]] 1688 金剛經靈驗傳 Jīngāngjīng língyàn zhuàn **
+- [[KR6d0087]] 1689 法華經授手〔卷首〕 Fǎhuá jīng shòushǒu (juànshǒu) *Hand-Bestowal Commentary on the Lotus Sūtra -- Front Matter*
+- [[KR6d0088]] 1689 法華經授手科 Fǎhuá jīng shòushǒu kē *Sectional Analysis of the Hand-Bestowal Commentary on the Lotus Sūtra*
+- [[KR6d0089]] 1689 法華經授手 Fǎhuá jīng shòushǒu *Hand-Bestowal Commentary on the Lotus Sūtra*
+- [[KR6q0568]] 1689 頻吉祥禪師語錄 Pínjí Xiáng chánshī yǔlù *Recorded Sayings of Chán Master Pín-jí Xiáng*
+- [[KR6q0575]] 1689 何一自禪師語錄 Héyī Zì chánshī yǔlù *Recorded Sayings of Chán Master Hé-yī Zì*
+- [[KR6q0037]] 1690 普陀列祖錄 Pǔtuó liè zǔ lù *Record of Successive Patriarchs of Pǔtuó*
+- [[KR6q0229]] 1690 憨休禪師敲空遺響 Hānxiū chánshī Qiāo kōng yí xiǎng *Remaining Echoes of Chán Master Hānxiū's Striking-Emptiness Bell*
+- [[KR6q0240]] 1690 鶴山禪師執帚集 Hèshān chánshī zhí zhǒu jí *Broom-Holding Collection of Chán Master Hèshān*
+- [[KR6q0497]] 1690 智覃正禪師語錄 Zhìtán Zhèng chánshī yǔlù *Recorded Sayings of Chán Master Zhì-tán Zhèng*
+- [[KR6q0509]] 1690 印心佛敏訥禪師語錄 Yìnxīn Fómǐn Nè chánshī yǔlù *Recorded Sayings of Chán Master Fó-mǐn Nè of Yìn-xīn*
+- [[KR6q0515]] 1690 北京楚林禪師語錄 Běijīng Chǔlín chánshī yǔlù *Recorded Sayings of Chán Master Chǔ-lín of Beijing*
+- [[KR6q0543]] 1690 香嚴禪師語錄 Xiāngyán chánshī yǔlù *Recorded Sayings of Chán Master Xiāng-yán*
+- [[KR6q0572]] 1690 香巖洗心水禪師語錄 Xiāngyán Xǐxīn Shuǐ chánshī yǔlù *Recorded Sayings of Chán Master Xǐ-xīn Shuǐ of Xiāng-yán [-sì]*
+- [[KR6q0578]] 1690 子雍如禪師語錄 Zǐyōng Rú chánshī yǔlù *Recorded Sayings of Chán Master Zǐ-yōng Rú*
+- [[KR6q0582]] 1690 天一悅禪師語錄 Tiānyī Yuè chánshī yǔlù *Recorded Sayings of Chán Master Tiān-yī Yuè*
+- [[KR6q0027]] 1691 續燈正統目錄 Xùdēng zhèngtǒng mùlù *Table of Contents to the Orthodox Succession Continuing the Lamp*
+- [[KR6q0028]] 1691 續燈正統 Xùdēng zhèngtǒng *Orthodox Succession Continuing the Lamp*
+- [[KR6t0421]] 1691 悉曇三密鈔 Xītán sānmì chāo *Anthology on Siddham and the Three Esoteric Mysteries*
+- [[KR6c0077]] 1692 金剛經註正訛 Jīngāng jīng zhù zhèng'é *Annotated Diamond Sūtra -- Rectifying Errors*
+- [[KR6q0535]] 1692 大悲妙雲禪師語錄 Dàbēi Miàoyún chánshī yǔlù *Recorded Sayings of Chán Master Miào-yún of Dà-bēi [-sì]*
+- [[KR6q0580]] 1692 善一純禪師語錄 Shànyī Chún chánshī yǔlù *Recorded Sayings of Chán Master Shàn-yī Chún*
+- [[KR6q0537]] 1693 晦嶽旭禪師語錄 Huìyuè Xù chánshī yǔlù *Recorded Sayings of Chán Master Huì-yuè Xù*
+- [[KR6q0589]] 1693 天翼翔禪師語錄 Tiānyì Xiáng chánshī yǔlù *Recorded Sayings of Chán Master Tiān-yì Xiáng*
+- [[KR6t0301]] 1693 月坡禪師語録 Yuèpō Chánshī yǔlù *Recorded Sayings of the Moon-Slope Zen Master*
+- [[KR6k0227]] 1694 毗尼日用切要香乳記 Píní rìyòng qièyào xiāngrǔ jì *A Fragrant-Milk Annotated Record on the Crucial Essentials of Vinaya for Daily Use*
+- [[KR6k0230]] 1694 羯磨儀式 Jiémó yíshì *The Procedural Code for Karmavācanā*
+- [[KR6p0091]] 1695 淨土晨鐘 Jìngtǔ chénzhōng *The Morning Bell of the Pure Land*
+- [[KR6q0255]] 1695 徑石滴乳集 Jìngshí dīrǔ jí *Dripping-Milk Collection from Jìngshí*
+- [[KR6q0518]] 1695 華巖還初佛禪師語錄 Huáyán Háichū Fó chánshī yǔlù *Recorded Sayings of Chán Master Hái-chū Fó of Huá-yán*
+- [[KR6q0563]] 1695 祖亮啟禪師語錄 Zǔliàng Qǐ chánshī yǔlù *Recorded Sayings of Chán Master Zǔ-liàng Qǐ*
+- [[KR6q0577]] 1695 華嚴起宗真禪師語錄 Huáyán Qǐzōng Zhēn chánshī yǔlù *Recorded Sayings of Chán Master Qǐ-zōng Zhēn of Huá-yán [-sì]*
+- [[KR6c0084]] 1696 金剛經直說 Jīngāng jīng zhíshuō *The Diamond Sūtra -- Direct Discourse*
+- [[KR6q0021]] 1697 五燈全書目錄 Wǔdēng quánshū mùlù *Table of Contents to the Complete Book of the Five Lamps*
+- [[KR6q0022]] 1697 五燈全書 Wǔdēng quánshū *Complete Book of the Five Lamps*
+- [[KR6q0209]] 1697 高峰三山來禪師年譜 Gāofēng Sānshān Lái chánshī nián pǔ *Chronology of Chán Master Sānshān Lái of Gāofēng*
+- [[KR6q0232]] 1697 高峰三山來禪師疏語 Gāofēng Sānshān Lái chánshī shū yǔ *Announcement-Speeches of Chán Master Sānshān Lái of Gāofēng*
+- [[KR6r0086]] 1697 法界宗五祖略記 Fǎjièzōng wǔzǔ lüèjì *Brief Records of the Five Patriarchs of the Dharma-Realm School [= the Huá-yán School]*
+- [[KR6t0302]] 1697 月舟和尚遺録 Yuèzhōu Héshàng yílù *Posthumous Record of Reverend Gesshū*
+- [[KR6t0304]] 1697 東林語録 Dōnglín yǔlù *Recorded Sayings of [Yōhō] Tōrin[-ji]*
+- [[KR6j0725]] 1698 楞嚴經正見 Lèngyán jīng zhèngjiàn *"Right View" Commentary on the Śūraṃgama-sūtra*
+- [[KR6c0178]] 1699 般若心經事觀解 Bōrě xīnjīng shìguān jiě *"Phenomenal Contemplation" Explication of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6c0179]] 1699 般若心經理性解 Bōrě xīnjīng lǐxìng jiě *"Principle-Nature" Explication of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6o0119]] 1699 起信論疏記會閱卷首 Qǐxìn lùn shūjì huìyuè juànshǒu *Front Volume to the Combined Reading of the Commentary and Records on the Awakening of Faith*
+- [[KR6o0120]] 1699 起信論疏記會閱 Qǐxìn lùn shūjì huìyuè *Combined Reading of the Commentary and Records on the Awakening of Faith*
+- [[KR6q0585]] 1699 盤山朗空順禪師語錄 Pánshān Lǎngkōng Shùn chánshī yǔlù *Recorded Sayings of Chán Master Lǎng-kōng Shùn of Pán-shān*
+
+## 1700 to 1799 (924)
+
+### KR1 (139)
+
+- [[KR1a0127]] 1700 推易始末 Tuī yì shǐ mò *The Beginning-and-End of Pushing the Yì*
+- [[KR1a0128]] 1700 春秋占筮書 Chūnqiū zhàn shì shū *The Book of Spring-and-Autumn Divinations*
+- [[KR1a0133]] 1700 周易觀彖 Zhōuyì guān tuàn *Observing the Tuàn of the Zhōuyì*
+- [[KR1b0054]] 1700 洪範正論 Hóng fàn zhèng lùn *Authoritative Discourse on the "Great Plan"*
+- [[KR1d0082]] 1700 郊社禘祫問 Jiāoshè dìxiá wèn *Questions on the Suburban Sacrifice, the Altar of Soil, the Dì, and the Xiá*
+- [[KR1d0092]] 1700 辨定祭禮通俗譜 Biàndìng jìlǐ tōngsú pǔ *A Practical Handbook of Determined Sacrificial Ritual*
+- [[KR1f0013]] 1700 孝經問 Xiàojīng wèn *Questions on the Classic of Filial Piety*
+- [[KR1j0084]] 1700 古今通韻 Gǔjīn tōngyùn *The Old-and-New Cross-Rhyme System*
+- [[KR1j0085]] 1700 易韻 Yì yùn **
+- [[KR1h0056]] 1702 大學翼眞 Dàxué yìzhēn *Wings to the True Reading of the Great Learning*
+- [[KR1a0129]] 1703 易小帖 Yì xiǎo tiē *Small Slips on the Yì*
+- [[KR1a0138]] 1703 易圖明辨 Yì tú míng biàn *Clarifying-and-Discriminating the Charts of the Yì*
+- [[KR1b0049]] 1703 古文尚書冤詞 Gǔwén Shàngshū yuān cí *Lament-and-Plea for the Old-Text Documents*
+- [[KR1a0132]] 1704 周易通論 Zhōuyì tōng lùn *Penetrating Discussions on the Zhōuyì*
+- [[KR1b0055]] 1704 尚書七篇解義 Shàngshū qī piān jiě yì *Exposition of the Meanings of Seven Documents Chapters*
+- [[KR1h0059]] 1704 榕村四書說 Róngcūn Sìshū shuō *Banyan-Village Studies on the Four Books*
+- [[KR1c0059]] 1705 讀詩質疑 Dú Shī zhì yí *Doubts and Verifications from Reading the Poetry*
+- [[KR1d0019]] 1705 周禮述註 Zhōulǐ shùzhù *A Transmissive Annotation of the Rites of Zhōu*
+- [[KR1d0040]] 1705 儀禮述註 Yílǐ shùzhù *A Transmissive Annotation of the Yílǐ*
+- [[KR1a0140]] 1707 周易傳註 Zhōuyì zhuàn zhù *Commentary and Notes on the Zhōuyì*
+- [[KR1c0056]] 1707 詩傳名物集覽 Shī zhuàn míng wù jí lǎn *Collected Survey of the Names and Things in the Tradition on the Poetry*
+- [[KR1b0050]] 1708 尚書廣聽錄 Shàngshū guǎng tīng lù *Records for Broadening Hearing on the Documents*
+- [[KR1d0071]] 1708 禮記述註 Lǐjì shùzhù *A Restated Annotation of the Book of Rites*
+- [[KR1e0111]] 1708 春秋世族譜 Chūnqiū shìzú pǔ *Genealogical Tables of the Spring and Autumn Period*
+- [[KR1i0018]] 1708 李氏學樂錄 Lǐshì xuéyuè lù *Mr. Lǐ's Record of Studies in Music*
+- [[KR1d0091]] 1709 朱子禮纂 Zhūzǐ lǐzuǎn *A Compilation of Master Zhū's Ritual Discussions*
+- [[KR1e0109]] 1710 春秋宗朱辨義 Chūnqiū zōng zhū biàn yì *Differentiating the Right Sense of the Spring and Autumn Annals, Following Zhū*
+- [[KR1e0107]] 1711 三傳折諸 Sān zhuàn zhé zhū *Adjudicating the Three Traditions*
+- [[KR1e0112]] 1711 春秋長歷 Chūnqiū cháng lì *The Long Calendar of the Spring and Autumn Annals*
+- [[KR1a0143]] 1712 周易玩辭集解 Zhōuyì wàn cí jí jiě *Collected Glosses on Savoring the Words of the Zhōuyì*
+- [[KR1a0117]] 1714 御纂周易折中 Yù zuàn Zhōuyì zhé zhōng *Imperial Compilation -- Balanced Adjudication of the Zhōu Changes*
+- [[KR1a0154]] 1714 豐川易說 Fēngchuān Yì shuō *Fēngchuān's Discourse on the Yì*
+- [[KR1i0013]] 1715 古樂經傳 Gǔ yuè jīng zhuàn *The Ancient Music Classic with Commentary*
+- [[KR1j0048]] 1716 御定康熙字典 Yùdìng Kāngxī zìdiǎn *Imperially-Fixed Kāngxī Compendium of Standard Characters*
+- [[KR1d0021]] 1717 周官集注 Zhōuguān jízhù *Collected Annotation on the Officials of Zhōu*
+- [[KR1a0142]] 1718 周易傳義合訂 Zhōuyì zhuàn yì hé dìng *A Combined Edition of the Commentary [Yìchuán] and the Meanings [Běnyì]*
+- [[KR1a0145]] 1718 周易函書約存 Zhōuyì hán shū yuē cún *The Surviving Distillation of the Containing-Book on the Zhōuyì*
+- [[KR1c0050]] 1718 詩所 Shī suǒ *The Place of the Poetry*
+- [[KR1c0058]] 1718 詩經劄記 Shī jīng zhájì *Notebook on the Classic of Poetry*
+- [[KR1d0067]] 1718 日講禮記解義 Rìjiǎng Lǐjì jiěyì *Imperial Daily Lectures -- Exposition of the Book of Rites*
+- [[KR1e0108]] 1718 春秋闕如編 Chūnqiū quē rú biān *Compendium of "Pass-over-What-You-Don't-Know" on the Spring and Autumn Annals*
+- [[KR1h0065]] 1718 此木軒四書說 Cǐmùxuān Sìshū shuō *This-Wood-Studio Studies on the Four Books*
+- [[KR1j0052]] 1718 隸辨 Lì biàn *Discrimination of Clerical Script*
+- [[KR1e0094]] 1721 欽定春秋傳說彙纂 Qīn dìng Chūnqiū chuán shuō huì zuǎn *Imperially Determined Compendium of Commentaries and Discussions on the Spring and Autumn Annals*
+- [[KR1b0046]] 1722 欽定書經傳說彙纂 Qīndìng Shū jīng zhuàn shuō huì zuǎn *Imperially Authorized Compendium of Documents-Classic Commentaries and Discourses*
+- [[KR1b0057]] 1722 尚書地理今釋 Shàngshū dìlǐ jīn shì *Modern Identifications of Documents-Geography*
+- [[KR1e0106]] 1722 春秋管窺 Chūnqiū guǎn kuī *A Bamboo-Tube View of the Spring and Autumn Annals*
+- [[KR1c0044]] 1724 欽定詩經傳說彙纂 Qīnding Shī jīng zhuànshuō huìzuǎn *Imperially-Established Synthesis of Commentary and Discussion on the Classic of Poetry*
+- [[KR1d0072]] 1724 禮記析疑 Lǐjì xīyí *Analysis of Doubts in the Book of Rites*
+- [[KR1a0136]] 1725 大易通解 Dà Yì tōng jiě *Comprehensive Glosses on the Great Yì*
+- [[KR1a0141]] 1725 周易劄記 Zhōuyì zhájì *Notebook on the Zhōuyì*
+- [[KR1a0144]] 1725 惠氏易說 Huìshì Yì shuō *The Huì-Family Discourse on the Yì*
+- [[KR1b0058]] 1725 禹貢會箋 Yǔ gòng huì jiān *Synthesizing Notes on the "Tribute of Yǔ"*
+- [[KR1d0022]] 1725 禮說 Lǐ shuō *Discussions of the Rites*
+- [[KR1e0113]] 1725 惠氏春秋說 Huìshì Chūnqiū shuō *Mr. Huì's Discourses on the Spring and Autumn Annals*
+- [[KR1g0027]] 1725 朱子五經語類 Zhū zǐ Wǔ jīng yǔ lèi *Master Zhū's Classified Sayings on the Five Classics*
+- [[KR1h0064]] 1725 四書劄記 Sìshū zhájì *Notebook on the Four Books*
+- [[KR1j0074]] 1726 御定音韻闡微 Yùdìng yīnyùn chǎnwēi *Imperially-Fixed Subtle Exposition of Phonology*
+- [[KR1a0146]] 1727 易箋 Yì jiān *Slips on the Yì*
+- [[KR1f0012]] 1727 御纂孝經集註 Yùzuǎn Xiàojīng jízhù *Imperially Compiled Collected Commentary on the Classic of Filial Piety*
+- [[KR1d0044]] 1728 禮經本義 Lǐjīng běnyì *The Original Meaning of the Ritual Classic*
+- [[KR1g0020]] 1728 七經孟子考文補遺 Qī jīng Mèngzǐ kǎo wén bǔ yí *Critical Collation of the Seven Classics and Mèngzǐ, with Supplementary Notes*
+- [[KR1g0030]] 1729 九經辨字瀆蒙 Jiǔ jīng biàn zì dú méng *Distinguishing the Characters of the Nine Classics, for the Younger Sort*
+- [[KR1d0073]] 1731 檀弓疑問 Tángōng yíwèn *Doubts and Questions on the Tángōng Chapter*
+- [[KR1f0003]] 1731 古文孝經孔氏傳 Gǔwén Xiàojīng Kǒngshì zhuàn *The Old-Text Classic of Filial Piety with the Commentary of Master Kǒng*
+- [[KR1d0041]] 1734 儀禮析疑 Yílǐ xīyí *Analyzing the Doubts in the Yílǐ*
+- [[KR1e0110]] 1734 春秋通論 Chūnqiū tōng lùn *General Discourses on the Spring and Autumn Annals*
+- [[KR1g0029]] 1736 經咫 Jīng zhǐ *Eight-Inches of the Classics*
+- [[KR1e0093]] 1737 日講春秋解義 Rì jiǎng Chūnqiū jiě yì *Daily-Lecture Explication of the Spring and Autumn Annals*
+- [[KR1g0023]] 1737 十三經義疑 Shí sān jīng yì yí *Doubts on the Doctrines of the Thirteen Classics*
+- [[KR1i0020]] 1737 律呂新論 Lǜlǚ xīn lùn *New Treatise on the Pitch-Pipes*
+- [[KR1a0147]] 1738 學易初津 Xué Yì chū jīn *The Initial Ferry-Bridge to Studying the Yì*
+- [[KR1a0148]] 1738 易翼宗 Yì yì zōng *Revering the Wings of the Yì*
+- [[KR1a0149]] 1738 易翼說 Yì yì shuō *Discourse on the Wings of the Yì*
+- [[KR1a0153]] 1738 周易洗心 Zhōuyì xǐ xīn *Washing the Heart through the Zhōuyì*
+- [[KR1c0055]] 1738 詩識名解 Shī shí míng jiě *Identifications and Explanations of the Names in the Classic of Poetry*
+- [[KR1d0045]] 1738 宮室考 Gōngshì kǎo *Investigation of Palaces and Rooms*
+- [[KR1d0046]] 1738 天子肆獻祼饋食禮 Tiānzǐ sìxiànguàn kuìshí lǐ *The Royal Sì-Xiàn-Guàn-and-Food-Offering Ritual*
+- [[KR1j0086]] 1738 孫氏唐韻考 Sūnshì Tángyùn kǎo **
+- [[KR1c0061]] 1739 詩疑辨證 Shī yí biàn zhèng *Distinguishing-and-Corroborating the Doubtful Points of the Poetry*
+- [[KR1a0150]] 1740 周易孔義集說 Zhōuyì kǒng yì jí shuō *Collected Discourses on the Confucian-Wing Meanings of the Zhōuyì*
+- [[KR1a0152]] 1741 周易淺釋 Zhōuyì qiǎn shì *A Plain Glossing of the Zhōuyì*
+- [[KR1d0023]] 1741 周官祿田考 Zhōuguān lùtián kǎo *An Investigation of the Stipend-Lands of the Officials of Zhōu*
+- [[KR1d0048]] 1741 儀禮小疏 Yílǐ xiǎoshū *A Minor Sub-Commentary on the Yílǐ*
+- [[KR1d0074]] 1741 禮記訓義擇言 Lǐjì xùnyì zéyán *Selected Sayings on the Training-and-Meaning of the Book of Rites*
+- [[KR1d0075]] 1741 深衣考誤 Shēnyī kǎowù *Investigation into the Errors of [Previous] Studies of the Shēn-yī*
+- [[KR1e0117]] 1741 春秋左傳小疏 Chūnqiū Zuǒ zhuàn xiǎo shū *Lesser Notes on the Spring and Autumn Zuǒ Tradition*
+- [[KR1e0119]] 1741 三正考 Sān zhèng kǎo *An Investigation of the Three Regnal Calendars*
+- [[KR1d0018]] 1742 欽定周官義疏 Qīndìng Zhōuguān yìshū *Imperially Commissioned Sub-Commentary on the Officials of Zhōu*
+- [[KR1d0037]] 1742 欽定儀禮義疏 Qīndìng Yílǐ yìshū *Imperially Commissioned Sub-Commentary on the Yílǐ*
+- [[KR1d0042]] 1742 儀禮章句 Yílǐ zhāngjù *The Yílǐ, Parsed by Chapter and Section*
+- [[KR1i0022]] 1742 琴旨 Qín zhǐ *The Essentials of the Qín*
+- [[KR1d0049]] 1743 儀禮集編 Yílǐ jíbiān *Compiled Edition of the Yílǐ*
+- [[KR1a0004]] 1744 增補鄭氏周易 Zēngbǔ Zhèng shì Zhōuyì *The Augmented Zhèng-Family Zhōuyì*
+- [[KR1a0156]] 1744 易漢學 Yì Hàn xué *The Hàn-Learning of the Yì*
+- [[KR1d0083]] 1744 參讀禮志疑 Cāndú lǐ zhìyí *Companion-Reading Notes on Doubts in the Ritual Classics*
+- [[KR1e0114]] 1744 春秋大事表 Chūnqiū dàshì biǎo *Tabulations of Great Affairs in the Spring and Autumn Annals*
+- [[KR1i0019]] 1745 樂律表微 Yuèlǜ biǎowēi *Bringing Forth the Subtleties of Music and Pitch*
+- [[KR1d0024]] 1746 周禮疑義舉要 Zhōulǐ yíyì jǔyào *Lifting Up the Essentials of Doubtful Meanings in the Rites of Zhōu*
+- [[KR1d0047]] 1746 儀禮釋宮增注 Yílǐ shìgōng zēngzhù *An Augmented Annotation of the Yílǐ Shìgōng*
+- [[KR1g0028]] 1746 羣經補義 Qún jīng bǔ yì *Supplementary Doctrines on the Various Classics*
+- [[KR1h0067]] 1746 鄉黨圖考 Xiāngdǎng túkǎo *Diagram-and-Verification of the "Xiāngdǎng" [Chapter of the Analects]*
+- [[KR1i0021]] 1747 律呂闡微 Lǜlǚ chǎnwēi *Bringing Forth the Subtleties of the Pitch-Pipes*
+- [[KR1a0151]] 1748 易翼述信 Yì yì shù xìn *Faithfully Recital of the Wings of the Yì*
+- [[KR1d0068]] 1748 欽定禮記義疏 Qīndìng Lǐjì yìshū *Imperial Imperially-Determined Exposition-and-Commentary on the Book of Rites*
+- [[KR1d0086]] 1748 禮書綱目 Lǐshū gāngmù *Outline-and-Items of the Book of Ritual*
+- [[KR1e0115]] 1748 春秋識小錄 Chūnqiū shí xiǎo lù *Records of the Lesser Things in the Spring and Autumn Annals*
+- [[KR1a0155]] 1749 周易述 Zhōuyì shù *Recital of the Zhōuyì*
+- [[KR1a0157]] 1749 易例 Yì lì *Examples of the Yì*
+- [[KR1e0116]] 1749 惠氏春秋左傳補註 Huìshì Chūnqiū Zuǒzhuàn bǔ zhù *Mr. Huì's Supplementary Notes to the Spring and Autumn Zuǒ Tradition*
+- [[KR1g0024]] 1749 九經古義 Jiǔ jīng gǔ yì *Old Meanings of the Nine Classics*
+- [[KR1j0075]] 1750 欽定同文韻統 Qīndìng tóngwén yùntǒng *Imperially-Determined Phonological System for Uniform Script*
+- [[KR1j0076]] 1750 欽定叶韻彙輯 Qīndìng xiéyùn huìjí *Imperially-Determined Compendium of Cross-Rhymes*
+- [[KR1a0159]] 1751 大易擇言 Dà Yì zé yán *Selected Words on the Great Yì*
+- [[KR1c0060]] 1752 毛詩類釋 Máo Shī lèi shì *Categorical Explanation of the Mao Recension of the Poetry*
+- [[KR1d0043]] 1752 補饗禮 Bǔ xiǎnglǐ **
+- [[KR1e0121]] 1752 春秋隨筆 Chūnqiū suí bǐ *Notebook on the Spring and Autumn Annals*
+- [[KR1c0064]] 1754 詩序補義 Shī xù bǔ yì *Supplementary Commentary on the Preface to the Poetry*
+- [[KR1a0118]] 1755 御纂周易述義 Yù zuàn Zhōuyì shù yì *Imperial Compilation -- Recital of the Meaning of the Zhōuyì*
+- [[KR1c0045]] 1755 御纂詩義折中 Yùzuǎn Shī yì zhézhōng *Imperially Edited Balanced Reading of the Meaning of the Classic of Poetry*
+- [[KR1j0015]] 1756 續方言 Xù Fāngyán **
+- [[KR1h0066]] 1757 四書逸箋 Sìshū yìjiān *Stray-Source Glosses on the Four Books*
+- [[KR1j0016]] 1757 別雅 Biéyǎ **
+- [[KR1d0087]] 1758 五禮通考 Wǔlǐ tōngkǎo *A Comprehensive Investigation of the Five Rituals*
+- [[KR1e0095]] 1758 御纂春秋直解 Yù zuǎn Chūnqiū zhí jiě *Imperially Compiled Direct Explication of the Spring and Autumn Annals*
+- [[KR1e0118]] 1758 春秋地理考實 Chūnqiū dìlǐ kǎo shí *A Factual Investigation of the Geography of the Spring and Autumn Annals*
+- [[KR1a0160]] 1759 周易辨畫 Zhōuyì biàn huà *Discriminating the Strokes of the Zhōuyì*
+- [[KR1c0063]] 1759 詩瀋 Shī chén *Deep Reading of the Poetry*
+- [[KR1e0120]] 1759 春秋究遺 Chūnqiū jiū yí *Investigations of What the Spring and Autumn Annals Have Bequeathed*
+- [[KR1g0025]] 1759 經稗 Jīng bài *Side-Histories of the Classics*
+- [[KR1j0087]] 1759 古韻標準 Gǔyùn biāozhǔn *Standard of Old-Phonology Rhymes*
+- [[KR1a0158]] 1760 易象大意存解 Yì xiàng dà yì cún jiě *The Surviving Glosses on the Great Meanings of the Yì-Symbols*
+- [[KR1c0062]] 1760 三家詩拾遺 Sān jiā Shī shí yí *Recovered Fragments of the Three Schools' Poetry*
+- [[KR1g0031]] 1760 古經解鉤沉 Gǔ jīng jiě gōu chén *Hooks-from-the-Depths of Old Classical Commentaries*
+- [[KR1a0161]] 1761 周易圖書質疑 Zhōuyì tú shū zhì yí *Inquiring Into the Charts-and-Writings of the Zhōuyì*
+- [[KR1g0026]] 1761 十三經注疏正字 Shí sān jīng zhùshū zhèng zì *Corrected Characters of the Thirteen Classics' Notes and Subcommentaries*
+- [[KR1a0162]] 1765 周易章句證異 Zhōuyì zhāng jù zhèng yì *Verifying the Variants in the Chapter-and-Phrase of the Zhōuyì*
+- [[KR1c0065]] 1766 虞東學詩 Yúdōng xuéshī **
+- [[KR1j0077]] 1779 欽定音韻述微 Qīndìng yīnyùn shùwēi *Imperially-Determined Continuation of Subtle Phonology*
+
+### KR2 (115)
+
+- [[KR2g0050]] 1700 明儒言行錄 Míngrú yánxíng lù *Words and Deeds of Míng-Period Confucian Scholars*
+- [[KR2n0011]] 1702 經義考 Jīngyì kǎo *An Investigation of the Meaning of the Classics*
+- [[KR2j0002]] 1707 御定月令輯要 Yùdìng yuèlìng jíyào *Imperially Authorized Compendium of the Monthly Ordinances*
+- [[KR2a0038]] 1709 明史 Míng shǐ *The History of the Míng*
+- [[KR2c0010]] 1709 聖祖仁皇帝親征平定朔漠方略 Shèngzǔ Rénhuángdì qīnzhēng pīngdìng shuòmò fānglüè *Campaign History of the Imperial Personal Expeditions of the Sage Forefather, Benevolent Emperor, in the Pacification of the Northern Desert*
+- [[KR2d0019]] 1709 御定歷代紀事年表 Yùdìng lìdài jìshì niánbiǎo *Imperially Determined Chronological Table of Historical Events*
+- [[KR2a0005]] 1710 讀史記十表 Dú Shǐjì shí biǎo *Reading the Ten Tables of the Records of the Grand Scribe*
+- [[KR2d0023]] 1711 春秋戰國異辭 Chūnqiū Zhànguó yìcí *Variant Records of the Spring-and-Autumn and Warring-States Periods*
+- [[KR2k0075]] 1712 居濟一得 Jūjì yīdé *A Single Insight from Living-at-Jì*
+- [[KR2d0022]] 1713 後漢書補逸 HòuHànshū bǔyì *Recovery of the Lost Books of the Later Hàn*
+- [[KR2m0034]] 1715 萬壽盛典初集 Wànshòu Shèngdiǎn Chūjí *First Compilation of the Grand Records of the Sixtieth-Birthday Festival*
+- [[KR2k0130]] 1716 龍沙紀略 Lóngshā jìlüè **
+- [[KR2k0151]] 1718 異域錄 Yìyù lù *Record of a Strange Land*
+- [[KR2k0059]] 1722 水經注集釋訂訛 Shuǐjīng zhù jíshì dìngé *Collected Glosses and Errata on the Shuǐjīng zhù*
+- [[KR2n0043]] 1722 分隸偶存 Fēnlì ǒucún *Occasional Records on Clerical Script*
+- [[KR2b0013]] 1723 通鑑胡注擧正 Tōngjiàn Hú zhù jǔ zhèng *Corrections to Hú Sānxǐng's Commentary on the Comprehensive Mirror in Aid of Governance*
+- [[KR2b0022]] 1723 綱目訂誤 Gāngmù dìng wù *Corrections of Errors in the Outline-and-Detail Mirror*
+- [[KR2g0016]] 1723 朱子年譜 Zhūzǐ niánpǔ *Annal-Biography of Master Zhū*
+- [[KR2k0078]] 1723 行水金鑑 Xíngshuǐ jīnjiàn *Golden Mirror for Practical Hydraulic Engineering*
+- [[KR2k0131]] 1723 臺海使槎錄 Táihǎi shǐchá lù *Records from the Embassy-Raft to the Tái-hǎi*
+- [[KR2c0023]] 1727 平臺紀略 Píngtái jìlüè *Account of the Pacification of Taiwan*
+- [[KR2g0051]] 1727 史傳三編 Shǐzhuàn sān biān *Three-Part Compilation of Historical Biographies*
+- [[KR2n0044]] 1727 淳化祕閣法帖考正 Chúnhuà mìgé fǎtiè kǎozhèng *Critical Examination of the Imperial Cabinet's Chúnhuà Calligraphy Anthology*
+- [[KR2n0045]] 1727 竹雲題跋 Zhúyún tíbá *Colophons from the Bamboo-Cloud Studio*
+- [[KR2k0132]] 1728 東城雜記 Dōngchéng zájì **
+- [[KR2n0042]] 1729 金石文考略 Jīnshí wén kǎolüè *Brief Investigations of the Inscriptions in Bronze and Stone*
+- [[KR2a0006]] 1730 史記疑問 Shǐjì yíwèn *Doubts on the Records of the Grand Scribe*
+- [[KR2k0053]] 1730 廣東通志 Guǎngdōng tōngzhì *Comprehensive Gazetteer of Guǎngdōng*
+- [[KR2k0152]] 1730 海國聞見錄 Hǎiguó wénjiàn lù *Record of Things Seen and Heard about the Maritime Countries*
+- [[KR2f0005]] 1731 聖祖仁皇帝聖訓 Shèngzǔ Rénhuángdì shèngxùn *Imperial Instructions of Shèngzǔ, the Benevolent Emperor*
+- [[KR2f0007]] 1731 世宗憲皇帝上諭八旗 Shìzōng Xiànhuángdì shàngyù bāqí *Yōngzhèng's Imperial Pronouncements to the Eight Banners*
+- [[KR2k0043]] 1731 江西通志 Jiāngxī tōngzhì *Comprehensive Gazetteer of Jiāngxī*
+- [[KR2k0046]] 1731 湖廣通志 Húguǎng tōngzhì *Comprehensive Gazetteer of Húguǎng*
+- [[KR2k0052]] 1731 四川通志 Sìchuān tōngzhì *Comprehensive Gazetteer of Sìchuān*
+- [[KR2k0054]] 1731 廣西通志 Guǎngxī tōngzhì *Comprehensive Gazetteer of Guǎngxī*
+- [[KR2k0041]] 1732 畿輔通志 Jīfǔ tōngzhì *Comprehensive Gazetteer of the Metropolitan Region*
+- [[KR2k0048]] 1732 山東通志 Shāndōng tōngzhì *Comprehensive Gazetteer of Shāndōng*
+- [[KR2k0049]] 1732 山西通志 Shānxī tōngzhì *Comprehensive Gazetteer of Shānxī*
+- [[KR2k0051]] 1732 甘肅通志 Gānsù tōngzhì *Comprehensive Gazetteer of Gānsù*
+- [[KR2k0055]] 1732 雲南通志 Yúnnán tōngzhì *Comprehensive Gazetteer of Yúnnán*
+- [[KR2k0042]] 1733 江南通志 Jiāngnán tōngzhì *Comprehensive Gazetteer of Jiāngnán*
+- [[KR2k0044]] 1733 浙江通志 Zhèjiāng tōngzhì **
+- [[KR2k0045]] 1733 福建通志 Fújiàn tōngzhì *Comprehensive Gazetteer of Fújiàn*
+- [[KR2k0047]] 1733 河南通志 Hénán tōngzhì *Comprehensive Gazetteer of Hénán*
+- [[KR2k0050]] 1733 陝西通志 Shǎnxī tōngzhì *Comprehensive Gazetteer of Shǎnxī*
+- [[KR2f0009]] 1735 世宗憲皇帝硃批諭旨 Shìzōng Xiànhuángdì zhūpī yùzhǐ *Yōngzhèng's Vermilion-Rescript Imperial Pronouncements*
+- [[KR2k0056]] 1735 貴州通志 Guìzhōu tōngzhì *Comprehensive Gazetteer of Guìzhōu*
+- [[KR2k0077]] 1735 直隸河渠志 Zhílì héqú zhì *Treatise on the Rivers and Canals of Zhí-lì*
+- [[KR2f0008]] 1736 世宗憲皇帝上諭內閣 Shìzōng Xiànhuángdì shàngyù nèigé *Yōngzhèng's Imperial Pronouncements to the Grand Secretariat*
+- [[KR2n0046]] 1736 金石經眼錄 Jīnshí jīngyǎn lù *Records of Inscriptions Personally Examined*
+- [[KR2d0024]] 1737 尚史 Shàngshǐ *The Elevated History*
+- [[KR2m0049]] 1739 欽定康濟錄 Qīndìng Kāngjì Lù *Imperially Authorized Records of Health-Bringing Relief*
+- [[KR2b0002]] 1740 竹書統箋 Zhúshū tǒngjiān *Comprehensive Annotations to the Bamboo Annals*
+- [[KR2f0006]] 1741 世宗憲皇帝聖訓 Shìzōng Xiànhuángdì shèngxùn *Imperial Instructions of Shìzōng, the Constitutional Emperor*
+- [[KR2k0102]] 1741 石柱記箋釋 Shízhù jì jiānshì *Annotated Edition of the Stone-Pillar Record*
+- [[KR2g0044]] 1744 欽定八旗滿州氏族通譜 Qīndìng Bāqí Mǎnzhōu shìzú tōngpǔ *Imperially Ordered Comprehensive Genealogy of the Manchu Lineages of the Eight Banners*
+- [[KR2l0013]] 1745 詞林典故 Cílín diǎngù *Precedents of the Forest of Wordsmiths (Hànlín Academy)*
+- [[KR2a0034]] 1746 遼史拾遺 Liáo shǐ shíyí *Gleanings to the History of the Liáo*
+- [[KR2m0035]] 1746 欽定大清通禮 Qīndìng Dà Qīng Tōnglǐ *Imperially Authorized Complete Ritual Code of the Great Qīng*
+- [[KR2m0014]] 1747 欽定續文獻通考 Qīndìng Xù Wénxiàn Tōngkǎo *Imperially Authorized Continuation of the Wénxiàn Tōngkǎo*
+- [[KR2g0052]] 1748 閩中理學淵源考 Mǐnzhōng lǐxué yuānyuán kǎo *An Inquiry into the Origins and Lineage of the Lǐ-xué of Fújiàn*
+- [[KR2o0002]] 1750 史通通釋 Shǐtōng tōngshì *Comprehensive Annotation of the Shitong*
+- [[KR2c0011]] 1751 欽定平定金川方略 Qīndìng pīngdìng Jīnchuān fānglüè *Campaign History by Imperial Command of the Pacification of [the First] Jīnchuān*
+- [[KR2m0037]] 1751 國朝宮史 Guócháo Gōng Shǐ *Records of the Reigning Dynasty's Palace*
+- [[KR2n0047]] 1751 石經考異 Shíjīng kǎoyì *Critical Examination of Variants in the Stone Classics*
+- [[KR2k0060]] 1752 水經注釋 Shuǐjīng zhù shì **
+- [[KR2k0089]] 1752 西湖志纂 Xīhú zhìzuǎn *Compendious Gazetteer of West Lake*
+- [[KR2k0079]] 1753 水道提綱 Shuǐdào tígāng *Topical Outline of the Watercourses*
+- [[KR2k0088]] 1754 欽定盤山志 Qīndìng Pánshān zhì *Imperially Endorsed Gazetteer of Mt. Pán*
+- [[KR2m0055]] 1754 大清律例 Dà Qīng Lǜlì *The Great Qīng Code with Substatutes*
+- [[KR2a0014]] 1756 三國志補注 Sānguó zhì bǔzhù *Supplements to the Commentary on the Sānguó zhì*
+- [[KR2k0149]] 1757 皇清職貢圖 HuángQīng zhígòng tú *Illustrated Tribute-Bearers of the Imperial Qīng*
+- [[KR2b0038]] 1760 御定資治通鑑綱目三編 Yù dìng zī zhì tōng jiàn gāngmù sān biān *Imperially Set Third Continuation of the Comprehensive Mirror Outline-and-Detail*
+- [[KR2m0036]] 1762 皇朝禮器圖式 Huángcháo Lǐqì Túshì *Imperial-Authorized Diagrams of Ritual Implements of the Reigning Dynasty*
+- [[KR2m0038]] 1762 欽定滿洲祭神祭天典禮 Qīndìng Mǎnzhōu Jìshén Jìtiān Diǎnlǐ *Imperially Authorized Ritual Code of the Manchu Spirit-and-Heaven Sacrifice*
+- [[KR2k0080]] 1764 海塘錄 Hǎitáng lù *Records of the Sea Embankment*
+- [[KR2m0012]] 1764 欽定大清會典 Qīndìng Dà Qīng Huìdiǎn *Imperially Authorized Collected Statutes of the Great Qīng*
+- [[KR2m0013]] 1764 欽定大清會典則例 Qīndìng Dà Qīng Huìdiǎn Zélì *Imperially Authorized Sub-Statute Precedents of the Great Qīng*
+- [[KR2c0012]] 1766 平定準噶爾方略 Píngdìng zhǔn'gā'ěr fānglüè *Campaign History of the Pacification of the Dzungar*
+- [[KR2m0015]] 1766 皇朝文獻通考 Huángcháo Wénxiàn Tōngkǎo *Wénxiàn Tōngkǎo of the Reigning Dynasty*
+- [[KR2b0037]] 1767 御批歷代通鑑輯覽 Yù pī lìdài tōng jiàn jí lǎn *Imperially Criticised Comprehensive Mirror of Successive Ages*
+- [[KR2k0039]] 1769 欽定皇輿西域圖志 Qīndìng Huángyú Xīyù túzhì *Imperially Endorsed Atlas and Gazetteer of the Imperial Realm of the Western Regions*
+- [[KR2m0016]] 1769 欽定續通典 Qīndìng Xù Tōngdiǎn *Imperially Authorized Continuation of the Tōngdiǎn*
+- [[KR2n0035]] 1769 欽定重刻淳化閣帖釋文 Qīndìng chóngkè Chúnhuàgé tiè shìwén *Imperially Endorsed Re-cut Calligraphic-Models' Transcriptions, with Corrections*
+- [[KR2o0023]] 1769 評鑑闡要 Píngjiàn chǎnyào *Elucidation of Essentials from the Imperial Comments on the Mirror*
+- [[KR2m0039]] 1770 欽定南巡盛典 Qīndìng Nánxún Shèngdiǎn *Imperially Authorized Grand Records of the Southern Tours*
+- [[KR2k0009]] 1774 大清一統志 DàQīng yītǒng zhì *Comprehensive Gazetteer of the Great Qīng*
+- [[KR2m0057]] 1774 欽定武英殿聚珍版程式 Qīndìng Wǔyīng Diàn Jùzhēnbǎn Chéngshì *Imperially-Commissioned Manual for the Wǔyīng-Hall "Assembled Treasures" Movable-Type System*
+- [[KR2n0009]] 1775 欽定天祿琳琅書目 Qīndìng Tiānlù línláng shūmù *Imperially Endorsed Catalogue of the Tiānlù Línláng [Heavenly-Stipend Pearl-Forest] Collection*
+- [[KR2c0014]] 1776 欽定剿捕臨清逆匪紀略 Qīndìng jiǎopǔ Línqīng nìfěi jìlüè *Imperially Authorised Account of the Suppression and Capture of the Línqīng Rebels*
+- [[KR2g0045]] 1776 欽定勝朝殉節諸臣錄 Qīndìng shèngcháo xùnjié zhūchén lù *Imperially Ordered Record of the Officials of the Vanquished Dynasty Who Died in Loyalty*
+- [[KR2k0103]] 1776 關中勝蹟圖志 Guānzhōng shèngjì túzhì *Illustrated Gazetteer of the Famous Sites of Guānzhōng*
+- [[KR2k0038]] 1777 欽定滿洲源流考 Qīndìng Mǎnzhōu yuánliú kǎo *Imperially Endorsed Researches into Manchu Origins*
+- [[KR2m0017]] 1777 欽定皇朝通典 Qīndìng Huángcháo Tōngdiǎn *Imperially Authorized Tōngdiǎn of the Reigning Dynasty*
+- [[KR2m0018]] 1777 欽定皇朝通志 Qīndìng Huángcháo Tōngzhì *Imperially Authorized Tōngzhì of the Reigning Dynasty*
+- [[KR2b0039]] 1779 皇清開國方略 Huáng Qīng kāiguó fānglüè *Strategic Outline of the August Qing Founding*
+- [[KR2g0043]] 1779 欽定外藩蒙古回部王公表傳 Qīndìng wàifān Měnggǔ Huíbù wánggōng biǎozhuàn *Imperially Ordered Genealogical Tables and Biographies of the Outer-Vassal Mongol and Muslim Princes and Dukes*
+- [[KR2k0036]] 1780 欽定日下舊聞考 Qīndìng Rìxià jiùwén kǎo *Imperially Endorsed Examination of "Records Heard of Old in the Land Beneath the Sun"*
+- [[KR2l0015]] 1780 欽定歷代職官表 Qīndìng lìdài zhíguān biǎo *Imperially Approved Tables of Official Posts through the Ages*
+- [[KR2a0037]] 1781 欽定遼金元三史國語解 Qīndìng LiáoJīnYuán sān shǐ Guóyǔ jiě *The Imperially Approved Glossary of National Languages in the Three Histories -- Liáo, Jīn, and Yuán*
+- [[KR2g0042]] 1781 欽定宗室王公功績表傳 Qīndìng zōngshì wánggōng gōngjī biǎozhuàn *Imperially Ordered Genealogical Tables and Biographies of the Imperial Clan Princes and Dukes for Their Merits*
+- [[KR2l0014]] 1781 欽定國子監志 Qīndìng Guózǐjiàn zhì *Imperially Approved Gazetteer of the Directorate of Education*
+- [[KR2k0035]] 1782 欽定熱河志 Qīndìng Rèhé zhì *Imperially Endorsed Gazetteer of Rèhé*
+- [[KR2k0072]] 1782 欽定河源紀略 Qīndìng Héyuán jìlüè *Imperially Endorsed Account of the Source of the Yellow River*
+- [[KR2f0041]] 1783 御選明臣奏議 Yùxuǎn Míngchén zòuyì *Imperially Selected Memorials of Famous Ming Officials*
+- [[KR2o0024]] 1783 欽定古今儲貳金鑑 Qīndìng gǔjīn chǔ'èr jīnjiàn *Imperially Decreed Golden Mirror of Crown-Prince Successions Past and Present*
+- [[KR2k0040]] 1784 欽定盛京通志 Qīndìng Shèngjīng tōngzhì *Imperially Endorsed Comprehensive Gazetteer of Shèngjīng*
+- [[KR2c0013]] 1785 平定兩金川方略 Píngdìng liǎng Jīnchuān fānglüè *Campaign History of the Pacification of the Two Jīnchuāns*
+- [[KR2c0015]] 1785 欽定蘭州紀略 Qīndìng Lánzhōu jìlüè *Imperially Authorised Account of the Lánzhōu Affair*
+- [[KR2c0016]] 1786 欽定石峰堡紀略 Qīndìng Shífēngbǎo jìlüè *Imperially Authorised Account of the Affair of Stone Peak Fort*
+- [[KR2o0025]] 1786 文史通義 Wénshǐ tōngyì *General Principles of Literature and History*
+- [[KR2m0053]] 1787 欽定八旗通志 Qīndìng Bāqí Tōngzhì *Imperially Commissioned Comprehensive Treatise on the Eight Banners*
+- [[KR2c0017]] 1788 欽定平定臺灣紀略 Qīndìng pīngdìng Táiwān jìlüè *Imperially Authorised Account of the Pacification of Táiwān*
+- [[KR2m0040]] 1790 八旬萬壽盛典 Bāxún Wànshòu Shèngdiǎn *Grand Records of the Eightieth-Birthday Festival*
+- [[KR2d0025]] 1798 世本 Shìběn *Genealogical Origins*
+
+### KR3 (358)
+
+- [[KR3ed072]] 1700 秘方集驗 Mìfāng Jíyàn *A Collection of Tested Secret Recipes*
+- [[KR3ed103]] 1700 急救便方 Jíjiù Biànfāng *A Handy Manual for Emergency Rescue*
+- [[KR3ed109]] 1700 濟世神驗良方 Jǐshì Shényàn Liángfāng *Divinely Tested Excellent Formulas for Saving the World*
+- [[KR3ed133]] 1700 益世經驗良方 Yìshì Jīngyàn Liángfāng *World-Benefitting Tested Good Formulas*
+- [[KR3ed150]] 1700 靈驗良方彙編 Língyàn Liángfāng Huìbiān *Compendium of Numinously-Tested Good Formulas*
+- [[KR3ef075]] 1700 傷寒直指 Shānghán zhí zhǐ *Direct Pointing at Cold Damage*
+- [[KR3eh022]] 1700 醫效秘傳 Yīxiào mìchuán *Esoteric Transmission of Medical Effectiveness*
+- [[KR3eh043]] 1700 祕傳大麻瘋方 Mìchuán dàmáfēng fāng *Secret Transmission of Prescriptions for Great Leprosy*
+- [[KR3ei003]] 1700 張氏婦科 Zhāngshì fùkē *The Zhāng Family's Gynecology*
+- [[KR3ei004]] 1700 婦科問答 Fùkē wèndá *Gynecology Questions and Answers*
+- [[KR3ei005]] 1700 婦科秘方 Fùkē mìfāng *Secret Formulae of Gynecology*
+- [[KR3ei012]] 1700 婦科秘書 Fùkē mìshū *The Secret Book of Gynecology*
+- [[KR3ei032]] 1700 女科旨要 Nǚkē zhǐyào *The Indicators and Essentials of Women's Medicine*
+- [[KR3ei034]] 1700 婦科百辨 Fùkē bǎibiàn *A Hundred Discriminations in Gynecology*
+- [[KR3ei046]] 1700 竹林寺女科秘方 Zhúlínsì nǚkē mìfāng *The Bamboo-Grove Monastery's Secret Gynecological Formulary*
+- [[KR3ei070]] 1700 毓麟驗方 Yùlín yànfāng *Verified Prescriptions for Producing Offspring*
+- [[KR3ej035]] 1700 誠求集 Chéngqiú jí *Collection of Sincere Seeking*
+- [[KR3ej036]] 1700 幼科匯訣直解 Yòukē huìjué zhíjiě *Direct Explanations of Compiled Paediatric Discussions*
+- [[KR3ej050]] 1700 原瘄要論 Yuáncù yàolùn *Essentials of Eruptive Fevers*
+- [[KR3ej057]] 1700 新訂痘疹濟世真詮 Xīndìng dòuzhěn jìshì zhēnquán *Newly Revised Authentic Compendium on Saving Lives from Smallpox and Eruptive Fever*
+- [[KR3ej059]] 1700 痘疹精詳 Dòuzhěn jīngxiáng *Refined Particulars of Smallpox and Eruptive Fever*
+- [[KR3el008]] 1700 少林真傳傷科秘方 Shàolín zhēnchuán shāngkē mìfāng *Authentically Transmitted Shàolín Secret Prescriptions for Traumatology*
+- [[KR3em019]] 1700 喉科秘訣 Hóukē mìjué *Secret Instructions of the Throat Discipline*
+- [[KR3em025]] 1700 包氏喉證家寶 Bāoshì hóuzhèng jiābǎo *The Bāo Family's Treasured Manual of Throat Disorders*
+- [[KR3em026]] 1700 咽喉秘集 Yānhóu mìjí *Secret Collection on Throat and Larynx*
+- [[KR3eo035]] 1700 動功按摩秘訣 Dònggōng ànmó mìjué *Secret Formulae of Moving-Exercises and Massage*
+- [[KR3ep079]] 1700 葉氏醫案存真 Yèshì yīàn cúnzhēn *Authentic Surviving Medical Cases of Yè*
+- [[KR3ep080]] 1700 葉天氏醫案 Yè Tiānshì yīàn *Medical Case Records of Yè Tiānshì (Three-Master Compilation)*
+- [[KR3ep098]] 1700 舊德堂醫案 Jiùdétáng yīàn *Medical Case Records of the Hall of Inherited Virtue*
+- [[KR3eq058]] 1700 琉球問答奇病論 Liúqiú wèndá qíbìng lùn *Q&A on Strange Diseases of the Ryūkyū*
+- [[KR3er100]] 1700 醫學說約 Yīxué shuōyuē *A Concise Statement of Medicine*
+- [[KR3er106]] 1700 村居救急方 Cūnjū jiùjí fāng *Emergency Formulae for Village Living*
+- [[KR3er123]] 1700 醫師秘笈 Yīshī mìjí *The Physician's Secret Manuscript Box*
+- [[KR3f0056]] 1700 九章錄要 Jiǔzhāng lùyào *Selected Essentials of the Nine Chapters*
+- [[KR3fa031]] 1700 天象源委 Tiānxiàng yuánwěi *Sources and Threads of the Celestial Phenomena*
+- [[KR3fa036]] 1700 天學闡微 Tiānxué chǎnwēi *Subtle Exposition of the Science of the Heavens*
+- [[KR3fc035]] 1700 古算衍略 Gǔsuàn yǎnlüè *Brief Elaboration of the Ancient Mathematical Methods*
+- [[KR3ec089]] 1702 炮炙全書 Pàozhì Quánshū *Complete Book of Drug Processing*
+- [[KR3ei018]] 1702 女科精要 Nǚkē jīngyào *The Refined Essentials of Women's Medicine*
+- [[KR3em008]] 1702 眼科闡微 Yǎnkē chǎnwēi *An Elucidation of Subtleties in Ophthalmology*
+- [[KR3fa023]] 1703 方星圖解 Fāngxīng tújiě *Explanation of the Square Star-Chart*
+- [[KR3j0164]] 1703 香祖筆記 Xiāng zǔ bǐ jì *Notes from the Studio of the Orchid (Ancestor of Fragrance)*
+- [[KR3ep001]] 1704 北山醫案 Běishān yīàn *Medical Case Records of Kitayama [Yūshōshi]*
+- [[KR3a0114]] 1705 榕村語錄 Róngcūn yǔlù *Recorded Sayings of Master Róng-cūn*
+- [[KR3k0055]] 1705 御定淵鑑類函 Yù dìng Yuānjiàn lèihán *Imperially Established Categorized Anthology from the Yuanjian Studio*
+- [[KR3eh036]] 1706 何氏虛勞心傳 Héshì xūláo xīnchuán *The Hé Family's Heart-Transmission on Consumption*
+- [[KR3ed112]] 1707 經驗丹方彙編 Jīngyàn Dānfāng Huìbiān *A Compendium of Tested Single-Drug Formulas*
+- [[KR3ef012]] 1707 傷寒溯源集 Shānghán sùyuán jí *Collection Tracing the Origins of Cold Damage*
+- [[KR3er046]] 1707 古今醫徹 Gǔjīn yī chè *A Penetrating Survey of Medicine, Ancient and Modern*
+- [[KR3h0066]] 1707 書法正傳 Shūfǎ zhèngchuán *The Orthodox Transmission of Calligraphic Method*
+- [[KR3j0166]] 1707 古夫于亭雜錄 Gǔfūyútíng zálù *Miscellaneous Records from the Ancient Fū-yú Pavilion*
+- [[KR3k0059]] 1707 御定佩文韻府 Yù dìng Pèiwén yùnfǔ *Imperially Established Treasury of Rhymes from the Pei-wen Studio*
+- [[KR3k0062]] 1707 讀書紀數略 Dúshū jì shù lüè *Brief Record of Numbered Sets Encountered in Reading*
+- [[KR3h0061]] 1708 御定佩文齋書畫譜 Yùdìng Pèiwénzhāi shūhuà pǔ *Imperially-Authorised Pèi-wén Studio Treatise on Calligraphy and Painting*
+- [[KR3i0044]] 1708 御定佩文齋廣羣芳譜 Yùdìng Pèiwénzhāi guǎng qúnfāng pǔ *Imperially Authorized Expanded Treatise on the Multitude of Plants from the Studio of Honoured Literature*
+- [[KR3ej041]] 1709 幼科證治大全 Yòukē zhèngzhì dàquán *Comprehensive Paediatric Diagnosis and Treatment*
+- [[KR3f0028]] 1710 勿菴歷算書記 Wù'ān lìsuàn shūjì **
+- [[KR3fc034]] 1710 算海詳說 Suànhǎi xiángshuō *Detailed Exposition of the Sea of Mathematics*
+- [[KR3g0032]] 1710 卜法詳考 Bǔfǎ xiángkǎo **
+- [[KR3j0165]] 1710 分甘餘話 Fēngān yúhuà *Talks Left Over After Sharing the Sweets*
+- [[KR3eb034]] 1711 脈貫 Mài Guàn *The Pulse Threaded Together*
+- [[KR3j0076]] 1711 義門讀書記 Yì mén dú shū jì *Yì Mén's Reading-Records*
+- [[KR3ed131]] 1712 經驗良方全集 Jīngyàn Liángfāng Quánjí *Complete Compilation of Tested Good Formulas*
+- [[KR3a0107]] 1714 御纂性理精義 Yù zuǎn xìnglǐ jīng yì *Imperially Compiled Refined Meaning of Nature-and-Principle*
+- [[KR3a0108]] 1714 御纂朱子全書 Yù zuǎn Zhūzǐ quán shū *Imperially Compiled Complete Works of Master Zhū*
+- [[KR3ef047]] 1714 傷寒大白 Shānghán dà bái *Plain Exposition of Cold Damage*
+- [[KR3eh013]] 1714 醫學傳燈 Yīxué chuándēng *The Transmitted Lamp of Medicine*
+- [[KR3eo005]] 1714 養生秘旨 Yǎngshēng mìzhǐ *Esoteric Essentials of Nourishing Life*
+- [[KR3eb016]] 1715 脈訣乳海 Mài Jué Rǔ Hǎi *The Pulse-Song Ocean of Milk*
+- [[KR3ei055]] 1715 達生編 Dáshēng biān *Treatise on Easy Childbirth*
+- [[KR3eh038]] 1717 風勞臌膈四大證治 Fēngláogǔgé sìdà zhèngzhì *Treatment of the Four Great Syndromes — Wind, Consumption, Drum-Distension, Blockage*
+- [[KR3h0072]] 1717 傳神祕要 Chuánshén mìyào *Essentials of the Secret of Conveying the Spirit (in Portraiture)*
+- [[KR3j0177]] 1717 硯山齋雜記 Yàn shān zhāi zá jì *Miscellaneous Records from the Inkstone-Mountain Studio*
+- [[KR3a0043]] 1718 近思錄集註 Jìnsī lù jízhù **
+- [[KR3f0018]] 1718 御製歷象考成 Yùzhì lìxiàng kǎochéng *Imperially Composed Investigation of the Calendrical Phenomena*
+- [[KR3f0048]] 1718 御製數理精蘊 Yùzhì Shùlǐ jīngyùn *Imperially Composed Essential Principles of Mathematics*
+- [[KR3f0054]] 1718 少廣補遺 Shǎoguǎng bǔyí **
+- [[KR3k0060]] 1718 御定韻府拾遺 Yù dìng Yùnfǔ shíyí *Imperially Established Gleanings to the Treasury of Rhymes*
+- [[KR3ed104]] 1719 奇方類編 Qífāng Lèibiān *Categorically Arranged Extraordinary Formulas*
+- [[KR3ep031]] 1719 醫權初編 Yīquán chūbiān *First Compilation on the Balance of Medicine*
+- [[KR3ep091]] 1719 靜香樓醫案 Jìngxiānglóu yīàn *Medical Case Records of the Pavilion of Quiet Fragrance*
+- [[KR3er076]] 1719 顧松園醫鏡 Gù Sōngyuán yī jìng *Master Gù Sōng-yuán's Mirror of Medicine*
+- [[KR3ep063]] 1720 葉天士曹仁伯何元長醫案 Yè Tiānshì Cáo Rénbó Hé Yuáncháng yīàn *Combined Medical Case Records of Yè Tiānshì, Cáo Rénbó, and Hé Yuáncháng*
+- [[KR3ep087]] 1720 洄溪醫案 Huíxī yīàn *Medical Case Records of Huíxī (Xú Dàchūn)*
+- [[KR3j0074]] 1720 白田雜著 Bái tián zá zhù *Miscellaneous Writings from White Field*
+- [[KR3k0057]] 1720 御定分類字錦 Yù dìng Fēn lèi zì jǐn *Imperially Established Categorically-Arranged Brocade of Phrases*
+- [[KR3j0187]] 1721 元明事類鈔 Yuán Míng shì lèi chāo *A Categorized Anthology of Yuán and Míng Affairs*
+- [[KR3k0061]] 1721 格致鏡原 Gézhì jìngyuán *Mirror of Sources for the Investigation of Things*
+- [[KR3ef084]] 1722 金匱要略方論本義 Jīnguì yào lüè fāng lùn běn yì *The Original Meaning of the Treatise on Essential Prescriptions from the Golden Casket*
+- [[KR3er082]] 1722 景岳全書發揮 Jǐngyuè quánshū fāhuī *An Elucidation of the Complete Works of Jǐng-yuè*
+- [[KR3f0052]] 1722 句股引蒙 Gōugǔ yǐnméng *Right-Triangle Beginner's Introduction*
+- [[KR3k0056]] 1722 御定駢字類編 Yù dìng Pián zì lèibiān *Imperially Established Categorized Compendium of Paired Characters*
+- [[KR3eb003]] 1723 四診抉微 Sì Zhěn Jué Wēi *Probing the Subtleties of the Four Diagnostics*
+- [[KR3a0102]] 1724 聖諭廣訓 Shèng yù guǎng xùn *Amplification of the Sacred Edicts*
+- [[KR3ec044]] 1724 本草經解 Běncǎo Jīng Jiě *Exegesis of the Materia Medica Classic*
+- [[KR3ei027]] 1724 女科指掌 Nǚkē zhǐzhǎng *Pointing-to-the-Palm Guide to Women's Medicine*
+- [[KR3k0058]] 1724 御定子史精華 Yù dìng Zǐ shǐ jīnghuá *Imperially Established Essence of the Masters and Histories*
+- [[KR3a0112]] 1725 正學隅見述 Zhèng xué yú jiàn shù *A Narration of My Cornered Glimpses of Orthodox Learning*
+- [[KR3a0113]] 1725 雙橋隨筆 Shuāngqiáo suí bǐ *Random Notes from Twin-Bridge*
+- [[KR3e0095]] 1725 絳雪園古方選註 Jiàngxuě yuán gǔfāng xuǎnzhù *Annotated Ancient Prescriptions Selected at the Crimson-Snow Garden*
+- [[KR3eb043]] 1725 診脈三十二辨 Zhěn Mài Sān Shí Èr Biàn *Thirty-Two Discriminations in Pulse Examination*
+- [[KR3i0024]] 1725 續茶經 Xù chájīng *Continuation of the Tea Classic*
+- [[KR3a0103]] 1726 聖祖仁皇帝庭訓格言 Shèngzǔ Rénhuángdì tíngxùn gé yán *Maxims from the Court Instructions of the Sacred-Ancestor Benevolent Emperor*
+- [[KR3er028]] 1726 陸地仙經 Lùdì xiān jīng *The Scripture of the Earthly Immortal*
+- [[KR3ea059]] 1727 難經經釋 Nànjīng jīngshì *Canonical Glosses on the Classic of Difficulties*
+- [[KR3ef023]] 1727 傷寒經解 Shānghán jīng jiě *Canonical Explanation of Cold Damage*
+- [[KR3a0109]] 1728 欽定執中成憲 Qīn dìng zhí zhōng chéng xiàn *Imperial-Sanctioned Established Standards for Holding the Mean*
+- [[KR3ei057]] 1728 產寶 Chǎnbǎo *Obstetrical Treasury*
+- [[KR3em024]] 1728 喉科指掌 Hóukē zhǐzhǎng *Pointing-the-Palm Manual of Laryngology*
+- [[KR3ef019]] 1729 傷寒貫珠集 Shānghán guànzhū jí *String-of-Pearls Collection on Cold Damage*
+- [[KR3ei051]] 1729 產後十八論 Chǎnhòu shíbā lùn *Eighteen Treatises on Post-Partum Disorders*
+- [[KR3ei058]] 1730 胎產心法 Tāichǎn xīnfǎ *Heart-Method of Pregnancy and Childbirth*
+- [[KR3ep033]] 1730 沈氏醫案 Shěnshì yīàn *Medical Case Records of Mr Shěn [Lǔzhēn]*
+- [[KR3h0070]] 1730 六藝之一錄 Liùyì zhī yī lù *A Record of One of the Six Arts (i.e. Calligraphy)*
+- [[KR3ed005]] 1731 華佗神方 Huà Tuó Shénfāng *Divine Recipes of Huà Tuó*
+- [[KR3ed078]] 1731 絳雪園古方選注 Jiàngxuěyuán Gǔfāng Xuǎnzhù *Selected Annotated Ancient Formulas from the Garden of Crimson Snow*
+- [[KR3ea055]] 1732 古本難經闡註 Gǔběn Nànjīng chǎnzhù *Annotated Exposition of an Ancient Recension of the Classic of Difficulties*
+- [[KR3ek002]] 1732 外科十法 Wàikē shífǎ *Ten Methods of External Medicine*
+- [[KR3ep009]] 1732 未刻本葉氏醫案 Wèikèběn Yèshì yīàn *The Unprinted Manuscript of Yè's Medical Case Records*
+- [[KR3ep023]] 1732 眉壽堂方案選存 Méishòutáng fāngàn xuǎncún *Preserved Selections of the Méishòu Hall Case-and-Prescription Records*
+- [[KR3er048]] 1732 醫學心悟 Yīxué xīn wù *Heart-Insights on Medical Learning*
+- [[KR3f0055]] 1732 莊氏算學 Zhuāngshì suànxué *Mr. Zhuāng's Mathematical Studies*
+- [[KR3eh028]] 1733 不居集 Bùjū jí *A Collection of the Unsettled*
+- [[KR3h0069]] 1733 南宋院畫錄 NánSòng yuànhuà lù *Record of the Southern Sòng Painting Academy*
+- [[KR3j0075]] 1733 樵香小記 Qiáo xiāng xiǎo jì *Small Notes from the Wood-Gatherer's Hearth*
+- [[KR3ea057]] 1734 難經古義 Nànjīng gǔyì *The Ancient Meaning of the Classic of Difficulties*
+- [[KR3e0098]] 1736 神農本草經百种錄 Shénnóng běncǎo jīng bǎizhǒng lù *A Record of One Hundred Substances from the Divine Farmer's Materia Medica Classic*
+- [[KR3ec048]] 1736 神農本草經百種錄 Shénnóng Běncǎo Jīng Bǎi Zhǒng Lù *Records of One Hundred Substances from the Shennong Materia Medica Classic*
+- [[KR3f0019]] 1736 御製歷象考成後編 Yùzhì lìxiàng kǎochéng hòubiān *Imperially Composed Investigation of the Calendrical Phenomena, Continuation*
+- [[KR3j0078]] 1736 訂譌雜錄 Dìng é zá lù *Miscellaneous Record of Corrections of Errors*
+- [[KR3d0010]] 1739 欽定授時通考 Qīn dìng shòu shí tōng kǎo *Imperial Comprehensive Investigation of "Establishing the Seasons"*
+- [[KR3ef089]] 1739 金匱要略心典 Jīnguì yào lüè xīn diǎn *Heart-Canon of the Jīnguì yào lüè*
+- [[KR3eh003]] 1739 金匱翼 Jīnguì yì *Wings to the Jīnguì*
+- [[KR3eq087]] 1739 醫學讀書記 Yīxué dúshū jì *Notes from Medical Reading*
+- [[KR3j0077]] 1739 管城碩記 Guǎn chéng shuò jì *Substantial Notes from Guǎn-chéng*
+- [[KR3a0118]] 1740 讀書偶記 Dú shū ǒu jì *Occasional Reading-Notes*
+- [[KR3ea018]] 1740 醫宗金鑑·運氣要訣 Yīzōng jīnjiàn · Yùnqì yàojué *Essential Rhymed Tenets on Climatic Cycles, from the Golden Mirror of the Medical Tradition*
+- [[KR3ea053]] 1740 素靈微蘊 Sùlíng wēiyùn *Subtle Quintessences of the Sùwèn and Língshū*
+- [[KR3eh004]] 1740 醫宗金鑑·雜病心法要訣 Yīzōng jīnjiàn · Zábìng xīnfǎ yàojué *Imperial Compendium of Medicine · Mnemonic Essentials of Miscellaneous Diseases*
+- [[KR3ek009]] 1740 醫宗金鑑·外科心法要訣 Yīzōng jīnjiàn · Wàikē xīnfǎ yàojué *Golden Mirror of the Medical Ancestry -- Essential Heart-Methods of External Medicine*
+- [[KR3ek017]] 1740 外科全生集 Wàikē quánshēng jí *Collection on Preserving Life through External Medicine*
+- [[KR3ep075]] 1740 松心醫案筆記 Sōngxīn yīàn bǐjì *Notebook of Sōngxīn's Medical Case Records*
+- [[KR3eq006]] 1740 葉選醫衡 Yèxuǎn yīhéng *A Medical Scale, Selected by Yè [Tiānshì]*
+- [[KR3g0051]] 1740 欽定協紀辨方書 Qīndìng xiéjì biànfāng shū *Imperially-Determined Book of Harmonized-Tally and Distinguished-Direction*
+- [[KR3k0063]] 1740 花木鳥獸集類 Huā mù niǎo shòu jí lèi *Categorized Compendium of Flowers, Trees, Birds, and Beasts*
+- [[KR3k0064]] 1740 別號錄 Bié hào lù *Register of Alternate Sobriquets*
+- [[KR3eq048]] 1741 醫貫砭 Yīguàn biān *The Lance against the "Yīguàn"*
+- [[KR3eb004]] 1742 醫宗金鑑·四診心法要訣 Yī Zōng Jīn Jiàn — Sì Zhěn Xīn Fǎ Yào Jué *Essential Verse on the Mental Method of the Four Diagnostics, from the Golden Mirror of Medicine*
+- [[KR3ed074]] 1742 醫宗金鑑·刪補名醫方論 Yīzōng Jīnjiàn · Shānbǔ Míngyī Fānglùn *Golden Mirror of the Medical Ancestor -- Pruned-and-Supplemented Recipe Discourses of the Famous Physicians*
+- [[KR3ee015]] 1742 醫宗金鑑·刺灸心法要訣 Yīzōng jīnjiàn · Cìjiǔ xīnfǎ yàojué *Golden Mirror of the Medical Tradition · Essential Mnemonic of the Heart-Method of Needling and Moxibustion*
+- [[KR3ef067]] 1742 醫宗金鑑·傷寒心法要訣 Yī zōng jīn jiàn · Shānghán xīn fǎ yào jué *Imperial Compendium of Medicine — Essential Verses on the Heart-Method of Cold Damage*
+- [[KR3ef086]] 1742 醫宗金鑑·訂正仲景全書金匱要略註 Yī zōng jīn jiàn · Dìng zhèng Zhòngjǐng quán shū Jīnguì yào lüè zhù *Imperial Compendium of Medicine — Corrected Edition of the Annotated Jīnguì yào lüè from the Complete Works of Zhòng-jǐng*
+- [[KR3ei007]] 1742 醫宗金鑑·婦科心法要訣 Yīzōng jīnjiàn·Fùkē xīnfǎ yàojué *The Golden Mirror of Medicine -- Essential Mnemonics on the Heart-Method of Gynecology*
+- [[KR3ej029]] 1742 醫宗金鑑·幼科心法要訣 Yīzōng jīnjiàn · Yòukē xīnfǎ yàojué *Golden Mirror of Medicine — Essential Verses on the Heart-Method of Paediatrics*
+- [[KR3ej048]] 1742 醫宗金鑑·痘疹心法要訣 Yīzōng jīnjiàn · Dòuzhěn xīnfǎ yàojué *Golden Mirror of Medicine — Essential Verses on the Heart-Method of Smallpox*
+- [[KR3ej055]] 1742 醫宗金鑑·幼科種痘心法要旨 Yīzōng jīnjiàn · Yòukē zhǒngdòu xīnfǎ yàozhǐ *Golden Mirror of Medical Tradition -- Essential Principles of the Heart-Method for Pediatric Variolation*
+- [[KR3ek036]] 1742 瘍科捷徑 Yángkē jiéjìng *A Shortcut to Ulcer Medicine*
+- [[KR3ek047]] 1742 純懿廬集（瘡瘍） Chúnyìlú jí (chuāngyáng) *Anthology of the Hall of Pure Virtue (Sores and Ulcers)*
+- [[KR3a0029]] 1744 正蒙初義 Zhèng méng chū yì **
+- [[KR3ed116]] 1744 絳囊撮要 Jiàngnáng Cuōyào *Essentials Drawn from the Crimson-Bag*
+- [[KR3g0010]] 1744 皇極經世書解 Huángjí jīngshì shū jiě *Explanation of the Huáng-jí jīng-shì shū*
+- [[KR3h0062]] 1744 祕殿珠林 Mìdiàn zhūlín *A Forest of Pearls in the Secret Palace*
+- [[KR3h0063]] 1744 石渠寶笈 Shíqú bǎojí *Precious Repertoire of the Stone Canal Pavilion*
+- [[KR3e0090]] 1745 御纂醫宗金鑑 Yùzuǎn Yīzōng jīnjiàn *The Imperially-Edited Golden Mirror of Medical Tradition*
+- [[KR3ed082]] 1745 類證普濟本事方釋義 Lèizhèng Pǔjì Běnshì Fāng Shìyì *An Explication of the* Pǔjì Běnshì Fāng *Categorised by Syndrome*
+- [[KR3ef022]] 1745 醫宗金鑑·訂正仲景全書傷寒論註 Yīzōng jīnjiàn — Dìngzhèng Zhòngjǐng quánshū Shānghán lùn zhù *Golden Mirror of Medicine — Corrected Complete Works of Zhòngjǐng, Commentary on the Treatise on Cold Damage*
+- [[KR3ef081]] 1745 高註金匱要略 Gāo zhù Jīnguì yào lüè *Gāo's Annotated Edition of the Jīnguì yào lüè*
+- [[KR3el015]] 1745 醫宗金鑑·正骨心法要旨 Yīzōng jīnjiàn · Zhènggǔ xīnfǎ yàozhǐ *Golden Mirror of Medical Tradition · Essential Gist of the Heart-Method of Bone-Setting*
+- [[KR3em007]] 1745 醫宗金鑑·眼科心法要訣 Yīzōng jīnjiàn · Yǎnkē xīnfǎ yàojué *Essential Verses on Ophthalmological Method (from the Golden Mirror of the Medical Tradition)*
+- [[KR3ep103]] 1745 一瓢醫案 Yīpiáo yīàn *Medical Casebook of the Master of the One Gourd*
+- [[KR3eu016]] 1745 醫宗金鑑 Yīzōng jīnjiàn *The Golden Mirror of Medical Tradition (reprint excerpt)*
+- [[KR3eu017]] 1745 醫宗金鑑·訂正仲景全書傷寒論註 Yīzōng jīnjiàn · Dìngzhèng Zhòngjǐng quánshū Shānghánlùn zhù *Yīzōng jīn-jiàn — Corrected Commentary on the Complete Works of Zhòng-jǐng -- Shāng-hán lùn*
+- [[KR3eu018]] 1745 醫宗金鑑·刪補名醫方論 Yīzōng jīnjiàn · Shānbǔ míngyī fānglùn *Yīzōng jīn-jiàn — Edited Discussions on the Prescriptions of Famous Physicians*
+- [[KR3eu019]] 1745 醫宗金鑑·運氣要訣 Yīzōng jīnjiàn · Yùnqì yàojué *Yīzōng jīn-jiàn — Essentials of the Five-Cycles and Six-Qi Doctrine*
+- [[KR3eu020]] 1745 醫宗金鑑·雜病心法要訣 Yīzōng jīnjiàn · Zábìng xīnfǎ yàojué *Yīzōng jīn-jiàn — Heart-Method Essentials for Miscellaneous Diseases*
+- [[KR3eu021]] 1745 醫宗金鑑·婦科心法要訣 Yīzōng jīnjiàn · Fùkē xīnfǎ yàojué *Yīzōng jīn-jiàn — Heart-Method Essentials for Women's Medicine*
+- [[KR3eu022]] 1745 醫宗金鑑·痘疹心法要訣 Yīzōng jīnjiàn · Dòuzhěn xīnfǎ yàojué *Yīzōng jīn-jiàn — Heart-Method Essentials for Smallpox and Measles*
+- [[KR3eu023]] 1745 醫宗金鑑·眼科心法要訣 Yīzōng jīnjiàn · Yǎnkē xīnfǎ yàojué *Yīzōng jīn-jiàn — Heart-Method Essentials for Ophthalmology*
+- [[KR3eu024]] 1745 醫宗金鑑·刺灸心法要訣 Yīzōng jīnjiàn · Cìjiǔ xīnfǎ yàojué *Yīzōng jīn-jiàn — Heart-Method Essentials for Acupuncture and Moxibustion*
+- [[KR3eu025]] 1745 醫宗金鑑·外科心法要訣 Yīzōng jīnjiàn · Wàikē xīnfǎ yàojué *Yīzōng jīn-jiàn — Heart-Method Essentials for External Medicine*
+- [[KR3eu026]] 1745 醫宗金鑑·訂正仲景全書 Yīzōng jīnjiàn · Dìngzhèng Zhòngjǐng quánshū *Yīzōng jīn-jiàn — Corrected Complete Works of Zhòng-jǐng*
+- [[KR3eu027]] 1745 醫宗金鑑 Yīzōng jīnjiàn *The Golden Mirror of Medical Tradition (alternate reprint)*
+- [[KR3eu028]] 1745 醫宗金鑑·訂正仲景全書傷寒論註 Yīzōng jīnjiàn · Dìngzhèng Zhòngjǐng quánshū Shānghánlùn zhù *Yīzōng jīn-jiàn — Corrected Commentary on the Shāng-hán lùn (alternate listing)*
+- [[KR3eu029]] 1745 醫宗金鑑·訂正仲景全書金匱要略註 Yīzōng jīnjiàn · Dìngzhèng Zhòngjǐng quánshū Jīnguì yàolüè zhù *Yīzōng jīn-jiàn — Corrected Commentary on the Jīn-guì yào-lüè*
+- [[KR3eu030]] 1745 醫宗金鑑·刪補名醫方論 Yīzōng jīnjiàn · Shānbǔ míngyī fānglùn *Yīzōng jīn-jiàn — Edited Discussions on the Prescriptions of Famous Physicians (alternate listing)*
+- [[KR3eu031]] 1745 醫宗金鑑·雜病心法 Yīzōng jīnjiàn · Zábìng xīnfǎ *Yīzōng jīn-jiàn — Heart-Method for Miscellaneous Diseases (alternate listing)*
+- [[KR3eu032]] 1745 醫宗金鑑·婦科心法要訣 Yīzōng jīnjiàn · Fùkē xīnfǎ yàojué *Yīzōng jīn-jiàn — Heart-Method Essentials for Women's Medicine (alternate listing)*
+- [[KR3eu033]] 1745 醫宗金鑑·幼科雜病心法 Yīzōng jīnjiàn · Yòukē zábìng xīnfǎ *Yīzōng jīn-jiàn — Heart-Method for Paediatric Miscellaneous Diseases*
+- [[KR3eu034]] 1745 醫宗金鑑·痘疹心法要訣 Yīzōng jīnjiàn · Dòuzhěn xīnfǎ yàojué *Yīzōng jīn-jiàn — Heart-Method Essentials for Smallpox and Measles (alternate listing)*
+- [[KR3eu035]] 1745 醫宗金鑑·眼科心法 Yīzōng jīnjiàn · Yǎnkē xīnfǎ *Yīzōng jīn-jiàn — Heart-Method for Ophthalmology (alternate listing)*
+- [[KR3eu036]] 1745 醫宗金鑑·刺灸心法要訣 Yīzōng jīnjiàn · Cìjiǔ xīnfǎ yàojué *Yīzōng jīn-jiàn — Heart-Method Essentials for Acupuncture and Moxibustion (alternate listing)*
+- [[KR3eu037]] 1745 醫宗金鑑·正骨心法要旨 Yīzōng jīnjiàn · Zhènggǔ xīnfǎ yàozhǐ *Yīzōng jīn-jiàn — Heart-Method Essentials for Bone-Setting*
+- [[KR3eb013]] 1746 脈確 Mài Què *Pulse Verified*
+- [[KR3f0031]] 1746 數學 Shùxué *Mathematical-Astronomical Studies*
+- [[KR3fa025]] 1746 推步法解 Tuībù fǎ jiě *Explanation of the Methods of Step-by-Step Astronomical Computation*
+- [[KR3ed127]] 1747 吳氏醫方彙編 Wúshì Yīfāng Huìbiān *Wú's Compendium of Medical Formulas*
+- [[KR3a0110]] 1748 御覽經史講義 Yù lǎn jīngshǐ jiǎng yì *Imperial-Reading Lectures on Classics and Histories*
+- [[KR3ej009]] 1748 嬰兒論 Yīng'ér lùn *Discourse on Infants*
+- [[KR3eb031]] 1749 醫學脈燈 Yī Xué Mài Dēng *The Pulse Lamp for Medical Learning*
+- [[KR3eh005]] 1749 醫碥 Yī biàn *A Mounting-Stone for Medicine*
+- [[KR3ea052]] 1750 四聖懸樞 Sìshèng xuánshū *The Suspended Pivot of the Four Sages*
+- [[KR3ec080]] 1750 中國藥物學大綱 Zhōngguó Yàowùxué Dàgāng *Outline of Chinese Pharmacology*
+- [[KR3ed095]] 1750 奇正方 Qízhèng Fāng *Formulas  -- Extraordinary and Regular*
+- [[KR3ef016]] 1750 傷寒懸解 Shānghán xuán jiě *Suspended [Hanging] Explanation of Cold Damage*
+- [[KR3ef078]] 1750 傷寒論劉氏傳 Shānghán lùn Liú shì zhuàn *The Liú Family Transmission of the Treatise on Cold Damage*
+- [[KR3eg022]] 1750 溫疫論私評 Wēnyì lùn shīpíng *Private Commentary on the Treatise on Warm-Epidemic Disorders*
+- [[KR3ei044]] 1750 婦科冰鑑 Fùkē bīngjiàn *The Crystal Mirror of Gynecology*
+- [[KR3ei053]] 1750 胎產指南 Tāichǎn zhǐnán *A Compass for Pregnancy and Childbirth*
+- [[KR3ej013]] 1750 幼幼集成 Yòuyòu jíchéng *A Comprehensive Compendium for Children*
+- [[KR3ej027]] 1750 慈幼便覽 Cíyòu biànlǎn *Handy Reference for Compassionate Childcare*
+- [[KR3ep013]] 1750 徐批葉天士晚年方案真本 Xúpī Yè Tiānshì wǎnnián fāngàn zhēnběn *The Authentic Late-Years Cases of Yè Tiānshì with Xú [Língtāi]'s Annotations*
+- [[KR3ep035]] 1750 掃葉莊醫案 Sǎoyèzhuāng yīàn *Medical Case Records of the Sweep-Leaf Villa*
+- [[KR3ep037]] 1750 龍砂八家醫案 Lóngshā bājiā yīàn *Medical Case Records of the Eight Masters of Lóngshā*
+- [[KR3ep051]] 1750 沈俞醫案合鈔 ShěnYú yīàn héchāo *Combined Transcript of the Medical Case Records of Shěn and Yú*
+- [[KR3eu062]] 1750 奇正方 Qízhèng fāng *Formulas, Extraordinary and Regular*
+- [[KR3f0020]] 1750 欽定儀象考成 Qīndìng yíxiàng kǎochéng *Imperially Determined Investigation of the Astronomical Instruments and Stellar Phenomena*
+- [[KR3i0014]] 1750 錢錄 Qiánlù *Imperially Authorized Catalogue of Coinage*
+- [[KR3a0044]] 1751 近思錄集註 Jìnsī lù jízhù **
+- [[KR3ej008]] 1751 兒科醒 Érkē xǐng *Awakening the Paediatricians*
+- [[KR3j0079]] 1751 識小編 Shí xiǎo biān *Notebook of Knowing the Small*
+- [[KR3eh007]] 1752 雜症會心錄 Zázhèng huìxīn lù *Notes on the Heart-Met Miscellaneous Syndromes*
+- [[KR3f0030]] 1752 全史日至源流 Quánshǐ rìzhì yuánliú *Source-and-Stream of Solar Events Throughout the Whole [Dynastic] Histories*
+- [[KR3fc037]] 1752 割圈密率捷法 Gēyuán mìlǜ jiéfǎ *Quick Method of Circle-Cutting Refined Ratios (Trigonometric Power Series)*
+- [[KR3h0089]] 1752 西清古鑑 Xīqīng gǔjiàn *Mirror of Antiquities of the Xī-qīng (Western Pure) Studio*
+- [[KR3ea013]] 1753 素問懸解 Sùwèn xuánjiě *A Suspended Exposition of the Basic Questions*
+- [[KR3ea063]] 1753 難經懸解 Nànjīng xuánjiě *Suspended Exposition of the Classic of Difficulties*
+- [[KR3ec064]] 1753 長沙藥解 Chángshā Yàojiě *Exegesis of the Drugs of Chángshā [i.e. Zhāng Zhòngjǐng]*
+- [[KR3ef054]] 1753 傷寒說意 Shānghán shuō yì *Discoursing the Meaning of Cold Damage*
+- [[KR3ef088]] 1753 金匱懸解 Jīnguì xuán jiě *Suspended Exposition of the Golden-Casket*
+- [[KR3eu069]] 1753 醫斷與斥醫斷 Yī duàn yǔ Chì yī duàn *Medical Pronouncements, with The Rebuttal of the Medical Pronouncements*
+- [[KR3ea041]] 1754 醫經原旨 Yījīng yuánzhǐ *The Original Intent of the Medical Classics*
+- [[KR3ec065]] 1754 玉楸藥解 Yùqiū Yàojiě *Yùqiū's Exegesis of Drugs*
+- [[KR3er047]] 1754 四聖心源 Sì shèng xīn yuán *The Heart-Source of the Four Sages*
+- [[KR3eg020]] 1755 濕熱條辨 Shīrè tiáobiàn *Detailed Analysis of Damp-Heat Disorders*
+- [[KR3ei016]] 1755 女科指要 Nǚkē zhǐyào *Indicators of Essentials in Women's Medicine*
+- [[KR3ep010]] 1755 臨證指南醫案 Línzhèng zhǐnán yīàn *Clinical Compass — Medical Case Records*
+- [[KR3ea027]] 1756 靈樞懸解 Língshū xuánjiě *A Suspended Exposition of the Numinous Pivot*
+- [[KR3eh039]] 1756 虛損啟微 Xūsǔn qǐwēi *Opening the Subtleties of Depletion*
+- [[KR3eq056]] 1756 建殊錄 Jiànshū lù *Records of Extraordinary Establishments*
+- [[KR3er022]] 1756 方症會要 Fāng zhèng huì yào *Essentials of Formula and Presentation Gathered Together*
+- [[KR3h0071]] 1756 小山畫譜 Xiǎoshān huàpǔ *Manual of Painting of the Little-Mountain Master*
+- [[KR3e0100]] 1757 醫學源流論 Yīxué yuánliú lùn *Discourses on the Sources and Streams of Medical Learning*
+- [[KR3ec045]] 1757 本草從新 Běncǎo Cóngxīn *Materia Medica, Renewed*
+- [[KR3ec061]] 1757 藥性切用 Yàoxìng Qièyòng *Drug Natures for Practical Use*
+- [[KR3ef042]] 1757 傷寒法祖 Shānghán fǎ zǔ *Patriarchs of the Method on Cold Damage*
+- [[KR3eq011]] 1757 醫學源流論 Yīxué yuánliú lùn *Essays on the Sources and Streams of Medical Learning*
+- [[KR3eq012]] 1757 醫學源流論 Yīxué yuánliú lùn *Essays on the Sources and Streams of Medical Learning*
+- [[KR3eq054]] 1757 醫斷與斥醫斷 Yī duàn yǔ Chì Yī duàn *Medical Resolutions, with the Rebuttal of the Medical Resolutions*
+- [[KR3ep017]] 1758 續名醫類案 Xù míngyī lèiàn *Continuation of the Categorised Case Records of Famous Physicians*
+- [[KR3a0104]] 1759 日知薈說 Rì zhī huì shuō *Daily-Knowing Gathered Discussions*
+- [[KR3e0099]] 1759 傷寒類方 Shānghán lèifāng *The Cold-Damage Prescriptions Categorically Arranged*
+- [[KR3ed100]] 1759 家塾方與方極 Jiāshú Fāng yǔ Fāngjí *Family-School Formulas with The Apex of Formulas*
+- [[KR3ed105]] 1759 串雅內外編 Chuànyǎ Nèi Wài Biān *The Refined Pedlar's Manual -- Inner and Outer Compilations*
+- [[KR3ed107]] 1759 串雅外編 Chuànyǎ Wài Biān *The Refined Pedlar's Manual -- Outer Compilation*
+- [[KR3ef064]] 1759 傷寒論類方 Shānghán lùn lèi fāng *The Treatise on Cold Damage Arranged by Prescription-Type*
+- [[KR3ed051]] 1760 種福堂公選良方 Zhǒngfútáng Gōngxuǎn Liángfāng *Publicly Selected Excellent Recipes from the Hall of Planting Blessings*
+- [[KR3ec058]] 1761 得配本草 Dé Pèi Běncǎo *Materia Medica of Achieving Combinations*
+- [[KR3ed052]] 1761 成方切用 Chéngfāng Qièyòng *The Apt Use of Established Formulas*
+- [[KR3ei075]] 1762 續增大生要旨 Xùzēng dàshēng yàozhǐ *Continued-and-Augmented Essential Points for Vigorous Life*
+- [[KR3eu063]] 1762 類聚方 Lèijù fāng *Classified Formulary (of Zhāng Zhòngjǐng)*
+- [[KR3ed096]] 1763 類聚方 Lèijù Fāng *Categorically Assembled Formulas*
+- [[KR3ep018]] 1763 續名醫類案（四庫本） Xù míngyī lèiàn (Sìkù běn) *Continuation of the Categorised Case Records of Famous Physicians (Imperial Library Edition)*
+- [[KR3e0097]] 1764 蘭臺軌範 Lántái guǐfàn *The Standards of the Orchid Terrace*
+- [[KR3ea043]] 1764 醫經讀 Yījīng dú *Readings from the Medical Classics*
+- [[KR3er086]] 1764 蘭臺軌範 Lántái guǐfàn *The Standard of the Orchid Terrace*
+- [[KR3fa030]] 1764 欽定天文正義 Qīndìng tiānwén zhèngyì *Imperially Commissioned Correct Meaning of Astronomy*
+- [[KR3fc038]] 1764 勾股割圓記 Gōugǔ gēyuán jì *Record of the Right-Triangle and Circle-Cutting*
+- [[KR3fc039]] 1764 準望簡法/割圈弧矢補論/勾股割圈全義圖/方圈比例數表 Zhǔnwàng jiǎnfǎ / Gēyuán húshǐ bǔlùn / Gōugǔ gēyuán quányì tú / Fāngyuán bǐlì shùbiǎo *Four-Work Compendium — Simplified Surveying / Supplementary Discussion of Circle-Arc Functions / Diagrammatic Full Exposition of Right-Triangle Circle-Cutting / Numerical Tables of Square-and-Circle Proportions*
+- [[KR3ei062]] 1765 產論 Sǎn lùn *Treatise on Childbirth (Sanron)*
+- [[KR3eu055]] 1765 產論 Chǎnlùn *Treatise on Childbirth*
+- [[KR3ee040]] 1766 針灸學綱要 Zhēnjiǔ xué gāngyào *Essentials of Acupuncture and Moxibustion*
+- [[KR3ek013]] 1766 瘍醫大全 Yángyī dàquán *Complete Compendium of Ulcer Medicine*
+- [[KR3ep073]] 1766 繆松心醫案 Miù Sōngxīn yīàn *Medical Case Records of Miù Sōngxīn*
+- [[KR3eq085]] 1767 慎疾芻言 Shènjí chúyán *Humble Words on Caution in Treating Illness*
+- [[KR3eu065]] 1767 家塾方與方極 Jiāshú fāng yǔ Fāng jí *The Family-Academy Formulary and The Formula Standard*
+- [[KR3em017]] 1768 重樓玉鑰 Chónglóu yùyuè *Jade Key to the Many-Storeyed Tower*
+- [[KR3eq037]] 1768 古書醫言 Gǔshū yīyán *Medical Words from the Ancient Books*
+- [[KR3er124]] 1768 醫學要則 Yīxué yàozé *The Principles of Medical Learning*
+- [[KR3eb024]] 1769 脈理求真 Mài Lǐ Qiú Zhēn *Seeking Truth in Pulse Theory*
+- [[KR3ec051]] 1769 本草求真 Běncǎo Qiúzhēn *Searching for the Truth in the Materia Medica*
+- [[KR3eg001]] 1769 溫熱論 Wēnrè lùn *Treatise on Warm-Heat Disorders*
+- [[KR3em018]] 1769 重樓玉鑰續編 Chónglóu yùyuè xùbiān *Continuation of the Jade Key to the Many-Storeyed Tower*
+- [[KR3eo002]] 1769 壽世傳真 Shòushì chuánzhēn *Transmitting the True [Arts] for Prolonging the Generations*
+- [[KR3er004]] 1769 周慎齋遺書 Zhōu Shènzhāi yí shū *The Posthumous Writings of Zhōu Shèn-zhāi*
+- [[KR3er025]] 1769 一見能醫 Yī jiàn néng yī *Able to Cure at a Single Glance*
+- [[KR3ef074]] 1770 傷風約言 Shāng fēng yuē yán *Concise Words on Wind-Damage*
+- [[KR3e0096]] 1771 續名醫類案 Xù míngyī lèiàn *Continuation of the Categorically-Arranged Case-Records of Famous Physicians*
+- [[KR3ec077]] 1771 藥徵 Yàozhēng *Testimony of Drugs*
+- [[KR3eb027]] 1773 脈象統類 Mài Xiàng Tǒng Lèi *A Comprehensive Classification of Pulse Images*
+- [[KR3eb028]] 1773 諸脈主病詩 Zhū Mài Zhǔ Bìng Shī *Verses on the Diseases Indicated by the Various Pulses*
+- [[KR3ec041]] 1773 要藥分劑 Yào Yào Fēn Jì *The Essential Drugs, Classified by Preparation*
+- [[KR3ei023]] 1773 婦科玉尺 Fùkē yùchǐ *The Jade Ruler of Gynecology*
+- [[KR3em006]] 1773 目經大成 Mùjīng dàchéng *Great Compendium of the Ophthalmological Canon*
+- [[KR3er003]] 1773 全體病源類纂 Quán tǐ bìng yuán lèi zuǎn *A Topical Compendium on the Origins of the Diseases of the Whole Body*
+- [[KR3er065]] 1773 雜病源流犀燭 Zábìng yuánliú xīzhú *A Rhinoceros-Candle on the Source and Flow of Miscellaneous Diseases*
+- [[KR3er109]] 1773 沈氏尊生書 Shěnshì zūnshēng shū *Master Shěn's Book on Honouring Life*
+- [[KR3ef017]] 1774 傷寒論綱目 Shānghán lùn gāng mù *Outline of the Treatise on Cold Damage*
+- [[KR3ej004]] 1774 幼科釋謎 Yòukē shìmí *Untying the Riddles of Paediatrics*
+- [[KR3ej047]] 1774 麻科活人全書 Mákē huórén quánshū *Comprehensive Book of Life-Saving Measles Medicine*
+- [[KR3ei010]] 1775 沈氏女科輯要 Shěnshì nǚkē jíyào *The Shěn Family's Compilation of Essentials of Women's Medicine*
+- [[KR3ei017]] 1775 女科切要 Nǚkē qièyào *The Cutting Essentials of Women's Medicine*
+- [[KR3ei066]] 1775 產論翼 Sǎn lùn yì *Wings of the Treatise on Childbirth*
+- [[KR3er010]] 1775 脈因證治 Mài yīn zhèng zhì *Pulse, Aetiology, Presentation, and Treatment*
+- [[KR3ek015]] 1776 外科選要 Wàikē xuǎnyào *Selected Essentials of External Medicine*
+- [[KR3fc040]] 1776 同度記 Tóngdù jì *Record of Uniform Measure*
+- [[KR3er093]] 1777 鱠殘篇 Kuàicán piān *Leftovers from the Minced-Fish Plate*
+- [[KR3eu072]] 1777 藥徵 Yào zhēng *The Verification of Drugs*
+- [[KR3ek049]] 1778 疝氣證治論 Shànqì zhèngzhì lùn *A Treatise on the Diagnosis and Treatment of Hernia-Qi*
+- [[KR3ek050]] 1778 疝症積聚 Shànzhèng jījù *Hernia Patterns and Accumulations*
+- [[KR3ep071]] 1778 古今醫案按 Gǔjīn yīàn àn *Critical Commentary on Ancient and Modern Medical Cases*
+- [[KR3i0009]] 1778 欽定西清硯譜 Qīndìng Xīqīng yànpǔ *Imperially Authorized Treatise on the Ink-Stones of the Western Clarity (i.e. Forbidden City) Collection*
+- [[KR3ei054]] 1779 胎產秘書 Tāichǎn mìshū *Secret Book of Pregnancy and Childbirth*
+- [[KR3ed099]] 1780 名家方選 Míngjiā Fāngxuǎn *A Selection of Famous Houses' Formulas*
+- [[KR3ef030]] 1780 傷寒論讀 Shānghán lùn dú *A Reading of the Treatise on Cold Damage*
+- [[KR3eq063]] 1780 怡堂散記 Yítáng sànjì *Casual Records from the Yi Hall*
+- [[KR3ed071]] 1782 救生集 Jiùshēng Jí *Collection for Saving Lives*
+- [[KR3ec049]] 1784 本草綱目拾遺 Běncǎo Gāngmù Shíyí *Supplementary Gleanings to the Compendium of Materia Medica*
+- [[KR3ef050]] 1784 傷寒瘟疫條辨 Shānghán wēnyì tiáo biàn *Section-by-Section Discrimination of Cold Damage and Warm Epidemic*
+- [[KR3ed115]] 1785 惠直堂經驗方 Huìzhítáng Jīngyàn Fāng *Tested Formulas of the Huìzhí Studio*
+- [[KR3eg031]] 1785 疫疹一得 Yìzhěn yīdé *Knowledge Gained on Epidemic Rashes*
+- [[KR3eg039]] 1786 松峰說疫 Sōngfēng shuō yì *Sōngfēng's Treatise on Epidemic Disease*
+- [[KR3ei013]] 1786 寧坤秘笈 Níngkūn mìjí *Secret Pearl-Casket for Calming the Female Principle*
+- [[KR3ek048]] 1786 黴癘新書 Méilì xīnshū *A New Book on Syphilis and Leprosy*
+- [[KR3ek028]] 1787 彤園醫書·外科 Tóngyuán yīshū · Wàikē *Tongyuan Medical Books -- External Medicine*
+- [[KR3eu058]] 1787 黴癘新書 Méilì xīnshū *A New Treatise on Syphilis and Leprosy*
+- [[KR3fa032]] 1788 地球圖說/補圖 Dìqiú túshuō / Bǔ tú *Illustrated Treatise on the Globe of the Earth / Supplementary Diagrams*
+- [[KR3ed120]] 1789 回生集 Huíshēng Jí *Collection on Restoring Life*
+- [[KR3ef025]] 1789 傷寒論集成 Shānghán lùn jí chéng *Complete Compilation on the Treatise on Cold Damage*
+- [[KR3er075]] 1789 羅氏會約醫鏡 Luóshì huìyuē yī jìng *Master Luó's Mirror of Medicine for Joint Conference*
+- [[KR3eu045]] 1789 傷寒之研究 Shānghán zhī yánjiū *A Study of the Shāng-hán [Tradition]*
+- [[KR3ep076]] 1790 王九峰醫案（一） Wáng Jiǔfēng yīàn (yī) *Medical Case Records of Wáng Jiǔfēng (Part One)*
+- [[KR3ep077]] 1790 王九峰醫案（二） Wáng Jiǔfēng yīàn (èr) *Medical Case Records of Wáng Jiǔfēng (Part Two)*
+- [[KR3eq050]] 1790 叢桂偶記 Cóngguì ǒujì *Occasional Notes from the Clustered-Cassia [Studio]*
+- [[KR3er094]] 1790 長沙證彙 Chángshā zhènghuì *Symptom-Pattern Compendium of Cháng-shā [Zhāng Zhòng-jǐng]*
+- [[KR3eu050]] 1790 長沙證彙 Chángshā zhènghuì *A Compendium of the Symptom-Patterns of [Zhāng of] Cháng-shā*
+- [[KR3ej061]] 1791 幼科驚搐門 Yòukē jīngchù mén *The Convulsion Department of Paediatrics*
+- [[KR3ef052]] 1792 傷寒論綱要 Shānghán lùn gāng yào *Outline Essentials of the Treatise on Cold Damage*
+- [[KR3eg035]] 1792 辨疫瑣言 Biànyì suǒyán *Trivial Remarks on the Discrimination of Epidemic Disease*
+- [[KR3fa003]] 1792 周髀算經校勘記 Zhōubì suànjīng jiàokān jì *Collation Notes on the Gnomon-Classic of the Zhou*
+- [[KR3ed102]] 1793 古方分量考 Gǔfāng Fēnliàng Kǎo *An Investigation of the Doses of the Ancient Formulas*
+- [[KR3ef069]] 1793 傷寒用藥研究 Shānghán yòng yào yán jiū *Researches on the Use of Medicinals in Cold Damage*
+- [[KR3ei020]] 1793 女科秘要 Nǚkē mìyào *The Secret Essentials of Women's Medicine*
+- [[KR3eu066]] 1793 古方分量考 Gǔfāng fēnliàng kǎo *A Study of the Doses of the Ancient Formulas*
+- [[KR3eb035]] 1795 脈學輯要 Mài Xué Jí Yào *A Selected Synthesis of Pulse Studies*
+- [[KR3eu061]] 1795 脈學輯要 Màixué jíyào *A Compendium of the Essentials of Pulse-Lore*
+- [[KR3ed110]] 1796 神仙濟世良方 Shénxiān Jǐshì Liángfāng *Excellent Formulas of the Immortals for Saving the World*
+- [[KR3ef032]] 1796 傷寒指掌 Shānghán zhǐzhǎng *Pointing-Palm [Handbook] of Cold Damage*
+- [[KR3ef055]] 1796 感症寶筏 Gǎn zhèng bǎo fá *Precious Raft for Externally-Contracted Disorders*
+- [[KR3eq017]] 1796 吳醫彙講 Wúyī huìjiǎng *Anthology of Wú-Region Medical Discussions*
+- [[KR3eu048]] 1797 傷寒用藥研究 Shānghán yòngyào yánjiū *A Study of Shāng-hán Prescription-Drug Use*
+- [[KR3ec078]] 1798 藥徵續編 Yàozhēng Xùbiān *Continuation of the Testimony of Drugs*
+- [[KR3eg046]] 1798 痘科辨要 Dòukē biànyào *Essential Discriminations in Smallpox Science*
+- [[KR3ep008]] 1798 奇症彙 Qízhèng huì *Compendium of Strange Symptoms*
+- [[KR3eq053]] 1798 青囊瑣探 Qīngnáng suǒtàn *Trivial Probings from the Green Pouch*
+- [[KR3ec001]] 1799 神農本草經 Shénnóng Běncǎo Jīng *The Divine Husbandman's Classic of Materia Medica*
+- [[KR3eg025]] 1799 溫病之研究 Wēnbìng zhī yánjiū *Researches on Warm Disease*
+- [[KR3ei065]] 1799 產科發蒙 Sǎnkē fāméng *Enlightenment in Obstetrics*
+- [[KR3eu051]] 1799 溫病之研究 Wēnbìng zhī yánjiū *A Study of Warm-Disease (Wēn-bìng)*
+
+### KR4 (115)
+
+- [[KR4k0093]] 1700 狄青演義 Dí Qīng Yǎnyì *The Romance of Di Qing*
+- [[KR4k0095]] 1700 第一美女傳 Dìyī Měinǚ Zhuàn *Biography of the Supreme Beauty*
+- [[KR4k0114]] 1700 鳳凰池 Fènghuáng Chí *Phoenix Pool*
+- [[KR4k0141]] 1700 後宋慈雲走國全傳 Hòusòng Cíyún Zǒuguó Quánzhuàn *The Complete Tale of Ciyun's Flight Through the Realm in the Later Song*
+- [[KR4k0142]] 1700 呼家將 Hū Jiā Jiàng *The Hu Family Generals*
+- [[KR4k0147]] 1700 幻中游 Huàn Zhōng Yóu *Wandering in Illusion*
+- [[KR4k0149]] 1700 蝴蝶媒 Húdié Méi *The Butterfly Matchmaker*
+- [[KR4k0163]] 1700 九雲記 Jiǔyún Jì *The Record of Nine Clouds*
+- [[KR4k0177]] 1700 療妒緣 Liáodù Yuán *The Destined Cure for Jealousy*
+- [[KR4k0184]] 1700 明珠緣 Míngzhū Yuán *The Pearl's Destiny*
+- [[KR4k0186]] 1700 南朝秘史 Nán Cháo Mìshǐ *Secret History of the Southern Dynasties*
+- [[KR4k0224]] 1700 世無匹 Shì Wú Pǐ *Matchless in the World*
+- [[KR4k0226]] 1700 雙鳳奇緣 Shuāng Fèng Qí Yuán *The Strange Fate of the Twin Phoenixes*
+- [[KR4k0227]] 1700 雙風奇緣 Shuāng Fēng Qí Yuán *The Strange Fate of the Twin Winds*
+- [[KR4k0264]] 1700 薛剛反唐 Xuē Gāng Fǎn Táng *Xue Gang Rebels Against the Tang*
+- [[KR4k0267]] 1700 燕子箋 Yànzi Jiān *The Swallow's Note*
+- [[KR4k0269]] 1700 楊家將 Yáng Jiā Jiāng *The Yang Family Generals*
+- [[KR4k0273]] 1700 引風簫 Yǐn Fēng Xiāo *The Wind-Drawing Flute*
+- [[KR4k0278]] 1700 玉蟾記 Yù Chán Jì *Record of the Jade Toad*
+- [[KR4k0279]] 1700 玉樓春 Yù Lóu Chūn *Spring in the Jade Tower*
+- [[KR4k0291]] 1700 終須夢 Zhōng Xū Mèng *The Inevitable Dream*
+- [[KR4c0070]] 1702 白香山詩集 Bái Xiāngshān shī jí *The Verse Collection of Bái Xiāng-shān [Bái Jū-yì]*
+- [[KR4f0036]] 1703 鐵廬集 Tiělú jí *The Iron-Hut Collection*
+- [[KR4i0059]] 1703 師友詩傳錄 Shīyǒu shīzhuàn lù *Record of Poetic Transmission from Teachers and Friends*
+- [[KR4f0042]] 1704 懷清堂集 Huáiqīngtáng jí *Collection from the Hall of Embraced Clarity*
+- [[KR4h0165]] 1705 鄱陽五家集 Póyáng wǔjiā jí *Collected Works of Five Pó-yáng Families*
+- [[KR4h0139]] 1706 御定歷代賦彙 Yùdìng lìdài fùhuì *Imperially Determined Comprehensive Anthology of Successive Dynasties' Rhapsodies*
+- [[KR4h0140]] 1706 御定全唐詩 Yùdìng Quán Táng shī *Imperially Determined Complete Poetry of the Táng*
+- [[KR4h0141]] 1706 御定佩文齋詠物詩選 Yùdìng Pèiwénzhāi yǒngwù shīxuǎn *Imperially Determined Pèi-wén Studio Anthology of Things-Chanted Poetry*
+- [[KR4h0161]] 1706 御定全唐詩錄 Yùdìng Quán Táng shī lù *Imperially Determined Record of the Complete Táng Poetry*
+- [[KR4f0001]] 1707 聖祖仁皇帝御製文集 Shèngzǔ rén huángdì yùzhì wénjí *Imperial Compositions of the Kāngxī Emperor (Posthumous Title Shèngzǔ Rén)*
+- [[KR4h0142]] 1707 御定歷代題畫詩類 Yùdìng lìdài tíhuà shī lèi *Imperially Determined Classified Anthology of Poems Inscribed on Paintings*
+- [[KR4h0160]] 1707 元詩選 Yuán shī xuǎn *Selected Poetry of the Yuán*
+- [[KR4h0155]] 1708 唐人萬首絕句選 Tángrén wànshǒu juéjù xuǎn *Selection from the Ten-Thousand Táng Quatrains*
+- [[KR4h0143]] 1709 御選宋金元明四朝詩 Yùxuǎn Sòng Jīn Yuán Míng sìcháo shī *Imperially Selected Poetry of the Four Dynasties Sòng, Jīn, Yuán, and Míng*
+- [[KR4f0041]] 1710 因園集 Yīnyuán jí *The Yīn-yuán Garden Collection*
+- [[KR4h0144]] 1711 御訂全金詩增補中州集 Yùdìng Quán Jīn shī zēngbǔ Zhōngzhōu jí *Imperially Authorized Complete Jīn Poetry, Augmented Edition of the Zhōng-zhōu Anthology*
+- [[KR4k0191]] 1711 女仙外史 Nǚxiān Wàishǐ *Unofficial History of the Female Immortals*
+- [[KR4i0061]] 1712 談龍錄 Tánlóng lù *A Record of Talk about the Dragon*
+- [[KR4h0145]] 1713 御選唐詩 Yùxuǎn Táng shī *Imperially Selected Táng Poetry*
+- [[KR4j0086]] 1715 御定詞譜 Yùdìng cípǔ *Imperially Established Cí-Score*
+- [[KR4j0089]] 1715 御定曲譜 Yùdìng qǔpǔ *Imperially Established Qǔ-Score*
+- [[KR4i0060]] 1716 聲調譜 Shēngdiào pǔ *A Tonal-Prosodic Manual*
+- [[KR4k0126]] 1716 好逑傳 Hǎo Qiú Zhuàn *The Fortunate Union*
+- [[KR4f0002]] 1719 世宗憲皇帝御製文集 Shìzōng xiàn huángdì yùzhì wénjí *Imperial Compositions of the Yōngzhèng Emperor (Posthumous Title Shìzōng Xiàn)*
+- [[KR4k0248]] 1719 五色石 Wǔ Sè Shí *Stones of Five Colors*
+- [[KR4a0007]] 1720 山帶閣註楚辭 Shāndàigé zhù Chǔ cí *Mountain-Girdle Pavilion Commentary on the Chu ci*
+- [[KR4f0043]] 1721 二希堂文集 Èrxītáng wénjí *Collected Prose from the Hall of Two Hopes*
+- [[KR4f0048]] 1721 鹿洲初集 Lùzhōu chū jí *The First Collection from Deer-Islet*
+- [[KR4h0146]] 1722 御定千叟宴詩 Yùdìng Qiānsǒu yàn shī *Imperially Determined Poems of the Banquet of the Thousand Elders*
+- [[KR4c0047]] 1723 韓集點勘 Hán jí diǎnkān *Critical Notes on the Hán Yù Collection*
+- [[KR4f0045]] 1724 望溪集 Wàngxī jí *The Wàngxī Collection*
+- [[KR4h0164]] 1724 古文雅正 Gǔwén yǎzhèng *Refined-and-Correct Ancient Prose*
+- [[KR4k0179]] 1725 林蘭香 Lín Lán Xiāng *Orchid and Incense in the Forest*
+- [[KR4k0261]] 1725 醒名花 Xǐng Míng Huā *Awakening the Famous Flower*
+- [[KR4h0166]] 1727 南宋襍事詩 NánSòng záshì shī *Miscellaneous History-Poems of the Southern Sòng*
+- [[KR4k0246]] 1727 五鳳吟 Wǔ Fèng Yín *Song of the Five Phoenixes*
+- [[KR4b0002]] 1729 蔡中郎集 Cài Zhōngláng jí *Collected Works of Cài [Yōng], Palace Attendant of the Inner Gate*
+- [[KR4f0046]] 1732 存研樓文集 Cúnyánlóu wénjí *Collected Prose from the Inkstone-Preserving Pavilion*
+- [[KR4f0047]] 1734 香屑集 Xiāngxiè jí *The Fragrant-Bits Collection*
+- [[KR4c0022]] 1736 王右丞集箋注 Wáng Yòuchéng jí jiānzhù *Annotated Collected Works of Wáng Yòu-chéng (Wáng Wéi)*
+- [[KR4f0049]] 1736 樊榭山房集 Fánxiè shānfáng jí *Collection from the Mountain-Hut at Fán-xiè*
+- [[KR4f0050]] 1736 果堂集 Guǒtáng jí *The Fruit-Hall Collection*
+- [[KR4k0240]] 1736 萬花樓 (上) Wànhuā Lóu (Shàng) *The Tower of Ten Thousand Flowers, Upper Volume*
+- [[KR4h0147]] 1738 御選唐宋文醇 Yùxuǎn Táng Sòng wén chún *Imperially Selected Distilled Táng-Sòng Prose*
+- [[KR4i0002]] 1738 文心雕龍輯註 Wénxīn diāolóng jí zhù *Collected Commentary on the Wenxin diaolong*
+- [[KR4d0081]] 1740 蘇詩補註 Sū shī bǔzhù *Supplementary Annotation on Sū [Shì]'s Poetry*
+- [[KR4h0167]] 1741 宋百家詩存 Sòng bǎijiā shī cún *Surviving Poetry of One Hundred Sòng Houses*
+- [[KR4f0055]] 1742 鮚埼亭詩集 Jíqítíng shījí *The Jí-qí Pavilion Poetry Collection*
+- [[KR4k0228]] 1742 說唐全傳 Shuō Táng Quánzhuàn *The Complete Chronicle of the Tang Dynasty*
+- [[KR4k0229]] 1742 說岳全傳 Shuō Yuè Quánzhuàn *The Complete Chronicle of Yue Fei*
+- [[KR4i0062]] 1743 宋詩紀事 Sòng shī jìshì *Records of Anecdotes attaching to Sòng Poetry*
+- [[KR4f0003]] 1744 御製樂善堂全集定本 Yùzhì Lèshàntáng quánjí dìngběn *Authorized Edition of the Imperial Collected Works from the Hall of Pleasure in Goodness*
+- [[KR4f0054]] 1745 鮚埼亭集 Jíqítíng jí *The Jí-qí Pavilion Collection*
+- [[KR4k0212]] 1745 儒林外史 Rúlín Wàishǐ *The Scholars (Unofficial History of the Literati)*
+- [[KR4h0149]] 1747 皇清文頴 HuángQīng wényǐng *Refined Prose of the August Qīng*
+- [[KR4j0071]] 1748 絕妙好詞箋 Juémiào hǎocí jiān *Annotated Selected Marvellous Lyrics*
+- [[KR4h0148]] 1750 御選唐宋詩醇 Yùxuǎn Táng Sòng shī chún *Imperially Selected Distilled Táng-Sòng Poetry*
+- [[KR4k0104]] 1750 二度梅全傳 Èrdù Méi Quánzhuàn *The Complete Tale of the Plum Blossoms Twice in Bloom*
+- [[KR4k0145]] 1750 花案奇聞 Huā Àn Qíwén *Strange Tales of the Flower Case*
+- [[KR4k0150]] 1750 狐狸緣全傳 Húlí Yuán Quánzhuàn *The Complete Tale of the Fox's Bond*
+- [[KR4k0178]] 1750 列女驚魂傳 Lièn Jīnghún Zhuàn *Tales of Heroic Women Who Startled Souls*
+- [[KR4k0167]] 1751 快士傳 Kuàishì Zhuàn *The Tale of the Admirable Man*
+- [[KR4h0006]] 1757 玉臺新詠考異 Yùtái xīnyǒng kǎoyì *Variant-Readings Investigation of the *Yùtái xīnyǒng**
+- [[KR4k0282]] 1757 綠野仙蹤 Lǜ Yě Xiān Zōng *Immortal Traces in the Green Wilds*
+- [[KR4b0015]] 1758 江文通集 Jiāng Wéntōng jí *Collected Works of Jiāng [Yān] Wéntōng*
+- [[KR4c0014]] 1758 李太白集注 Lǐ Tàibái jí zhù *Annotated Collected Works of Lǐ Tài-bái (Lǐ Bái), with Commentary by Wáng Qí*
+- [[KR4f0053]] 1761 戴東原集 Dài Dōngyuán jí *The Collected Works of Dài Dōng-yuán (Dài Zhèn)*
+- [[KR4i0063]] 1762 全閩詩話 Quánmǐn shīhuà *Complete Remarks on the Poetry of Mǐn (Fújiàn)*
+- [[KR4i0064]] 1764 五代詩話 Wǔdài shīhuà *Remarks on Poetry of the Five Dynasties*
+- [[KR4f0005]] 1765 御製詩集 Yùzhì shījí *Imperial Poetry Collection (of the Qiánlóng Emperor)*
+- [[KR4k0110]] 1766 飛龍全傳 Fēilóng Quánzhuàn *The Complete Tale of the Flying Dragon*
+- [[KR4k0131]] 1766 紅樓夢 Hónglóu Mèng *Dream of the Red Chamber*
+- [[KR4k0242]] 1766 武則天四大奇案 Wǔ Zétiān Sì Dà Qí Àn *Four Great Strange Cases Under Empress Wu Zetian*
+- [[KR4f0004]] 1767 御製文集 Yùzhì wénjí *Imperial Prose Compositions (of the Qiánlóng Emperor)*
+- [[KR4f0061]] 1767 容甫先生遺詩 Róngfǔ xiānshēng yíshī *Surviving Verse of Master Róng-fǔ (Wāng Zhōng)*
+- [[KR4f0058]] 1772 抱經堂文集 Bàojīngtáng wénjí *Collected Prose from the Hall of Embracing the Classics*
+- [[KR4k0266]] 1775 雪月梅 Xuě Yuè Méi *Snow, Moon, and Plum*
+- [[KR4f0059]] 1777 潛研堂文集 Qiányántáng wénjí *Collected Prose from the Hall of Submerged Research*
+- [[KR4f0060]] 1782 述學內篇 Shùxué nèipiān *Inner Chapters of (My) Account of Learning*
+- [[KR4k0292]] 1782 駐春園小史 Zhù Chūn Yuán Xiǎo Shǐ *A Minor History of the Garden Where Spring Stays*
+- [[KR4a0006]] 1783 欽定補繪蕭雲從離騷全圖 Qīndìng bǔhuì Xiāo Yúncóng Lísāo quántú *Imperially-Commissioned Supplementary Painting of Xiao Yuncong's Complete Illustrations of the Lí sāo*
+- [[KR4k0197]] 1783 歧路燈 Qílù Dēng *A Lamp on the Forking Road*
+- [[KR4j0091]] 1784 欽定四庫全書考證 Qīndìng Sìkù quánshū kǎozhèng *Imperially Established Sìkù Quánshū Textual Verifications*
+- [[KR4f0052]] 1785 惜抱軒文集 Xībàoxuān wénjí *Collected Prose from the Studio of Treasuring (Antiquity)*
+- [[KR4h0151]] 1785 欽定千叟宴詩 Qīndìng Qiānsǒu yàn shī *Imperially Authorized Poems of the Banquet of the Thousand Elders*
+- [[KR4f0056]] 1789 洪北江詩文集 Hóng Běijiāng shīwénjí *The Combined Poetry and Prose Collection of Hóng (Liàng-jí, of) Běi-jiāng*
+- [[KR4f0066]] 1793 茗柯文初編 Míngkē wén chūbiān *Míng-kē Prose, Initial Edition*
+- [[KR4f0067]] 1793 茗柯文補編 Míngkē wén bǔbiān *Míng-kē Prose, Supplementary Edition*
+- [[KR4k0284]] 1793 閱微草堂筆記 Yuèwēi Cǎotáng Bǐjì *Random Jottings from the Hut for Examining the Subtle*
+- [[KR4k0120]] 1795 鬼谷四友志 Guǐgǔ Sì Yǒu Zhì *Records of the Four Friends of Guigu*
+- [[KR4f0057]] 1796 孫淵如詩文集 Sūn Yuānrú shīwénjí *The Combined Poetry and Prose Collection of Sūn (Xīng-yǎn) Yuān-rú*
+- [[KR4k0222]] 1796 蜃樓志全傳 Shèn Lóu Zhì Quánzhuàn *The Complete Chronicle of the Mirage Tower*
+- [[KR4k0140]] 1798 續紅樓夢 Xù Hónglóumèng *Continuation of the Dream of the Red Chamber*
+- [[KR4k0133]] 1799 紅樓複夢 Hónglóu Fùmèng *Resuming the Dream of the Red Chamber*
+
+### KR5 (52)
+
+- [[KR5i0021]] 1700 玉清贊化九天演政心印集經 Yù qīng zàn huà jiǔ tiān yǎn zhèng xīn yìn jí jīng *Mind-Seal Collected Scripture -- Aiding the Transformation of Jade-Purity, Performing the Governance of the Nine Heavens*
+- [[KR5i0022]] 1700 玉清贊化九天演政心印寶懺 Yù qīng zàn huà jiǔ tiān yǎn zhèng xīn yìn bǎo chàn *Precious Repentance for the Mind-Seal -- Aiding the Transformation of Jade-Purity, Performing the Governance of the Nine Heavens*
+- [[KR5i0023]] 1700 先天斗帝敕演無上玄功靈妙真經 Xiān tiān dòu dì chì yǎn wú shàng xuán gōng líng miào zhēn jīng *The True Scripture of the Highest Mysterious Work and Numinous Wonder, by Imperial Decree Performed of the Pre-Cosmic Dipper Emperor*
+- [[KR5i0024]] 1700 九皇斗姥戒殺延生真經 Jiǔ huáng dòu mǔ jiè shā yán shēng zhēn jīng *True Scripture of the Nine August Ones and the Mother of the Dipper, on the Forbidding of Killing and the Extending of Life*
+- [[KR5i0025]] 1700 觀音大士蓮船經 Guān yīn dà shì lián chuán jīng *The Bodhisattva of Sound-Perception's Lotus-Boat Scripture*
+- [[KR5i0026]] 1700 九皇新經註解 Jiǔ huáng xīn jīng zhù jiě *Annotated Exposition of the New Scripture of the Nine August Ones*
+- [[KR5i0043]] 1700 葛仙翁太極沖玄至道心傳 Gě xiān wēng tài jí chōng xuán zhì dào xīn chuán *Heart-Transmission of the Supreme Way's Pole-of-the-All-Penetrating-Mystery, by the Immortal Patriarch Gě*
+- [[KR5i0051]] 1700 純陽三書 Chún yáng sān shū *The Three Books of Pure-Yáng*
+- [[KR5i0056]] 1700 天仙金丹心法 Tiān xiān jīn dān xīn fǎ *Heart-Method of the Heavenly-Immortals' Golden Elixir*
+- [[KR5i0073]] 1700 玉詮 Yù quán *The Jade Articulation*
+- [[KR5i0077]] 1700 三寶萬靈法懺 Sān bǎo wàn líng fǎ chàn *Repentance-Method to the Three Treasures and the Myriad Numina*
+- [[KR5i0085]] 1700 元皇大道真君救劫寶經 Yuán huáng dà dào zhēn jūn jiù jié bǎo jīng *Calamity-Saving Treasure Scripture of the Original Imperial Great-Way Perfected Lord*
+- [[KR5i0089]] 1700 關聖帝君本傳 Guān shèng dì jūn běn zhuàn *Original Biography of the Holy-Imperial Lord Guān*
+- [[KR5i0090]] 1700 清微宏範道門功課 Qīng wēi hóng fàn dào mén gōng kè *Daily Ritual-Course of the Daoist Order, Pure-Subtle Broad-Standard*
+- [[KR5i0091]] 1700 太上玄門功課經 Tài shàng xuán mén gōng kè jīng *Most-High Mystery-Gate Daily-Course Scripture*
+- [[KR5i0096]] 1700 警世功過格 Jǐng shì gōng guò gé *World-Warning Merit-and-Demerit Ledger*
+- [[KR5i0103]] 1700 青城山記 Qīng chéng shān jì *Records of Mount Qīng-chéng*
+- [[KR5i0104]] 1700 太上無極大道延壽集福消劫寶懺 Tài shàng wú jí dà dào yán shòu jí fú xiāo jié bǎo chàn *Treasure-Repentance of the Most-High Limitless Great-Way for Extending Life, Gathering Fortune, and Dispelling Calamity*
+- [[KR5i0107]] 1700 太上無極大道三十六部尊經 (啟請科儀) Tài shàng wú jí dà dào sān shí liù bù zūn jīng (qǐ qǐng kē yí) *Liturgical Programme for Petitioning the Most-High Limitless Great-Way's Thirty-Six Honoured Scriptures*
+- [[KR5i0108]] 1700 太上無極太道三十六部尊經註解 Tài shàng wú jí tài dào sān shí liù bù zūn jīng zhù jiě *Annotated Exposition of the Most-High Limitless Great-Way's Thirty-Six Honoured Scriptures*
+- [[KR5i0109]] 1700 女丹合編 Nǚ dān hé biān *Combined Edition of Female Inner-Alchemy*
+- [[KR5i0003]] 1709 元始大洞玉經 Yuán shǐ dà dòng yù jīng *Yuán-shǐ's Great-Cavern Jade Scripture*
+- [[KR5i0069]] 1715 金丹要訣 Jīn dān yào jué *Essential Formulas of the Golden Elixir*
+- [[KR5i0046]] 1720 金華宗旨 Jīn huá zōng zhǐ *Purport of the Golden Flower*
+- [[KR5i0005]] 1725 太上玄元道德經解 Tài shàng xuán yuán dào dé jīng jiě *Exposition of the Most-High Mysterious-Origin Way-and-Power Scripture*
+- [[KR5i0011]] 1725 黃庭內景經 Huáng tíng nèi jǐng jīng *Scripture of the Inner Effulgence of the Yellow Court*
+- [[KR5i0012]] 1725 黃庭外景經 Huáng tíng wài jǐng jīng *Scripture of the Outer Effulgence of the Yellow Court*
+- [[KR5i0018]] 1725 終南八祖說心印妙經解 Zhōng nán bā zǔ shuō xīn yìn miào jīng jiě *Exposition of the Mind-Seal Wondrous Scripture, Spoken by the Eight Patriarchs of the Southern-Marchmount-Terminus*
+- [[KR5i0027]] 1725 玄宗正旨 Xuán zōng zhèng zhǐ *Orthodox Purport of the Mystery Lineage*
+- [[KR5i0044]] 1725 十六品經 Shí liù pǐn jīng *Sixteen-Section Scripture*
+- [[KR5i0047]] 1725 同參經 Tóng cān jīng *Scripture of Joint Investigation*
+- [[KR5i0048]] 1725 五經合編 Wǔ jīng hé biān *Five Scriptures in Combined Edition*
+- [[KR5i0049]] 1725 呂帝文集 Lǚ dì wén jí *Collected Prose Writings of the Imperial Lord Lǚ*
+- [[KR5i0050]] 1725 呂帝詩集 Lǚ dì shī jí *Collected Verse of the Imperial Lord Lǚ*
+- [[KR5i0052]] 1725 易說 Yì shuō *Discussion of the Yì*
+- [[KR5i0053]] 1725 語錄大觀 Yǔ lù dà guān *Comprehensive Compendium of Recorded Sayings*
+- [[KR5i0054]] 1725 微言摘要 Wēi yán zhāi yào *Selected Subtle Sayings*
+- [[KR5i0055]] 1725 呂帝聖蹟紀要 Lǚ dì shèng jì jì yào *Essential Records of the Imperial Lord Lǚ's Sacred Traces*
+- [[KR5i0057]] 1725 東園語錄 Dōng yuán yǔ lù *Recorded Sayings from the Eastern Garden*
+- [[KR5i0076]] 1725 懺法大觀 Chàn fǎ dà guān *Comprehensive Survey of Repentance Methods*
+- [[KR5i0095]] 1725 十戒功過格 Shí jiè gōng guò gé *Ten-Precepts Merit-and-Demerit Ledger*
+- [[KR5i0097]] 1725 三壇圓滿天仙大戒略說 Sān tán yuán mǎn tiān xiān dà jiè lüè shuō *Brief Discussion of the Heavenly-Immortals' Great-Precepts at the Three-Altar Round-Fullness*
+- [[KR5i0030]] 1727 唱道真言 Chàng dào zhēn yán *Chanting-the-Way True Sayings*
+- [[KR5i0072]] 1731 養真集 Yǎng zhēn jí *Collected Writings on Nourishing the Real*
+- [[KR5i0086]] 1734 文昌延嗣經 Wén chāng yán sì jīng *Wén-chāng's Scripture for Extending the Heir-Lineage*
+- [[KR5i0013]] 1735 太上感應篇箋注 Tài shàng gǎn yìng piān jiān zhù *Annotated Glosses on the Most-High's Stimulus-Response Tract*
+- [[KR5i0045]] 1745 呂祖本傳 Lǚ zǔ běn zhuàn *Original Biography of the Patriarch Lǚ*
+- [[KR5c0077]] 1760 道德經註 Dàodé jīng zhù *Commentary on the Dàodé jīng*
+- [[KR5i0094]] 1764 雅宜集 Yǎ yí jí *Collection of Refined-Suitability*
+- [[KR5i0033]] 1772 陰符玄解 Yīn fú xuán jiě *Mysterious Exposition of the Yīn-Fú Scripture*
+- [[KR5i0075]] 1775 心傳述證錄 Xīn chuán shù zhèng lù *Record of Narration-and-Verification of the Heart-Transmission*
+- [[KR5i0106]] 1775 青玄濟煉鐵罐斛食 Qīng xuán jì liàn tiě guàn hú shí *The Complete Iron-Pot Food-of-Hu Ritual Programme of the Pure-Mystery Salvation-Refinement Tradition*
+
+### KR6 (145)
+
+- [[KR6c0190]] 1700 般若心經註解 Bōrě xīnjīng zhùjiě *Annotated Explication of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6d0174]] 1700 四教儀註彙補輔宏記 Sìjiào yí zhù huìbǔ fǔhóng jì *Compiled-and-Supplemented Auxiliary-Wide Notes on the Annotated Four-Doctrines Manual*
+- [[KR6i0374]] 1700 盂蘭盆經略疏 Yúlánpén jīng lüèshū *Abbreviated Commentary on the Yúlánpén Sūtra*
+- [[KR6p0030]] 1700 阿彌陀經摘要易解 Ēmítuó jīng zhāiyào yìjiě *An Abridged and Accessible Exegesis of the Smaller Amitābha-sūtra*
+- [[KR6p0090]] 1700 淨土旨訣 Jìngtǔ zhǐjué *Essential Instructions on the Pure Land*
+- [[KR6p0095]] 1700 淨土全書 Jìngtǔ quánshū *Complete Book of the Pure Land*
+- [[KR6p0096]] 1700 角虎集 Jiǎohǔ jí *The Anthology of the Horned Tiger*
+- [[KR6p0127]] 1700 影響集 Yǐngxiǎng jí *Anthology of Shadows and Echoes*
+- [[KR6p0133]] 1700 普能嵩禪師淨土詩 Pǔnéng Sōng chánshī jìngtǔ shī *Pure Land Verses of Chán Master Pǔ-néng Sōng*
+- [[KR6r0023]] 1700 西藏剌麻溯源 Xīzàng Lǎmá sùyuán *Tracing the Origins of the Tibetan Lamas*
+- [[KR6r0050]] 1700 得依釋序文緣起 Dé yī shì xùwén yuánqǐ *Account of the Origins of the Preface to the Authorised Commentary*
+- [[KR6t0248]] 1700 讀書二十二則 Dúshū èrshíèr zé *Twenty-Two Rules for Reading*
+- [[KR6d0092]] 1702 法華經科拾懸談卷首 Fǎhuá jīng kēshí xuántán juànshǒu *Front-Matter Hanging-Discussion of the Sectional-Gleanings on the Lotus Sūtra*
+- [[KR6d0093]] 1702 法華經科拾科 Fǎhuá jīng kēshí kē *Sectional Analysis of the Sectional-Gleanings on the Lotus Sūtra*
+- [[KR6d0094]] 1702 法華經科拾 Fǎhuá jīng kēshí *Sectional-Gleanings on the Lotus Sūtra*
+- [[KR6p0012]] 1702 觀無量壽經直指疏 Guānwúliángshòu jīng zhízhǐshū *Direct-Pointing Commentary on the Sūtra on the Contemplation of Amitāyus*
+- [[KR6p0026]] 1702 阿彌陀經略註 Ēmítuó jīng lüèzhù *Brief Annotations on the Smaller Amitābha-sūtra*
+- [[KR6t0305]] 1702 禪戒訣 Chánjiè jué *Essentials of the Zen Precepts*
+- [[KR6q0233]] 1703 別菴禪師同門錄 Biéān chánshī tóng mén lù *Same-Gate Record of Chán Master Biéān*
+- [[KR6r0112]] 1703 緇門世譜 Zīmén shìpǔ *Generational Genealogy of the Black-Robed Sangha*
+- [[KR6t0391]] 1703 融通圓門章 Róngtōng yuánmén zhāng *Treatise on the Perfect Gate of Interpenetration*
+- [[KR6d0086]] 1704 法華經大成音義 Fǎhuá jīng dàchéng yīnyì *Phonetic-and-Meaning Glossary of the Lotus Sūtra Great Consummation*
+- [[KR6k0228]] 1704 沙彌律儀要略述義 Shāmí lǜyí yàolüè shùyì *An Exposition of the Meaning of the Essential Outline of the Vinaya Code for Novices*
+- [[KR6j0733]] 1705 佛頂尊勝陀羅尼經釋 Fódǐng zūnshèng tuóluóní jīng shì *Explication of the Buddhoṣṇīṣa-vijaya-dhāraṇī Sūtra*
+- [[KR6q0591]] 1705 昭覺竹峰續禪師語錄 Zhāojué Zhúfēng Xù chánshī yǔlù *Recorded Sayings of Chán Master Zhú-fēng Xù of Zhāo-jué [-sì]*
+- [[KR6d0084]] 1706 法華經大成科 Fǎhuá jīng dàchéng kē *Sectional Analysis of the Lotus Sūtra Great Consummation*
+- [[KR6d0115]] 1706 金剛三昧經通宗記 Jīngāng sānmèi jīng tōngzōng jì *Lineage-Penetrating Notes on the Vajrasamādhi-Sūtra*
+- [[KR6j0719]] 1706 楞嚴經勢至圓通章疏鈔 Lèngyán jīng shìzhì yuántōng zhāng shūchāo *Commentary-and-Subcommentary on the "Mahāsthāmaprāpta Universal-Penetration Chapter" of the Śūraṃgama-sūtra*
+- [[KR6j0737]] 1706 觀自在菩薩如意心陀羅尼經略疏 Guānzìzài púsà rúyìxīn tuóluóní jīng lüèshū *Abridged Commentary on the Avalokiteśvara Wish-Heart Dhāraṇī Sūtra*
+- [[KR6q0164]] 1706 牧牛圖頌 Mùniú tú sòng *Pictures of Ox-Herding, with Verses*
+- [[KR6k0229]] 1707 二部僧授戒儀式 Èrbù sēng shòujiè yíshì *The Procedural Code for the Dual-Saṅgha Conferral of Precepts*
+- [[KR6d0057]] 1708 觀音經普門品膚說 Guānyīn jīng pǔmén pǐn fūshuō *Surface Discussion of the Pǔmén Chapter of the Guānyīn Sūtra*
+- [[KR6q0025]] 1708 揞黑豆集 Ǎn hēidòu jí *Collection of Pressing Black Beans*
+- [[KR6q0211]] 1709 大懺悔文略解 Dà chàn huǐ wén lüè jiě *Brief Exposition of the Great Repentance Text*
+- [[KR6q0260]] 1712 古尊宿語錄目錄 Gǔ zūnsù yǔlù mùlù *Table of Contents for the Sayings of the Ancient Venerable Masters*
+- [[KR6q0262]] 1712 古尊宿語要目錄 Gǔ zūnsù yǔyào mùlù *Table of Contents for the Essential Sayings of the Ancient Venerable Masters*
+- [[KR6q0264]] 1712 續古尊宿語要目錄 Xù gǔ zūnsù yǔyào mùlù *Table of Contents for the Continued Essential Sayings of the Ancient Venerable Masters*
+- [[KR6r0022]] 1712 (古今圖書集成)釋教部彙考 (Gǔjīn túshū jíchéng) Shìjiàobù huìkǎo *Comprehensive Examination of the Buddhist Section [from the Compendium of Books Ancient and Modern]*
+- [[KR6q0210]] 1713 怡山禮佛發願文略釋 Yíshān lǐ fó fā yuàn wén lüè shì *Brief Exposition of Chán Master Yíshān's Vow-Text for Buddha-Worship*
+- [[KR6q0246]] 1713 宗鑑法林 Zōngjiàn fǎlín *Sectarian-Mirror Dharma-Forest*
+- [[KR6q0149]] 1715 禪宗直指 Chánzōng zhí zhǐ *Direct Pointing of the Chán School*
+- [[KR6q0594]] 1715 鑑堂一禪師語錄 Jiàntáng Yī chánshī yǔlù *Recorded Sayings of Chán Master Jiàn-táng Yī*
+- [[KR6q0595]] 1715 翠崖必禪師語錄 Cuìyá Bì chánshī yǔlù *Recorded Sayings of Chán Master Cuì-yá Bì*
+- [[KR6q0596]] 1715 斗南暐禪師語錄 Dǒunán Wěi chánshī yǔlù *Recorded Sayings of Chán Master Dǒu-nán Wěi*
+- [[KR6k0201]] 1718 舍利懺法 Shèlì chànfǎ *A Repentance Liturgy for the Buddha-Relics*
+- [[KR6k0262]] 1719 戒殺四十八問 Jièshā sìshíbā wèn *Forty-Eight Questions on the Precept Against Killing*
+- [[KR6p0092]] 1719 西歸直指 Xīguī zhízhǐ *Direct Pointing to the Westward Return [to the Pure Land]*
+- [[KR6p0120]] 1719 啟信雜說 Qǐxìn zá shuō *Miscellaneous Discourses for Awakening Faith*
+- [[KR6c0085]] 1720 金剛經石注 Jīngāng jīng Shí zhù *The Diamond Sūtra -- Shí's Annotation*
+- [[KR6c0188]] 1720 般若心經句解易知 Bōrě xīnjīng jùjiě yìzhī *"Phrase-by-Phrase Easily-Knowable" Heart of the Perfection of Wisdom Sūtra Commentary*
+- [[KR6c0082]] 1721 金剛經註釋 Jīngāng jīng zhùshì *Annotated Diamond Sūtra*
+- [[KR6j0029]] 1721 金剛頂大教王經私記 Jīngāngdǐng dàjiàowáng jīng sījì *Private Notes on the Great-Teaching-King Sūtra of the Vajraśekhara*
+- [[KR6t0163]] 1721 大日經教主義 Dàrì jīng jiàozhǔ yì *The Meaning of the Mahāvairocana-sūtra's Teaching-Master*
+- [[KR6l0025]] 1723 阿毘達磨倶舍論指要鈔 Āpídámó Jùshě Lùn Zhǐyào Chāo *Notes Pointing to the Essentials of the Abhidharmakośa-bhāṣya*
+- [[KR6n0028]] 1723 成唯識論述記集成編 Chéng wéishí lùn shùjì jíchéng biān *Comprehensive Compilation on the Cheng weishi lun shuji*
+- [[KR6p0087]] 1724 西方發願文註 Xīfāng fāyuàn wén zhù *Annotated Commentary on the [Yúnqī Zhūhóng] Vow-Text for the Western [Pure Land]*
+- [[KR6p0097]] 1724 東海若解 Dōnghǎi ruò jiě *Commentary on the* Dōng-hǎi Ruò *[Allegory]*
+- [[KR6t0040]] 1725 華嚴五教章匡眞鈔 Huāyán wǔjiào zhāng kuāngzhēn chāo *Truth-Correcting Compendium on Fa-zang's Avataṃsaka Five-Teachings Treatise*
+- [[KR6t0392]] 1725 器朴論 Qìpǔ lùn *Treatise on the Vessel and the Unhewn [Wood]*
+- [[KR6j0669]] 1726 大日經住心品疏私記 Dàrì jīng zhùxīnpǐn shū sījì *Private Notes on the Stages-of-Mind Chapter of the Mahāvairocana-sūtra Commentary*
+- [[KR6r0183]] 1726 (古今圖書集成)神異典二氏部彙考 (Gǔjīn túshū jíchéng) Shényì diǎn èrshì bù huìkǎo *[From the* Gǔjīn túshū jíchéng*]: Section on the "Two Doctrines" [Buddhism and Daoism] within the* Shén-yì *Compendium — Investigations Compiled*
+- [[KR6r0184]] 1726 (古今圖書集成)神異典釋教部紀事 (Gǔjīn túshū jíchéng) Shényì diǎn shìjiào bù jìshì *[From the* Gǔ-jīn tú-shū jí-chéng*]: Section on Buddhism within the* Shén-yì *Compendium — Recorded Events*
+- [[KR6b0009]] 1728 大乘本生心地觀經淺註懸示 Dàshèng běnshēng xīndìguān jīng qiǎnzhù xuánshì *Prefatory Outline to the Shallow Notes on the Mahāyāna Mind-Ground Sūtra*
+- [[KR6b0010]] 1728 大乘本生心地觀經淺註科文 Dàshèng běnshēng xīndìguān jīng qiǎnzhù kēwén *Topical-Outline (Kē-wén) to the Shallow Notes on the Mahāyāna Mind-Ground Sūtra*
+- [[KR6b0011]] 1728 大乘本生心地觀經淺註 Dàshèng běnshēng xīndìguān jīng qiǎnzhù *Shallow Notes on the Mahāyāna Mind-Ground Sūtra*
+- [[KR6t0021]] 1729 有宗七十五法記 Yǒuzōng qīshíwǔ fǎ jì *Records on the Seventy-Five Dharmas of the [Sarvāstivāda] School of Existence*
+- [[KR6t0325]] 1729 蓮門學則 Liánmén xuézé *Curriculum of the Lotus Gate*
+- [[KR6q0599]] 1730 磬山牧亭樸夫拙禪師語錄 Qìngshān Mùtíng Pǔfū Zhuō chánshī yǔlù *Recorded Sayings of Chán Master Mù-tíng Pǔ-fū Zhuō of Qìng-shān*
+- [[KR6d0085]] 1732 法華經大成 Fǎhuá jīng dàchéng *The Great Consummation of the Lotus Sūtra*
+- [[KR6s0070]] 1732 御錄宗鏡大綱 Yùlù Zōngjìng dàgāng *Imperially Edited Abridgment of the Zōng-jìng-lù*
+- [[KR6s0071]] 1732 御錄經海一滴 Yùlù jīnghǎi yī dī *Imperially Edited -- A Single Drop from the Sūtra-Sea*
+- [[KR6t0306]] 1732 報恩編 Bàoēn biān *Compendium of Repaying Kindness*
+- [[KR6s0069]] 1733 御選語錄 Yùxuǎn yǔlù *Imperially Selected Recorded Sayings*
+- [[KR6r0170]] 1734 伯亭大師傳記總帙 Bótíng dàshī chuánjì zǒngzhì *Total Folio of Biographical Records of the Great Master Bó-tíng*
+- [[KR6s0009]] 1734 重訂教乘法數（選錄序文） Chóngdìng jiàoshèng fǎshù (xuǎnlù xùwén) *The Re-Edited Numerical Categories of the Teaching-Vehicle (Selected Prefatory Material Only)*
+- [[KR6s0068]] 1734 御製揀魔辨異錄 Yùzhì jiǎnmó biànyì lù *Imperially Composed -- A Record on Selecting the Demonic and Discriminating the Heretical*
+- [[KR6t0307]] 1735 禪戒鈔 Chánjiè chāo *Notes on the Zen Precepts*
+- [[KR6c0091]] 1736 金剛經注解 Jīngāng jīng zhùjiě *Annotated Diamond Sūtra*
+- [[KR6c0195]] 1736 般若心經註解 Bōrě xīnjīng zhùjiě *Annotated Explication of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6q0066]] 1737 筠州洞山悟本禪師語錄 Jūnzhōu Dòngshān Wùběn chánshī yǔlù *Recorded Sayings of Chán Master Wùběn of Dòngshān in Jūnzhōu*
+- [[KR6t0309]] 1737 荒田隨筆 Huāngtián suíbǐ *Random Notes from a Wild Field*
+- [[KR6q0068]] 1738 撫州曹山元證禪師語錄 Fǔzhōu Cáoshān Yuánzhèng chánshī yǔlù *Recorded Sayings of Chán Master Yuánzhèng of Cáoshān in Fǔzhōu*
+- [[KR6j0722]] 1740 楞嚴經寶鏡疏科文 Lèngyán jīng bǎojìng shū kēwén *Outline of the "Precious-Mirror" Commentary on the Śūraṃgama-sūtra*
+- [[KR6j0723]] 1740 楞嚴經寶鏡疏懸談 Lèngyán jīng bǎojìng shū xuántán *"Suspended Discussion" Prolegomenon to the "Precious-Mirror" Commentary on the Śūraṃgama-sūtra*
+- [[KR6j0724]] 1740 楞嚴經寶鏡疏 Lèngyán jīng bǎojìng shū *"Precious-Mirror" Commentary on the Śūraṃgama-sūtra*
+- [[KR6q0069]] 1741 撫州曹山本寂禪師語錄 Fǔzhōu Cáoshān Běnjì chánshī yǔlù *Recorded Sayings of Chán Master Běnjì of Cáoshān in Fǔzhōu*
+- [[KR6t0119]] 1741 遮那業學則 Zhēnàyè xuézé *Curricular Regulations for the Vairocana-Discipline*
+- [[KR6j0659]] 1742 造像量度經 Zàoxiàng liángdù jīng *Sūtra of Image-Construction Measurements (Citralakṣaṇa)*
+- [[KR6c0093]] 1748 金剛經心印疏 Jīngāng jīng xīnyìn shū *The Diamond Sūtra -- Mind-Seal Commentary*
+- [[KR6t0280]] 1749 槐安國語 Huáiānguó yǔ *Words of the Country of Locust-Tree Peace*
+- [[KR6j0099]] 1750 藥師七佛供養儀軌如意王經 Yàoshī qī fó gòngyǎng yíguǐ rúyìwáng jīng *Sūtra of the Wish-Fulfilling-King Offering Ritual for the Seven Bhaiṣajyaguru Buddhas*
+- [[KR6j0100]] 1750 修藥師儀軌布壇法 Xiū Yàoshī yíguǐ bùtán fǎ *Method of Mandala-Construction for the Practice of the Bhaiṣajyaguru Ritual*
+- [[KR6j0107]] 1750 極樂願文 Jílè yuànwén *Aspiration Prayer for [Rebirth in] the Land of Bliss (Sukhāvatī)*
+- [[KR6j0114]] 1750 釋迦佛讚 Shìjiā fó zàn *Verse-Praise of Śākyamuni Buddha*
+- [[KR6j0319]] 1750 白救度佛母讚 Bái jiùdù Fómǔ zàn *Praise of the White Saviouress Buddha-Mother*
+- [[KR6j0361]] 1750 佛說彌勒菩薩發願王偈 Fóshuō Mílè púsà fāyuànwáng jì *Verses of the Vow-King Aspiration of the Bodhisattva Maitreya*
+- [[KR6j0658]] 1750 佛說造像量度經解 Fó shuō Zàoxiàng liángdù jīng jiě *Commentary on the Sūtra of Image-Construction Measurements*
+- [[KR6p0105]] 1750 勸修淨土切要 Quàn xiū jìngtǔ qièyào *Pressing Essentials in Persuading [Beings] to Cultivate the Pure Land*
+- [[KR6t0310]] 1750 建康普説 Jiànkāng pǔshuō *Public Talks at Kenkō[-zan]*
+- [[KR6t0308]] 1755 心學典論 Xīnxué diǎnlùn *Canonical Treatise on Mind-Learning*
+- [[KR6c0086]] 1758 金剛經正解 Jīngāng jīng zhèngjiě *Correct Explanation of the Diamond Sūtra*
+- [[KR6n0021]] 1760 成唯識論略疏 Chéng wéishí lùn lüèshū *Abridged Commentary on the Cheng weishi lun, with Preliminary Discussion*
+- [[KR6n0062]] 1760 攝大乘論釋略疏 Shè dàshèng lùn shì lüèshū *Abridged Commentary on the Mahāyāna-saṃgraha-bhāṣya*
+- [[KR6r0181]] 1761 金剛經感應分類輯要 Jīngāngjīng gǎnyìng fēnlèi jíyào *Selected Essentials of [Tales of] Sympathetic Response to the* Diamond Sūtra, *Classified by Type*
+- [[KR6c0075]] 1762 金剛新眼疏經偈合釋 Jīngāng xīnyǎn shū jīngjiē héshì *Diamond New-Eye Commentary -- Joint Explanation of Sūtra and Verses*
+- [[KR6l0027]] 1763 阿毘達磨倶舍論稽古 Āpídámó Jùshě Lùn Jīgǔ *Investigating Antiquity on the Abhidharmakośa-bhāṣya*
+- [[KR6p0098]] 1765 省菴法師語錄 Xǐng'ān fǎshī yǔlù *Recorded Sayings of Master Xǐng'ān*
+- [[KR6d0095]] 1766 法華經指掌疏科文 Fǎhuá jīng zhǐzhǎng shū kēwén *Sectional Analysis of the Pointing-the-Palm Subcommentary on the Lotus Sūtra*
+- [[KR6d0096]] 1766 法華經指掌疏懸示 Fǎhuá jīng zhǐzhǎng shū xuánshì *Hanging-Display of the Pointing-the-Palm Subcommentary on the Lotus Sūtra*
+- [[KR6d0097]] 1766 法華經指掌疏 Fǎhuá jīng zhǐzhǎng shū *Pointing-the-Palm Subcommentary on the Lotus Sūtra*
+- [[KR6d0098]] 1766 法華經指掌疏事義 Fǎhuá jīng zhǐzhǎng shū shìyì *Matters-and-Meanings of the Pointing-the-Palm Subcommentary on the Lotus Sūtra*
+- [[KR6i0574]] 1766 圓覺經析義疏 Yuánjué jīng xīyì shū *Commentary "Analysing the Meaning" on the Sūtra of Perfect Enlightenment*
+- [[KR6p0131]] 1767 瓊樓吟稿節鈔 Qiónglóu yíngǎo jiéchāo *A Selected Excerpt of the Jade-Tower Recitation Drafts*
+- [[KR6o0011]] 1770 因明大疏融貫鈔 Yīnmíng dàshū róngguàn chāo *A Harmonising Digest of the Great Commentary on the Hetuvidyā Treatise*
+- [[KR6t0012]] 1770 大乘一切法相玄論 Dàchéng yīqiè fǎxiāng xuánlùn *The Mysterious Treatise on All the Phenomenal Categories of the Mahāyāna*
+- [[KR6j0715]] 1772 楞嚴經指掌疏懸示 Lèngyán jīng zhǐzhǎng shū xuánshì *Preliminary Indications of the "Pointing-to-the-Palm" Commentary on the Śūraṃgama-sūtra*
+- [[KR6j0716]] 1772 楞嚴經指掌疏 Lèngyán jīng zhǐzhǎng shū *"Pointing-to-the-Palm" Commentary on the Śūraṃgama-sūtra*
+- [[KR6j0717]] 1772 楞嚴經指掌疏事義 Lèngyán jīng zhǐzhǎng shū shìyì *"Particular-Point Notes" to the "Pointing-to-the-Palm" Commentary on the Śūraṃgama-sūtra*
+- [[KR6r0185]] 1772 居士傳 Jūshì zhuàn *Biographies of Lay Buddhists*
+- [[KR6p0128]] 1773 二林唱和詩 Èrlín chànghé shī *Antiphonal Verses of the Èr-lín Circle*
+- [[KR6c0088]] 1775 金剛經法眼註疏 Jīngāng jīng fǎyǎn zhùshū *The Diamond Sūtra -- Dharma-Eye Annotated Commentary*
+- [[KR6t0247]] 1775 祕密因縁管絃相成義 Mìmì yīnyuán guǎnxián xiāngchéng yì *The Doctrine of the Secret Cause-and-Condition Pipe-and-String Reciprocal Completion*
+- [[KR6t0281]] 1775 宗門無盡燈論 Zōngmén wújìn dēng lùn *Treatise on the Inexhaustible Lamp of the Lineage*
+- [[KR6p0129]] 1777 觀河集節鈔 Guānhé jí jiéchāo *A Selected Excerpt of the Anthology of Contemplating the [Heng] River*
+- [[KR6p0130]] 1777 測海集節鈔 Cèhǎi jí jiéchāo *A Selected Excerpt of the Anthology of Sounding the Sea*
+- [[KR6c0087]] 1779 金剛經法眼懸判疏鈔 Jīngāng jīng fǎyǎn xuánpàn shūchāo *The Diamond Sūtra -- Dharma-Eye Hierarchical-Outline Commentary and Sub-commentary*
+- [[KR6t0082]] 1782 圓戒指掌 Yuánjiè zhǐzhǎng *The Round Precepts at One's Fingertip*
+- [[KR6e0147]] 1783 一乘決疑論 Yī chéng jué yí lùn *Treatise on Resolving Doubts about the One-Vehicle*
+- [[KR6e0148]] 1783 華嚴念佛三昧論 Huáyán niàn fó sānmèi lùn *Treatise on the Recitation-of-Buddhas Samādhi of the Huáyán*
+- [[KR6p0099]] 1783 重訂西方公據 Chóngdìng Xīfāng gōngjù *Re-edited [Anthology of] Documents on the Western [Pure Land]*
+- [[KR6p0100]] 1783 念佛警策 Niànfó jǐngcè *Admonitory Stimuli to* Niàn-fó *[Practice]*
+- [[KR6t0019]] 1783 大乘法苑義林章師子吼鈔 Dàchéng fǎyuàn yìlín zhāng shīzǐhǒu chāo *The Lion's Roar Compendium on Kuījī's Mahāyāna Yì-lín Chapters*
+- [[KR6t0351]] 1784 西山復古篇 Xīshān fùgǔ piān *A Treatise on Restoring the Old [Seizan] Tradition*
+- [[KR6k0263]] 1785 體仁要術 Tǐrén yàoshù *Essential Methods for Embodying Humaneness*
+- [[KR6p0029]] 1785 阿彌陀經直解正行 Ēmítuó jīng zhíjiě zhèngxíng *Direct Exegesis of the Smaller Amitābha-sūtra, with the Correct Practice*
+- [[KR6r0186]] 1785 善女人傳 Shànnǚrén zhuàn *Biographies of Good Women [Buddhists]*
+- [[KR6q0175]] 1787 禪宗指掌 Chán zōng zhǐ zhǎng *A Palm-Pointing Guide to the Chán School*
+- [[KR6t0422]] 1787 梵學津梁總目録 Fànxué jīnliáng zǒngmùlù **
+- [[KR6p0003]] 1788 無量壽經起信論 Wúliángshòu jīng qǐxìn lùn *Treatise Awakening Faith in the Sūtra of Immeasurable Life*
+- [[KR6p0013]] 1788 觀無量壽佛經約論 Guānwúliángshòu fó jīng yuēlùn *Concise Treatise on the Sūtra on the Contemplation of Amitāyus*
+- [[KR6p0028]] 1788 阿彌陀經約論 Ēmítuó jīng yuēlùn *Concise Treatise on the Smaller Amitābha-sūtra*
+- [[KR6r0080]] 1788 淨土聖賢錄 Jìngtǔ shèngxián lù *Records of the Saints and Worthies of the Pure Land*
+- [[KR6p0108]] 1790 淨土承恩集 Jìngtǔ chéngēn jí *The Anthology of Receiving Grace from the Pure Land*
+- [[KR6c0092]] 1795 金剛經彙纂 Jīngāng jīng huìzuǎn *Compendium of the Diamond Sūtra*
+- [[KR6l0026]] 1795 阿毘達磨倶舍論法義 Āpídámó Jùshě Lùn Fǎyì *The Doctrine of the Dharma in the Abhidharmakośa-bhāṣya*
+
+## 1800 to 1899 (571)
+
+### KR3 (429)
+
+- [[KR3ed119]] 1800 文堂集驗方 Wéntáng Jíyàn Fāng *Tested Formulas Collected at the Wéntáng Studio*
+- [[KR3ef029]] 1800 傷寒之研究 Shānghán zhī yánjiū *Researches into Cold Damage*
+- [[KR3eg009]] 1800 外感溫病篇 Wàigǎn wēnbìng piān *Chapter on Externally-Contracted Warm Disease*
+- [[KR3eg050]] 1800 羊毛瘟證論 Yángmáo wēn zhènglùn *Treatise on the Syndrome of "Sheep's-Wool Plague"*
+- [[KR3ei049]] 1800 盤珠集胎產症治 Pánzhū jí tāichǎn zhèngzhì *The Coiled-Pearl Collection on the Diagnostics and Therapy of Pregnancy and Childbirth*
+- [[KR3ei078]] 1800 胎產新書 Tāichǎn xīnshū *New Book of Pregnancy and Childbirth*
+- [[KR3em030]] 1800 重訂囊秘喉書 Chóngdìng nángmì hóushū *Revised Edition of the Secret Throat Manual from the Pouch*
+- [[KR3eo017]] 1800 壽世編 Shòushì biān *Compendium for Prolonging the Generations*
+- [[KR3eq075]] 1800 郎中醫話 Lángzhōng yīhuà *A Wandering-Doctor's Medical Conversations*
+- [[KR3er095]] 1800 醫學三信編 Yīxué sānxìn biān *A Compilation in Three Tenets on Medicine*
+- [[KR3er110]] 1800 經歷雜論序 Jīnglì zálùn xù *Preface to the Miscellaneous Discussions of Clinical Experience*
+- [[KR3eu071]] 1800 叢桂偶記 Cóngguì ǒujì *Casual Notes from the Clustered Cassia [Studio]*
+- [[KR3ej060]] 1801 痘科輯要 Dòukē jíyào *Compilation of Essentials of the Smallpox Specialty*
+- [[KR3eu068]] 1801 青囊瑣探 Qīngnáng suǒtàn *Petty Inquiries from the Green Bag*
+- [[KR3ed084]] 1802 時方歌括 Shífāng Gēkuò *Rhymed Verses on Contemporary Formulas*
+- [[KR3eq001]] 1802 藤氏醫談 Téngshì yītán *Medical Discussions of the Fujii Family*
+- [[KR3eq010]] 1802 客塵醫話 Kèchén yīhuà *Dust-of-the-Guest Medical Discourses*
+- [[KR3eq052]] 1802 醫賸 Yī shèng *Medical Remnants*
+- [[KR3ec046]] 1803 神農本草經讀 Shénnóng Běncǎo Jīng Dú *Reading the Shennong Materia Medica Classic*
+- [[KR3ed053]] 1803 時方妙用 Shífāng Miàoyòng *The Marvellous Use of Contemporary Formulas*
+- [[KR3ed098]] 1803 救急選方 Jiùjí Xuǎnfāng *Selected Formulas for Emergency Rescue*
+- [[KR3ee022]] 1803 經穴匯解 Jīngxué huìjiě *Collected Explanations of the Channel Acupoints*
+- [[KR3ep074]] 1803 齊氏醫案 Qíshì yīàn *Medical Case Records of the Qí Family*
+- [[KR3er097]] 1803 醫中一得 Yī zhōng yī dé *A Single Insight in the Medical Way*
+- [[KR3ed056]] 1804 古方彙精 Gǔfāng Huìjīng *A Distilled Conspectus of Ancient Formulas*
+- [[KR3er059]] 1804 醫學三字經 Yīxué sānzì jīng *A Three-Character Classic of Medical Learning*
+- [[KR3eu070]] 1804 生生堂治驗 Shēngshēngtáng zhìyàn *Clinical Records from the Shēng-shēng (Life-Giving) Hall*
+- [[KR3fc049]] 1804 衡齋算學 Héngzhāi suànxué *Mathematical Studies from the Héng-zhāi Studio*
+- [[KR3ef018]] 1805 傷寒論輯義 Shānghán lùn jí yì *Collected Meanings of the Treatise on Cold Damage*
+- [[KR3ef082]] 1805 金匱玉函要略輯義 Jīnguì yùhán yào lüè jí yì *Collated Meanings of the Jīnguì yùhán yào lüè*
+- [[KR3eg010]] 1805 溫病條辨 Wēnbìng tiáobiàn *Detailed Analysis of Warm Diseases*
+- [[KR3eg011]] 1805 溫病條辨 Wēnbìng tiáobiàn *Detailed Analysis of Warm Diseases (alternate recension)*
+- [[KR3ek042]] 1805 瘍科心得集 Yángkē xīndé jí *Heart-Attained Insights on Ulcer Medicine*
+- [[KR3eu064]] 1805 救急選方 Jiùjí xuǎnfāng *Selected Formulas for Emergency Rescue*
+- [[KR3fc041]] 1805 求一算術 Qiúyī suànshù *Mathematical Method of the Seeking-One Procedure*
+- [[KR3ea010]] 1806 素問識 Sùwèn shí *Identifications in the Basic Questions*
+- [[KR3ed085]] 1806 長沙方歌括 Chángshā Fāng Gēkuò *Rhymed Verses on the Chángshā [Zhòngjǐng] Formulas*
+- [[KR3eu067]] 1806 醫賸 Yī shèng *Medical Surplus (Philological Miscellany on Chinese Medical Texts)*
+- [[KR3fc050]] 1806 召誥日名考 Zhàogào rìmíng kǎo *Investigation of the Day-Names in the *Zhào-gào**
+- [[KR3fc051]] 1806 漢三統術 Hàn Sāntǒng shù *The Hàn-Dynasty Sān-tǒng Calendrical System*
+- [[KR3fc052]] 1806 漢四分術 Hàn Sìfēn shù *The Hàn-Dynasty Sì-fēn (Quarter-Day) Calendrical System*
+- [[KR3fc053]] 1806 漢乾象術 Hàn Qiánxiàng shù *The Hàn-Dynasty Qián-xiàng Calendrical System*
+- [[KR3fc054]] 1806 補修宋奉元術 Bǔxiū Sòng Fèngyuán shù *Supplementary Reconstruction of the Sòng Fèng-yuán Calendar*
+- [[KR3fc055]] 1806 補修宋占天術 Bǔxiū Sòng Zhàntiān shù *Supplementary Reconstruction of the Sòng Zhàn-tiān Calendar*
+- [[KR3fc056]] 1806 日法朔余強弱考 Rìfǎ shuòyú qiángruò kǎo *Investigation of the Stronger / Weaker Residuals in the Day-Coefficient and Lunation-Remainder*
+- [[KR3fc057]] 1806 方程新術草 Fāngchéng xīnshù cǎo *Detailed Working of a New Method for the Fāng-chéng [Linear Systems]*
+- [[KR3fc058]] 1806 勾股算術細草 Gōugǔ suànshù xìcǎo *Detailed Working of Right-Triangle Arithmetic*
+- [[KR3fc059]] 1806 弧矢算術細草 Húshǐ suànshù xìcǎo *Detailed Working of Arc-and-Versed-Sine Arithmetic*
+- [[KR3fc060]] 1806 開方說 Kāifāng shuō *Discourse on Root-Extraction [and Polynomial Equations]*
+- [[KR3eu054]] 1807 中國接骨圖說 Zhōngguó jiēgǔ túshuō *Illustrated Treatise on Bone-Setting (in the Chūgoku Manner)*
+- [[KR3ea026]] 1808 靈樞識 Língshū shí *Identifications in the Numinous Pivot*
+- [[KR3ed094]] 1808 方劑辭典 Fāngjì Cídiǎn *A Dictionary of Medical Formulas*
+- [[KR3ej038]] 1808 彤園醫書·小兒科 Tóngyuán yīshū · Xiǎo'érkē *Tóngyuán Medical Books — Paediatrics*
+- [[KR3el013]] 1808 傷科補要 Shāngkē bǔyào *Supplementary Essentials on Traumatology*
+- [[KR3el019]] 1808 中國接骨圖說 Zhōngguó jiēgǔ túshuō *Chūgoku Illustrated Treatise on Bone-Setting (Seikotsuhan)*
+- [[KR3em012]] 1808 銀海指南 Yínhǎi zhǐnán *A Compass for the Silver Sea (Ophthalmology)*
+- [[KR3eq039]] 1808 醫砭 Yī biān *The Medical Lance (Stone-Tip Reproof for the Physicians)*
+- [[KR3er045]] 1808 醫學實在易 Yīxué shí zài yì *Medical Learning Is Genuinely Easy*
+- [[KR3eu038]] 1808 彤園醫書·小兒科 Tóngyuán yīshū · Xiǎo'érkē *Vermillion-Garden Medical Writings — Paediatrics*
+- [[KR3fc042]] 1808 里堂學算記 Lǐtáng xuésuàn jì *Record of Mathematical Studies from the Lǐ-táng Studio*
+- [[KR3fc043]] 1808 加减乘除釋 Jiājiǎn chéngchú shì *Exposition of Addition, Subtraction, Multiplication, and Division*
+- [[KR3fc044]] 1808 天元一釋 Tiānyuányī shì *Exposition of the Heavenly-Origin-as-One (Algebraic-Equation) Method*
+- [[KR3fc045]] 1808 釋弧 Shìhú *Exposition of Arcs (Spherical Trigonometry)*
+- [[KR3fc046]] 1808 釋輪 Shìlún *Exposition of Wheels (Orbital Cycles)*
+- [[KR3fc047]] 1808 釋橢 Shìtuǒ *Exposition of Ellipses*
+- [[KR3fc048]] 1808 開方通釋 Kāifāng tōngshì *General Exposition of Root Extraction and Equation Solving*
+- [[KR3eb008]] 1809 醫階辨證 Yī Jiē Biàn Zhèng *Stepwise Differential Diagnosis*
+- [[KR3es003]] 1809 中國醫籍考 Zhōngguó yījí kǎo *A Bibliographic Study of Chinese Medical Literature*
+- [[KR3eu057]] 1809 痘科辨要 Dòukē biànyào *The Essentials of Smallpox Practice, Discriminated*
+- [[KR3ef073]] 1810 傷寒脈證式 Shānghán mài zhèng shì *Schema of Pulse-and-Syndrome in Cold Damage*
+- [[KR3ei008]] 1810 女科要旨 Nǚkē yàozhǐ *Essential Indicators of Women's Medicine*
+- [[KR3ep093]] 1810 千里醫案 Qiānlǐ yīàn *Medical Case Records of Qiān-lǐ*
+- [[KR3eq003]] 1810 柳洲醫話 Liǔzhōu yīhuà *Liǔzhōu's Medical Discourses*
+- [[KR3eq055]] 1810 生生堂治驗 Shēngshēngtáng zhìyàn *Therapeutic Cases of the Shengsheng Hall*
+- [[KR3fc002]] 1810 九章算術細草圖說 Jiǔzhāng suànshù xìcǎo túshuō *Detailed Procedure and Diagrammatic Exposition of the Nine Chapters on the Mathematical Art*
+- [[KR3fc003]] 1810 海島算經細草圖說 Hǎidǎo suànjīng xìcǎo túshuō *Detailed Procedure and Diagrammatic Exposition of the Sea Island Mathematical Canon*
+- [[KR3fc005]] 1810 緝古算經考注 Jígǔ suànjīng kǎozhù *Investigative Annotation of the Continuing-the-Ancients Mathematical Canon*
+- [[KR3ed097]] 1811 方機 Fāngjī *The Mechanism of Formulas*
+- [[KR3eb006]] 1812 醫學指要 Yī Xué Zhǐ Yào *Pointers to the Essentials of Medical Learning*
+- [[KR3ei061]] 1812 生生寶錄 Shēngshēng bǎolù *Treasured Record of Life-Engendering*
+- [[KR3ep069]] 1812 曹仁伯醫案 Cáo Rénbó yīàn *Medical Case Records of Cáo Rénbó*
+- [[KR3er066]] 1812 醫醫偶錄 Yīyī ǒulù *Random Records for Healing the Healers*
+- [[KR3ep019]] 1814 程杏軒醫案 Chéng Xìngxuān yīàn *Medical Case Records of Chéng Xìngxuān*
+- [[KR3eq030]] 1814 履霜集 Lǚshuāng jí *The Treading-Frost Collection*
+- [[KR3eq041]] 1814 醫醫病書 Yīyī bìng shū *Book to Treat the Physicians' Disease*
+- [[KR3ee030]] 1815 針灸逢源 Zhēnjiǔ féngyuán *Acupuncture and Moxibustion Encountering the Source*
+- [[KR3eh025]] 1815 醫學從眾錄 Yīxué cóngzhòng lù *Notes on Following the Medical Mainstream*
+- [[KR3el011]] 1815 傷科彙纂 Shāngkē huìzuǎn *Comprehensive Compilation on Traumatology*
+- [[KR3eo047]] 1815 急救廣生集 Jíjiù guǎngshēng jí *Compendium of Emergency Rescue for Spreading Life*
+- [[KR3eq007]] 1815 友漁齋醫話 Yǒuyúzhāi yīhuà *Medical Discourses of the Friendly-Fishing Studio*
+- [[KR3f0057]] 1815 佛國暦象編 Fóguó lìxiàng biān *Compilation of [the] Calendar-and-Image-Matters of the Buddha-Land*
+- [[KR3fa033]] 1815 地圓說 Dì yuán shuō *Discourse on the Sphericity of the Earth*
+- [[KR3fa034]] 1815 宣西通 Xuānxī tōng *A Comprehensive Connection of the [Hóngfàn] Xuán and the West*
+- [[KR3fa035]] 1815 宣西通 Xuānxī tōng *A Comprehensive Connection of the [Hóngfàn] Xuán and the West (Digest Version)*
+- [[KR3ef090]] 1816 金匱要略淺註 Jīnguì yào lüè qiǎn zhù *Accessible Annotation of the Jīnguì yào lüè*
+- [[KR3ep003]] 1817 吳鞠通醫案 Wú Jūtōng yīàn *Medical Case Records of Wú Jūtōng*
+- [[KR3er111]] 1817 過庭錄存 Guòtíng lù cún *Records Preserved from the Hall Crossing*
+- [[KR3fc006]] 1817 緝古算經細草 Jígǔ suànjīng xìcǎo *Detailed Procedural Exposition of the Continuing-the-Ancients Mathematical Canon*
+- [[KR3eu044]] 1818 中國醫籍考 Zhōngguó yījí kǎo *Inquiry into Chinese Medical Books*
+- [[KR3ea062]] 1819 難經疏證 Nànjīng shūzhèng *A Critical Commentary with Sources on the Classic of Difficulties*
+- [[KR3ek001]] 1819 外科證治全書 Wàikē zhèngzhì quánshū *Complete Book on the Diagnosis and Treatment of External Medicine*
+- [[KR3fc068]] 1819 割圈連比例術圖解 Gēyuán liánbǐlì shù tújiě *Geometric-Illustrative Exposition of the Cyclotomic Continued-Proportion Method*
+- [[KR3ee043]] 1820 經穴纂要 Jīngxué zuǎnyào *Essentials of the Channel Acupoints*
+- [[KR3ek041]] 1820 瘋門全書 Fēngmén quánshū *Complete Book of the Leprosy Gateway*
+- [[KR3eo045]] 1820 調疾飲食辯 Tiáojí yǐnshí biàn *Discrimination on Eating and Drinking in Regulating Illness*
+- [[KR3fc062]] 1820 六九軒筭書 Liùjiǔ xuān suànshū *The *Liù-jiǔ xuān* Mathematical Book*
+- [[KR3fc063]] 1820 尺算日晷新義 Chǐsuàn rìguǐ xīnyì *New Discussion of the Sliding-Rod-Computed Sundial*
+- [[KR3fc064]] 1820 勾股尺測量新法 Gōugǔ chǐ cèliáng xīnfǎ *New Methods of Surveying with the Right-Triangle Sighting-Rod*
+- [[KR3fc065]] 1820 籌表開諸乘方捷法 Chóubiǎo kāi zhūchéngfāng jiéfǎ *A Rapid Tabular Method for the Extraction of *n*-th Roots*
+- [[KR3fc066]] 1820 借根方法淺說 Jiègēn fāngfǎ qiǎnshuō *An Elementary Exposition of the *Jiè-gēn-fāng* [Algebraic-Equation] Method*
+- [[KR3fc067]] 1820 四率淺說 Sìlǜ qiǎnshuō *An Elementary Exposition of the Four-Term Proportion*
+- [[KR3fc080]] 1820 藝游錄 Yìyóu lù *Record of My Wanderings in the [Mathematical] Arts*
+- [[KR3ep040]] 1821 得心集醫案 Déxīnjí yīàn *Medical Case Records — Collection of Heart-Attainments*
+- [[KR3ee012]] 1822 針灸易學 Zhēnjiǔ yìxué *Easy Studies of Acupuncture and Moxibustion*
+- [[KR3ep025]] 1822 曹仁伯醫案論 Cáo Rénbó yīàn lùn *Discussions on the Medical Cases of Cáo Rénbó*
+- [[KR3eb005]] 1823 醫會元要 Yī Huì Yuán Yào *Synthesised Essentials of Medical Practice*
+- [[KR3ee038]] 1823 證治針經 Zhèngzhì zhēn jīng *Needle Classic of Diagnosis and Treatment*
+- [[KR3eh051]] 1823 內傷集要 Nèishāng jí yào *Collected Essentials on Internal Damage*
+- [[KR3ej046]] 1824 麻疹闡註 Mázhěn chǎnzhù *Elucidatory Commentary on Measles*
+- [[KR3er009]] 1824 筆花醫鏡 Bǐhuā yī jìng *The Brush-Flower Medical Mirror*
+- [[KR3ed106]] 1825 串雅補 Chuànyǎ Bǔ *A Supplement to the Chuànyǎ*
+- [[KR3ei001]] 1825 傅青主女科 Fù Qīngzhǔ nǚkē *Fù Qīngzhǔ's Gynecology*
+- [[KR3ei037]] 1825 彤園醫書·婦人科 Tóngyuán yīshū·Fùrénkē *Tóngyuán's Medical Books -- Women's Section*
+- [[KR3ed086]] 1826 金匱方歌括 Jīnguì Fāng Gēkuò *Rhymed Verses on the* Jīnguì *Formulas*
+- [[KR3ef051]] 1826 傷寒廣要 Shānghán guǎng yào *Expanded Essentials of Cold Damage*
+- [[KR3eb021]] 1827 三指禪 Sān Zhǐ Chán *Zen of the Three Fingers*
+- [[KR3ek026]] 1827 外科備要 Wàikē bèiyào *Essentials of External Medicine for Preparedness*
+- [[KR3ec066]] 1828 本經疏證 Běnjīng Shū Zhèng *Commentary and Verification of the Shénnóng Běncǎo Jīng*
+- [[KR3eh017]] 1828 醫學妙諦 Yīxué miàodì *The Subtle Truths of Medicine*
+- [[KR3er058]] 1829 醫述 Yīshù *Recountings on Medicine*
+- [[KR3fc019]] 1829 四元玉鑑細草 Sìyuán yùjiàn xìcǎo *Detailed Procedural Exposition of the Jade Mirror of the Four Origins*
+- [[KR3ei035]] 1830 秘珍濟陰 Mìzhēn jìyīn *The Secret Pearl of Aiding-the-Yin*
+- [[KR3er008]] 1830 醫林改錯 Yīlín gǎi cuò *Correcting the Errors of the Medical Forest*
+- [[KR3fc007]] 1830 緝古算經補注 Jígǔ suànjīng bǔzhù *Supplementary Annotation to the Continuing-the-Ancients Mathematical Canon*
+- [[KR3eq089]] 1831 重慶堂隨筆 Chóngqìngtáng suíbǐ *Random Notes from the Chongqing Hall*
+- [[KR3fc074]] 1831 筆算說略 Bǐsuàn shuōlüè *An Outline Exposition of Brush-and-Pen [Western Notational] Arithmetic*
+- [[KR3ep020]] 1832 三家醫案合刻 Sānjiā yīàn hékè *Joint Edition of the Case Records of Three Masters*
+- [[KR3ef053]] 1833 傷寒論述義 Shānghán lùn shù yì *Exposition of the Meaning of the Treatise on Cold Damage*
+- [[KR3em029]] 1833 咽喉脈證通論 Yānhóu màizhèng tōnglùn *Comprehensive Treatise on the Pulse Signs and Symptoms of Throat Diseases*
+- [[KR3ea040]] 1834 靈素節注類編 Língsù jiézhù lèibiān *A Topically-Organized Abridged Commentary on the Numinous Pivot and Basic Questions*
+- [[KR3ec052]] 1834 本草述鉤元 Běncǎo Shù Gōuyuán *Hooking the Essentials of the Discourse on Materia Medica*
+- [[KR3em005]] 1834 眼科錦囊 Yǎnkē jǐnnáng *A Brocade Pouch of Ophthalmology*
+- [[KR3ep060]] 1834 李冠仙醫案 Lǐ Guànxiān yīàn *Medical Case Records of Lǐ Guànxiān*
+- [[KR3eq096]] 1834 瘦吟醫贅 Shòuyín yīzhuì *Shouyin's Medical Excrescences*
+- [[KR3fc018]] 1834 新編四元玉鑒 Xīnbiān sìyuán yùjiàn *Newly-Edited Jade Mirror of the Four Origins*
+- [[KR3ef066]] 1835 傷寒醫訣串解 Shānghán yī jué chuàn jiě *Continuous Exposition of the Cold-Damage Clinical Pithy Sayings*
+- [[KR3eg026]] 1835 仿寓意草 Fǎng Yùyì cǎo *Imitation of the "Manuscript Grass of Reflection" (Yú Chāng's Case-Records)*
+- [[KR3ej039]] 1835 金匱啟鑰（幼科） Jīnguì qǐyuè · Yòukē *Opening the Lock of the Golden Coffer — Paediatrics*
+- [[KR3er101]] 1835 醫學輯要 Yīxué jíyào *Selected Essentials of Medicine*
+- [[KR3eu043]] 1835 證治摘要 Zhèngzhì zhāi yào *Selected Essentials of Pattern-and-Treatment*
+- [[KR3fc070]] 1835 勾股六術 Gōugǔ liùshù *The Six Procedures of Right-Triangle Mathematics*
+- [[KR3fc071]] 1835 三角和較術 Sānjiǎo héjiào shù *Sum-and-Difference Methods in Triangle Geometry*
+- [[KR3fc072]] 1835 開諸乘方捷術 Kāi zhūchéngfāng jiéshù *A Rapid Procedure for the Extraction of *n*-th Roots*
+- [[KR3eq009]] 1836 回春錄 Huíchūn lù *Records of Restoring Spring*
+- [[KR3eq064]] 1836 願體醫話 Yuàntǐ yīhuà *Medical Conversations of the Body-Aiding [Hall]*
+- [[KR3eh020]] 1837 大方脈 Dàfāngmài *The Greater Pulse-Prescribing [Internal Medicine]*
+- [[KR3eq036]] 1837 醫門棒喝 Yīmén bànghē *Staff-and-Shout at the Medical Gate*
+- [[KR3ed057]] 1838 喻選古方試驗 Yùxuǎn Gǔfāng Shìyàn *Tested Ancient Formulas Selected by Yù [Jiāyán]*
+- [[KR3ep095]] 1839 延陵弟子紀要 Yánlíng dìzǐ jìyào *Essential Records of the Yán-líng Disciples*
+- [[KR3er061]] 1839 類證治裁 Lèizhèng zhìcái *Tailored Treatment by Disease-Category*
+- [[KR3ec060]] 1840 本草分經 Běncǎo Fēn Jīng *Materia Medica Classified by Channel*
+- [[KR3eh018]] 1840 醫略十三篇 Yī lüè shísān piān *Thirteen Essays on Medical Outlines*
+- [[KR3ei059]] 1840 產孕集 Chǎnyùn jí *Collection on Pregnancy and Childbirth*
+- [[KR3ek043]] 1840 發背對口治訣論 Fābèi duìkǒu zhìjué lùn *A Treatise of Treatment-Formulae for Back and Nape Carbuncles*
+- [[KR3el007]] 1840 江氏傷科學 Jiāngshì shāngkē xué *The Jiāng Family School of Traumatology*
+- [[KR3el017]] 1840 傷科方書 Shāngkē fāngshū *Prescription-Treatise on Traumatology*
+- [[KR3eo008]] 1840 奉時旨要 Fèngshí zhǐyào *Essential Pointers on Honouring the Seasons*
+- [[KR3ep083]] 1840 王氏醫案 Wángshì yīàn *Medical Case Records of Wáng (First Series)*
+- [[KR3eq004]] 1840 馤塘醫話 Àitáng yīhuà *Àitáng's Medical Discourses*
+- [[KR3ek023]] 1841 外科證治秘要 Wàikē zhèngzhì mìyào *Secret Essentials of Diagnosis and Treatment in External Medicine*
+- [[KR3ep011]] 1841 王旭高臨證醫案 Wáng Xùgāo línzhèng yīàn *Wáng Xùgāo's Clinical Case Records*
+- [[KR3fc012]] 1841 詳解九章算法札記 Xiángjiě jiǔzhāng suànfǎ zhájì *Critical Notebook on the Detailed Exposition of the Nine Chapters Mathematical Methods*
+- [[KR3ef085]] 1842 金匱玉函要略述義 Jīnguì yùhán yào lüè shù yì *Exposition of the Meaning of the Jīnguì yùhán yào lüè*
+- [[KR3eu046]] 1842 傷寒廣要 Shānghán guǎng yào *Expanded Essentials of Cold-Damage*
+- [[KR3eu047]] 1842 傷寒論述義 Shānghán lùn shù yì *Expounding the Meaning of the Shāng-hán lùn*
+- [[KR3eu049]] 1842 金匱玉函要略述義 Jīnguì yùhán yàolüè shù yì *Expounding the Meaning of the Jīn-guì yù-hán yào-lüè*
+- [[KR3er099]] 1843 醫學體用 Yīxué tǐyòng *The Substance and Function of Medicine*
+- [[KR3fa037]] 1843 欽定儀象考成續編 Qīndìng yíxiàng kǎochéng xùbiān *Imperially Commissioned Continuation of the Investigation of Astronomical Instruments*
+- [[KR3fc069]] 1843 象数一原 Xiàngshù yīyuán *A Common Origin for Figures and Numbers*
+- [[KR3ep058]] 1844 臨症經應錄 Línzhèng jīngyìng lù *Record of Effective Responses from Clinical Practice*
+- [[KR3ed054]] 1845 十劑表 Shíjì Biǎo *Tabulation of the Ten Formula-Categories*
+- [[KR3ed125]] 1845 春腳集 Chūnjiǎo Jí *Collection of the Spring-Foot*
+- [[KR3ed128]] 1845 臨證一得方 Línzhèng Yīdé Fāng *Formulas Gained from Bedside Practice*
+- [[KR3eq097]] 1845 醫學讀書志 Yīxué dúshū zhì *Treatise on Medical Reading*
+- [[KR3fc075]] 1845 測圓密率 Cèyuán mìlǜ *Precise Ratios in the Measurement of the Circle*
+- [[KR3ed093]] 1846 藥治通義 Yàozhì Tōngyì *General Principles of Drug Therapy*
+- [[KR3ed108]] 1846 驗方新編 Yànfāng Xīn Biān *A New Compilation of Tested Formulas*
+- [[KR3eg045]] 1846 瀉疫新論 Xièyì xīnlùn *A New Treatise on Purging-Epidemic (Cholera)*
+- [[KR3eo003]] 1846 修崑崙證驗 Xiū Kūnlún zhèngyàn *Verified Experiences in Cultivating the Kūnlún [i.e. the Cranium / Head]*
+- [[KR3ep039]] 1846 環溪草堂醫案 Huánxī cǎotáng yīàn *Medical Case Records of the Huánxī Thatched Hall*
+- [[KR3eu041]] 1846 素問紹識 Sùwèn shào shí *Continued Notes on the Plain Questions*
+- [[KR3fb001]] 1846 顓頊曆考 Zhuānxū lì kǎo *Investigation of the Zhuānxū Calendar*
+- [[KR3ej025]] 1847 幼科切要 Yòukē qièyào *Pressing Essentials of Paediatrics*
+- [[KR3er006]] 1847 醫學舉要 Yīxué jǔyào *Cardinal Essentials of Medical Learning*
+- [[KR3ei043]] 1848 女科仙方 Nǚkē xiānfāng *Immortal Formulas in Women's Medicine*
+- [[KR3em033]] 1848 喉科大成 Hóukē dàchéng *Great Synthesis of Throat Medicine*
+- [[KR3er050]] 1848 醫學指歸 Yīxué zhǐ guī *Pointing the Way Back to Medical Learning*
+- [[KR3ea012]] 1850 素問紹識 Sùwèn shàoshí *Continuation of the Identifications in the Basic Questions*
+- [[KR3ec069]] 1850 神農本草經贊 Shénnóng Běncǎo Jīng Zàn *Praise-Verses on the Classic of the Materia Medica of Shénnóng*
+- [[KR3eg040]] 1850 隨息居重訂霍亂論 Suíxījū chóngdìng huòluàn lùn *Suíxījū's Revised Treatise on Cholera-Like Disorders*
+- [[KR3ep005]] 1850 何澹安醫案 Hé Dànān yīàn *Medical Case Records of Hé Dànān*
+- [[KR3ep028]] 1850 也是山人醫案 Yěshì Shānrén yīàn *Medical Case Records of the 'Also-So' Mountain Recluse*
+- [[KR3ep042]] 1850 陳莘田外科方案 Chén Xīntián wàikē fāngàn *Surgical Case-and-Prescription Records of Chén Xīntián*
+- [[KR3ep061]] 1850 沈菊人醫案 Shěn Júrén yīàn *Medical Case Records of Shěn Júrén*
+- [[KR3fc073]] 1850 求表捷術 Qiúbiǎo jiéshù *Rapid Methods for the Construction of Mathematical Tables*
+- [[KR3eb052]] 1851 臨症驗舌法 Línzhèng Yàn Shé Fǎ *Method of Tongue Verification in Clinical Practice*
+- [[KR3ec047]] 1851 神農本草經讀 Shénnóng Běncǎo Jīng Dú (variant) *Reading the Shennong Materia Medica Classic*
+- [[KR3ed134]] 1851 張愛廬臨證經驗方 Zhāng Àilú Línzhèng Jīngyàn Fāng *Zhāng Ài-lú's Bedside Tested Formulas*
+- [[KR3ee050]] 1851 神灸經綸 Shénjiǔ jīnglún *Comprehensive Treatise on the Divine Moxibustion Classic*
+- [[KR3eg015]] 1851 薛氏濕熱論歌訣 Xuē shì shīrè lùn gējué *Versified Summary of Mr. Xuē's "Treatise on Damp-Heat Disorders"*
+- [[KR3eg024]] 1851 吳又可溫疫論歌括 Wú Yòukě wēnyì lùn gēkuò *Versified Summary of Wú Yòukě's "Treatise on Warm-Epidemic Disorders"*
+- [[KR3eg033]] 1851 溫疫明辨歌訣 Wēnyì míngbiàn gējué *Versified Summary of "Clear Discrimination of Warm-Epidemic"*
+- [[KR3el014]] 1851 救傷秘旨 Jiùshāng mìzhǐ *Secret Essentials on Saving the Injured*
+- [[KR3eq051]] 1851 醫餘 Yī yú *Medical Surplus*
+- [[KR3eq084]] 1851 知醫必辨 Zhīyī bìbiàn *Knowing Medicine Demands Discrimination*
+- [[KR3eq090]] 1851 醫學課兒策 Yīxué kèér cè *Examination Questions for Instructing My Son in Medicine*
+- [[KR3er114]] 1851 家用良方 Jiāyòng liángfāng *Good Formulae for Household Use*
+- [[KR3ea019]] 1852 運氣證治歌訣 Yùnqì zhèngzhì gējué *Rhymed Tenets on Syndrome-Differentiation and Treatment by Climatic Cycle*
+- [[KR3eg008]] 1852 溫熱經緯 Wēnrè jīngwěi *Warp and Weft of Warm-Heat Doctrine*
+- [[KR3eh008]] 1852 雜病廣要 Zábìng guǎngyào *Comprehensive Essentials of Miscellaneous Diseases*
+- [[KR3eh026]] 1852 證治摘要 Zhèngzhì zhāiyào *Selected Essentials on Syndrome and Treatment*
+- [[KR3eh035]] 1852 中風論 Zhōngfēng lùn *Treatise on Wind-Stroke*
+- [[KR3ei069]] 1852 評註產科心法 Píngzhù chǎnkē xīnfǎ *Annotated Heart-Method of Obstetrics*
+- [[KR3ej054]] 1853 麻疹備要方論 Mázhěn bèiyào fānglùn *Essential Formulary and Discourse on Measles*
+- [[KR3eq086]] 1853 市隱廬醫學雜著 Shìyǐnlú yīxué zázhù *Miscellaneous Medical Essays from the City-Hermit Studio*
+- [[KR3ed140]] 1855 校訂願體醫話良方 Jiàodìng Yuàntǐ Yīhuà Liángfāng *Collated Yuàn-tǐ Medical-Talk and Good Formulas*
+- [[KR3ep029]] 1855 花韻樓醫案 Huāyùnlóu yīàn *Medical Case Records of the Flower-Rhyme Pavilion*
+- [[KR3ep072]] 1855 古今醫案按選 Gǔjīn yīàn àn xuǎn *Selected Critical Commentary on Ancient and Modern Medical Cases*
+- [[KR3eq013]] 1855 對山醫話 Duìshān yīhuà *Duìshān's Medical Discourses*
+- [[KR3eq094]] 1855 王樂亭指要 Wáng Lètíng zhǐyào *Wang Leting's Essentials*
+- [[KR3fc061]] 1855 如積引蒙 Rújī yǐnméng *An Elementary Introduction to the *Rú-jī* [Algebraic-Equation] Method*
+- [[KR3ed058]] 1856 醫論拾遺 Yīlùn Shíyí *Gleanings from Medical Discourses*
+- [[KR3ed087]] 1856 醫方證治彙編歌訣 Yīfāng Zhèngzhì Huìbiān Gējué *Rhymed Verses on the Collected Formulae for Syndrome-Treatment*
+- [[KR3ed088]] 1856 醫方歌括 Yīfāng Gēkuò *Rhymed Verses on Medical Formulas*
+- [[KR3ed089]] 1856 增訂醫方歌訣 Zēngdìng Yīfāng Gējué *Augmented and Revised Mnemonic Verses on Medical Formulas*
+- [[KR3ed091]] 1856 診驗醫方歌括 Zhěnyàn Yīfāng Gēkuò *Rhymed Mnemonics of Tested and Diagnostically-Verified Medical Formulae*
+- [[KR3ef039]] 1856 傷寒尋源 Shānghán xún yuán *Tracking the Source of Cold Damage*
+- [[KR3ei060]] 1856 重訂產孕集 Chóngdìng chǎnyùn jí *Revised Collection on Pregnancy and Childbirth*
+- [[KR3el016]] 1856 跌打損傷回生集 Diēdǎ sǔnshāng huíshēng jí *Reviving-Life Collection on Fall-Blow Injuries*
+- [[KR3ep102]] 1856 醉花窗醫案 Zuìhuāchuāng yīàn *Medical Casebook from the Drunken-Flower Window*
+- [[KR3fc078]] 1856 則古昔齋算學十三種 Zégǔxī zhāi suànxué shísān zhǒng *Mathematical Works from the *Zé-gǔ-xī* Studio, in Thirteen Kinds*
+- [[KR3eh053]] 1857 痢疾明辨 Lìjí míngbiàn *Clear Discriminations on Dysentery*
+- [[KR3ep084]] 1857 王氏醫案續編 Wángshì yīàn xùbiān *Medical Case Records of Wáng, Continuing Series*
+- [[KR3es006]] 1857 皇國名醫傳 Huángguó míngyī zhuàn *Biographies of the Famous Physicians of the Imperial Realm*
+- [[KR3fc076]] 1857 致曲術/致曲圖解 Zhìqū shù / Zhìqū tújiě *Procedures for Curves / Geometric-Illustrative Exposition of Curves*
+- [[KR3ed090]] 1858 退思集類方歌註 Tuìsī Jí Lèifāng Gēzhù *Annotated Rhymed Verses on Categorised Formulas from the Tuìsī Jí*
+- [[KR3ep064]] 1858 臨診醫案 Línzhěn yīàn *Bedside Medical Case Records*
+- [[KR3eq021]] 1858 歸硯錄 Guīyàn lù *Records of Bringing the Inkstone Home*
+- [[KR3er023]] 1858 醫學芻言 Yīxué chú yán *Rough Words on Medical Learning*
+- [[KR3ed138]] 1859 潛齋簡效方 Qiánzhāi Jiǎnxiào Fāng *The Qián Studio's Simple-Effective Formulas (with Medical-Talk)*
+- [[KR3ed139]] 1859 四科簡效方 Sìkē Jiǎnxiào Fāng *Simple-Effective Formulas in the Four Branches*
+- [[KR3ed124]] 1860 雞鳴錄 Jīmíng Lù *Records [Made at] the Cock-Crow*
+- [[KR3ej045]] 1860 傅氏兒科 Fùshì érkē *Master Fù's Paediatrics*
+- [[KR3ep066]] 1860 徐養恬方案 Xú Yǎngtián fāngàn *Prescriptions and Cases of Xú Yǎngtián*
+- [[KR3eq057]] 1860 毛對山醫話 Máo Duìshān yīhuà *Mao Duishan's Medical Conversations*
+- [[KR3eh055]] 1861 腳氣鉤要 Jiǎoqì gōuyào *The Critical Points of Beriberi*
+- [[KR3eo043]] 1861 隨息居飲食譜 Suíxījū yǐnshí pǔ *Dietary Manual of the Studio of Following-One's-Breath*
+- [[KR3eq098]] 1861 乘桴醫影 Chéngfú yīyǐng *Medical Shadows from Riding the Raft*
+- [[KR3es004]] 1861 醫事啟源 Yīshì qǐyuán *Origins of Medical Practice*
+- [[KR3fb002]] 1861 漢太初曆考 Hàn Tàichū lì kǎo *Investigation of the Han Taichu Calendar*
+- [[KR3em036]] 1862 喉科心法 Hóukē xīnfǎ *Heart-Methods of Laryngology*
+- [[KR3er049]] 1862 校注醫醇賸義 Jiào zhù Yīchún shèng yì *Annotated Edition of "The Remaining Significations of Pure Medicine"*
+- [[KR3eu042]] 1862 醫事啟源 Yīshì qǐyuán *Origins of Medical Affairs*
+- [[KR3eh048]] 1863 癲狂條辯 Diānkuáng tiáobiàn *Differentiation of Withdrawal-Madness from Mania*
+- [[KR3ei021]] 1863 傅青主女科歌括 Fù Qīngzhǔ nǚkē gēkuò *Mnemonic Verses of Fù Qīngzhǔ's Gynecology*
+- [[KR3ei042]] 1863 傅氏女科 Fùshì nǚkē *The Fù-Family's Gynecology*
+- [[KR3er016]] 1863 傅青主男科重編考釋 Fù Qīngzhǔ nánkē chóngbiān kǎoshì *A Recompiled and Annotated Edition of Fù Qīng-zhǔ's Men's Medicine*
+- [[KR3fb023]] 1863 歷代長術輯要 Lìdài chángshù jíyào *Compendium of Long-Period Chronological Computations of Successive Dynasties*
+- [[KR3ec067]] 1864 食鑑本草 Shíjiàn Běncǎo *A Dietary Mirror of Materia Medica*
+- [[KR3ep085]] 1864 王氏醫案三編 Wángshì yīàn sānbiān *Medical Case Records of Wáng, Third Series*
+- [[KR3ed079]] 1865 醫方論 Yīfāng Lùn *Discourses on Medical Formulas*
+- [[KR3eg030]] 1865 溫證指歸 Wēnzhèng zhǐguī *Pointing to the Heart of Warm-Disease Syndromes*
+- [[KR3eg036]] 1865 鄒氏寒疫論 Zōu shì hányì lùn *Mr. Zōu's Treatise on Cold-Pestilence*
+- [[KR3eg042]] 1865 霍亂燃犀說 Huòluàn ránxī shuō *Burning the Rhinoceros-Horn -- A Treatise on Cholera*
+- [[KR3eg047]] 1865 暑症發原 Shǔzhèng fāyuán *Tracing the Origins of Summer-Heat Disorders*
+- [[KR3eh033]] 1865 評琴書屋醫略 Píngqín shūwū yīlüè *Medical Outline from the Critique-of-the-Zither Studio*
+- [[KR3ei026]] 1865 竹林女科證治 Zhúlín nǚkē zhèngzhì *Bamboo-Grove Diagnostics and Therapy in Women's Medicine*
+- [[KR3ep055]] 1865 江澤之醫案 Jiāng Zézhī yīàn *Medical Case Records of Jiāng Zézhī*
+- [[KR3ea006]] 1866 黃帝內經素問校義 Huángdì Nèijīng Sùwèn jiàoyì *Collation Notes on the Yellow Emperor's Inner Classic, Basic Questions*
+- [[KR3eq014]] 1866 研經言 Yánjīng yán *Words Studying the Canon*
+- [[KR3fb024]] 1866 三統術詳說 Sāntǒngshù xiángshuō *Detailed Explanation of the Santong System*
+- [[KR3eo048]] 1867 理瀹駢文 Lǐyuè piánwén *Parallel-Prose [Treatise on] the Principle of Curing*
+- [[KR3eg017]] 1868 六因條辨 Liùyīn tiáobiàn *Detailed Analysis by the Six Pathogenic Factors*
+- [[KR3eu052]] 1868 瀉疫新論 Xièyì xīnlùn *A New Treatise on Purging Epidemic (Cholera)*
+- [[KR3ed062]] 1870 醫方絜度 Yīfāng Jiédù *A Measure of Medical Formulas*
+- [[KR3ed146]] 1870 經驗選秘 Jīngyàn Xuǎnmì *Selected Secret Tested Formulas*
+- [[KR3ef065]] 1870 傷寒審證表 Shānghán shěn zhèng biǎo *Tabulated Examination of Cold-Damage Syndromes*
+- [[KR3ep002]] 1870 先哲醫話 Xiānzhé yīhuà *Medical Discourses of the Former Worthies*
+- [[KR3ep045]] 1870 竹亭醫案 Zhútíng yīàn *Medical Case Records of Zhútíng*
+- [[KR3ep049]] 1870 顧氏醫案 Gùshì yīàn *Medical Case Records of Mr Gù*
+- [[KR3eq049]] 1870 西溪書屋夜話錄 Xīxī shūwū yèhuà lù *Records of Night Conversations at the West-Brook Study*
+- [[KR3eq059]] 1870 醫林瑣語 Yīlín suǒyǔ *Trifling Words from the Medical Forest*
+- [[KR3er104]] 1870 醫病簡要 Yībìng jiǎnyào *A Concise Essential Guide to Treating Illness*
+- [[KR3eu039]] 1870 金匱啟鑰（婦科） Jīnguì qǐyuè (Fùkē) *Opening the Lock of the Golden Cabinet — Women's Medicine*
+- [[KR3eu040]] 1870 金匱啟鑰（眼科） Jīnguì qǐyuè (Yǎnkē) *Opening the Lock of the Golden Cabinet — Ophthalmology*
+- [[KR3fc079]] 1870 求一術通解 Qiúyī shù tōngjiě *A General Exposition of the *Qiú-yī Shù* [Chinese Remainder Theorem]*
+- [[KR3eg014]] 1871 醫寄伏陰論 Yījì fúyīn lùn *Medical Notes -- Treatise on Latent-Yīn Disease*
+- [[KR3em027]] 1871 白喉全生集 Báihóu quánshēng jí *Complete-Survival Compendium on White-Throat (Diphtheria)*
+- [[KR3ed073]] 1872 醫方簡義 Yīfāng Jiǎnyì *Concise Meanings of Medical Formulas*
+- [[KR3ed132]] 1873 醫方拾錦 Yīfāng Shíjǐn *Picked Brocades of Medical Formulas*
+- [[KR3eh032]] 1873 世補齋醫書 Shìbǔzhāi yīshū *Medical Writings from the Studio of Aiding the World*
+- [[KR3eh034]] 1873 傅氏男科 Fùshì nánkē *Mr Fù's Manual of Male Medicine*
+- [[KR3ep067]] 1873 慎五堂治驗錄 Shènwǔtáng zhìyàn lù *Treatment-Verification Records of the Hall of the Five Cautions*
+- [[KR3eq015]] 1873 醫原 Yīyuán *The Origins of Medicine*
+- [[KR3er063]] 1873 醫學見能 Yīxué jiànnéng *Practical Capability in Medical Learning*
+- [[KR3er098]] 1873 醫學集成 Yīxué jíchéng *A Comprehensive Compilation of Medical Learning*
+- [[KR3ed064]] 1874 不謝方 Bùxiè Fāng *Formulas That Need No Thanks*
+- [[KR3ee007]] 1874 針灸集成 Zhēnjiǔ jíchéng *Compendium of Acupuncture and Moxibustion*
+- [[KR3ee032]] 1874 考正周身穴法歌 Kǎozhèng zhōushēn xuéfǎ gē *Verified Whole-Body Acupoint Method Song*
+- [[KR3ee037]] 1874 勉學堂針灸集成 Miǎnxuétáng zhēnjiǔ jíchéng *Miǎnxuétáng Compendium of Acupuncture and Moxibustion*
+- [[KR3ep062]] 1874 貫唯集 Guànwéi jí *Threading-the-Unity Collection*
+- [[KR3er080]] 1874 醫法圓通 Yīfǎ yuántōng *The Penetrating Comprehension of Medical Method*
+- [[KR3eb050]] 1875 望診遵經 Wàng Zhěn Zūn Jīng *Inspection-Diagnosis in Accordance with the Classics*
+- [[KR3ed068]] 1875 行軍方便便方 Xíngjūn Fāngbiàn Biànfāng *Field-Convenient Convenient Recipes for Campaign*
+- [[KR3ee042]] 1875 針學通論 Zhēn xué tōnglùn *General Discourse on the Study of Needling*
+- [[KR3ei024]] 1875 女科折衷纂要 Nǚkē zhézhōng zuǎnyào *Compromise-Synthesis Essential Compilation in Women's Medicine*
+- [[KR3ei038]] 1875 金匱啟鑰（婦科） Jīnguì qǐyuè (Fùkē) *Opening the Lock of the Golden Cabinet (Gynecology Section)*
+- [[KR3em014]] 1875 金匱啟鑰（眼科） Jīnguì qǐyuè (Yǎnkē) *Opening the Lock of the Golden Cabinet (Ophthalmology Section)*
+- [[KR3em028]] 1875 喉科集腋 Hóukē jíyè *Gleanings on Laryngology*
+- [[KR3em037]] 1875 咳論經旨 Kélùn jīngzhǐ *The Classical Doctrine on Cough*
+- [[KR3ep026]] 1875 張畹香醫案 Zhāng Wǎnxiāng yīàn *Medical Case Records of Zhāng Wǎnxiāng*
+- [[KR3ep034]] 1875 邵氏醫案 Shàoshì yīàn *Medical Case Records of Mr Shào [Lánshēng]*
+- [[KR3ep043]] 1875 瘍科指南醫案 Yángkē zhǐnán yīàn *Compass-Guide Medical Case Records of Suppurative Disorders*
+- [[KR3ep044]] 1875 愛月廬醫案 Àiyuèlú yīàn *Medical Case Records of the Moon-Loving Cottage*
+- [[KR3ep047]] 1875 孤鶴醫案 Gūhè yīàn *Medical Case Records of the Solitary Crane*
+- [[KR3ep065]] 1875 汪藝香先生醫案 Wāng Yìxiāng xiānshēng yīàn *Medical Case Records of Master Wāng Yìxiāng*
+- [[KR3ep078]] 1875 王孟英醫案 Wáng Mèngyīng yīàn *Topically Arranged Medical Case Records of Wáng Mèngyīng*
+- [[KR3ep015]] 1876 馬培之醫案 Mǎ Péizhī yīàn *Medical Case Records of Mǎ Péizhī*
+- [[KR3eq005]] 1876 冷廬醫話 Lěnglú yīhuà *Cold-Hut Medical Discourses*
+- [[KR3ec059]] 1877 本草害利 Běncǎo Hài Lì *The Harms and Benefits of Materia Medica*
+- [[KR3ed118]] 1877 外治壽世方 Wàizhì Shòushì Fāng *External-Treatment Formulas for World Longevity*
+- [[KR3ek016]] 1877 外科方外奇方 Wàikē fāngwài qífāng *Marvellous Prescriptions Beyond the Pale of Surgical Formulae*
+- [[KR3ep053]] 1877 退庵醫案 Tuìān yīàn *Medical Case Records of the Retirement Studio*
+- [[KR3ep088]] 1877 洄溪醫案按 Huíxī yīàn àn *Annotated Edition of the Huíxī Medical Case Records*
+- [[KR3ee036]] 1878 經脈圖考 Jīngmài túkǎo *Investigation with Diagrams of the Channels and Vessels*
+- [[KR3eg029]] 1878 南病別鑑 Nánbìng biéjiàn *Distinguishing-Mirror of Southern Diseases*
+- [[KR3ep036]] 1878 青霞醫案 Qīngxiá yīàn *Medical Case Records of Qīngxiá [Shěn Dēngjiē]*
+- [[KR3ef070]] 1879 傷寒論陽明病釋 Shānghán lùn yáng míng bìng shì *Exposition of the Yáng-Míng Disease in the Treatise on Cold Damage*
+- [[KR3eh054]] 1879 腳氣概論 Jiǎoqì gàilùn *A General Survey of Beriberi*
+- [[KR3er113]] 1879 醫學心悟雜症要義 Yīxué xīnwù zázhèng yàoyì *Essentials of the Miscellaneous Symptoms from "The Sympathetic Awakening to Medical Learning"*
+- [[KR3eu053]] 1879 腳氣概論 Jiǎoqì gàilùn *General Treatise on Beriberi*
+- [[KR3eg003]] 1880 溫熱逢源 Wēnrè féngyuán *Sources of Warm-Heat Disorders*
+- [[KR3eg019]] 1880 溫病辨症 Wēnbìng biànzhèng *Differentiation of Warm-Disease Syndromes*
+- [[KR3eg048]] 1880 治痢捷要新書 Zhìlì jiéyào xīnshū *A New Book of Practical Essentials for Treating Dysentery*
+- [[KR3ei072]] 1880 宜麟策 Yílín cè *Strategy for the Auspicious Unicorn (i.e. for Producing Heirs)*
+- [[KR3ep030]] 1880 診餘舉隅錄 Zhěnyú jǔyú lù *Record of Outline Cases from Spare-Time Consultations*
+- [[KR3ep054]] 1880 旌孝堂醫案 Jīngxiàotáng yīàn *Medical Case Records of the Hall of Filial Distinction*
+- [[KR3ep057]] 1880 邵氏方案 Shàoshì fāngàn *Prescriptions and Cases of the Shào Family*
+- [[KR3ep096]] 1880 徐渡漁先生醫案 Xú Dùyú xiānshēng yīàn *Medical Case Records of Master Xú Dù-yú*
+- [[KR3ea047]] 1881 內經運氣病釋 Nèijīng yùnqì bìngshì *An Explanation of the Climatic-Cycle Pathology of the Inner Classic*
+- [[KR3ea048]] 1881 內經運氣表 Nèijīng yùnqì biǎo *Tables of the Climatic-Cycle Doctrine of the Inner Classic*
+- [[KR3ea049]] 1881 內經難字音義 Nèijīng nánzì yīnyì *The Sound and Sense of Difficult Characters in the Inner Classic*
+- [[KR3ed059]] 1881 不知醫必要 Bùzhī Yī Bìyào *Essentials Indispensable for the Medically Ignorant*
+- [[KR3em041]] 1881 喉舌備要秘旨 Hóushé bèiyào mìzhǐ *Secret Essentials for Throat-and-Tongue Disorders*
+- [[KR3eq095]] 1881 壽山筆記 Shòushān bǐjì *Notes from the Longevity Mountain*
+- [[KR3eg002]] 1882 時病論 Shíbìng lùn *Treatise on Seasonal Disorders*
+- [[KR3eh050]] 1882 瘧利成法 Nüèlì chéngfǎ *Established Methods for Malaria and Dysentery*
+- [[KR3ep006]] 1882 張聿青醫案 Zhāng Yùqīng yīàn *Medical Case Records of Zhāng Yùqīng*
+- [[KR3ee047]] 1883 灸法秘傳 Jiǔfǎ mìchuán *Secret Transmission of Moxibustion Methods*
+- [[KR3er035]] 1883 醫門補要 Yī mén bǔ yào *Supplementary Essentials at the Gate of Medicine*
+- [[KR3ef060]] 1884 傷寒恆論 Shānghán héng lùn *Constant Treatise on Cold Damage*
+- [[KR3eh012]] 1884 血證論 Xuèzhèng lùn *Treatise on Blood-Syndromes*
+- [[KR3eh044]] 1884 葛可久十藥神書歌訣 Gě Kějiǔ shíyào shénshū gējué *Versified Mnemonic to Gě Kějiǔ's Divine Book of Ten Prescriptions*
+- [[KR3eo007]] 1884 性命要旨 Xìngmìng yàozhǐ *Essential Principles of Inner Nature and Vital Force*
+- [[KR3ed069]] 1885 重訂痧疫指迷 Chóngdìng Shāyì Zhǐmí *A Revised Guide to the Bewilderments of Cholera-Pestilence*
+- [[KR3ed114]] 1885 奇效簡便良方 Qíxiào Jiǎnbiàn Liángfāng *Extraordinarily Efficacious Simple-and-Convenient Good Formulas*
+- [[KR3ei022]] 1885 女科秘旨 Nǚkē mìzhǐ *The Secret Indicators of Women's Medicine*
+- [[KR3ep038]] 1885 黃澹翁醫案 Huáng Dànwēng yīàn *Medical Case Records of Old Man Huáng Dàn*
+- [[KR3eq091]] 1885 一得集 Yīdé jí *Collection of a Single Insight*
+- [[KR3ek025]] 1886 青囊全集秘旨 Qīngnáng quánjí mìzhǐ *Secret Principles of the Complete Green-Bag Collection*
+- [[KR3ec068]] 1887 本草便讀 Běncǎo Biàn Dú *Materia Medica for Easy Reading*
+- [[KR3ed081]] 1887 經方例釋 Jīngfāng Lìshì *Worked Examples in the Classical-Formula Tradition*
+- [[KR3em031]] 1887 白喉捷要合編 Báihóu jiéyào hébiān *Combined Edition of Essentials for the Rapid Treatment of Diphtheria*
+- [[KR3eb042]] 1888 重訂時行伏陰芻言 Chóng Dìng Shí Xíng Fú Yīn Chú Yán *Revised Modest Words on the Seasonal Latent-Yīn Disorder*
+- [[KR3ee054]] 1888 釐正按摩要術 Lízhèng ànmó yàoshù *Rectified Essentials of Massage Technique*
+- [[KR3ef091]] 1888 金匱要略淺註補正 Jīnguì yào lüè qiǎn zhù bǔ zhèng *Supplemented and Corrected Accessible Annotation of the Jīnguì yào lüè*
+- [[KR3eh030]] 1888 醫學答問 Yīxué dáwèn *Questions and Answers on Medicine*
+- [[KR3eq033]] 1888 柳寶詒醫論醫案 Liǔ Bǎoyí yīlùn yīàn *Liǔ Bǎoyí's Medical Discussions and Case Records*
+- [[KR3eq047]] 1888 醫易通說 Yīyì tōngshuō *A Comprehensive Discussion of Medicine-and-the-Yìjīng*
+- [[KR3eq060]] 1888 醫粹精言 Yī cuì jīng yán *Refined Words of the Medical Distillate*
+- [[KR3ej019]] 1889 鬻嬰提要說 Yùyīng tíyàoshuō *Essential Discussions on the Nurture of Infants*
+- [[KR3ej049]] 1889 痧疹輯要 Shāzhěn jíyào *Compiled Essentials on Scarlet-Type Eruptive Fevers*
+- [[KR3ea034]] 1890 內經辨言 Nèijīng biànyán *Critical Notes on the Inner Classic*
+- [[KR3eh056]] 1890 痢症三字訣 Lìzhèng sānzì jué *A Three-Character Mnemonic of Dysentery*
+- [[KR3ej051]] 1890 專治麻痧初編 Zhuānzhì máshā chūbiān *Initial Compilation Devoted Exclusively to Measles and Eruptive Fever*
+- [[KR3ek030]] 1890 外科學話義 Wàikē xué huà yì *Discourse and Meaning of External-Medicine Studies*
+- [[KR3ep021]] 1890 柳選四家醫案 Liǔxuǎn sìjiā yīàn *Selected Case Records of Four Masters, Edited by Liǔ [Bǎoyí]*
+- [[KR3ep046]] 1890 劍慧草堂醫案 Jiànhuì cǎotáng yīàn *Medical Case Records of the Sword-Wisdom Thatched Hall*
+- [[KR3ep094]] 1890 崇實堂醫案 Chóngshítáng yīàn *Medical Case Records of the Hall of Honoring Substance*
+- [[KR3eb036]] 1891 脈義簡摩 Mài Yì Jiǎn Mó *Concise Polishings of Pulse Doctrine*
+- [[KR3ed066]] 1891 和緩遺風 Héhuǎn Yífēng *The Lingering Style of [Yī] Hé and [Yī] Huǎn*
+- [[KR3el005]] 1891 傷科大成 Shāngkē dàchéng *Compendium of Traumatology*
+- [[KR3em032]] 1891 白喉辨證 Báihóu biànzhèng *Differential Diagnosis of Diphtheria*
+- [[KR3ea044]] 1892 中西匯通醫經精義 ZhōngXī huìtōng yījīng jīngyì *The Essential Meaning of the Medical Classics, in Chinese-Western Synthesis*
+- [[KR3ec053]] 1892 本草思辨錄 Běncǎo Sībiàn Lù *Record of Reflective Discussion on the Materia Medica*
+- [[KR3eg018]] 1892 六氣感證要義 Liùqì gǎnzhèng yàoyì *Essential Meanings of Syndromes Induced by the Six Qi*
+- [[KR3eg041]] 1892 鼠疫約編 Shǔyì yuēbiān *Concise Compendium on Bubonic Plague*
+- [[KR3ek008]] 1892 外科傳薪集 Wàikē chuánxīn jí *Surgical Collection of Transmitted Embers*
+- [[KR3eb007]] 1893 重訂診家直訣 Chóng Dìng Zhěn Jiā Zhí Jué *A Revised Direct Manual for Diagnosticians*
+- [[KR3eb037]] 1893 脈簡補義 Mài Jiǎn Bǔ Yì *Supplementary Meaning to the Pulse Notes*
+- [[KR3eb038]] 1893 辨脈平脈章句 Biàn Mài Píng Mài Zhāng Jù *Phrase-by-Phrase Exposition of the "Biàn Mài" and "Píng Mài" Chapters*
+- [[KR3ec055]] 1893 本草撮要 Běncǎo Cuōyào *Gathering the Essentials of the Materia Medica*
+- [[KR3ec056]] 1893 本草問答 Běncǎo Wèndá *Catechism on the Materia Medica*
+- [[KR3ef028]] 1893 傷寒論淺註補正 Shānghán lùn qiǎnzhù bǔ zhèng *Plain Annotated [Treatise on Cold Damage], with Supplements and Corrections*
+- [[KR3ei036]] 1893 女丹合編選註 Nǚdān hébiān xuǎnzhù *Selected and Annotated Anthology of Female Alchemical Practice*
+- [[KR3er107]] 1893 歐蠱燃犀錄 Ōugǔ ránxī lù *A Rhino-Horn-Burning Record of Casting Out Poison-Magic*
+- [[KR3eb049]] 1894 形色外診簡摩 Xíng Sè Wài Zhěn Jiǎn Mó *Concise Polishings of External Diagnosis by Form and Complexion*
+- [[KR3ee034]] 1894 中西匯參銅人圖說 Zhōng Xī huìcān tóngrén túshuō *Sino-Western Synthetic Annotated Bronze-Figure Atlas*
+- [[KR3ef043]] 1894 傷寒補例 Shānghán bǔ lì *Supplementary Cases on Cold Damage*
+- [[KR3eq083]] 1894 讀醫隨筆 Dúyī suíbǐ *Random Notes on Reading Medicine*
+- [[KR3ea058]] 1895 難經正義 Nànjīng zhèngyì *The Correct Meaning of the Classic of Difficulties*
+- [[KR3ed122]] 1895 疑難急症簡方 Yínán Jízhèng Jiǎnfāng *Concise Formulas for Difficult and Emergency Cases*
+- [[KR3eg028]] 1895 伏邪新書 Fúxié xīnshū *A New Book on Latent Pathogens*
+- [[KR3ep014]] 1895 許氏醫案 Xǔshì yīàn *Medical Case Records of Mr Xǔ [Ēnpǔ]*
+- [[KR3ep086]] 1895 王氏醫案繹註 Wángshì yīàn yìzhù *Annotated Elucidation of Wáng's Medical Case Records*
+- [[KR3eq093]] 1895 蠢子醫 Chǔnzǐ yī *Medicine for the Stupid Child*
+- [[KR3er117]] 1895 簡明中西匯參醫學圖說 Jiǎnmíng ZhōngXī huìcān yīxué túshuō *A Concise Illustrated Explanation of Sino-Western Integrative Medicine*
+- [[KR3eu059]] 1895 針學通論 Zhēnxué tōnglùn *A General Treatise on Acupuncture*
+- [[KR3ei014]] 1896 濟生集 Jìshēng jí *Anthology for Aiding Life*
+- [[KR3ep050]] 1897 費繩甫先生醫案 Fèi Shéngfǔ xiānshēng yīàn *Medical Case Records of Master Fèi Shéngfǔ*
+- [[KR3ep052]] 1897 陳蓮舫醫案 Chén Liánfǎng yīàn *Medical Case Records of Chén Lián-fǎng*
+- [[KR3er069]] 1897 醫學摘粹 Yīxué zhāicuì *Selected Essentials of Medical Learning*
+- [[KR3er102]] 1897 醫易一理 Yīyì yīlǐ *Medicine and the Changes Are of One Principle*
+- [[KR3ea032]] 1898 內經評文 Nèijīng píngwén *Literary Appraisal of the Inner Classic*
+- [[KR3ed117]] 1898 經驗奇方 Jīngyàn Qífāng *Tested Extraordinary Formulas*
+- [[KR3ee039]] 1898 脈度運行考 Màidù yùnxíng kǎo *Investigation of the Measure and Circulation of the Channels*
+- [[KR3eq092]] 1898 醫醫小草 Yīyī xiǎo cǎo *A Little Plant for Doctoring the Doctors*
+- [[KR3ek010]] 1899 外科醫鏡 Wàikē yījìng *Medical Mirror for External Medicine*
+- [[KR3ep004]] 1899 邵蘭蓀醫案 Shào Lánsūn yīàn *Medical Case Records of Shào Lánsūn*
+
+### KR4 (85)
+
+- [[KR4k0122]] 1800 海遊記 Hǎi Yóu Jì *Record of a Sea Journey*
+- [[KR4k0154]] 1800 金石緣 Jīnshí Yuán *A Bond as Enduring as Metal and Stone*
+- [[KR4k0158]] 1800 警寤鍾 Jǐngwù Zhōng *The Bell That Awakens*
+- [[KR4k0263]] 1800 繡鞋記 Xiù Xié Jì *Record of the Embroidered Shoe*
+- [[KR4f0062]] 1801 揅經室一集 Yánjīngshì yī jí *The First (Classics) Sub-collection of the Yán-jīng Studio*
+- [[KR4f0063]] 1801 大雲山房文稿初集 Dàyúnshānfáng wéngǎo chūjí *Prose Drafts from the Great Cloud Mountain Studio, Initial Collection*
+- [[KR4k0271]] 1805 綺樓重夢 Qǐlóu Chóng Mèng *Renewed Dream of the Embroidered Chamber*
+- [[KR4k0372]] 1806 古史考序 Gǔ Shǐ Kǎo Xù *Preface to the Investigation of Ancient History*
+- [[KR4k0139]] 1808 後紅樓夢 Hòu Hónglóumèng *Sequel to the Dream of the Red Chamber*
+- [[KR4k0251]] 1808 熙朝新語 Xīcháo Xīnyǔ *New Conversations from the Brilliant Dynasty*
+- [[KR4k0116]] 1809 浮生六記 Fúshēng Liù Jì *Six Records of a Floating Life*
+- [[KR4k0118]] 1809 浮生六記 Fúshēng Liù Jì *Six Records of a Floating Life*
+- [[KR4k0202]] 1809 清風閘 Qīngfēng Zhá *The Qingfeng Sluice-Gate*
+- [[KR4k0088]] 1810 癡人福 Chīrén Fú *Fortune of a Fool*
+- [[KR4k0086]] 1812 常言道 Cháng Yán Dào *As the Saying Goes*
+- [[KR4k0097]] 1812 東周列國志 Dōngzhōu Lièguó Zhì *Tales of the States of the Eastern Zhou*
+- [[KR4k0283]] 1815 綠牡丹 Lǜ Mǔdān *The Green Peony*
+- [[KR4k0136]] 1819 紅樓夢補 Hónglóumèng Bǔ *Supplement to the Dream of the Red Chamber*
+- [[KR4k0247]] 1820 五美緣 Wǔ Měi Yuán *The Fate of Five Beauties*
+- [[KR4k0249]] 1820 西夏書事 Xīxià Shūshì *Records of Xi Xia Affairs*
+- [[KR4k0275]] 1821 英雲夢傳 Yīngyún Mèng Zhuàn *The Story of Yingyun's Dream*
+- [[KR4k0132]] 1823 紅風傳 Hóng Fēng Zhuàn *Tale of the Red Wind*
+- [[KR4k0160]] 1823 鏡花緣 Jìnghuā Yuán *Flowers in the Mirror*
+- [[KR4k0094]] 1825 狄公案 Dí Gōng Àn *The Cases of Judge Di*
+- [[KR4k0113]] 1825 風流悟 Fēngliú Wù *Awakening to Romantic Folly*
+- [[KR4k0125]] 1825 海國春秋 Hǎiguó Chūnqiū *Annals of a Maritime Kingdom*
+- [[KR4k0159]] 1825 驚夢啼 Jīngmèng Tí *Startling Dream, Weeping*
+- [[KR4k0238]] 1826 聽月樓 Tīng Yuè Lóu *The Moon-Listening Tower*
+- [[KR4f0064]] 1828 定盦文集 Dìngān wénjí *The Dìng-ān Collected Prose (of Gōng Zì-zhēn)*
+- [[KR4f0065]] 1828 定盦文集補編 Dìngān wénjí bǔbiān *The Dìng-ān Collected Prose, Supplementary Edition*
+- [[KR4k0111]] 1832 粉妝樓全傳 Fěnzhuānglóu Quánzhuàn *The Complete Tale of the Powder-and-Rouge Tower*
+- [[KR4k0217]] 1835 三續金瓶梅 Sān Xù Jīnpíngméi *Third Continuation of the Gold Vase Plum*
+- [[KR4h0172]] 1836 全宋文 Quán Sòng Wén *Complete Prose Writings of the Liu Song Dynasty*
+- [[KR4h0173]] 1836 全齊文 Quán Qí Wén *Complete Prose Writings of the Southern Qi Dynasty*
+- [[KR4h0174]] 1836 全東魏文·全北齊文 Quán Dōngwèi Wén · Quán Běiqí Wén *Complete Prose Writings of the Eastern Wei and Northern Qi Dynasties*
+- [[KR4h0175]] 1836 全後周文 Quán Hòuzhōu Wén *Complete Prose Writings of the Northern Zhou (and Sui) Dynasty*
+- [[KR4h0176]] 1836 全上古三代秦漢三國六朝文 Quán Shànggǔ Sāndài Qín Hàn Sānguó Liùcháo Wén *Complete Prose from High Antiquity through the Three Kingdoms and Six Dynasties*
+- [[KR4h0178]] 1836 全三國文 Quán Sānguó Wén *Complete Prose Writings of the Three Kingdoms Period*
+- [[KR4h0179]] 1836 全晉文 Quán Jìn Wén *Complete Prose Writings of the Jin Dynasty*
+- [[KR4h0180]] 1836 全梁文 Quán Liáng Wén *Complete Prose Writings of the Liang Dynasty*
+- [[KR4h0181]] 1836 全陳文 Quán Chén Wén *Complete Prose Writings of the Chen Dynasty*
+- [[KR4h0182]] 1836 全後魏文 Quán Hòuwèi Wén *Complete Prose Writings of the Northern Wei Dynasty*
+- [[KR4k0092]] 1838 蕩寇志 Dàng Kòu Zhì *Annals of the Suppression of Bandits*
+- [[KR4k0117]] 1845 富翁醒世錄 Fùwēng Xǐng Shì Lù *The Rich Man's Record of Awakening to the World*
+- [[KR4k0105]] 1846 兒女英雄傳 Érnǚ Yīngxióng Zhuàn *A Tale of Sons, Daughters, and Heroes*
+- [[KR4k0106]] 1846 兒女英雄傳 Érnǚ Yīngxióng Zhuàn *A Tale of Sons, Daughters, and Heroes*
+- [[KR4k0112]] 1848 風月夢 Fēngyuè Mèng *Dream of Wind and Moon*
+- [[KR4k0135]] 1849 紅樓真夢 Hónglóu Zhēnmèng *The True Dream of the Red Chamber*
+- [[KR4k0193]] 1849 品花寶鑒 Pǐnhuā Bǎojiàn *A Precious Mirror for Evaluating Flowers*
+- [[KR4f0068]] 1851 曾文正公詩集 Zēng Wénzhènggōng shījí *The Poetry Collection of Duke Zēng Wén-zhèng (Zēng Guó-fān)*
+- [[KR4k0144]] 1852 花月痕 Huā Yuè Hén *Traces of Flowers and Moon*
+- [[KR4k0134]] 1855 紅樓圓夢 Hónglóu Yuánmèng *The Round Dream of the Red Chamber*
+- [[KR4k0214]] 1860 賽花鈴 Sài Huālíng *Surpassing the Flower Bell*
+- [[KR4k0255]] 1860 俠女奇緣 Xiánǚ Qíyuán *The Remarkable Fate of a Chivalric Maiden*
+- [[KR4k0288]] 1861 趙太祖三下南唐 Zhào Tàizǔ Sān Xià Nán Táng *Emperor Taizu of Song Thrice Campaigns Against the Southern Tang*
+- [[KR4k0232]] 1863 俗話傾談一集 Súhuà Qīngtán Yījí *Candid Talks in the Vernacular, First Collection*
+- [[KR4k0185]] 1864 木蘭奇女傳 Mùlán Qínǚ Zhuàn *The Remarkable Woman Mulan: A Biography*
+- [[KR4k0231]] 1865 俗話傾談二集 Súhuà Qīngtán Èrjí *Candid Talks in the Vernacular, Second Collection*
+- [[KR4k0137]] 1869 紅樓夢影 Hónglóumèng Yǐng *Shadow of the Dream of the Red Chamber*
+- [[KR4k0262]] 1869 绣云阁 Xiù Yún Gé *The Embroidered Cloud Pavilion*
+- [[KR4k0201]] 1870 巧冤家 Qiǎo Yuānjiā *The Clever Wronged Family*
+- [[KR4k0208]] 1870 情夢柝 Qíng Mèng Chè *Analyzing Dreams of Passion*
+- [[KR4k0270]] 1876 鴉片事略 Yāpiàn Shì Lüè *A Brief Account of Opium Affairs*
+- [[KR4k0166]] 1880 康熙俠義傳 Kāngxī Xiáyì Zhuàn *The Tale of Chivalry and Righteousness in the Kangxi Reign*
+- [[KR4k0181]] 1880 梅蘭佳話 Méilán Jiāhuà *A Fine Tale of Plum and Orchid*
+- [[KR4k0183]] 1880 夢中緣 Mèngzhōng Yuán *Bonds Forged in a Dream*
+- [[KR4k0189]] 1880 女聊齋志異 Nǚ Liáozhāi Zhìyì *Records of the Strange from a Female Studio*
+- [[KR4k0206]] 1881 青樓夢 Qīnglóu Mèng *Dream of the Green Bower*
+- [[KR4k0209]] 1884 七俠五義 (第一部) Qī Xiá Wǔ Yì (Dì-yī bù) *Seven Heroes and Five Gallants (Part One, chapters 1–60)*
+- [[KR4k0210]] 1884 七俠五義 (第二部) Qī Xiá Wǔ Yì (Dì-èr bù) *Seven Heroes and Five Gallants (Part Two, chapters 61–120)*
+- [[KR4k0153]] 1885 劍俠奇中奇全傳 Jiànxiá Qí Zhōng Qí Quánzhuàn *The Complete Story of the Wondrous Among Wonders of the Swordfighting Knights*
+- [[KR4k0195]] 1887 七劍十三俠 Qī Jiàn Shísān Xiá *Seven Swords and Thirteen Knights*
+- [[KR4k0254]] 1887 湘軍志 Xiāngjūn Zhì *Treatise on the Hunan Army*
+- [[KR4k0204]] 1889 青樓夢 Qīnglóu Mèng *Dream of the Green Bower*
+- [[KR4k0199]] 1892 乾隆南巡記 Qiánlóng Nánsūn Jì *Record of the Qianlong Emperor's Southern Tours*
+- [[KR4k0215]] 1893 三春夢 Sān Chūn Mèng *Dream of Three Springs*
+- [[KR4k0219]] 1893 三春夢 Sān Chūn Mèng *Dream of Three Springs*
+- [[KR4k0123]] 1894 海上塵天影 Hǎishàng Chén Tiān Yǐng *Shadows of the Dusty Heaven above the Sea*
+- [[KR4k0124]] 1894 海上花列傳 Hǎishàng Huā Lièzhuàn *Sing-Song Girls of Shanghai*
+- [[KR4k0192]] 1895 彭公案 Péng Gōng'àn *Cases of Magistrate Peng*
+- [[KR4k0250]] 1895 熙朝快史 Xīcháo Kuàishǐ *A Pleasant History of a Prosperous Dynasty*
+- [[KR4k0173]] 1897 李公案奇聞 Lǐ Gōng'àn Qíwén *Strange Cases of Magistrate Li*
+- [[KR4k0272]] 1897 醫界鏡 Yījiè Jìng *Mirror of the Medical World*
+- [[KR4k0151]] 1898 濟公全傳 Jìgōng Quánzhuàn *The Complete Biography of Jigong*
+- [[KR4k0316]] 1899 十葉野聞 Shíyè Yěwén *Unofficial Records of the Ten [Qing] Reigns*
+
+### KR5 (2)
+
+- [[KR5i0016]] 1804 太上洞玄靈寶紫微金格高上玉皇本行集經闡微 Tài shàng dòng xuán líng bǎo zǐ wēi jīn gé gāo shàng yù huáng běn xíng jí jīng chǎn wēi *Elucidating the Subtle Meaning of the Most-High Cavern-Mystery Numinous-Treasure Purple-Tenuity Golden-Tablet Lofty-Highest Jade-Emperor Original-Comportment Collected Scripture*
+- [[KR5c0386]] 1894 莊子集釋 Zhuāng zǐ jí shì *Collected Glosses on the Zhuāng zǐ*
+
+### KR6 (55)
+
+- [[KR6c0185]] 1800 般若心經彙纂 Bōrě xīnjīng huìzuǎn *Synoptic Compilation on the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6p0121]] 1800 淨土紺珠 Jìngtǔ gànzhū *Dark-Blue Pearls of the Pure Land*
+- [[KR6t0282]] 1807 五家參祥要路門 Wǔjiā cānxiáng yāolù mén *Gates of the Essential Roads of the Five Houses Examined Auspiciously*
+- [[KR6p0101]] 1808 徹悟禪師語錄 Chèwù chánshī yǔlù *Recorded Sayings of Chán Master Chè-wù*
+- [[KR6p0104]] 1819 徑中徑又徑 Jìng zhōng jìng yòu jìng *A Shortcut Within the Shortcut, and Yet Another Shortcut*
+- [[KR6q0031]] 1820 正源略集目錄 Zhèngyuán lüèjí mùlù *Table of Contents to the Abbreviated Collection of the Orthodox Source*
+- [[KR6q0032]] 1820 正源略集 Zhèngyuán lüèjí *Abbreviated Collection of the Orthodox Source*
+- [[KR6k0243]] 1822 在家律要廣集 Zàijiā lǜyào guǎngjí *An Expanded Anthology of Vinaya Essentials for the Householder*
+- [[KR6q0135]] 1823 百丈清規證義記 Bǎizhàng qīng guī zhèng yì jì *Verified-Meaning Record on the Bǎizhàng Pure Regulations*
+- [[KR6q0033]] 1825 正源略集補遺 Zhèngyuán lüèjí bǔyí *Supplement to the Abbreviated Collection of the Orthodox Source*
+- [[KR6c0116]] 1835 金剛經科儀 Jīngāng jīng kēyí *The Diamond Sūtra Liturgy*
+- [[KR6p0102]] 1840 淨業知津 Jìngyè zhī jīn *Knowing the Ford to the Pure Karma*
+- [[KR6p0103]] 1840 念佛百問 Niànfó bǎiwèn *One Hundred Questions on* Niàn-fó *Practice*
+- [[KR6r0082]] 1840 西舫彙征 Xīfǎng huìzhēng *Gathered Voyages of the Western Skiff*
+- [[KR6c0096]] 1841 金剛經闡說 Jīngāng jīng chǎnshuō *Elucidation of the Diamond Sūtra*
+- [[KR6p0088]] 1845 淨土生無生論會集 Jìngtǔ shēng wúshēng lùn huìjí *Conflated [Commentary] on the Treatise on Birth-as-Non-Birth in the Pure Land*
+- [[KR6r0081]] 1845 淨土聖賢錄續編 Jìngtǔ shèngxián lù xùbiān *Continuation of the Records of the Saints and Worthies of the Pure Land*
+- [[KR6c0097]] 1849 金剛經解義 Jīngāng jīng jiěyì *Explanation of the Meaning of the Diamond Sūtra*
+- [[KR6p0111]] 1855 清珠集 Qīngzhū jí *The Anthology of the Clear-Water Pearl*
+- [[KR6p0125]] 1855 持名四十八法 Chímíng sìshíbā fǎ *Forty-Eight Methods for Holding the [Buddha's] Name*
+- [[KR6c0189]] 1856 般若心經解義 Bōrě xīnjīng jiěyì *"Glossing the Meaning" of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6p0001]] 1856 無量壽經會譯 Wúliángshòu jīng huìyì *Conflated Recension of the Sūtra of Immeasurable Life*
+- [[KR6p0025]] 1860 阿彌陀經要解便蒙鈔 Ēmítuó jīng yàojiě biànméngchāo *The* Yào-jiě *(Essential Exegesis) on the Smaller Amitābha-sūtra, with the* Biàn-méng *(Convenient-for-the-Unenlightened) Sub-commentary*
+- [[KR6q0170]] 1860 宗範 Zōng fàn *The Standard of the School*
+- [[KR6p0027]] 1861 阿彌陀經註 Ēmítuó jīng zhù *Annotations on the Smaller Amitābha-sūtra*
+- [[KR6k0206]] 1863 法界聖凡水陸大齋法輪寶懺 Fǎjiè shèngfán shuǐlù dàzhāi fǎlún bǎochàn *Precious Repentance of the Dharma-Wheel for the Great Waterand-Land Fast of All Sages and Common Beings of the Dharma-Realm*
+- [[KR6k0205]] 1865 法界聖凡水陸大齋普利道場性相通論 Fǎjiè shèngfán shuǐlù dàzhāi pǔlì dàochǎng xìngxiàng tōnglùn *A General Discourse on Natureand-Phenomena for the Universal-Benefit Site of the Great Waterand-Land Fast for All Sages and Common Beings of the Dharma-Realm*
+- [[KR6p0112]] 1867 蓮邦消息 Liánbāng xiāoxī *Tidings from the Lotus Country*
+- [[KR6p0113]] 1867 淨土極信錄 Jìngtǔ jí xìn lù *Record of Ultimate Pure Land Faith*
+- [[KR6p0114]] 1867 念佛起緣彌陀觀偈直解 Niànfó qǐyuán Mítuó guānjì zhíjiě *A Direct Explication of the Eight-Line Amitābha Contemplation Gāthā Concerning the Origin of* Niàn-fó *Practice*
+- [[KR6v0089]] 1867 二曜金剛合璧 Èryào jīngāng hébì *Twin-Luminary Vajracchedikā Combined-Jade*
+- [[KR6p0115]] 1870 淨土證心集 Jìngtǔ zhèngxīn jí *An Anthology of Realising the Mind through the Pure Land*
+- [[KR6p0118]] 1870 淨業痛策 Jìngyè tòng cè *The Painful Whip of Pure Karma*
+- [[KR6p0126]] 1870 唯心集 Wéixīn jí *Mind-Only Collection*
+- [[KR6r0083]] 1870 修西聞見錄 Xiūxī wénjiàn lù *Records of What Has Been Heard and Seen of [Those Who] Cultivate the West [= the Pure Land]*
+- [[KR6p0004]] 1873 摩訶阿彌陀經衷論 MóhēĒmítuó jīng zhōnglùn *Doctrinal Treatise on the Mahā-Amitābha Sūtra*
+- [[KR6p0119]] 1873 時時好念佛 Shíshí hǎo niànfó *The* Niàn-fó *That Is Good in Every Moment*
+- [[KR6p0085]] 1875 西歸行儀 Xīguī xíngyí *Liturgical Handbook for the Westward Return [to the Pure Land]*
+- [[KR6p0106]] 1875 淨土隨學 Jìngtǔ suí xué *Pure Land Studies, Followed Wherever One May Be*
+- [[KR6p0107]] 1875 淨土必求 Jìngtǔ bì qiú *The Pure Land One Must Seek*
+- [[KR6p0116]] 1875 蓮宗必讀 Liánzōng bì dú *Required Reading for the Lotus-School*
+- [[KR6p0117]] 1875 淨土神珠 Jìngtǔ shénzhū *The Divine Pearl of the Pure Land*
+- [[KR6r0114]] 1875 朝鮮禪教考 Cháoxiǎn chánjiào kǎo *An Examination of the Chán and Doctrinal Schools in Korea*
+- [[KR6r0173]] 1875 宗教律諸宗演派 Zōngjiàolǜ zhūzōng yǎnpài *Generational-Character Mnemonic Verses of the Various Lineages of Chán, Doctrinal Schools, and Vinaya*
+- [[KR6p0122]] 1877 修西輯要 Xiūxī jí yào *Essentials of Cultivating [Rebirth in] the West, Selected*
+- [[KR6c0094]] 1883 金剛經注 Jīngāng jīng zhù *The Diamond Sūtra -- Annotation*
+- [[KR6p0132]] 1883 蓮修必讀 Liánxiū bì dú *Required Reading for Lotus-Cultivation*
+- [[KR6p0123]] 1887 蓮修起信錄 Liánxiū qǐ xìn lù *Record for Awakening Faith in Lotus-Cultivation*
+- [[KR6p0124]] 1887 報恩論 Bàoēn lùn *Treatise on Repaying Grace*
+- [[KR6p0134]] 1888 淨土救生船詩 Jìngtǔ jiùshēng chuán shī *Verses on the Salvation-Boat of the Pure Land*
+- [[KR6c0098]] 1889 金剛經易解 Jīngāng jīng yìjiě *The Diamond Sūtra -- Easy Explanation*
+- [[KR6c0191]] 1889 般若心經易解 Bōrě xīnjīng yìjiě *"Easy Explication" of the Heart of the Perfection of Wisdom Sūtra*
+- [[KR6c0095]] 1891 金剛經訂義 Jīngāng jīng dìngyì *Establishing the Meaning of the Diamond Sūtra*
+- [[KR6j0721]] 1893 楞嚴經序指味疏 Lèngyán jīng xù zhǐwèi shū *"Pointing to the Flavour" Commentary on the Preface of the Śūraṃgama-sūtra*
+- [[KR6o0099]] 1895 大宗地玄文本論略註 Dà zōng dì xuán wén běn lùn lüè zhù *Brief Annotation on the Foundational Treatise of the Great-Source-Ground Profound Text*
+
+## 1900 to 1999 (215)
+
+### KR2 (1)
+
+- [[KR2a0039]] 1920 清史稿 Qīng shǐ gǎo *Draft History of the Qīng*
+
+### KR3 (107)
+
+- [[KR3ep041]] 1900 鄒亦仲醫案新編 Zōu Yìzhòng yīàn xīnbiān *Newly Compiled Medical Case Records of Zōu Yìzhòng*
+- [[KR3eq076]] 1900 金臺醫案 Jīntái yīàn *Case Records from the Golden Terrace*
+- [[KR3eq077]] 1900 靖庵說醫 Jìngān shuōyī *Jing'an's Discussions of Medicine*
+- [[KR3ec062]] 1901 藥論 Yàolùn *Treatise on Drugs*
+- [[KR3em020]] 1901 白喉條辨 Báihóu tiáobiàn *Systematic Discriminations on White-Throat Disease*
+- [[KR3eg007]] 1903 溫病指南 Wēnbìng zhǐnán *A Guide to Warm-Disease Therapy*
+- [[KR3ed092]] 1904 成方便讀 Chéngfāng Biàn Dú *Easy-Reading Manual of Established Formulas*
+- [[KR3eb041]] 1905 丹溪脈訣指掌 Dān Xī Mài Jué Zhǐ Zhǎng *The Danxi Palm-Pointing Pulse Songs*
+- [[KR3ep068]] 1906 遯園醫案 Dùnyuán yīàn *Medical Case Records of the Retreat Garden*
+- [[KR3ed061]] 1908 丁甘仁先生家傳珍方 Dīng Gānrén Xiānshēng Jiāchuán Zhēnfāng *Mr. Dīng Gānrén's Family-Transmitted Treasured Formulas*
+- [[KR3ed070]] 1908 金氏門診方案 Jīnshì Ménzhěn Fāng'àn *The Jīn-Family Outpatient Case-Records*
+- [[KR3ep024]] 1908 丁甘仁醫案 Dīng Gānrén yīàn *Medical Case Records of Dīng Gānrén*
+- [[KR3eq023]] 1908 存存齋醫話稿 Cúncúnzhāi yīhuà gǎo *Draft Medical Discourses from the Cúncún Studio*
+- [[KR3eb029]] 1909 脈經鈔 Mài Jīng Chāo *A Critical Extract from the Pulse Classic*
+- [[KR3ek044]] 1909 癧科全書 Lìkē quánshū *Complete Book on Scrofula*
+- [[KR3eq019]] 1909 醫醫醫 Yī yī yī *Treating-Treating-Physicians (or, A Tripled-Sigh for the Physicians)*
+- [[KR3ed065]] 1911 歷驗再壽編 Lìyàn Zàishòu Biān *A Collection of Tested Recipes for a Second Life-Span*
+- [[KR3em034]] 1911 喉科金鑰全書 Hóukē jīnyuè quánshū *The Complete Golden Key to Throat Medicine*
+- [[KR3eg016]] 1912 溫熱論箋正 Wēnrè lùn jiānzhèng *Annotated Critical Edition of the Treatise on Warm-Heat Disorders*
+- [[KR3eh049]] 1912 治瘧機要 Zhìnüè jīyào *Essentials of Malaria Treatment*
+- [[KR3ep022]] 1912 增補評注柳選醫案 Zēngbǔ píngzhù Liǔxuǎn yīàn *Supplemented and Critically Annotated Edition of the Liǔ-Selected Case Records*
+- [[KR3eb053]] 1913 察舌辨症新法 Chá Shé Biàn Zhèng Xīn Fǎ *A New Method for Tongue Inspection and Syndrome Differentiation*
+- [[KR3ec071]] 1914 增訂偽藥條辨 Zēngdìng Wěiyào Tiáobiàn *Revised and Expanded Discrimination of Fraudulent Drugs*
+- [[KR3eq068]] 1914 景景醫話 Jǐngjǐng yīhuà *Medical Conversations of the Jingjing [Studio]*
+- [[KR3eo037]] 1915 達摩洗髓易筋經 Dámó xǐsuǐ yìjīn jīng *Bodhidharma's Marrow-Washing and Sinew-Transforming Classic*
+- [[KR3ep007]] 1915 叢桂草堂醫案 Cóngguì cǎotáng yīàn *Medical Case Records of the Cóngguì Thatched Hall*
+- [[KR3ep027]] 1915 葉天士醫案精華 Yè Tiānshì yīàn jīnghuá *Quintessence of Yè Tiānshì's Medical Case Records*
+- [[KR3ef031]] 1916 增訂通俗傷寒論 Zēngdìng tōngsú Shānghán lùn *Expanded and Revised Vernacular Treatise on Cold Damage*
+- [[KR3eg034]] 1917 濕溫時疫治療法 Shīwēn shíyì zhìliáo fǎ *Methods for Treating Damp-Warm Seasonal Epidemics*
+- [[KR3eq061]] 1917 存粹醫話 Cúncuì yīhuà *Medical Conversations from the Preservation-of-Essence [Studio]*
+- [[KR3er112]] 1917 中風斠詮 Zhōngfēng jiàoquán *A Critical Exposition of Stroke*
+- [[KR3ed149]] 1918 䱐溪秘傳簡驗方 Pūxī Mìchuán Jiǎnyàn Fāng *Pū Stream's Secret-Transmission Simple-Tested Formulas*
+- [[KR3ek033]] 1918 痰癧法門 Tánlì fǎmén *A Dharma-Gate to Phlegm-Node Disorders*
+- [[KR3ep070]] 1918 經方實驗錄 Jīngfāng shíyàn lù *Record of Classical-Formula Empirical Verification*
+- [[KR3eq038]] 1918 先哲醫話集 Xiānzhé yīhuà jí *Collected Medical Discourses of the Former Worthies*
+- [[KR3eu076]] 1918 中國醫藥論文集 Zhōngguó yīyào lùnwén jí *Collected Essays on Chinese Medicine and Pharmacology*
+- [[KR3ep101]] 1919 曹滄洲醫案 Cáo Cāngzhōu yīàn *Medical Casebook of Cáo Cāngzhōu*
+- [[KR3eb056]] 1920 辨舌指南 Biàn Shé Zhǐ Nán *Compass for Differentiating Tongues*
+- [[KR3ec085]] 1920 中國醫藥論文集 Zhōngguó Yīyào Lùnwénjí *Collected Essays on Chinese Medicine and Pharmacology*
+- [[KR3eg021]] 1920 中西溫熱串解 Zhōngxī wēnrè chuànjiě *Combined Chinese-Western Explication of Warm-Heat Disorders*
+- [[KR3eg027]] 1920 伏瘟證治實驗談 Fúwēn zhèngzhì shíyàn tán *Clinical-Experience Talks on the Syndrome-Differentiation and Treatment of Latent Plague*
+- [[KR3eq066]] 1920 懶園醫語 Lǎnyuán yīyǔ *Medical Words from the Idle Garden*
+- [[KR3eq069]] 1920 景景室醫槁雜存 Jǐngjǐngshì yīgǎo zácún *Medical Drafts and Miscellaneous Preservation from the Jingjing Studio*
+- [[KR3em038]] 1921 喉科家訓 Hóukē jiāxùn *Family Instructions on Laryngology*
+- [[KR3er071]] 1921 醫學衷中參西錄 Yīxué zhōngzhōng cānxī lù *Records of Medicine with Reference to Chinese Doctrine and Western Knowledge*
+- [[KR3ek034]] 1922 瘍科綱要 Yángkē gāngyào *A Framework for Ulcer Medicine*
+- [[KR3ep059]] 1922 王仲奇醫案 Wáng Zhòngqí yīàn *Medical Case Records of Wáng Zhòngqí*
+- [[KR3ec084]] 1923 漢藥良劣鑑別法 Hànyào Liángliè Jiànbié Fǎ *Method for Distinguishing Good from Poor in Chinese Drugs*
+- [[KR3ef024]] 1923 傷寒論匯注精華 Shānghán lùn huìzhù jīnghuá *Essential Refinements from the Gathered Annotations on the Treatise on Cold Damage*
+- [[KR3ea042]] 1924 內經藥瀹 Nèijīng yàoyuè *Pharmacopoeial Nourishment from the Inner Classic*
+- [[KR3eb009]] 1924 醫驗隨筆 Yī Yàn Suí Bǐ *Casual Notes on Medical Experience*
+- [[KR3ef002]] 1924 傷寒雜病論（桂林古本） Shānghán zábìng lùn (Guìlín gǔběn) *Treatise on Cold Damage and Miscellaneous Disorders (Guìlín Old Recension)*
+- [[KR3ei041]] 1924 沈氏女科輯要箋疏 Shěnshì nǚkē jíyào jiānshū *Annotated Commentary on the Shen Family's Compilation of Essentials in Women's Medicine*
+- [[KR3ep099]] 1924 全國名醫驗案類編 Quánguó míngyī yànàn lèibiān *Topically Arranged Compendium of Verified Case Records by Renowned Physicians from across the Nation*
+- [[KR3es005]] 1924 中國醫學源流論 Zhōngguó yīxué yuánliú lùn *On the Origins and Development of Chinese Medicine*
+- [[KR3ec063]] 1926 本草正義 Běncǎo Zhèngyì *The Correct Sense of the Materia Medica*
+- [[KR3eh019]] 1926 通俗內科學 Tōngsú nèikē xué *A Popular Internal Medicine*
+- [[KR3ee035]] 1927 針灸問答 Zhēnjiǔ wèndá *Questions and Answers on Acupuncture and Moxibustion*
+- [[KR3ef059]] 1927 皇漢醫學 Huáng Hàn yī xué *Imperial-Han Medicine*
+- [[KR3ee053]] 1928 推拿抉微 Tuīná juéwēi *Probing the Subtleties of Pediatric Massage*
+- [[KR3ei019]] 1928 竹泉生女科集要 Zhúquánshēng nǚkē jíyào *Master Bamboo-Spring's Compilation of Essentials in Women's Medicine*
+- [[KR3ej072]] 1928 保赤新書 Bǎochì xīnshū *New Book on the Protection of the Newborn*
+- [[KR3ei064]] 1929 胎產證治 Tāichǎn zhèngzhì *Pregnancy and Childbirth -- Pathology and Treatment*
+- [[KR3ej012]] 1929 兒科萃精 Érkē cuìjīng *Distilled Essentials of Paediatrics*
+- [[KR3ep104]] 1929 湖岳村叟醫案 Húyuè cūnsǒu yīàn *Medical Casebook of the Old Villager of Hú and Yuè*
+- [[KR3eq065]] 1929 慈濟醫話 Cíjì yīhuà *Compassionate-Aid Medical Conversations*
+- [[KR3eq074]] 1929 谷蓀醫話 Gǔsūn yīhuà *Gusun's Medical Conversations*
+- [[KR3ed143]] 1930 凌臨靈方 Líng Lín Língfāng *The Numinous Formulas of [the Late] Líng [Xiǎo-wǔ] in Bedside-Practice*
+- [[KR3ef093]] 1930 曹氏傷寒金匱發微合刊 Cáoshì Shānghán Jīnguì fā wēi hé kān *Joint Edition of the Cáo Family's Bringing-to-Light of Cold Damage and the Golden Casket*
+- [[KR3eg013]] 1930 重訂溫熱經解 Chóngdìng wēnrè jīngjiě *Revised Interpretation of the Warm-Heat Classics*
+- [[KR3eg043]] 1930 治痢南針 Zhìlì nánzhēn *A Compass for Treating Dysentery*
+- [[KR3eg044]] 1930 痙病與腦膜炎全書 Jìngbìng yǔ nǎomóyán quánshū *Complete Book on Convulsive Diseases and Meningitis*
+- [[KR3eg049]] 1930 秋瘧指南 Qiūnüè zhǐnán *A Guide to Autumn-Malaria*
+- [[KR3ej003]] 1930 幼科概論 Yòukē gàilùn *General Outline of Paediatrics*
+- [[KR3eq070]] 1930 留香館醫話 Liúxiāngguǎn yīhuà *Medical Conversations from the Lingering-Fragrance Studio*
+- [[KR3eq071]] 1930 素軒醫語 Sùxuān yīyǔ *Medical Words from the Plain-Veranda Studio*
+- [[KR3eq078]] 1931 黃氏醫話 Huángshì yīhuà *Mr. Huang's Discussions of Medicine*
+- [[KR3ec081]] 1932 鹿茸之研究 Lùróng zhī Yánjiū *Research on Deer-Velvet Antler*
+- [[KR3ec082]] 1932 犀黃之研究 Xīhuáng zhī Yánjiū *Research on Bezoar*
+- [[KR3ec083]] 1932 中國藥一百種之化學實驗 Zhōngguó Yào Yībǎizhǒng zhī Huàxué Shíyàn *Chemical Experiments on One Hundred Chinese Drugs*
+- [[KR3ee006]] 1932 金針秘傳 Jīnzhēn mìchuán *Secret Transmission of the Golden Needle*
+- [[KR3eu073]] 1932 漢藥研究綱要 Hànyào yánjiū gāngyào *An Outline of Research on Chinese (Han) Drugs*
+- [[KR3eu074]] 1932 鹿茸之研究 Lùróng zhī yánjiū *A Study of Deer-Antler Velvet (Lùróng)*
+- [[KR3eu075]] 1932 中國藥一百種之化學實驗 Zhōngguó yào yībǎizhǒng zhī huàxué shíyàn *Chemical Experiments on One Hundred Chinese Drugs*
+- [[KR3eh027]] 1933 中國內科醫鑑 Zhōngguó nèikē yījiàn *Mirror of Chinese Internal Medicine*
+- [[KR3eu056]] 1933 中國兒科醫鑑 Zhōngguó érkē yījiàn *A Mirror of Chinese Paediatric Medicine*
+- [[KR3ef036]] 1934 重訂通俗傷寒論 Chóngdìng tōngsú Shānghán lùn *Re-edited Vernacular Treatise on Cold Damage*
+- [[KR3ei067]] 1934 高淑濂胎產方案 Gāo Shūlián tāichǎn fāngàn *Gāo Shū-lián's Prescriptional Cases for Pregnancy and Childbirth*
+- [[KR3ej002]] 1934 兒科要略 Érkē yàolüè *Essentials of Paediatrics*
+- [[KR3er116]] 1934 圓運動的古中醫學 Yuányùndòng de gǔ Zhōngyī xué *The Ancient Chinese Medicine of Circular Motion*
+- [[KR3ed144]] 1935 丹方之研究 Dānfāng zhī Yánjiū *A Study of Single-Drug Formulas*
+- [[KR3eg012]] 1935 溫病正宗 Wēnbìng zhèngzōng *The Orthodox Tradition of Warm Disease*
+- [[KR3eq073]] 1935 覺廬醫話錄存 Juélú yīhuà lùcún *Records Preserved of the Awakened-Hermitage Medical Conversations*
+- [[KR3ec079]] 1936 漢藥研究綱要 Hànyào Yánjiū Gāngyào *Outline of Research on Chinese Drugs*
+- [[KR3eq081]] 1937 士諤醫話 Shìè yīhuà *Shi'e's Discussions of Medicine*
+- [[KR3eq082]] 1937 止園醫話 Zhǐyuán yīhuà *Medical Talks of the Zhiyuan Studio*
+- [[KR3eb030]] 1940 脈訣新編 Mài Jué Xīn Biān *A New Compilation of Pulse Songs*
+- [[KR3ej058]] 1940 麻疹專論 Mázhěn zhuānlùn *Specialised Treatise on Measles*
+- [[KR3ef068]] 1941 傷寒解毒療法 Shānghán jiě dú liáo fǎ *Detoxification Therapy for Cold-Damage Disorders*
+- [[KR3ek018]] 1943 外科十三方考 Wàikē shísān fāng kǎo *Investigations of the Thirteen Surgical Formulae*
+- [[KR3ed121]] 1944 本草簡要方 Běncǎo Jiǎnyào Fāng *Concise Formulary Based on the Materia Medica*
+- [[KR3ep105]] 1946 余無言醫案 Yú Wúyán yīàn *Medical Casebook of Yú Wúyán*
+- [[KR3eb055]] 1947 舌診問答 Shé Zhěn Wèn Dá *Questions and Answers on Tongue Diagnosis*
+- [[KR3ef058]] 1951 傷寒辨要箋記 Shānghán biàn yào jiān jì *Annotated Notes on Discriminating the Essentials of Cold Damage*
+- [[KR3ei047]] 1951 程門雪遺稿 Chéng Ménxuě yígǎo *Posthumous Drafts of Chéng Ménxuě*
+- [[KR3ej042]] 1955 中國兒科醫鑑 Zhōngguó érkē yījiàn *Mirror of Chinese Paediatric Medicine*
+- [[KR3k0081]] 1988 重廣會史箋證 Chóngguǎng huìshǐ jiānzhèng *Greatly Expanded Treasury of Historical Governance: Annotated and Verified*
+
+### KR4 (91)
+
+- [[KR4k0087]] 1900 宦海鍾 Huànhǎi Zhōng *Bell of the Sea of Officials*
+- [[KR4k0115]] 1900 負曝閑談 Fùpù Xiántán *Idle Talk While Basking in the Sun*
+- [[KR4k0256]] 1900 小八義 Xiǎo Bā Yì *The Eight Younger Gallants*
+- [[KR4k0257]] 1900 小五義 Xiǎo Wǔ Yì *The Five Younger Gallants*
+- [[KR4k0274]] 1900 罌粟花 Yīngsù Huā *The Opium Poppy Blossom*
+- [[KR4k0108]] 1902 發財秘訣 Fā Cái Mìjué *The Secret Formula for Getting Rich*
+- [[KR4k0143]] 1902 胡雪岩外傳 Hú Xuěyán Wàizhuàn *The Unofficial Biography of Hu Xueyan*
+- [[KR4k0176]] 1902 新中國未來記 Xīn Zhōngguó Wèilái Jì *A Record of the Future of New China*
+- [[KR4k0230]] 1902 斯文變相 Sīwén Biànxiàng *The Transformation of Civility*
+- [[KR4k0119]] 1903 官場現形記 Guānchǎng Xiànxíng Jì *Exposure of the Official World*
+- [[KR4k0152]] 1904 續濟公傳 Xù Jìgōng Zhuàn *A Sequel to the Biography of Jigong*
+- [[KR4k0162]] 1904 九命奇冤 Jiǔmìng Qíyuān *The Strange Injustice of Nine Lives*
+- [[KR4k0170]] 1904 老殘遊記 Lǎocán Yóujì *The Travels of Lao Can*
+- [[KR4k0241]] 1904 文明小史 Wénmíng Xiǎoshǐ *A Brief History of Civilization*
+- [[KR4k0155]] 1905 金屋夢 Jīnwū Mèng *Dream of the Golden Chamber*
+- [[KR4k0187]] 1905 娘子軍 Niángzǐ Jūn *The Women's Army*
+- [[KR4k0221]] 1905 掃迷帚 Sǎo Mí Zhǒu *The Broom That Sweeps Away Superstition*
+- [[KR4k0225]] 1905 獅子吼 Shīzi Hǒu *The Lion's Roar*
+- [[KR4k0245]] 1905 無恥奴 Wúchǐ Nú *Shameless Slaves (First Collection)*
+- [[KR4k0252]] 1905 西巡迴鑾始末 Xīxún Huíluán Shǐmò *A Complete Account of the Western Tour and the Return of the Imperial Carriage*
+- [[KR4k0258]] 1905 新茶花 Xīn Cháhuā *The New Camellia*
+- [[KR4k0089]] 1906 癡人說夢記 Chīrén Shuōmèng Jì *A Fool's Dream Record*
+- [[KR4k0107]] 1906 二十年目睹之怪現狀 Èrshí Nián Mùdǔ zhī Guài Xiànzhuàng *Strange Happenings Eyewitnessed over Twenty Years*
+- [[KR4k0130]] 1906 恨海 Hèn Hǎi *The Sea of Regret*
+- [[KR4k0168]] 1907 蘭花夢 Lánhuā Mèng *Dream of the Orchid Flower (Part One)*
+- [[KR4k0169]] 1907 蘭花夢奇傳 Lánhuā Mèng Qízhuàn *The Marvellous Tale of the Orchid Flower Dream*
+- [[KR4k0172]] 1907 冷眼觀 Lěngyǎn Guān *Observations with a Cold Eye*
+- [[KR4k0190]] 1907 女媧石 Nǚwā Shí *The Stone of Nüwa*
+- [[KR4k0146]] 1908 宦海 Huànhǎi *The Official Sea*
+- [[KR4k0164]] 1908 九尾龜 Jiǔwěi Guī *The Nine-Tailed Turtle*
+- [[KR4k0171]] 1908 老殘遊記續 Lǎocán Yóujì Xù *The Travels of Lao Can — Sequel*
+- [[KR4k0207]] 1908 情變 Qíng Biàn *Vicissitudes of Passion*
+- [[KR4k0259]] 1908 新紀元 Xīn Jìyuán *The New Era*
+- [[KR4k0327]] 1908 新西游記 Xīn Xīyóu Jì *A New Journey to the West*
+- [[KR4k0293]] 1909 最新女界鬼域記 Zuìxīn Nǚjiè Guǐyù Jì *A Latest Record of the Ghost Realm of Women*
+- [[KR4k0148]] 1910 宦海升沉錄 Huànhǎi Shēngchén Lù *Record of Rise and Fall in the Official Sea*
+- [[KR4k0157]] 1910 近世社會齷齪史 Jìnshì Shèhuì Wòchuò Shǐ *A History of the Sordid Society of Recent Times*
+- [[KR4k0165]] 1910 康雍乾間文字之獄 Kāng-Yōng-Qián Jiān Wénzì Zhī Yù *Literary Inquisitions of the Kangxi, Yongzheng, and Qianlong Reigns*
+- [[KR4k0205]] 1910 清代野記 Qīngdài Yějì *Unofficial Records of the Qing Dynasty*
+- [[KR4k0276]] 1910 英雄淚 Yīngxióng Lèi *The Hero's Tears*
+- [[KR4k0090]] 1911 春阿氏謀夫案 Chūn Āshì Móu Fū Àn *The Case of Chun'a Plotting Against Her Husband*
+- [[KR4k0103]] 1912 斷鴻零雁記 Duàn Hóng Líng Yàn Jì *Record of the Lone Wild Goose Parted from Its Flock*
+- [[KR4k0203]] 1912 清宮禁二年記 Qīng Gōngjìn Èr Nián Jì *Two Years in the Forbidden City*
+- [[KR4k0234]] 1912 太平天國戰記 Tàipíng Tiānguó Zhànjì *A Chronicle of the Taiping Heavenly Kingdom Wars*
+- [[KR4k0239]] 1912 外交小史 Wàijiāo Xiǎoshǐ *A Short History of Diplomacy*
+- [[KR4k0277]] 1912 玉梨魂 Yù Lí Hún *Soul of the Jade Pear*
+- [[KR4k0161]] 1913 金陵秋 Jīnlíng Qiū *Autumn in Jinling*
+- [[KR4k0180]] 1913 滿清外史 Mǎnqīng Wàishǐ *Unofficial History of the Manchu Qing*
+- [[KR4k0265]] 1915 雪鴻淚史 Xuě Hóng Lèi Shǐ *Tearful History of the Snow Swan*
+- [[KR4k0268]] 1915 楊乃武與小白菜 Yáng Nǎiwǔ yǔ Xiǎo Báicài *Yang Naiwu and Little Cabbage*
+- [[KR4k0296]] 1915 留東外史 Liú Dōng Wàishǐ *An Unofficial History of Sojourners in Japan (Parts 1–2)*
+- [[KR4k0211]] 1916 如此京華 Rúcǐ Jīnghuá *Such Is the Capital*
+- [[KR4k0188]] 1917 孽海花 Nièhǎi Huā *A Flower in a Sea of Retribution*
+- [[KR4k0301]] 1917 大清三傑 Dàqīng Sānjié *Three Heroes of the Great Qing*
+- [[KR4k0302]] 1917 古今情海 Gǔjīn Qínghǎi *The Sea of Love Through the Ages*
+- [[KR4k0308]] 1917 秦朝野史 Qíncháo Yěshǐ *Unofficial History of the Qin Dynasty*
+- [[KR4k0220]] 1919 三俠劍 Sān Xiá Jiàn *Three Chivalrous Swords*
+- [[KR4k0297]] 1919 留東外史 Liú Dōng Wàishǐ *An Unofficial History of Sojourners in Japan (Part 3)*
+- [[KR4k0315]] 1920 上古秘史 Shànggǔ Mìshǐ *Secret History of High Antiquity*
+- [[KR4k0325]] 1920 西漢野史 Xī Hàn Yěshǐ *Unofficial History of the Western Han*
+- [[KR4k0286]] 1923 張文祥刺馬案 Zhāng Wénxiáng Cì Mǎ Àn *The Case of Zhang Wenxiang's Assassination of Ma Xinyi*
+- [[KR4k0287]] 1923 張文祥刺馬案 Zhāng Wénxiáng Cì Mǎ Àn *The Case of Zhang Wenxiang's Assassination of Ma Xinyi*
+- [[KR4k0294]] 1923 貴妃豔史演義 Guìfēi Yànshǐ Yǎnyì *A Romanticized History of the Imperial Consort*
+- [[KR4k0298]] 1923 西施豔史演義 Xī Shī Yànshǐ Yǎnyì *A Romanticized History of Xi Shi*
+- [[KR4k0299]] 1923 昭君豔史演義 Zhāojūn Yànshǐ Yǎnyì *A Romanticized History of Wang Zhaojun*
+- [[KR4k0300]] 1923 慈禧後私生活實錄 Cíxī Hòu Sīshēnghuó Shílù *A True Record of the Private Life of Empress Dowager Cixi*
+- [[KR4k0303]] 1923 洪憲宮闈豔史演義 Hóngxiàn Gōngwéi Yànshǐ Yǎnyì *An Illustrated History of the Scandalous Palace Life of the Hongxian Era*
+- [[KR4k0304]] 1923 滿清興亡史 Mǎnqīng Xīngwáng Shǐ *History of the Rise and Fall of the Manchu Qing*
+- [[KR4k0306]] 1923 奴才小史 Núcái Xiǎoshǐ *A Brief History of Servility*
+- [[KR4k0307]] 1923 乾隆休妻 Qiánlóng Xiū Qī *The Qianlong Emperor Divorces His Wife*
+- [[KR4k0310]] 1923 清代宮廷豔史 Qīngdài Gōngtíng Yànshǐ *Scandalous History of the Qing Imperial Court*
+- [[KR4k0314]] 1923 漢代宮廷豔史 Hàndài Gōngtíng Yànshǐ *Scandalous History of the Han Imperial Court*
+- [[KR4k0317]] 1923 順治出家 Shùnzhì Chūjiā *The Shunzhi Emperor Enters the Monkhood*
+- [[KR4k0322]] 1923 唐代宮廷豔史 Tángdài Gōngtíng Yànshǐ *Scandalous History of the Tang Imperial Court*
+- [[KR4k0323]] 1923 同治嫖院 Tóngzhì Piāoyuàn *The Tongzhi Emperor Visits the Brothels*
+- [[KR4k0329]] 1923 元代宮廷豔史 Yuándài Gōngtíng Yànshǐ *Scandalous History of the Yuan Imperial Court*
+- [[KR4k0313]] 1925 清朝前紀 Qīngcháo Qiánjì *Records of the Pre-Dynastic Qing*
+- [[KR4k0309]] 1926 清宮怨 Qīnggōng Yuàn *Lament of the Qing Palace*
+- [[KR4k0311]] 1926 清朝三百年豔史演義 Qīngcháo Sānbǎinián Yànshǐ Yǎnyì *Romance of the Three-Hundred-Year Scandalous History of the Qing Dynasty*
+- [[KR4k0312]] 1926 清朝秘史 Qīngcháo Mìshǐ *Secret History of the Qing Dynasty*
+- [[KR4k0318]] 1926 宋代宮闈史 Sòngdài Gōngwéi Shǐ *History of the Song Dynasty Inner Palace*
+- [[KR4k0319]] 1926 宋代十八朝宮廷豔史 Sòngdài Shíbā Cháo Gōngtíng Yànshǐ *Scandalous History of the Eighteen Reigns of the Song Imperial Court*
+- [[KR4k0320]] 1926 宋代十八朝宮廷豔史 Sòngdài Shíbā Cháo Gōngtíng Yànshǐ *Scandalous History of the Eighteen Reigns of the Song Imperial Court (Part 1)*
+- [[KR4k0321]] 1926 隋代宮闈史 Suídài Gōngwéi Shǐ *History of the Sui Dynasty Inner Palace*
+- [[KR4k0324]] 1926 武宗逸史 Wǔzōng Yìshǐ *Unofficial History of the Zhengde Emperor*
+- [[KR4k0326]] 1926 西太后豔史演義 Xī Tàihòu Yànshǐ Yǎnyì *Romance of the Scandalous History of the Western Empress Dowager*
+- [[KR4k0330]] 1926 元代野史 Yuándài Yěshǐ *Unofficial History of the Yuan Dynasty*
+- [[KR4k0295]] 1930 梁山伯與祝英台 Liáng Shānbó yǔ Zhù Yīngtái *Liang Shanbo and Zhu Yingtai (The Butterfly Lovers)*
+- [[KR4k0305]] 1930 民國野史 Mínguó Yěshǐ *Unofficial History of the Republic*
+- [[KR4k0328]] 1938 雍正劍俠圖 Yōngzhèng Jiànxiá Tú *Swordsmen of the Yongzheng Court*
+- [[KR4h0177]] 1974 先秦漢魏晉南北朝詩 Xiān-Qín Hàn Wèi Jìn Nánběicháo Shī *Poetry from Pre-Qin through the Northern and Southern Dynasties*
+
+### KR6 (16)
+
+- [[KR6c0210]] 1900 仁王經疏會本 Rénwáng jīng shū huìběn *Combined-Edition of the Subcommentary on the Rénwáng-jīng*
+- [[KR6e0125]] 1905 華嚴經綱目貫攝 Huáyán jīng gāng mù guàn shè *Through-Threading and Outlining of the Huáyán Scripture*
+- [[KR6e0126]] 1905 華嚴經三十九品大意 Huáyán jīng sānshí jiǔ pǐn dà yì *The Main Idea of the Thirty-Nine Chapters of the Huáyán Scripture*
+- [[KR6r0048]] 1908 玄奘三藏師資傳叢書 Xuánzàng sānzàng shīzī zhuàn cóngshū *Collected Biographical Sources on the Tripiṭaka-Master Xuánzàng and His Disciples*
+- [[KR6i0554]] 1911 圓覺經佚文 Yuánjué jīng yìwén *Lost Text of the Sūtra of Perfect Enlightenment*
+- [[KR6r0168]] 1915 冥報記輯書 Míngbào jì jíshū **
+- [[KR6v0029]] 1949 瑜伽師地論披尋記敘 Yújiā shī dì lùn pī xún jì xù *Preface to the* Yogācārabhūmi *Detailed Search-Record*
+- [[KR6v0022]] 1992 關於《禪藏》與敦煌禪籍的若干問題 Guānyú Chánzàng yǔ Dūnhuáng chánjí de ruògān wèntí *Some Questions Concerning the* Chánzàng *and the Dūnhuáng Chán Manuscripts*
+- [[KR6v0043]] 1995 金藏新資料考 Jīnzàng xīn zīliào kǎo *An Investigation of New Materials Concerning the Jin Canon*
+- [[KR6v0085]] 1997 寧夏西夏方塔出土漢文佛典敘錄 Níngxià XīXià fāngtǎ chūtǔ Hànwén fódiǎn xùlù *A Descriptive Catalogue of the Chinese-Language Buddhist Texts Excavated from a Western-Xià Square Pagoda in Níngxià*
+- [[KR6v0056]] 1998 傳善無畏所譯三部密教儀軌出處及年代考 Chuán Shànwúwèi suǒyì sānbù mìjiào yíguǐ chūchù jí niándài kǎo *A Study of the Provenance and Date of Three Esoteric Ritual Manuals Attributed to Śubhakarasiṃha*
+- [[KR6v0062]] 1998 天台教典入藏考 Tiāntái jiàodiǎn rùzàng kǎo *A Study of the Canonization of the Tiāntái Corpus*
+- [[KR6v0069]] 1998 雲南阿吒力教經典及其在中國佛教研究中的價值 Yúnnán Āzhālìjiào jīngdiǎn jí qí zài Zhōngguó fójiào yánjiū zhōng de jiàzhí *The Scriptures of the Yúnnán Āzhālì School and Their Value for Chinese Buddhist Studies*
+- [[KR6v0086]] 1998 日本佛教目錄學的形成——以《東域傳燈錄》為中心 Rìběn fójiào mùlùxué de xíngchéng — yǐ Dōngyù chuándēnglù wéi zhōngxīn *The Formation of Japanese Buddhist Bibliography — Centered on the Tōiki dentō mokuroku*
+- [[KR6v0090]] 1998 敦煌寺院所藏大藏經概貌 Dūnhuáng sìyuàn suǒcáng dàzàngjīng gàimào *An Overview of the Buddhist Canon Held by Dūnhuáng Monasteries*
+- [[KR6v0091]] 1998 《慧琳音義》與唐代大藏經 Huìlín yīnyì yǔ Tángdài dàzàngjīng *The Yīn-yì of Huìlín and the Buddhist Canon of the Táng*
