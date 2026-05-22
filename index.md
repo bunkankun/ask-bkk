@@ -5,7 +5,7 @@ kanbun: 聞㆓分館君㆒
  
 # Annotated catalog for the Kanseki Repository and beyond
 
-The resource offered here is the result of instructing an AI agent to write cataloging notes for the texts, to be used in revising Kanseki Repository and preparing a new version.  The agent was nick-named **[[Meta/Bunkankun|Bunkankun]]** and this is used in the name of the site to remind users every time they visit that the information available here has to be read even more critical than usual, since such an agent can go off the rail at any time without warning. [[Meta/Making-Of||Some Information about the making of the catalog]].  **Ask Bunkankun** is not a Chat interface, but rather has precooked answers to questions about the texts users might have, even if they don't know it yet.  
+The resource offered here is the result of instructing an AI agent to write cataloging notes for the texts, to be used in revising Kanseki Repository and preparing a new version.  The agent was nick-named **[[Meta/Bunkankun|Bunkankun]]** and this is used in the name of the site to remind users every time they visit that the information available here has to be read even more critical than usual, since such an agent can go off the rail at any time without warning. [[Meta/Making-Of|Some Information about the making of the catalog]].  **Ask Bunkankun** is not a Chat interface, but rather has precooked answers to questions about the texts users might have, even if they don't know it yet.  
 
 ## Contents
 Overview of the Kanseki Repository Knowledgebase.
