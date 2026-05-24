@@ -76,6 +76,7 @@ by {persons}
 -- Research the text and write a concise English summary. Anchor claims in evidence: prefaces, postfaces, colophons within the text first; then bibliographic catalogs (《漢書·藝文志》, 《隋書·經籍志》, 《崇文總目》, 《經義考》…); then modern reference works. Mark uncertainty explicitly. Note catalog-vs-external date discrepancies when correcting them. Note pseudepigraphy, recompilation, fragmentary transmission where relevant.
 
 ## Translations and research
+<span style="color: red;">Reminder: <b>AI generated list</b> - beware of hallucinations. Corrections and additions welcome</span>
 -- Translations (usually none in English for most texts). Substantial secondary studies only — monographs, critical editions, peer-reviewed articles. Skip casual mentions. If nothing is located, write `*No substantial secondary literature located.*`.
 
 ## Other points of interest
